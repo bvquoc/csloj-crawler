@@ -29,6 +29,3 @@ Hay ta sẽ có dãy số như sau: ~33,39,51,57,69,84,96,111,114,120,123,129,14
 ```
 7
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

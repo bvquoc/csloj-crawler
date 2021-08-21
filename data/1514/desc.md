@@ -54,6 +54,3 @@ Một số nguyên dương ~d~ được gọi là ***số gần siêu đối x�
 - ~30\%~ số lượng test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~p=10^{k-1}, q=10^k - 1, 2≤k≤18~;
 - ~30\%~ số lượng test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~1 ≤p ≤q ≤10^{18}~;
 - ~20\%~ số lượng test còn lại ứng với ~20\%~ số điểm của bài thỏa mãn điều kiện: ~1 ≤p ≤q ≤10^{50000}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -35,6 +35,3 @@ Có nhiều cách gia cố hàng rào để đạt độ cao bằng ~5~.
 ## Giới hạn:
 - ~1≤n≤10^5; 1≤m≤10^5~;
 - ~1≤a_i≤10^8,1≤i≤n; 1≤b_j≤10^8,1≤j≤m~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

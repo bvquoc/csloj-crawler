@@ -26,6 +26,3 @@ Với số thực ~x~ và số nguyên dương ~n~, tính tổng:
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^3, |x| ≤ 5, 1 ≤ n ≤ 10^2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

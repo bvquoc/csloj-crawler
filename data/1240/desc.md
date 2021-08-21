@@ -53,6 +53,3 @@ Dân chúng sẽ hài lòng nếu Hải luôn có thể tính toán và cung c�
 3
 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

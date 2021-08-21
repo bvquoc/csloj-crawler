@@ -36,6 +36,3 @@ Hãy tái cấu trúc lại công ty sao cho tổng mức lương phải trả l
 - ~22\%~ số điểm có ~2≤n≤10;∑_{i=1}^n k_i ≤20~;
 - ~45\%~ số điểm khác có ~2≤n≤100;∑_{i=1}^n k_i ≤200~;
 - ~33\%~ số điểm còn lại có ~2≤n≤5 000;∑_{i=1}^n k_i ≤10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -39,6 +39,3 @@ Các số ~a_i,b_i~ với mọi ~i~ thỏa mãn điều kiện đã nêu. Hai s�
 - Có ~40\%~ số test khác ứng với ~40\%~ số điểm có ~n\le 5000~;
 - Có ~30\%~ số test khác ứng với ~30\%~ số điểm có ~n\le 10^4~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm có ~n\le 5\times 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

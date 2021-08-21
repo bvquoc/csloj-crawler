@@ -31,6 +31,3 @@ Một số nguyên không âm ~x~ được gọi là đẹp nếu như ~x~ chia 
 Trong tất cả các test, ~T ≤ 20~.
 - **Subtask** ~\#1~ ~(60\%): 0 ≤ L ≤ R ≤ 10^6~;
 - **Subtask** ~\#2~ ~(40\%): 0 ≤ L ≤ R ≤ 10^{12}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

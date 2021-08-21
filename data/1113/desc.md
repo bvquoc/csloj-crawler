@@ -35,6 +35,3 @@ Tuy nhiên, nếu lật ngược lại thì vẫn coi là khác nhau. Ví dụ n
 - ~\frac{2}{7}~ test có ~1 ≤ N, K ≤ 5, T = 1~.
 - ~\frac{2}{7}~ test có ~1 ≤ N, K ≤ 1000~.
 - ~\frac{3}{7}~ test không có ràng buộc gì thêm
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

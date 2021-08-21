@@ -53,6 +53,3 @@ vì ta chỉ lấy ~2~ đường đi có chi phí đắt nhất nên đáp số 
 
 - Subtask ~\#1: 30\%~ số điểm có ~N, M ≤ 20, K ≤ N~;
 - Subtask ~\#2: 70\%~ số điểm có ~N, M ≤ 3000, K ≤ N~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

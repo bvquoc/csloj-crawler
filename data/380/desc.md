@@ -28,6 +28,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 25; 1 ≤ S ≤ 30000; 1 ≤ t_i, d_i ≤ 10000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

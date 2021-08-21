@@ -25,6 +25,3 @@ Khi ~0 ≤ x_1, y_1, x_2, y_2 ≤ M~, có bao nhiêu tam giác vuông có thể 
 ```
 14
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

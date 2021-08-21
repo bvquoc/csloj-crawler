@@ -34,6 +34,3 @@ Cho một dãy gồm ~n~ số nguyên, tìm phần tử bé nhất và lớn nh�
 
 ## Giới hạn:
 - ~1≤n≤10^5,-10^9≤a_i≤10^9~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

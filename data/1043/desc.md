@@ -50,6 +50,3 @@ Có ~N~ cột liên tiếp nhau ~1,2,3,…,N~. Cột thứ ~i~ gồm ~h_i~ khố
 ```
 6
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

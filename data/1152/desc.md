@@ -34,7 +34,3 @@ trò quan trọng. Với tờ giấy hiện có, Steve muốn đóng quà vào h
 - Trong tất cả các test có ~n \le 10^{13}~
 - ~30\%~ số test có ~𝑛 ≤ 5000~
 - ~40\%~ số test khác có ~𝑛 ≤ 10^8~
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

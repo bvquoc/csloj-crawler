@@ -44,6 +44,3 @@ Bộ test đảm bảo luôn có thể bắt tàu đi từ ~1~ đến ~N~.
 - Subtask ~\#2: 30\%~ số điểm khác có ~n ≤ 1000, m ≤ 2000, A ≤ 20~;
 - Subtask ~\#3: 25\%~ số điểm khác có ~n ≤ 10^5, m ≤ 3 × 10^5, A = 0~;
 - Subtask ~\#4: 20\%~ số điểm còn lại có ~n ≤ 10^5, m ≤ 3 × 10^5, A ≤ 20~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

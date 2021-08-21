@@ -68,6 +68,3 @@ Tất nhiên ban tổ chức vẫn rất muốn rằng việc chọn lộ trình
 - Subtask ~\#1: 15\%~ số điểm có ~M ≤ 16~;
 - Subtask ~\#2: 35\%~ số điểm khác có ~M ≤ 5000~;
 - Subtask ~\#3: 50\%~ số điểm còn lại không có điều kiện gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

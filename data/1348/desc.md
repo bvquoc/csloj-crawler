@@ -39,6 +39,3 @@ Hai số liên tiếp trên cùng một dòng cách nhau bằng khoảng trống
 ## Giới hạn:
 - Subtask ~\#1: 50\%~ số điểm của bài có ~𝑛 ≤ 5000~;
 - Subtask ~\#2: 50\%~ số điểm còn lại của bài có ~𝑛 ≤ 50000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

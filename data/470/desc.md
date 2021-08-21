@@ -40,6 +40,3 @@ Bạn được cho biết số ~N~ là số chướng ngại vật, ~H~ là chi�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5; 1 ≤ H ≤ 5\times 10^5; 0< |l_i| ≤ H~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

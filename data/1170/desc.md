@@ -79,6 +79,3 @@ Nếu có nhiều đáp án tối ưu, bạn có thể in ra phương án
 
 - Trong ví dụ thứ hai, từ trường THPT chuyên Bắc Ninh (ga ~3~) không tới được bất kì ga nào khác. Do đó, Trà phải tổ chức đám cưới ở gần ga này.
     - Hành trình để đi tàu từ ga ~3~ tới ga ~3~ không chứa chuyến tàu nào, nhưng vẫn chứa ga ~3~, nên có tổng chi phí là ~𝑎_3 = −4~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

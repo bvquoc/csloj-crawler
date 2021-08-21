@@ -40,6 +40,3 @@ Các thí sinh Free Contest hãy viết chương trình tính số điểm tạo
 #### Giải thích
 - Hình dưới đây là kết quả của thuật toán trên sau vòng lặp thứ nhất và vòng lặp thứ hai. Các điểm được thêm vào ở mỗi vòng lặp được tô màu đen.
 <center><img src="/images/problems/631/SQUARE.png" width=520px></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

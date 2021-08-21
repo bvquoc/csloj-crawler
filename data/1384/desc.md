@@ -33,6 +33,3 @@ B 3
 ## Giới hạn:
 - ~30\%~ số điểm có ~n≤10~;
 - ~30\%~ số điểm khác chỉ có một khối thi.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

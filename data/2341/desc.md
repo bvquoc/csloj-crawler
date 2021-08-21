@@ -61,6 +61,3 @@ Trong cuộc thi tuyển sinh, có ~N~ bạn tham gia. Ban tổ chức đã quy�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^6; 1 ≤ A_i ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

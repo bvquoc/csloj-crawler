@@ -26,6 +26,3 @@ Cho một thùng nước và hai gáo nước có dung tích lần lượt là ~
 #### Giải thích:
 - Test case ~\#1:~ Dùng giáo ~24~ múc vào ~2~ lần và dùng gáo ~15~ đổ ra ~3~ lần;
 - Test case ~\#2:~ Dùng gáo ~27~ múc vào ~4~ lần và dùng gáo ~100~ múc ra ~1~ lần.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

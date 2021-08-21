@@ -29,6 +29,3 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 
 ## Giới hạn:
 - ~1≤n, q≤10^5; 1≤l_i≤r_i≤n;|a_i|≤10^9;|d_i|≤10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

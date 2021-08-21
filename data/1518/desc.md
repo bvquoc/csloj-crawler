@@ -42,6 +42,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - Bước ~2~: Alice loại thẻ cuối hàng có giá trị ~2~;
 - Bước ~3~: Alice chọn một thẻ đầu hàng và một thẻ cuối hàng có giá trị là ~1~ và ~10~ và nhận được số tiền thưởng là ~|10-1|=9~;
 Tổng tiền thưởng Alice nhận được là ~3+9=12~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -41,6 +41,3 @@ Các cầu thủ vốn rất thông minh và tìm ra cách đi để đạt đư
 
 #### Giải thích:
 - Trong ví dụ thứ nhất, chiếm ô ~(3,3)~. Trong ví dụ thứ hai, chiếm ô ~(2,3)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

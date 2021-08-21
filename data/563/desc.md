@@ -32,6 +32,3 @@ Cho biết cái túi đựng được tối đa là ~M~ kg vàng và trên đả
 - ~40\%~ số test (ứng với ~40\%~ số điểm của bài) có ~1 ≤ N ≤ 10~;
 - ~40\%~ số test khác (ứng với ~40\%~ số điểm của bài) có ~10 < N ≤ 20~;
 - ~20\%~ số test còn lại (ứng với ~20\%~ số điểm của bài) có ~20 < N ≤ 40~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

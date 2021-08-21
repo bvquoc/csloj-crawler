@@ -31,6 +31,3 @@ Kết thúc đường chạy, Bessie cần đảm bảo thể lực của cô v�
 
 #### Giải thích:
 - Bessie sẽ chạy ở phút ~1~, nghỉ ở phút ~2~, chạy tiếp ở phút ~3~, nghỉ ở phút ~4~ và ~5~ và độ dài chạy được là ~5 + 4 = 9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

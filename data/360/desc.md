@@ -33,6 +33,3 @@ Thank    you    very    much
 - ~40\%~ số test (tương ứng với ~40\%~ số điểm của bài toán) có dữ liệu vào là xâu có không quá ~255~ ký tự và các từ được phân cách nhau bởi duy nhất một dấu cách;
 - ~40\%~ số test khác (tương ứng với ~40\%~ số điểm của bài toán) có dữ liệu vào là xâu có không quá ~255~ ký tự và các từ được phân cách nhau bởi ít nhất một dấu cách;
 - ~20\%~ số test còn lại (tương ứng với ~20\%~ số điểm của bài toán) có dữ liệu vào là xâu có không quá ~10^5~ ký tự và các từ được phân cách nhau bởi ít nhất một dấu cách.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

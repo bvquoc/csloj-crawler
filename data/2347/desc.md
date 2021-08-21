@@ -54,6 +54,3 @@ Không những thế, Tâm còn hỏi có bao nhiêu cách để tạo ra đư�
 
 ## Giới hạn:
 - ~3 ≤ N ≤ 10^5, 1 ≤ d_i ≤ 9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

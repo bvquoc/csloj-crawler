@@ -44,6 +44,3 @@ Gồm nhiều bộ test, mỗi bộ test là một nhóm dòng:
 
 ## Chú ý cách chấm bài:
 - Kết quả của bạn sẽ được chấm theo tỉ lệ phần trăm số test đúng trên tổng số test.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ Dòng đầu tiên chứa ~T~ ~(1 ≤ T ≤ 10^4)~ tương ứng với số bộ
 Dữ liệu đầu vào đảm bảo tọa độ không vượt quá ~|10^9|~, hai điểm ~B~ và ~C~ không trùng nhau.
 - **Subtask** ~\#1~ ~(50\%):~ Dữ liệu đảm bảo ~z_A = 0, z_B = 0, z_C = 0~.
 - **Subtask** ~\#2~ ~(50\%):~ Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

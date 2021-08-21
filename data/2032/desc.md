@@ -39,6 +39,3 @@ BWWWWB
 - Trong ván ~3~, Trắng di chuyển đến ~(0,-1)~;
 - Trong ván ~4~, Trắng di chuyển đến ~(0,0)~;
 - Trong ván ~5~, Trắng di chuyển đến ~(-1,0)~;
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -42,6 +42,3 @@ Sau một đêm cày game, Thắng vô cùng mệt mỏi và không thể tập 
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~20<|S|≤100~;
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~100<|S|≤400~;
 - Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~400<|S|≤5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

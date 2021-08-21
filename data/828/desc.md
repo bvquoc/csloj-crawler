@@ -26,6 +26,3 @@ Cho dãy gồm ~L~ số ~C[1..L]~, cần chia dãy này thành ~G~ đoạn liên
 
 #### Giải thích:
 - Cách tối ưu là ~C[]=(11,11,11), (24,26), (100)~, chi phí là ~11\times 3 + 11\times 3 + 11\times 3 + 24\times 2 + 26\times 2 + 100\times 1=299~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

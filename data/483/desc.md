@@ -32,6 +32,3 @@ Hãy tìm độ dài quãng đường lớn nhất mà Hưng có thể chạy tr
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5; 1 ≤ M ≤ 500~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

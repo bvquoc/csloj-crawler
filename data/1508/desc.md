@@ -44,6 +44,3 @@ Hình vẽ trên mô tả trạng thái bắt đầu trò chơi, trong đó hai 
 - **Subtask** ~\#2~ ~(25\% \text{ số điểm}): a=b=c;m,n\le100~;
 - **Subtask** ~\#3~ ~(25\% \text{ số điểm}): m, n\le100~;
 - **Subtask** ~\#4~ ~(25\% \text{ số điểm}): m, n\le 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

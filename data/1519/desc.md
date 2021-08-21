@@ -46,6 +46,3 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách. Dữ li�
 <center><img src = "/images/problems/1519/bus.png" width=500px></center>
 
 - Để đi từ ~1~ đến ~4~, Alice sẽ lần lượt đi tuyến ~(1, 2)~ của công ty ~A~ và hai tuyến ~2, 5), (5, 4)~ của công ty ~B~. Khi đó số tiền mà Alice phải trả cho công ty ~A~ là ~4~ và trả cho công ty ~B~ là ~8~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

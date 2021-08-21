@@ -29,6 +29,3 @@ Nhập vào số nguyên dương ~ a ~, ghi ra chính số ~ a ~.- Dòng đầu 
 - Subtask ~\#3~: ~70\#~ số test còn lại không có ràng buộc gì thêm.
 
 **Lưu ý:** Dữ liệu được nhập từ tệp và xuất ra tệp.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

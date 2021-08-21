@@ -23,6 +23,3 @@ Abcd12
 
 ## Giới hạn:
 - Độ dài xâu mã hóa không quá ~10^5~ ký tự trong đó có chứa ít nhất một chữ cái la-tinh và ít nhất một chữ số khác ~0~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

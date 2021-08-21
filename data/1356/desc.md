@@ -46,6 +46,3 @@ Cho ~N~ thùng nước đặt liên tiếp nhau, được đánh số từ ~1~ �
 
 #### Giải thích:
 - Hai kết quả là ~0.6667~ và ~3.3333~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

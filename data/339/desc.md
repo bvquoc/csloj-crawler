@@ -30,6 +30,3 @@ Với một số lượng que diêm cho trước, hãy xác định số nhỏ n
 
 ## Giới hạn:
 - ~1≤T≤38,2≤n≤39~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

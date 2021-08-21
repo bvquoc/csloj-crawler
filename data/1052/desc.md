@@ -30,6 +30,3 @@ Trong một đợt đi du lịch ở Đà Nẵng, sáng sớm DONG3D thường �
 - ~40\%~ số điểm ứng với các test có ~𝑛 ≤ 20~ 
 - ~30\%~ số điểm ứng với các test có  ~n~ thỏa mãn ~20 ≤ 𝑛 ≤ 1000~
 - ~30\%~ số điểm ứng với các test có ~n~ thỏa mãn ~1000 ≤ 𝑛 ≤ 10^5~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

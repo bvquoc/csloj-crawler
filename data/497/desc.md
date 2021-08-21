@@ -35,6 +35,3 @@ Công ty ABC chuyên thu thập thông tin về những người nổi tiếng. 
 
 ## Giới hạn:
 - ~1 ≤ n, m, k ≤ 10^5; k ≤ n; 1 ≤ u, v ≤ n; u ≠ v~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -31,6 +31,3 @@ Hãy tìm giá trị lớn nhất này.
 
 #### Giải thích:
 - Nông dân John có thể đặt các con bò vào các vị trí ~1, 4~ và ~8~, khi đó, khoảng cách bé nhất giữa hai con bò bất kì là ~3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

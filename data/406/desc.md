@@ -18,6 +18,3 @@ Cho hai số nguyên dương ~a~ và ~n~. Tính ~a^n~.
 ```
 ## Giới hạn:
 - ~1 ≤ a ≤ 10^9; 1 ≤ n ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

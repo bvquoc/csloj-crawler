@@ -41,6 +41,3 @@ Nhiệm vụ của bạn là giúp công ty BETA tìm ~2~ tuyến đường đ�
 ```
 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -38,6 +38,3 @@ Viết một chương trình mà xác định số thứ ~n~ (bắt đầu đán
 ## Giới hạn
 - Đối với ~20\%~ tổng số test có ~n ≤ 200~ và ~X~ có ít hơn ~9~ chữ số;
 - Đối với các test còn lại ~200 ≤ n ≤ 3×10^{11}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

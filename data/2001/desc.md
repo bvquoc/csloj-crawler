@@ -27,6 +27,3 @@ Do lượng công việc quá lớn, nên anh có thể bỏ qua một số côn
 
 #### Giải thích:
 - John không thể hoàn thành được cả ~3~ công việc, nên anh sẽ chọn làm công việc ~3~ rồi đến công việc ~1~. Tổng lợi nhuận sẽ là ~7 + 10 = 17~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -32,6 +32,3 @@ Tất cả ~n~ người đều đi bộ ~T~ phút. Hỏi rằng ở thời đi�
 ## Giới hạn:
 - **Subtask** ~\#1~: ~(50\% \text { số điểm}) \ n≤5000~
 - **Subtask** ~\#2~: ~(50\%\text { số điểm})\ n≤10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

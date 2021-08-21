@@ -31,6 +31,3 @@ g
 - ~20\%~ số test khác ứng với ~20\%~ số điểm có độ dài các xâu không vượt quá ~1000~;
 - ~20\%~ số test khác ứng với ~20\%~ số điểm có độ dài các xâu không vượt quá ~5000~;
 - ~50\%~ số test còn lại không có giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

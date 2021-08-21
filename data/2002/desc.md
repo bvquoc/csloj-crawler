@@ -39,6 +39,3 @@ The input consists of multiple test cases.
 ```
 6 2 0 8
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

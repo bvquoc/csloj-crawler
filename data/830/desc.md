@@ -39,6 +39,3 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách.
 - Có ~10\%~ số lượng test thỏa mãn điều kiện: ~n≤20, i≤10^{15}~;
 - Có ~10\%~ số lượng test thỏa mãn điều kiện: ~n≤10^3, i≤10^{15}~;
 - Có ~20\%~ số lượng test còn lại thỏa mãn điều kiện: ~n≤10^6, i≤10^{15}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

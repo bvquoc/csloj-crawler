@@ -52,6 +52,3 @@ Case #3: 0
 ## Giới hạn:
 - Số lượng bộ test trong dữ liệu đầu vào không vượt quá ~40~;
 - ~2 ≤ N ≤ 8, 0 ≤ P_i ≤ 3 × (N − 1)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

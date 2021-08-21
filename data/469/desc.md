@@ -28,6 +28,3 @@ An là một thành viên ở đội Rạng Đông. An đếm được mình đ�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 5000; 1 ≤ M ≤ 10; 1 ≤ d_i ≤ 20~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -33,6 +33,3 @@ Xét dãy xâu ~F_0, F_1, F_2, \dots,~ được xây dựng theo quy tắc sau:
 1
 3
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -32,6 +32,3 @@ Cho một dãy gồm ~n~ số nguyên ~a_1, a_2, …, a_n~, đếm số cặp s�
 
 ## Giới hạn:
 - ~1≤n≤10^5,1≤a_i≤10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

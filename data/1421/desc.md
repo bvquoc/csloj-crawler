@@ -28,6 +28,3 @@ Một lượt chơi của chú cá vạch ra một quãng đường hợp lệ n
 #### Giải thích:
 - Cách chơi của chú cá là chọn hoán vị ~(4,1,3,2)~ như hình vẽ:
 <center><img src="TURTLE.svg" width="300px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

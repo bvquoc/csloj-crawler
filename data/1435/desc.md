@@ -31,6 +31,3 @@ Cho biết giá trị của ~D~ và vị trí các giọt nước mưa. Hãy xá
 
 #### Giải thích:
 - Chiều rộng nhỏ nhất là ~2~ và đặt tại toạ độ ~x~ từ ~4~ đến ~6~. Khi đó chậu hứng được hai giọt ~\#1~ và ~\#3~. Chênh lệch thời gian là ~10-3=7 > 5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

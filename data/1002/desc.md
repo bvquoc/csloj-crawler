@@ -35,6 +35,3 @@ Một nhóm nhân viên khai mỏ có dự định tiến vào một hầm mỏ 
 - ~30\%~ số test khác có ~n ≤ 200~
 - ~40\%~ số test khác có ~n ≤ 2000~
 - ~10\%~ số test còn lại không có ràng buộc gì thêm
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

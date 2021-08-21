@@ -40,6 +40,3 @@ Người ta muốn xây rào quây một hình chữ nhật thỏa mãn:
 ```
 
 **Chú ý:** Dữ liệu đảm bảo có ít nhất một ô gà.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

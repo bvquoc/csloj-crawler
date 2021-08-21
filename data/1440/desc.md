@@ -35,6 +35,3 @@ Tổng các số ~𝑛~ trong toàn bộ ~𝑇~ test không vượt quá ~2\time
 #### Giải thích:
 - Test ~1: 2 + 1 + 1 + 4 + 6 = 14 ≥ 12~;
 - Test ~2: 2 + 2 + 4 + 4 + 4 + 4 = 20 ≥ 20~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

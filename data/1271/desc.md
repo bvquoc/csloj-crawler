@@ -44,6 +44,3 @@ Hãy đếm số cách Bob có thể chọn khu vực để xây nhà.
 ## Giới hạn:
 - ~20\%~ có ~N,M≤50~;
 - ~40\%~ có ~N,M≤500~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

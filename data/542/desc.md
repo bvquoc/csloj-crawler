@@ -42,6 +42,3 @@ Cho một đồ thị gồm ~N~ đỉnh được đánh số từ ~1~ đến ~N~
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10000; 0 ≤ P ≤ 50000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

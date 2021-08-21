@@ -40,6 +40,3 @@ Cho hai dãy số nguyên ~a_1, a_2,…,a_n~ và ~b_1, b_2,…,b_m~. Dãy ~c_1, 
 - ~25\%~ tổng số điểm tiếp theo có ~1≤n≤1000,1≤m≤20~;
 - ~25\%~ tổng số điểm tiếp theo có ~1≤n,m≤500~;
 - ~25\%~ tổng số điểm còn lại có ~1≤n,m≤10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

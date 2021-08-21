@@ -38,6 +38,3 @@ Cho ~M~ truy vấn, mỗi truy vấn thuộc một trong hai loại sau:
 
 ## Giới hạn:
 - ~1 ≤ N, M ≤ 10^5; 1 ≤ i ≤ j ≤ N~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

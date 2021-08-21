@@ -28,6 +28,3 @@ Vua Hùng rất muốn biết độ đoàn kết của đất nước Văn Lang 
 - Có ~10\%~ số test ứng với ~10\%~ số điểm của bài có ~1 ≤ n ≤ 1000, 0 ≤ a_i ≤ 10^7~
 - Có ~10\%~ số test ứng với ~10\%~ số điểm của bài có ~1 ≤ n ≤ 10^5, 0 ≤ a_i ≤ 1~ 
 - Có ~40\%~ số test ứng với ~40\%~ số điểm của bài có ~1 ≤ n ≤ 10^5, 0 ≤ a_i ≤ 10^7~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

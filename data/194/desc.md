@@ -31,6 +31,3 @@ NO
 	- Bước ~4: a=0,b=2~;
 	- Bước ~5: a=5,b=2~;
 	- Bước ~6: a=4,b=3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

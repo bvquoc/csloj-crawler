@@ -27,6 +27,3 @@ Hãy tính số điểm lớn nhất có thể đạt được từ một lượ
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^6, 1 ≤ a_i ≤ 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

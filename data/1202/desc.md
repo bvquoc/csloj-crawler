@@ -25,6 +25,3 @@ Hai cây khác nhau nếu khác nhau về cấu trúc, giá trị hoặc thứ t
 
 #### Giải thích:
 <center><img src="/images/problems/1202/ctree.png" width="600px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

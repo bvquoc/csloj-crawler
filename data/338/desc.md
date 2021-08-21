@@ -22,6 +22,3 @@ Cho hai số nguyên dương ~l, r~, đếm xem có bao nhiêu số đẹp trong
 
 ## Giới hạn:
 Có không quá ~10^4~ dòng (tests), ~1≤l≤r≤10^9,r-l≤10^4~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

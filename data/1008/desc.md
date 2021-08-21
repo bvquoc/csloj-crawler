@@ -39,6 +39,3 @@ Ngày kỷ niệm đang cận kề, mà ngài thị trưởng thì lại đang q
 - ~1 ≤ T ≤ 200, 1 ≤ N ≤ 1000~
 - ~50\%~ số lượng test có ~0 ≤ M ≤ 100~ và ~0 ≤ X_i ≤ 100~
 - ~50\%~ số lượng test còn lại có ~0 ≤ M ≤ 10^{15}~ và ~0 ≤ X_i ≤ 10^{15}~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

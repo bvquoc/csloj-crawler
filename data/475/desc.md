@@ -46,6 +46,3 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 
 #### Giới hạn:
 - ~1 ≤ n, Q ≤ 50000; |a_i| ≤ 42000; 1 ≤ X_i ≤ Y_i ≤ n~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

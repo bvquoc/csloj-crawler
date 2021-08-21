@@ -72,6 +72,3 @@ Với câu hỏi ~b~, dữ liệu đảm bảo có thể bay từ ~1~ đến ~N~
 ## Giới hạn:
 - Câu hỏi ~a~ ứng với ~p=1~ được ~20\%~ số điểm của bài toán
 - Câu hỏi ~b~ ứng với ~p=2~ được 80% số điểm của bài toán.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

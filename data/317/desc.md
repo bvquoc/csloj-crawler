@@ -25,6 +25,3 @@ Với số thực ~x~ và số nguyên dương ~n~, tính tổng: ~S_n = x + x^2
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^5, |x| ≤ 10, 1 ≤ n ≤ 10^5~, kết quả đảm bảo biểu diễn được bởi kiểu **double**
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

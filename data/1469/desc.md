@@ -42,6 +42,3 @@ Hãy viết một chương trình đếm xem có bao nhiêu quân cờ domino kh
 - Subtask ~\#1: 45\%~ số điểm có ~1 ≤ N, M ≤ 5~;
 - Subtask ~\#2: 25\%~ số điểm khác có ~N = M = 9~, và tối đa có ~2~ quân domino có thể di chuyển;
 - Subtask ~\#3: 30\%~ số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -17,6 +17,3 @@ abs(x - 7) == 4
 - Với ngôn ngữ `Python~ thì ~a ** a~ là ~a^b~
 - Giá trị của `pi` lẫy gần đúng bằng ~3.141592653589793~
 - Bạn tải [Tệp đính kèm](/problem/5/download/additional_file) về, trong đó có các tệp tương ứng với dữ liệu vào.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

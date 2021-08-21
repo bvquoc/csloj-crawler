@@ -32,6 +32,3 @@ Nếu có nhiều dãy con tốt nhất, hãy in ra dãy con có thứ tự từ
 - ~n ≤ 10^5; −10^9 ≤ a_i ≤ 10^9~;
 - ~30\%~ test với ~n ≤ 20~;
 - ~30\%~ test với ~20 < n ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -62,6 +62,3 @@ Hình vẽ dưới đây cho một ví dụ về bài toán này.
 0 0 0 4 8
 0 2 0 5 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

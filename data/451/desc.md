@@ -31,6 +31,3 @@ Có ~n~ căn nhà cần sơn. Căn nhà ~i~ được sơn bằng một trong ~3~
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5, 1 ≤ a_{i_1}, a_{i_2}, a_{i_3} ≤ 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

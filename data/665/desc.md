@@ -23,6 +23,3 @@ Cho một dãy gồm ~N~ số nguyên dương được đánh số từ ~1~. B�
 
 ## Giới hạn:
 - ~0 \leq N \leq 10^5~; Các số có giá trị tuyệt đối không quá ~10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

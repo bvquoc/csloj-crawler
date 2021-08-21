@@ -20,6 +20,3 @@ Ví dụ có ~𝑚 = 12~ ông táo và ~𝑛 = 7~ bà táo, có ~𝑘 = 5~ táo 
 ```
 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

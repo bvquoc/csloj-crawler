@@ -45,6 +45,3 @@ Việc mở đường tắt theo phương án ~a~), độ dài đường tuần 
 - ~30\%~ số test có K = 1. 
 - ~80\%~ số test, mỗi làng có số đường trực tiếp tối đa ~25~. 
 - ~90\%~ số test, mỗi làng có số đường trực tiếp tối đa ~150~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

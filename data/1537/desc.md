@@ -38,6 +38,3 @@ Gồm một dòng chứa một số nguyên là số bước ít nhất giúp Ng
 - Subtask ~\#2: 30\%~ số điểm khác có ~n ≤ 30~;
 - Subtask ~\#3: 20\%~ số điểm khác có ~n ≤ 3000~;
 - Subtask ~\#4: 30\%~ số điểm còn lại có ~n ≤ 300000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

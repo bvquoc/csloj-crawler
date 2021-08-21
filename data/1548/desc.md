@@ -70,6 +70,3 @@ Với test ví dụ đầu, tất cả các bảng có thể biến đổi thàn
 - Subtask ~\#1: 10\%~ số điểm có ~m,n≤50~;
 - Subtask ~\#2: 35\%~ số điểm khác có ~m,n≤300~;
 - Subtask ~\#3: 55\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

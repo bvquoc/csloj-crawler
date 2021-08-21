@@ -37,6 +37,3 @@ NO
 #### Giải thích:
 - Trong ví dụ thứ nhất, nếu ứng cử viên thứ ~1~ nhận thêm ~1~ phiếu ủng hộ, ứng cử viên thứ ~4~ nhận thêm ~2~ phiếu ủng hộ thì mỗi ứng cử viên sẽ có ~2~ phiếu ủng hộ. Do đó, trường hợp hy hữu có thể xảy ra.
 - Trong ví dụ thứ hai và thứ ba, dù ứng cử viên nào nhận được thêm ~1~ phiếu ủng hộ thì số phiếu của hai ứng cử viên cũng sẽ luôn khác nhau. Do đó, trường hợp hy hữu không thể xảy ra.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -28,6 +28,3 @@ Ví dụ, ~𝑁 = 30 = 2 × 3 × 5~ ta có ~4~ cách phân tích như sau: ~30 =
 4
 8
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

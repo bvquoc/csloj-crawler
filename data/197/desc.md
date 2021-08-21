@@ -39,6 +39,3 @@ Thang điểm làm tròn được tính như sau:
 - Hs ~2~: Mốc ~70 – 67 = 3~, không nhỏ hơn ~3~ lên giữ nguyên;
 - Hs ~3~: Mốc ~40 – 38 = 2 < 3~ lên được làm tròn lên ~40~ (đỗ vớt);
 - Hs ~4~: Điểm ~33 < 38~ nên vĩnh viễn không được làm tròn.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

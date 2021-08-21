@@ -31,6 +31,3 @@ Với cỗ máy thời gian mà Doremon để lại, Nobita lên kế hoạch đ
 + Subtask ~\#1: 30\%~ số điểm của bài có ~𝑄 ≤ 10^2~; 
 + Subtask ~\#2: 40\%~ số điểm của bài có ~10^2< 𝑄 ≤ 10^4~; 
 + Subtask ~\#3: 30\%~ số điểm của bài có ~10^4< 𝑄 ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

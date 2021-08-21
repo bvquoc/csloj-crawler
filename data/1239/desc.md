@@ -49,6 +49,3 @@ a0e2
 #### Giải thích:
 - Trong ví dụ thứ nhất không có hai mã nào khác nhau đúng ~1~ vị trí.
 - Trong ví dụ thứ hai có ~3~ cặp mã khác nhau đúng ~2~ vị trí, đó là các cặp: ~(0000, a010), (0000, 0202)~, và ~(a010, a0e2)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

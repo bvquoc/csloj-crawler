@@ -25,6 +25,3 @@ Cho một bảng gồm hai dòng và ~N~ cột. Hai ô được gọi là kề n
 #### Giải thích:
 <center><img src = "/images/problems/1103/table.svg" width=600px></center>
 <center>Hình minh họa cho test đề bài</center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

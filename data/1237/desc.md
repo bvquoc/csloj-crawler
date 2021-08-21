@@ -26,6 +26,3 @@ Trung tâm máy tính cần phân máy thực hành cho ~N~ lớp sinh viên (đ
 2
 0 2 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

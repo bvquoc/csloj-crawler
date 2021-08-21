@@ -27,6 +27,3 @@ Nhiệm vụ của bạn là tính số lượng cánh đồng đẹp trong mô 
 0
 894953467
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

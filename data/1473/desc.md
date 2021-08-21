@@ -50,6 +50,3 @@ Dữ liệu đề bài đảm bảo luôn có phương án thực hiện thỏa 
 - ~20\%~ số điểm có ~2< a+b+c< 1000; 0< K < 15~;
 - ~40\%~ số điểm khác có ~1000≤a+b+c<10^{18}; 0< K<15~;
 - ~40\%~ số điểm còn lại có ~1000≤a+b+c<10^{18}; 15≤K<1500~;
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

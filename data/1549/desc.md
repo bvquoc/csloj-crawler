@@ -80,6 +80,3 @@ Trong cả hai test ví dụ thì cây được cho bởi hình trên. Đối v�
 - Subtask ~\#2: 10\%~ số điểm khác có ~n≤1000,t=0~;
 - Subtask ~\#3: 25\%~ số điểm khác có ~t=0~;
 - Subtask ~\#4: 55\%~ số điểm còn lại có ~t=1~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

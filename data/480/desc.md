@@ -33,6 +33,3 @@ Ví dụ, với ~N = 4~ và các con bò có mức độ ủng hộ lần lượ
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 1000; | a_i| ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

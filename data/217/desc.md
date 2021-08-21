@@ -34,6 +34,3 @@ Ngoài ra còn có các số ~4, 22, 27, 58, 85, 94~ là các số may mắn.
 1
 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

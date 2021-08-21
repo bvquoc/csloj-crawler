@@ -42,6 +42,3 @@ Bạn hãy tìm cách giúp Ryo phân bố cảnh sát sao cho tổng độ tố
 - Subtask ~\#2: 15\%~ số điểm khác có ~N, M ≤ 1000~;
 - Subtask ~\#3: 15\%~ số điểm khác có ~N ≤ 500~;
 - Subtask ~\#4: 60\%~ số điểm còn lại không có điều kiện gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -26,6 +26,3 @@ CK-chan có một cây gồm ~n~ đỉnh, mỗi đỉnh có màu trắng hoặc 
 
 ## Giới hạn:
 - ~50\%~ có ~N≤2000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

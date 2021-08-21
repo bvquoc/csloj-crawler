@@ -36,6 +36,3 @@ Hãy giúp FJ chọn vị trí xây dựng nông trang sao cho quãng đường 
 
 #### Giải thích:
 - FJ xây nông trang tại vị trí ~5~ và hành trình tối ưu hàng ngày của anh ta là: ~5-1-2-3-2-1-5~ (có tổng khoảng cách là ~12~).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

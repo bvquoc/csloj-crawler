@@ -44,6 +44,3 @@ trong ~𝑘~ ngày.
 - ~40\%~ số điểm còn lại có ~𝑚 ≤ 10^5~;
 
 Trong tất cả các test, tổng số lượng chốt đặt trong ~𝑘~ ngày không vượt quá ~2\times 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

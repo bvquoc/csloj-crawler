@@ -20,6 +20,3 @@ Ban lãnh đạo muốn bạn viết một chương trình xác định: nếu m
 ```
 400
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

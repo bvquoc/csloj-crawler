@@ -44,6 +44,3 @@ Vườn đã mua, máy đã sắm, kế hoạch trồng cây đã lập, nhưng 
 - Vận hành lần ~\#1~: trồng ~1~ cây trên đoạn ~[0, 7]~, số cây tương ứng là ~[1, 1, 1, 1, 1, 1, 1, 1]~
 - Vận hành lần ~\#2~: trồng ~2~ cây trên đoạn ~[1, 1]~, số cây tương ứng là ~[1, 2, 1, 1, 1, 1, 1, 1]~
 - Vận hành lần ~\#3~: trồng ~2~ cây trên đoạn ~[2, 2]~, số cây tương ứng là ~[1, 2, 2, 1, 1, 1, 1, 1]~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

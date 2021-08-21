@@ -34,6 +34,3 @@ nhất. Bạn hãy giúp thầy Kiên tính toán tổng độ ngon của nhữn
 ## Giới hạn:
 - ~40\%~ số test ứng với ~40\%~ số điểm có ~k ≤ n ≤ 10000~;
 - ~60\%~ số test còn lại ứng với ~60\%~ số điểm không có giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

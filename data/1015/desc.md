@@ -38,6 +38,3 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 + Có ~20\%~ số test tương ứng ~20\%~ số điểm có ~k=1~
 + Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~k=2~
 + Có ~50\%~ số test còn lại tương ứng ~50\%~ số điểm có ~3≤k≤10~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

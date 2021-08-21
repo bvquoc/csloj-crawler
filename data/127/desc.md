@@ -61,6 +61,3 @@ Cho đồ thị có hướng gồm ~n~ đỉnh, ~m~ cung và sức chứa của 
 ## Giới hạn:
 - ~1\leqslant n \leqslant 1200, 1\leqslant m \leqslant 120000, 1\leqslant c \leqslant 2^{31}-1~;
 - Đảm bảo rằng kết quả không vượt quá ~ 2^{31}-1 ~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

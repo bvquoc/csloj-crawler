@@ -53,6 +53,3 @@ XYZ là một công ty lớn trong lĩnh vực công nghệ phần mềm và t�
 - Có ~30\%~ số điểm ứng với ~n ≤ 300~;
 - Có ~30\%~ số điểm khác ứng với ~n ≤ 5000~;
 - Có ~40\%~ số điểm còn lại ứng với ~n ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

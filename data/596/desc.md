@@ -30,6 +30,3 @@ Một đế chế đang xây dựng mạng lưới cho các hành tinh trong nó
 - Nối giữa hành tinh ~3~ và ~4~ chi phí bằng ~3~.
 
 Tổng chi phí bằng ~4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

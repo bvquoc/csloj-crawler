@@ -63,6 +63,3 @@ Cụ thể nếu ~d~ là ma trận đường đi ngắn nhất, ở đó ~d_{ij}
 - Có ~25\%~ test: ~n ≤ 10^2~;
 - Có ~25\%~ test: ~k ≤ 10^2~;
 - Có ~25\%~ còn lại: Như ràng buộc trong đề bài.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

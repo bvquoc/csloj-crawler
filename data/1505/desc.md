@@ -75,6 +75,3 @@ Trong tất cả các test có ~n,q \le 10^5~, chi phí để đi qua các con �
     - Một là cho lái buôn ở vườn số ~1~ thu hoạch vườn số ~3~: số tiền thu được là ~10 + 1+1=12~
     - Hai là cho lái buôn ở vườn số ~1~ thu hoạch vườn số ~1~ và lái buôn ở vườn số ~3~ thu hoạch vườn số ~3~, số tiền thu được là: ~10+1+5+1=17~
 Do đó: sau sự kiện thứ năm, kết quả là ~17~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

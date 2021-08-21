@@ -41,6 +41,3 @@ Ta định nghĩa khoảng cách **Manhattan** giữa hai điểm ~(x_1, y_1)~ v
 ## Giải thích:
 - Ở ví dụ thứ nhất, khoảng cách Manhattan giữa hai điểm là ~|(−1) − 1| + |3 − 1| = 2 + 2 = 4~.
 - Ở ví dụ thứ hai, hai điểm ~(0, 0)~ và ~(0, 5)~ có khoảng cách Mantantan lớn nhất.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

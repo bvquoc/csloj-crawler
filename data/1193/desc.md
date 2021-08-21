@@ -27,6 +27,3 @@ Sau khi trúng thầu khai thác đất ven đường toàn huyện, Phú Ông g
 - ~30\%~ số test có ~n≤5000;h_i≤10^9~;
 - ~25\%~ số test khác có ~n≤10^5; k,h_i≤2~;
 - ~45\%~ số test còn lại có ~n≤10^5;k≤10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -30,6 +30,3 @@ Cho hai số ~l, r~, hãy tìm số que diêm ít nhất và số que diêm nhi�
 
 ## Giới hạn:
 - ~1≤T≤10^3,1≤l≤r≤10^{18},r-l≤10^5~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

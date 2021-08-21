@@ -45,6 +45,3 @@ Một hệ thống gồm ~n~ máy tính được nối thành một mạng có ~
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 500; 0 ≤ m ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

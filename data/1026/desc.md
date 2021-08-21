@@ -27,6 +27,3 @@ Bờm vừa mới nhận được một khoản tiền thù lao lớn từ bản
 
 #### Giải thích:
 - Có thể mua dãy ~10~ cửa hàng liên tiếp bắt đầu từ cửa hàng thứ ~2~ (có giá ~42~) với tổng chi phí là ~42 – 132 + 17 + 404 – 13 + 55 + 222 + 89 + 11 – 66 = 629~ (không vượt quá tổng vốn đầu tư ~666~). Có thể mua dãy ~10~ cửa hàng liên tiếp bắt đầu từ cửa hàng ~6~ với chi phí nhỏ hơn ~(-13 + 55 + 222 + 89 + 11 – 66 + 91 – 9 + 21 + 4 = 405)~, nhưng bạn cần đưa ra lời giải với chỉ số của cửa hàng bắt đầu là nhỏ nhất.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

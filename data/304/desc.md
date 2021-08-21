@@ -33,6 +33,3 @@ Cho hai hình chữ nhật có các cạnh song song với các trục tọa đ�
 
 ## Giới hạn:
 - Trong tất cả các test, các thành phần tọa độ của điểm có trị tuyệt đối không vượt quá ~10^8~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

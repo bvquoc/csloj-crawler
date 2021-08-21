@@ -30,6 +30,3 @@ Cho ~m~ truy vấn, mỗi truy vấn có một trong hai dạng:
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 1024, 1 ≤ m ≤ 10^5; 1 ≤ x, y, r, c ≤ n; x ≤ c; y ≤ r; |d| ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

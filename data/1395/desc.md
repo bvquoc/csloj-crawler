@@ -28,7 +28,3 @@ Cho một cây ~n~ đỉnh, các đỉnh được đánh số từ ~1~ đến ~n
 ## Giới hạn:
 - ~50\%~ số test có ~1 ≤ n ≤ 500~;
 - ~50\%~ số test có ~501 ≤ n ≤ 5000~.
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

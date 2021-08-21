@@ -40,6 +40,3 @@ Tuy là tác giả nhưng Son vẫn chưa giải quyết được bài toán nà
 ## Giới hạn:
 - ~30\%~ số test ứng với ~30\%~ số điểm có ~1 ≤ n ≤ 100~;
 - ~70\%~ số test còn lại ứng với ~70\%~ số điểm không có giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -56,6 +56,3 @@ Nếu có nhiều vị trí mà tổng quãng đường di chuyển được gi�
 - Subtask ~\#2: 13\%~ số điểm khác có ~2 ≤ N ≤ 1000 0, ≤ X_i; Y_i ≤ 100~;
 - Subtask ~\#3: 20\%~ số điểm khác có ~2 ≤ N ≤ 1000 0 ≤ X_i; Y_i ≤ 10^9~;
 - Subtask ~\#4: 19\%~ số điểm còn lại có ~2 ≤ N ≤ 100000, 0 ≤ X_i; Y_i ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

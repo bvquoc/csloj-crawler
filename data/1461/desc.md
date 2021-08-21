@@ -47,6 +47,3 @@ Chú ý rằng sau khi Bờm biến đổi lại dãy về dãy ngoặc đúng, 
 -Subtask ~\#4: 10\%~ số điểm khác có ~N ≤ 50000, Q ≤ 100000~ và ~x ≤ 100~ với mọi truy vấn;
 - Subtask ~\#5: 25\%~ số điểm khác có ~N ≤ 50000, Q ≤ 100000~;
 - Subtask ~\#6: 25\%~ số điểm còn lại không có điều kiện gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -22,6 +22,3 @@ Cho số nguyên dương ~n~. Đếm số xâu độ dài ~n~ chỉ gồm các k
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 25~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -57,6 +57,3 @@ Trong ví dụ trên, các đoạn dây điện nối dọc theo các cạnh c�
 với ~ƒ~ và ~b~ nối với ~e~. Ngoài cạnh ~(a, b)~, một cạnh dài nhât không được nối dây là cạnh ~(e, f)~. Cách
 kết nối từ vị trí hai nguôn điện ~c~ và ~d~ tới ~a~ và ~b~ sử dụng ít dây điện nhất là nối ~a~ với ~d~, nối ~a~ với ~b~,
 và nôi ~b~ với ~c~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

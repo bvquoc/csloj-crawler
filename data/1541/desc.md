@@ -43,6 +43,3 @@ Trong ví dụ trên, ta có:
 - Subtask ~\#3: 20\%~ số điểm có tất cả các cạnh có trọng số bằng ~1~;
 - Subtask ~\#4: 20\%~ số điểm có ~n ≤ 50~;
 - Subtask ~\#5: 26\%~ số điểm không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

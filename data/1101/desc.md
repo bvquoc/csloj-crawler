@@ -43,6 +43,3 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách
 
 #### Giải thích:
 - Trên mỗi dãy có thể giữ lại ~4~ cột. Có nhiều phương án giữ lại số cột nhiều nhất với chiều cao của các cột là: ~(2,1,4,5);(2,2,4,5);(2,3,4,5)~ trong đó phương án ~(2,3,4,5)~ có thứ tự từ điển lớn nhất.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

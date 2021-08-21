@@ -20,7 +20,3 @@ Cho số nguyên dương ~n~. Tính tổng các ước nguyên dương của ~n~
 ## Giới hạn:
 - Subtask ~\#1: 1≤n≤10^6~;
 - Subtask ~\#2: 10^6<n≤10^9~.
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

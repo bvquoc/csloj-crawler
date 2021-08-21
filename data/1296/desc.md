@@ -45,6 +45,3 @@ Hãy tìm giá trị nhỏ nhất của ~f(u)~ và đếm số lượng đỉnh 
 - Trong tất cả các test ~a_i, b_i ≤ 10^9~;
 - Subtask ~\#1: 30\%~ số điểm có ~N ≤ 2000~ và ~M ≤ 5000~;
 - Subtask ~\#2: 70\%~ số điểm còn lại có ~N ≤ 2 \times 10^5~ và ~M ≤ 5 \times 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

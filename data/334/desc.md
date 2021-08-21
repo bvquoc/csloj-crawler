@@ -22,6 +22,3 @@ Tính tổng các chữ số của số nguyên dương trong hệ thập phân.
 
 ## Giới hạn:
 - ~1≤T≤10^5,1≤n≤10^{18}~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

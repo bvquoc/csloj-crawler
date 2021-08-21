@@ -51,6 +51,3 @@ Mỗi núm ga có thể xoay theo cùng chiều kim đồng hồ hoặc ngược
 - Trong tất cả các test, các chữ số trên các núm là các số từ 1 đến 9 và ~k_i~ luôn có ~7~ chữ số.
 - Subtask ~\#1: 30\%~ số điểm có ~N ≤ 10~;
 - Subtask ~\#2: 70\%~ số điểm còn lại có ~N ≤ 500~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

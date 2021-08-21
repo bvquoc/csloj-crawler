@@ -34,6 +34,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 
 ## Giới hạn:
 - Trong tất cả các test: ~1 ≤ n ≤ 100; 1 ≤ a_i, b_i ≤ 33; a_i ≠ b_i~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

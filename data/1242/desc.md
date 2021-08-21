@@ -42,6 +42,3 @@ Quân là một hành khách muốn đi từ thành phố ~1~ đến thành ph�
 
 #### Giải thích:
 - Quân sử dụng lần lượt hệ thống xe của thành phố ~1~ rồi thành phố ~5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

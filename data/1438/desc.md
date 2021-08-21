@@ -30,6 +30,3 @@ Cơ quan hàng không vũ trụ Mĩ NASA vừa thực hiện thành công một 
 ```
 
 **Giải thích:** Thay người ở các ngày thứ ~1,3,5,8~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

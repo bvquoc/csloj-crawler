@@ -31,6 +31,3 @@ Với một số nguyên dương ~n~, Hoàng viết liên tiếp tất cả ~n~ 
 
 ## Giới hạn:
 - Tổng các số ~n~ trong **dữ liệu vào** không vượt quá ~400000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

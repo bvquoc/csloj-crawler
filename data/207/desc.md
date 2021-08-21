@@ -34,6 +34,3 @@ Trong đó ~x, N~ là những số nguyên dương, ~S(x)~ bằng tổng các ch
 - Có ~40\%~ số test ứng với ~40\%~ số điểm của bài có ~N≤10^4~;
 - Có ~30\%~ số test khác ứng với ~30\%~ số điểm của bài có ~N ≤ 10^{10}~.
 - Có ~30\%~ số test còn lại ứng với ~30\%~ số điểm của bài có ~N ≤ 10^{18}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

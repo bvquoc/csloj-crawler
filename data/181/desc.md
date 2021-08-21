@@ -18,6 +18,3 @@ Cho dãy số ~T_n=n^2-(n-1)^2~.
 ```
 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

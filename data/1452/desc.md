@@ -37,6 +37,3 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - ~20\%~ số điểm tiếp theo tương ứng với ~N≤5× 10^5,H≤30~;
 - ~30\%~ số điểm tiếp theo tương ứng với ~H≤30~;
 - ~20\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

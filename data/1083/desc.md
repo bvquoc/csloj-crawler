@@ -46,6 +46,3 @@ Hai hình sau minh họa cho ~2~ ví dụ ở dưới. Hình bên trái minh h�
 - Có ~25\%~ test: ~1 ≤ N ≤ 10^3, -10^7 ≤ X_1, Y_1, X_2, Y_2 ≤ 10^7, 10^7 ≤ X_i, Y_i ≤ 10^7~;
 - Có ~25\%~ test: ~1 ≤ N ≤ 10^5, -10^3 ≤ X_1, Y_1, X_2, Y_2 ≤ 10^3, 10^3 ≤ X_i, Y_i ≤ 10^3~;
 - Có ~25\%~ test còn lại: Như ràng buộc trong đề bài.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

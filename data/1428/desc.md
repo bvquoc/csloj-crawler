@@ -27,6 +27,3 @@ Vấn đề là chi phí nối cáp khá đắt, bạn cần tìm cách nối sa
 
 #### Giải thích:
 - Phương án tối ưu là nối văn phòng ~1~ với văn phòng ~2~ bằng cáp độ dài ~2~, nối văn phòng ~3~ với văn phòng ~4~ cũng bằng cáp độ dài ~2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

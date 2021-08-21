@@ -48,6 +48,3 @@ Dãy thu được ~{2;4;4;4;4}~
 - ~15\%~ số điểm bài toán có ~n<5000~;
 - ~15\%~ số điểm bài toán có ~n≤5000~ và đáp án bài toán tìm được chỉ bằng cách sử dụng phép biến đổi trên một phần tử của dãy số;
 - ~40\%~ số điểm bài toán có ~n≤100000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

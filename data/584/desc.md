@@ -37,6 +37,3 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 
 ## Giới hạn:
 - ~2 ≤ N, M ≤ 1000, -1 ≤ a_{ij} ≤ 1000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

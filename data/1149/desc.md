@@ -47,7 +47,3 @@ Có ~p~ dự án hành trình xanh được đưa ra xem xét ~(1 ≤ p ≤ 10^5
 ## Giới hạn:
 - ~30\%~ số test có ~1 ≤ X_1 < X_2 ≤ 1000, 1 ≤ Y_1 < Y_2 ≤ 1000~.
 - ~60\%~ số test khác có ~1 ≤ X_1 < X_2 ≤ 10^6, 1 ≤ Y_1 < Y_2 ≤ 10^6~. 
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

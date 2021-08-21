@@ -30,6 +30,3 @@ logos
 #### Giải thích:
 - Có ~5~ cách di chuyển tạo thành xâu `logos` như hình sau:
 <center><img src="/images/problems/1235/CPATH.svg" width="500px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -57,6 +57,3 @@ cuoi phuong rong san son
 
 #### Giải thích:
 - Trong ví dụ thứ hai: Sau khi trao đổi tin nhắn với **son** và **san**, **cuoi** trở thành người đặc biệt. Tiếp đến trong bảng thống kê cả **son** và **cuoi** đều trao đổi tin nhắn với **phuong**, nên **phuong** cũng trở thành người đặc biệt. Lưu ý rằng: nếu như coi rằng **cuoi** trao đổi tin nhắn với **phuong** trước khi trở thành người đặc biệt (tức là trình tự thời gian thực hiện các tin nhắn là trình tự liệt kê trong dữ liệu) thì **phuong** sẽ không trở thành người đặc biệt được. Nhưng theo giả thiết đầu bài ta có thể xếp lại trình tự thực hiện các tin nhắn sao cho có được nhiều người đặc biệt nhất, nên tin nhắn này có thể coi là được thực hiện sau khi **cuoi** đã trở thành người đặc biệt. Trong ví dụ này có hai học sinh trong trường không trao đổi tin nhắn với bất cứ ai, vì thế tên của họ không xuất hiện trong bảng thống kê.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ IMPOSSIBLE
 - Test ~1~: Tam giác tạo được có độ dài ~3~ cạnh là ~4, 2, 3~;
 - Test ~2~: Tam giác suy biến từ ~3~ cạnh có độ dài ~2, 2, 4~;
 - Test ~3~: Không tạo được tam giác.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

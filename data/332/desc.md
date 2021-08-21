@@ -23,6 +23,3 @@ Cho hai số nguyên dương ~L ≤ R~. Hãy đếm xem trong đoạn ~[L, R]~ c
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^5, 1 ≤  L ≤ R ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

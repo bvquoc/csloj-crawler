@@ -25,7 +25,3 @@ Cho một thanh sắt có chiều dài là một số nguyên dương ~L~ (~L~ l
 ## Giới hạn:
 - ~70\%~ số điểm của bài có ~2≤L≤10^5~;
 - ~30\%~ số điểm còn lại của bài có ~10^5<L≤10^9~.
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

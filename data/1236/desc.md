@@ -34,6 +34,3 @@ Ghi ra số thực ~S~ với ~3~ chữ số sau dấu phẩy là tổng diện t
 ```
 28.000
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

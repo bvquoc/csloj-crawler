@@ -36,6 +36,3 @@ Tí rất thích số chính phương và Tí muốn đếm xem giữa hai số 
 - ~40\%~ số test tương ứng với ~40\%~ số điểm của bài toán có ~1 ≤ L ≤ R ≤ 10^4~
 - ~40\%~ số test khác tương ứng với ~40\%~ số điểm của bài toán có ~1 ≤ L ≤ R ≤ 10^8, R – L ≤ 10^5~
 - ~20\%~ số test còn lại tương ứng với ~20\%~ số điểm của bài toán có ~1 ≤ L ≤ R ≤ 10^{12}, R – L ≥ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -33,6 +33,3 @@ Do kết quả có thể rất lớn nên bạn chỉ cần tìm số dư khi ch
 #### Giải thích:
 - Với ví dụ trên, các cách để đánh số là:
 <center><img src="/images/problems/2058/arbore.svg" width=800px /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

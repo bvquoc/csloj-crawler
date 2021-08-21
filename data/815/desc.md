@@ -52,6 +52,3 @@ Trong bài giảng chuyên đề về thành phần liên thông trên đồ th�
 - Có ~30\%~ số test ứng với ~30\%~ số điểm có ~n\le 500, m\le 5000, k\le 1000~;
 - Có ~40\%~ số test khác ứng với ~40\%~ số điểm có ~n\le 500, m\le 30000, k\le 10000~;
 - Có ~30\%~ số test còn lại ứng với ~30\%~ số điểm có ~n\le 2000, m\le 30000, k\le 50000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

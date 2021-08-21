@@ -42,6 +42,3 @@ Từ một ô đánh số ~x~ bạn được di chuyển:
 
 **Chú ý:**
 - Nếu trả lời đúng độ dài đường đi mà không in đường đi thì được ~30\%~ số điểm của test.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

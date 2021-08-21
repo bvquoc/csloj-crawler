@@ -44,6 +44,3 @@ Bằng thuật toán tìm kiếm theo chiều rộng, hãy đưa ra danh sách c
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 100; 1 ≤ m ≤ \frac{n(n-1)}{2}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

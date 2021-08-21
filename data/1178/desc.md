@@ -3,6 +3,3 @@
 [Tải đề bài (PDF)](/statements/1178/TWOROBOT.pdf)
 
 **Chú ý:** Bài này trong file PDF thiếu một dữ kiện là đích đến của cả hai robot là ô ~(n, 1)~ (Trong hình minh họa thì có chữ **Exit** ở ô ~(n, 1)~).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -30,6 +30,3 @@ Giáo sư `X` đang dạy cậu con trai cả học toán. Để khởi động 
 ## Giới hạn:
 - ~50\%~ số test có ~𝑃 < 1000~ 
 - ~50\%~ số test còn lại không có ràng buộc gì thêm. 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

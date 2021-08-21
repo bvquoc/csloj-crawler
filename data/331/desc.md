@@ -23,6 +23,3 @@ Cho hai số nguyên dương ~a~ và ~b~. Tìm số nguyên dương ~d~ là BCNN
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^5, 1 ≤ a, b ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

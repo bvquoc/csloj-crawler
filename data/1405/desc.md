@@ -71,6 +71,3 @@ UUCLDCL
 ## Giới hạn:
 - ~1 ≤ n, m ≤ 100, 1 ≤ |S| ≤ 1000~;
 - Có ~50\%~ test ứng với ~1 ≤ n, m ≤ 50~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

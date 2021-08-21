@@ -33,6 +33,3 @@ Ban đầu số cốc bia hai người cần uống là ~(𝐴, 𝐵) = (42,4
 - Ván ~5~: ~𝑃 = 3~, Thắng dễ thương thắng. Số cốc bia là ~(𝐴, 𝐵) = (\frac{9}{3^2}, 1) = (1,1)~. 
 
 Sau ~5~ ván, tổng số cốc bia hai người cần uống là ~𝐴 + 𝐵 = 1 + 1 = 2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

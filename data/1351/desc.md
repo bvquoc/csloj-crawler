@@ -28,6 +28,3 @@ Hãy tìm cách giúp nhà Vua xây dựng được hệ thống đường cao t
 ## Giới hạn:
 - Subtask ~\#1: 30\%~ số điểm có ~𝑁 ≤ 10^3~;
 - Subtask ~\#2: 40\%~ số điểm~𝑃_𝑖 ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

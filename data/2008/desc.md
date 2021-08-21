@@ -50,6 +50,3 @@ Viết chương trình tính toán cho mỗi đảng, trong số các khả năn
 4. Các thương số là ~\frac{6}{2}, \frac{3}{1}, \frac{7}{2}~ và ~\frac{4}{2}~; lớn nhất là ~\frac{7}{2}~ nên đảng ~3~ giành ~1~ ghế.
 5. Các thương số là ~\frac{6}{2}, \frac{3}{1}, \frac{7}{3}~ và ~\frac{4}{2}~; đảng ~1~ và ~2~ có cùng thương số ~\frac{6}{2}~ và ~\frac{3}{1}~, nhưng đảng ~1~ có số hiệu nhỏ hơn nên giành được ghế cuối cùng.
 - Trong kết quả này, số lượng ghế mà mỗi đảng giành được là ~2, 0, 2~ và ~1~. Do đảng thứ hai có thể sẽ không giành được ghế nào, nên số thứ hai trên dòng ~2~ của **Dữ liệu ra** sẽ là ~0~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -24,6 +24,3 @@ Cho dãy số nguyên ~A~ gồm ~N~ phần tử ~A_1, A_2, …, A_N~, đếm s�
 
 ## Giới hạn:
 - ~50\%~ số test có ~N\le 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

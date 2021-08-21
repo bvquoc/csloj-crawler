@@ -34,6 +34,3 @@ Cat A
 
 - Câu hỏi ~2:~
 <center><img src="/images/problems/201/CATS2.png" width="350px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

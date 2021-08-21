@@ -49,6 +49,3 @@ Mô tả test ví dụ. Banditji xuất phát tại thành phô ~1~. Hắn sẽ 
 
 ## Giới hạn:
 - Trong ~50\%~ số test có ~1 ≤ N, M ≤ 3000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -33,6 +33,3 @@ Cho một số ~k~. Dãy đã cho có ~n – k + 1~ dãy con độ dài ~k~ gồ
 
 ## Giới hạn:
 - ~0 ≤ seed, mul, add ≤ 65565; 1 ≤ k ≤ n ≤ 10^5; 1 ≤ T ≤ 30~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

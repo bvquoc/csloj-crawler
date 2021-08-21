@@ -27,6 +27,3 @@ Có ~M~ viên gạch có kích thước ~1 × 1 × 1~, cần xếp chúng thành
 
 ## Giới hạn:
 - Trong tất cả các test có ~1 ≤ N ≤ M ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

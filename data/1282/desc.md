@@ -40,6 +40,3 @@ Sau ~K~ thao tác này, Mizzie phải đưa về dãy bit với toàn bit ~0~. V
 
 ## Giới hạn:
 - ~50\%~ có ~N≤100~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

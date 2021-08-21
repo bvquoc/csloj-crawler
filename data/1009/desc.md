@@ -44,7 +44,3 @@ Bạn được ngài thị trưởng tin tưởng giao cho danh sách ~W~ tuần
 - ~1 ≤ N ≤ 1000, 1 ≤ A_{ij} ≤ 10^9,  1 ≤ R ≤ 2000~
 - ~50\%~ số test có ~W ≤ 1000~
 - ~50\%~ số test khác có ~W ≤ 10^5~
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

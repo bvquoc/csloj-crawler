@@ -37,6 +37,3 @@ Chi phí để đặt một quảng cáo trên con đường đó đã được 
 - Subtask ~\#2: 23\%~ số điểm khác có ~5 ≤ V ≤ 50000, 1 ≤ Q ≤ 10000~, mỗi địa điểm nối tối đa tới hai đỉnh khác;
 - Subtask ~\#3: 40\%~ số điểm khác có ~5 ≤ V ≤ 50000, 1 ≤ Q ≤ 100~;
 - Subtask ~\#4: 30\%~ số điểm còn lại có ~5 ≤ V ≤ 50000, 1 ≤ Q ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

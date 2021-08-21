@@ -63,6 +63,3 @@ Bạn được cung cấp một lịch sử gồm ~𝑚~ bài hát đã đ
 ## Giới hạn:
 - Subtask ~\#1: 30\%~ test có ~1 ≤ 𝑚 ≤ 5000~;
 - Subtask ~\#2: 70\%~ test không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

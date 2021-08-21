@@ -45,6 +45,3 @@ acdbabcd
 **<center>Hình minh họa cho test ví dụ</center>**
 
 - Con đường Palindrom là ~1 - 6 - 3 - 4-  5~ với chuỗi tên gọi các mảnh vườn tương ứng là `abdba`
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

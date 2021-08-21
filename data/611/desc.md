@@ -38,6 +38,3 @@ uediah
 #### Giải thích:
 - Ở ví dụ đầu tiên, Dũng đảo xâu con từ kí tự thứ ~2~ đến kí tự thứ ~11~ một số chẵn lần nên xâu không thay đổi.
 - Ở ví dụ thứ hai, Dũng đảo cả xâu ~s~ một lần.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

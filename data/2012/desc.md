@@ -34,6 +34,3 @@ Cho số ~n~ và mảng ~a~ gồm ~10~ số nguyên, đánh số từ ~0~ đến
 ```
 36
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

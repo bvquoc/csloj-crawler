@@ -42,6 +42,3 @@ Viết chương trình xác định cảm giác hấp dẫn của du khác trên
 4
 20
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

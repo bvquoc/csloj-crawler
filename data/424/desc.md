@@ -24,6 +24,3 @@ Trên trục tọa độ, tại các điểm có tọa độ nguyên trong đo�
 
 ## Giới hạn:
 - ~2 ≤ N ≤ 10000; 1 ≤ k ≤ 10  -1000 ≤ a_i ≤ 1000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

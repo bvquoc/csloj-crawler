@@ -24,6 +24,3 @@ Trung thu năm nay Tí và Tèo được chị Hằng tặng cho rất nhiều k
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 20, 1 ≤ k_i ≤ 10^9~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

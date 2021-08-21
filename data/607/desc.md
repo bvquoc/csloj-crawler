@@ -52,6 +52,3 @@ thành các cạnh. Tìm hình chữ nhật có diện tích lớn nhất mà c�
 - **Subtask** ~\#1~ ~(30\%\text{ số điểm}): N ≤ 50~;
 - **Subtask** ~\#2~ ~(30\%\text{ số điểm}): N ≤ 2000~;
 - **Subtask** ~\#3~ ~(40\%\text{ số điểm}):~ Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

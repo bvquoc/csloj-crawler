@@ -23,6 +23,3 @@ Biết ~L\ (1≤L≤50)~, đếm số xâu nhị phân thú vị độ dài ~N\ 
 
 #### Giải thích:
 - Có ~6~ xâu thú vị là ~001, 010, 011, 100, 101, 110~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -42,6 +42,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Có ~30\%~ số test ứng với ~30\%~ số điểm có ~n\le 10, h_i\le 3~;
 - Có ~40\%~ số test khác ứng với ~40\%~ số điểm có ~n\le 1000, h_i\le 100~;
 - Có ~30\%~ số test còn lại ứng với ~30\%~ số điểm có ~n\le 10000, h_i\le 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

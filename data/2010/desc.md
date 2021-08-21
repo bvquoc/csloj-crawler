@@ -22,6 +22,3 @@ Tính tổng của tất cả các số mà các chữ số của nó khác ~0~ 
 17891
 881935929
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

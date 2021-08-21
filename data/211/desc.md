@@ -22,6 +22,3 @@ HD cần mua ~n~ chiếc vé xe bus, một chiếc vé có giá là ~a~ VNĐ, v�
 6
 8
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

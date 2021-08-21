@@ -41,6 +41,3 @@ Bạn hãy viết chương trình xác định số đường truyền quan tr�
 
 #### Giải thích:
 - Các đường truyền quan trọng là: ~(3, 2), (5, 6), (7, 9)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

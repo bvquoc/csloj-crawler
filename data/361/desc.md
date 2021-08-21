@@ -40,6 +40,3 @@ Kỳ thi chọn học sinh giỏi Tin học trường THPT Chuyên Sơn La có ~
 - ~40\%~ số test tương ứng với ~40\%~ số điểm của bài toán có ~1 ≤ N ≤ 100~
 - ~40\%~ số test khác tương ứng với ~40\%~ số điểm của bài toán có ~1 ≤ N ≤ 1000~
 - ~20\%~ số test còn lại tương ứng với ~20\%~ số điểm của bài toán có ~1 ≤ N ≤ 10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

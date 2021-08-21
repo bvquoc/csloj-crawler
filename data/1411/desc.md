@@ -42,6 +42,3 @@ Rar sẽ thực hiện ~Q~ chuyến bay, với chuyến bay thứ ~i~ có độ 
 - Subtask ~\#3: 23\%~ số điểm tiếp theo có ~1 ≤ N, Q ≤ 10^5~ và dãy ~H~ tăng nghiêm ngặt;
 - Subtask ~\#4: 11\%~ số điểm tiếp theo có ~1 ≤ N, Q ≤ 10^5~;
 - Subtask ~\#5: 11\%~ số điểm cuối cùng không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

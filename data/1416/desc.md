@@ -48,6 +48,3 @@ Nhưng tệ ở một chỗ là từ đầu cả nước lại muốn bầu cho 
 - Subtask ~\#2: 20\%~ số điểm khác có ~N \le 1000~;
 - Subtask ~\#3: 20\%~ số điểm khác có ~N \le 10^6~;
 - Subtask ~\#4: 40\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

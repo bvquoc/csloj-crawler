@@ -27,6 +27,3 @@ Lớp ~10~ Tin có ~N~ học sinh, trong giờ thể dục, thầy giáo yêu c�
 
 ## Giới hạn:
 - ~1 ≤ K ≤ N ≤ 25~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

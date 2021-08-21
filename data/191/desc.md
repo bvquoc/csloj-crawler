@@ -36,6 +36,3 @@ Có ~n~ diễn viên làm việc trong nhà hát, trong đó có ~a~ diễn viê
 #### Giải thích:
 - Test ví dụ ~1~: Chỉ có ~3~ diễn viên cao lên tối đa có ~3~ diễn viên để đạo diễn CASTING;
 - Test ví dụ ~2~: Có ~3~ diễn viên cao, ~5~ diễn viên tóc vàng. Vì ~4~ diễn viên mắt xanh ~→~ có ~1~ diễn viên không phải mắt xanh, vậy trong ~3~ diễn viên cao có ít nhất ~2~ diễn viên mắt xanh. Vậy ít nhất có ~2~ diễn viên để đạo diễn CASTING.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

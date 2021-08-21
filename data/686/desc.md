@@ -37,6 +37,3 @@ Những dòng sau, mỗi dòng ghi hai số nguyên dương ~u, v~ là hai đầ
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 200; 1 ≤ M ≤ 10000; 1 ≤ w ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

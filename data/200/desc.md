@@ -28,6 +28,3 @@ NO
 #### Giải thích:
 - Câu hỏi ~1~: ~A:0→3→6→9→12~; ~B:4→6→8→10→12~; Hai chú Kangaroo gặp nhau ở vị trí ~12~ sau ~4~ lần nhảy.
 - Câu hỏi ~2~: ~A:0→2→4→6→8→10…~; ~B:5→8→11→14~ Hai chú Kangaroo không thể gặp nhau ở một vị trí tại cùng một thời điểm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

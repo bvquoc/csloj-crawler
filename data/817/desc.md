@@ -40,6 +40,3 @@ Do không biết trước lần này cần phải cử bao nhiêu người đi n
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~N≤1000~ và ~b_1=b_2=⋯=b_n~
 - Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có  ~N≤5000; a_i,b_i≤10^6;1≤i≤n~.
 - ~30\%~ số test còn lại tương ứng ~30\%~ số điểm không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

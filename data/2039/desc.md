@@ -29,6 +29,3 @@ Bila là trò chơi lăn bi trên lưới ô ~M~ hàng ~N~ cột. Mỗi ô trên
 <center><img src="/images/problems/2039/bila.png" width=400px /></center>
 
 - Đường đi dài nhất là ~101, 12, 8, 7, 5, 4, 1~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

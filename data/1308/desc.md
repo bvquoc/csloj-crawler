@@ -27,6 +27,3 @@ Hãy tính tổng ~𝐹_1 + 𝐹_2 + ⋯ + 𝐹_𝑁~.
 ```
 5
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

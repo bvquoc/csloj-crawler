@@ -33,6 +33,3 @@ Cho ~𝑛~ điểm trên mặt phẳng với hệ tọa độ Đề-các vuông 
 3 4
 ```
 <center><img src="/images/problems/1444/SQUARE.svg" width="500px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

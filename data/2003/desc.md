@@ -54,6 +54,3 @@ Byteasar là một hacker rất khá, nhưng nó không có ý tưởng về thu
 - **Subtask** ~\#2\ (20\%\text{ số điểm}): n ≤ 5000~;
 - **Subtask** ~\#3\ (20\%\text{ số điểm}): n ≤ 500000~, hack máy ~1~ là bước đi tối ưu của Byteasar;
 - **Subtask** ~\#4\ (40\%\text{ số điểm}): n ≤ 500000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

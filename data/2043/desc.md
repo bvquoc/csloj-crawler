@@ -40,6 +40,3 @@ Nhập vào số nguyên dương ~n~. Tính số Fibonacci thứ ~n~. In ra ph�
 - **Subtask** ~\#1: 1 ≤ n ≤ 50~;
 - **Subtask** ~\#2: 1 ≤ n ≤ 10^6~;
 - **Subtask** ~\#3: 1 ≤ n ≤ 10^{12}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -50,6 +50,3 @@ Cho một cây gồm ~N~ đỉnh, mỗi đỉnh có một màu khác nhau. Gọi
 - Subtask #~3~: ~12\%~ số điểm: Mọi đỉnh có cùng màu
 - Subtask #~4~: ~24\%~ số điểm: Không tồn tại hai đỉnh cùng màu
 - Subtask #~5~: ~36\%~ số điểm: Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

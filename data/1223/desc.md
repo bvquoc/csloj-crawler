@@ -34,6 +34,3 @@ Ta sẽ chuyển nước để được lượng nước trong các thùng là ~
 - Chuyển ~2~ lít từ thùng ~2~ sang thùng ~3~;
 - Chuyển ~1~ lít từ thùng ~3~ sang thùng ~4~;
 - Chuyển ~1.5~ lít từ thùng ~5~ sang thùng ~6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

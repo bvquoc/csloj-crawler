@@ -28,6 +28,3 @@ Dubu được một người bạn tặng cho một mảnh vải siêu to khổn
 - Subtask ~\#1: 30\%~ số điểm có ~N, M ≤ 10~;
 - Subtask ~\#2: 30\%~ số điểm khác có ~N = 1, M ≤ 10^5~;
 - Subtask ~\#3: 40\%~ số điểm có còn lại ~N, M ≤ 10^3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

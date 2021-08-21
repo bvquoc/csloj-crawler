@@ -60,6 +60,3 @@ Rar the Cat muốn biết: Trong số ~L~ tia laser của đồ chơi, có bao n
 - Subtask ~\#4: 21\%~ số điểm khác có ~1≤ L ≤10^3, 1≤∑X≤10^3~:
 - Subtask ~\#5: 22\%~ số điểm khác có ~1≤ L ≤10^6~;
 - Subtask ~\#6: 13\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

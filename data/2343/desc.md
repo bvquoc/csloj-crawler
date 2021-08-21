@@ -23,6 +23,3 @@ Xét dãy fibonacci như sau:
 
 #### Giải thích:
 - Ta có: ~f_6 = 8~ nên ~f_{f_6} = f_8 = 21~ và tính theo modulo ~100~ vẫn là ~21~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

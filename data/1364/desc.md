@@ -48,6 +48,3 @@ black
 
 ## Giối hạn:
 - ~40\%~ số test tương ứng ~40\%~ số điểm có ~n×t≤5×10^7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

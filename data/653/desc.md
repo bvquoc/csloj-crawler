@@ -45,6 +45,3 @@ Vì đáp án có thể rất lớn nên bạn được yêu cầu đưa ra ph�
 - **Subtask** ~\#1\ (20\%\text{ số test}): n ≤ 16; a, x_i ≤ 50~;
 - **Subtask** ~\#2\ (40\%\text{ số test}): n ≤ 50; a, x_i ≤ 50~;
 - **Subtask** ~\#3\ (40\%\text{ số test}):~ Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

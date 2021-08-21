@@ -34,6 +34,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~n\le 100, k\le 20~, các số có giá trị ~\le 10^6~;
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~n\le 1000, k\le 20~, các số có giá trị ~\le 10^6~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm có ~n\le 1000, k\le 50~, các số có giá trị ~\le 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

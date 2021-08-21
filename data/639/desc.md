@@ -33,6 +33,3 @@ PAIN IS ONLY TEMPORARY BUT VICTORY IS FOREVER
 192.4109
 193.1037
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

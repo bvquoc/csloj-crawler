@@ -33,6 +33,3 @@ Makacha là một người thích sự to lớn, vì vậy anh ta muốn chiều
 ## Giới hạn:
 - ~50\%~ số điểm có ~1 ≤ n ≤ 10000~;
 - ~50\%~ số điểm còn lại không có giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

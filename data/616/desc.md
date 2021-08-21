@@ -28,6 +28,3 @@ Hỏi Tèo có thể tạo tối đa bao nhiêu cặp lá bài biết rằng kh�
 
 ## Giải thích:
 - Có ~4~ lá bài ghi số ~1~, ~3~ lá bài ghi số ~2~, ~2~ lá bài ghi số ~4~. Có thể tạo tối đa ~4~ cặp lá bài: ~(1, 1), (1, 1), (3, 4), (3, 4)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

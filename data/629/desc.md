@@ -25,6 +25,3 @@ Hai số nguyên dương ~A~ và ~B~ được gọi là một cặp số tương
 ## Giới hạn:
 - ~60\%~ số test có ~R − L ≤ 1000~;
 - ~40\%~ số test còn lại không giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

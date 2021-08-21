@@ -32,6 +32,3 @@ Bé Hải Dương xoay dãy số sang phải ~k~ lần, sau đó hỏi Bé Hải
 - Xoay lần ~1~: ~[3, 2, 1]~;
 - Xoay lần ~2~: ~[2,3,1]~;
 - ~m=0,a[0]=2; m=1,a[1]=3; m=2,a[2]=1~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

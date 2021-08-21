@@ -29,6 +29,3 @@ Ta biết ~C_{ij}~ là độ hài lòng của vị khách thứ ~i~ khi ngồi v
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 1000, | a_i | ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

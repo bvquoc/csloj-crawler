@@ -37,6 +37,3 @@ Ta có các đường đi sau: ~1→2;2→1;2→3;3→2;2→4;4→2;
 - ~25\%~ số test có ~n,m≤100000;k≤3~;
 - ~25\%~ số test có ~n,m≤100000;k≤4~;
 - ~20\%~ số test có ~n,m≤100000;k≤5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

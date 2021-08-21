@@ -33,6 +33,3 @@ Giữa hai đỉnh ~u, v~ của ~G'~ có cạnh nối ~⇔~ có đường đi t�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

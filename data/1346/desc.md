@@ -50,6 +50,3 @@ Khi đó:
 - ~10\%~ số điểm có ~1≤n≤9~;
 - ~34\%~ số điểm khác có ~1≤n≤100~, kết quả ≤~10^6~;
 - ~56\%~ số điểm còn lại có ~n≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

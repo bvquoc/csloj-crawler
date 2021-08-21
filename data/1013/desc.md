@@ -29,6 +29,3 @@ Ban tổ chức kỳ thi lập trình Quốc gia năm ~2020~ có ~M~ chiếc k�
 - ~20\%~ số test khác có ~M≤10^3~
 - ~30\%~ số test khác có ~M≤10^6~
 - ~30\%~ số test còn lại không giới hạn gì thêm
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

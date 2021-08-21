@@ -37,6 +37,3 @@ Giáo sư X xuất phát từ trường nằm tại địa điểm ~1~. Ông mu�
 
 #### Giải thích: 
 - Hành trình cần tìm là: ~1→4→6→3→2→4→5→3→4→6→3→1~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -40,6 +40,3 @@ Có ~T~ câu hỏi dạng ~u,v (u≤v)~ yêu cầu cho biết trong đoạn ~a_u
 - ~40\%~ số điểm ứng với các test có ~N≤1000,T=1~;
 - ~40\%~ số điểm ứng với các test có ~N≤1000,T≤1000~;
 - ~20\%~ số điểm ứng với các test có ~N≤1000,T≤10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -22,6 +22,3 @@ Sắp tới là ngày thi học kỳ I. Là học sinh ngoan, Hiếu không mu�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 5000; 1 ≤ M ≤ 20000~; Độ dài các con đường không vượt quá ~32000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

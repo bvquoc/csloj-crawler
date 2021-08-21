@@ -42,6 +42,3 @@ Lễ hội sắp đến và đàn bò của nông dân John chuẩn bị gặp n
 - Tổng khoảng cách: ~1.1 + 2.1 + 6.2 = 15~
 
 (Đồng cỏ ~4~ và ~5~ cũng cho kết quả tối ưu tương tự)
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

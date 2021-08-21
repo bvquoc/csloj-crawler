@@ -21,6 +21,3 @@ Cho một dãy ~N~ ô vuông xếp kề nhau. Bạn hãy tính số cách tô m�
 
 ## Giới hạn:
 - ~N ≤ 10^9; K ≤ 5000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

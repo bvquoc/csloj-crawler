@@ -30,6 +30,3 @@ Xét một trò chơi dành cho ~N~ bạn thí sinh, bạn thí sinh thứ ~i~ �
 
 #### Giải thích:
 - Ban đầu, trong đoạn từ ~2~ đến ~4~ có một thành viên thuộc nhóm ~3~. Sau khi yêu cầu thứ ~2~ được thực hiện, các thành viên mang số hiệu nhóm là ~2~ sẽ chuyển sang nhóm có số hiệu là ~3~ và các thành viên có số hiệu nhóm là ~3~ lại chuyển sang nhóm có số hiệu là ~2~. Từ đó, kết quả bài toán ở yêu cầu thứ ~3~ là ~2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

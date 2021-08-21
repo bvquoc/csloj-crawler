@@ -80,6 +80,3 @@ Trong ví dụ đầu tiên:
 - Khu vực ~12~ có các ngọn núi ~3, 6~ và ~7~.
 Trong ví dụ thứ hai: ~4~ dữ liệu ra mẫu, từ trên xuống dưới, lần lượt cho ~17\%~ số điểm, ~46\%~ số 
 điểm, ~77\%~ số điểm và ~100\%~ số điểm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

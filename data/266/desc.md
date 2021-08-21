@@ -21,6 +21,3 @@ Trước mặt Mario là một dãy ~10~ cây nấm xếp thành một hàng dà
 ```
 
 **Giải thích:** Mario hái các cây nấm số ~7,8~ và ~9~ sẽ được tổng giá trị là ~21+34+55=110~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

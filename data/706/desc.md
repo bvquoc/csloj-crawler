@@ -18,6 +18,3 @@ Hãy đếm số cách đặt ~k~ quân xe lên bàn cờ ~n×n~ sao cho không 
 ```
 2
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

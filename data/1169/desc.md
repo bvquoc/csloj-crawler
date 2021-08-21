@@ -103,6 +103,3 @@ Trong ví dụ đầu tiên, ~6~ tổ tiên trong gia tộc lần lượt có
 
 Trong ví dụ thứ hai, ~6~ tổ tiên trong gia tộc lần lượt có tên là `𝑎`, `𝑎𝑏𝑐`, `𝑎𝑏`, `𝑎𝑏𝑐`, `𝑎𝑏𝑎𝑏`, `𝑎𝑎𝑏`.
 - Đoạn văn thứ hai cần xét là `𝑎𝑏𝑐`. Tổ tiên số ~2~ và số ~4~ đều có tên có thứ tự từ điển lớn nhất không quá đoạn văn. Do đó ~2~ được in ra vì có chỉ số nhỏ hơn.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

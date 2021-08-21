@@ -51,6 +51,3 @@ aecb
 - Có ~30\%~ số điểm tương ứng ~30\%~ số test có ~1≤k<m≤n≤200~;
 - Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~200 < k < m ≤ n ≤ 10^4~;
 - Có ~40\%~ số test khác tương ứng với ~40\%~ số điểm có ~10^4 < k < m ≤ n ≤ 2.10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

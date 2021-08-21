@@ -23,6 +23,3 @@ Cho ma trận vuông ~A~ cấp ~m~ và một số nguyên dương ~n~. Hãy tín
 
 ## Giới hạn:
 - ~1 ≤ m ≤ 100; 1 ≤ n ≤ 10^{18}; 0 ≤ a_{ij} ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

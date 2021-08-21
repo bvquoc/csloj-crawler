@@ -56,6 +56,3 @@ NO
 - Mảnh vườn ban đầu là phần xanh đậm
 - Phần vườn mở rộng là phần xanh nhạt
 - Phần không thuộc vờn nha giáo sư (sau khi đã mở rộng) là phần màu trắng
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

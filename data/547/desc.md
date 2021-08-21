@@ -43,6 +43,3 @@ Cho một bàn cờ hình vuông kích thước ~N×N~ được chia thành ~N~ 
 
 ## Giới hạn:
 - ~5 ≤ n ≤ 30~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

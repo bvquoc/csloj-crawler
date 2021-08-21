@@ -28,6 +28,3 @@ Các bạn học sinh thường so kè nhau về chiều cao nên hay đếm xem
 ## Giới hạn:
 - **Subtask** ~1\ (50\%): n≤5000~;
 - **Subtask** ~2\ (50\%): n≤3×10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -27,6 +27,3 @@ Ví dụ dưới đây, khi ~k=2~ Thì ô ~(3,3)~ là ô phải tìm với các 
 ```
 342
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

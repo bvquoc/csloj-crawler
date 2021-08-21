@@ -39,6 +39,3 @@ Mỗi vệt có kích thước ngang đúng bằng kích thước ô vuông, và
 ## Giới hạn:
 - ~50\%~ số điểm có ~𝑛, 𝑚, 𝑞 ≤ 100~;
 - ~50\%~ số điểm còn lại có ~𝑛, 𝑚 ≤ 1000; 𝑞 ≤ 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

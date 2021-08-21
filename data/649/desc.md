@@ -40,6 +40,3 @@ nguyên thứ ~j~ là quãng đường di chuyển từ công ty ~i~ đến côn
 #### Giải thích
 - Thanh tra ~A~ sẽ đi kiểm tra các công ty ~1, 2, 3~. Tổng quãng đường di chuyển của thanh tra ~A~ là ~3~;
 - Thanh tra ~B~ sẽ đi kiểm tra công ty ~4~. Tổng quãng đường di chuyển của thanh tra ~B~ là ~0~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

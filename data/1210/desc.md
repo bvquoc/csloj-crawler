@@ -27,6 +27,3 @@ Cho dãy số ~a_1,a_2,…,a_N~ và ~2~ số nguyên dương ~L,R\ (L,R≤N)~. T
 - ~20\%~ số test có ~n≤100~;
 - ~40\%~ số test khác có ~n≤5000~;
 - ~40\%~ số test còn lại có ~n≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

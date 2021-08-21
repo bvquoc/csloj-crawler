@@ -38,6 +38,3 @@ Hãy giúp Bờm giải quyết bài toán trên.
 - Có ~40\%~ số điểm có ~𝑛 ≤ 1000~;
 - Có ~30\%~ số điểm khác có ~1 ≤ 𝑎_𝑖 ≤ 3~;
 - Có ~30\%~ số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

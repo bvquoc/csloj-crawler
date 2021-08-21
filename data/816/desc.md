@@ -35,6 +35,3 @@ Hai số liên tiếp được ghi cách nhau một dấu cách.
 - Có ~40\%~ số test tương ứng ~40\%~ số điểm có ~N≤300~
 - Có ~40\%~ số test khác tương ứng ~40\%~ số điểm có ~300<N≤5000~
 - ~20\%~ số test còn lại tương ứng ~20\%~ số điểm có  ~5000<N≤3.10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

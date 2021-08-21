@@ -36,6 +36,3 @@ Ta có loại phép biến đổi bảng như sau: Tráo hai ô liên tiếp tr�
 #### Giải thích:
 Ta đưa bảng về như hình dưới đây:
 <center><img src="/images/problems/1261/game2.svg" with="500px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

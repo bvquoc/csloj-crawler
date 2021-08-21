@@ -25,6 +25,3 @@ Nhà Bờm có ~n~ máy tính xếp thẳng hàng (cố định) được đánh
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 25000; 1 ≤ d_i < 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

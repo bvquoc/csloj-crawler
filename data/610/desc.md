@@ -35,6 +35,3 @@ Có ~N~ điểm nằm trên trục ~Ox~, điểm thứ ~i~ có tọa độ ~X_i~
 #### Giải thích:
 - Trong ví dụ thứ nhất, một trong các hình trình ngắn nhất có thể là: ~0 → −3 → 1 → 4 → 0~.
 - Trong ví dụ thứ hai, một trong các hình trình ngắn nhất có thể là: ~0 → −3 → 0~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

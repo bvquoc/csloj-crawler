@@ -29,6 +29,3 @@ HD trồng một loại cây chỉ có ~2~ vòng sinh trưởng trong một năm
 - Câu hỏi ~1: n=0→h=1~;
 - Câu hỏi ~2: n=1→h=2~. Cây cao gấp đôi;
 - Câu hỏi ~3:n=2→h=3, n=3→h=6, n=4→h=7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

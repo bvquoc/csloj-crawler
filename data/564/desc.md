@@ -29,6 +29,3 @@ Cho biết cái túi đựng được tối đa là ~M~ kg vàng và trên đả
 
 ## Giới hạn:
 - Trong tất cả các test có: ~1≤ N≤ 100; 1 ≤ M, w_i, v_i ≤ 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

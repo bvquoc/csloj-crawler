@@ -46,6 +46,3 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 1000; 0 ≤ m ≤ \frac{n(n – 1)}{2}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

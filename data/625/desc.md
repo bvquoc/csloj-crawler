@@ -22,6 +22,3 @@ Cho ~f(x) = a ×x^2 + b ×x + c~ và giá trị của ~a, b, c, x~. Bạn hãy t
 ## Giới hạn:
 - ~50\%~ số test: ~0 ≤ a, b, c, x ≤ 10^3~;
 - ~50\%~ số test còn lại không giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

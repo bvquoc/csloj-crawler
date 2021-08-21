@@ -21,6 +21,3 @@ Cho hai số nguyên không âm ~A, B\ (0 ≤ A≤B≤10^{200})~, đếm số l�
 
 #### Giải thích:
 - Các số Fiboonacci nằm trong đoạn ~[1, 20]~ là ~1, 1, 3, 5, 8, 13~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

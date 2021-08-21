@@ -42,6 +42,3 @@ T.*S..##S#
 - ~30\%~ số test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~n \le 100~ và địa hình không có ô kém chất lượng;
 - ~30\%~ số test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~n\le 10^5~ và các ô thuộc hàng ~3~ của địa hình đều là ô cấm;
 - ~10\%~ số test còn lại ứng với ~10\%~ số điểm của bài thỏa mãn điều kiện: ~\le 10^5~ và không có điều kiện gì thêm trên địa hình.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

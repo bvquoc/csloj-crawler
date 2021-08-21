@@ -34,6 +34,3 @@ ha
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm của bài có ~n=2~ và độ dài xâu ~s~ không vượt quá ~30~;
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm của bài có ~n≤100~ và độ dài xâu ~s~ không vượt quá ~100~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm còn lại của bài có ~n≤1000~ và độ dài xâu ~s~ không vượt quá ~10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

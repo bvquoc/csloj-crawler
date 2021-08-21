@@ -35,6 +35,3 @@ Pha lê Swarovski được dùng làm đồ trang sức vô cùng đẹp và vô
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~a_i≤2,1≤i≤n≤100~
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~n≤5.10^4~
 - ~30\%~ số test còn lại tương ứng ~30\%~ số điểm không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

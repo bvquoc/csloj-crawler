@@ -55,6 +55,3 @@ In ra một dòng duy nhất chứa hoán vị thứ ~k~ theo thứ tự từ đ
 - Có ~30\%~ số điểm tương ứng với ~n ≤ 10~;
 - Có ~30\%~ số điểm khác tương ứng với ~n ≤ 20~.
 - Có ~40\%~ số điểm còn lại tương ứng với ~n ≤ 50~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

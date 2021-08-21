@@ -75,6 +75,3 @@ zzzzz
 - Ví dụ ~1:~ Cắt thành ~2~ phần `a` và `ba`. Nếu cắt thành ~3~ phần sẽ dẫn đến việc ghép lại thành xâu `aab`;
 - Ví dụ ~2:~ Cắt thành ~2~ phần `ba` và `bbaba`;
 - Ví dụ ~6:~ Có thể cắt thành các phần giống nhau.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

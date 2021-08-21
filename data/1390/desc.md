@@ -26,6 +26,3 @@ trong đó ~gcd(S)~ là số nguyên dương lớn nhất là ước của tất
 ## Giới hạn:
 - ~1 ≤ n ≤ 10^5 1 ≤ a_i ≤ 10^5~;
 - Subtask ~\#1: a_i~ đôi một phân biệt.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

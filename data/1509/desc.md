@@ -42,6 +42,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 
 #### Giải thích:
 <center><img src="/images/problems/1509/bonus.png" width=900px></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

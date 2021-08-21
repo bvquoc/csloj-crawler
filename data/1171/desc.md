@@ -104,6 +104,3 @@ poor professor
 #### Giải thích:
 - Trong bốn ví dụ đầu tiên, có ~10~ cách chọn thứ tự ăn ~5~ miếng chocolate. Đây là các hoán vị ~(𝑝_1, 𝑝_2, 𝑝_3, 𝑝_4, 𝑝_5)~ của các số ~(1, 2, 3, 4, 5)~ thoả mãn đồng thời ~𝑝_4 < 𝑝_1, 𝑝_3 < 𝑝_5, 𝑝_5 < 𝑝_2~. Các thứ tự hợp lệ (sắp xếp theo thứ tự từ điển tăng dần) là: ~(2, 5, 3, 1, 4), (3, 5, 1, 2, 4), (3, 5, 2, 1, 4), (4, 5, 1, 2, 3), (4, 5, 1, 3, 2), (4, 5, 2, 1, 3), (5, 3, 1, 4, 2), (5, 4, 1, 2, 3), (5, 4, 1, 3, 2), (5, 4, 2, 1, 3)~
 - Trong ví dụ cuối cùng, không có thứ tự ăn ~5~ miếng chocolate ~(𝑝_1, 𝑝_2, 𝑝_3, 𝑝_4, 𝑝_5)~ nào thoả mãn đồng thời ~𝑝_1 < 𝑝_2, 𝑝_2 < 𝑝_3~ và ~𝑝_3 < 𝑝_1~. Thám tử PVH chắc chắn đã đưa ra thông tin không chính xác trong trường hợp này!
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

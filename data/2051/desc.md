@@ -29,6 +29,3 @@ Hãy giúp nông dân John sửa ít tấm thẻ nhất mà vẫn đảm bảo �
 ```
 1
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

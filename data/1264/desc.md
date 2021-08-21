@@ -29,6 +29,3 @@
 - Subtask ~\#1: 0 ≤ 𝑥_𝑖, 𝑦_𝑖 ≤ 10^2; 𝑛 ≤ 10^2~;
 - Subtask ~\#2: 0 ≤ 𝑥_𝑖, 𝑦_𝑖 ≤ 10^4; 𝑛 ≤ 10^4~;
 - Subtask ~\#3: 𝑛 ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

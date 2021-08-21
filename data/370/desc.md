@@ -29,6 +29,3 @@ YES
 
 ## Giới hạn:
 - ~2 ≤ T ≤ 10; 1 ≤ a, b, c ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

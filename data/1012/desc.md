@@ -34,6 +34,3 @@ Cho đồ thị gồm ~N~ đỉnh đánh số từ ~1~ đến ~N~, đỉnh thứ
 ## Giới hạn:
 - ~50\%~ số test có ~N\le 100, M\le 200~
 - ~50\%~ số test còn lại không có ràng buộc gì thêm
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

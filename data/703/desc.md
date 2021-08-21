@@ -19,6 +19,3 @@ Cho ~N~ là một số nguyên dương không vượt quá ~10^9~. Hãy tìm s�
 
 #### Giải thích:
 - ~15! = 1307674368000~ (có ~3~ số không tận cùng).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -50,6 +50,3 @@ Dữ liệu đảm bảo có ít nhất một kết nối từ ~s~ đến ~t~ kh
 - Subtask ~\#2: 1 ≤ m ≤ 1000~;
 - Subtask ~\#3: 1 ≤ n ≤ 1000~;
 - Subtask ~\#4:~ Không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

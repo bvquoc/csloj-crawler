@@ -41,6 +41,3 @@ Hãy tính xem, nếu mọi người nhờ mua vé một cách thích hợp nh�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 60000, 1 ≤ t_i, r_i ≤ 30000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

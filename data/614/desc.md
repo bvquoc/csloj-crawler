@@ -47,6 +47,3 @@ Hình vẽ minh họa ví dụ thứ nhất (cạnh nét đứt biễu diễn c�
 - **Subtask** ~\#2~ ~(25\%\text{ số điểm}): Q = 1~;
 - **Subtask** ~\#3~ ~(40\%\text{ số điểm}): Q ≤ 3000~;
 - **Subtask** ~\#4~ ~(25\%\text{ số điểm}):~ Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

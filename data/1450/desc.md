@@ -46,6 +46,3 @@ Các số trên một dòng của input file được ghi cách nhau bởi dấu
 - ~20\%~ số điểm khác tương ứng ~N ≤ 3000, Q ≤ 10~;
 - ~20\%~ số điểm khác tương ứng với ~N≤10^6, Q≤10~;
 - ~40\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -31,6 +31,3 @@ Trên quốc lộ ~6~ mà ta coi như một trục tọa độ có ~N~ hộ dân
 
 ## Giới hạn:
 - ~1 < N ≤ 300; 1 < K ≤ 30; 0 ≤ x_i ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

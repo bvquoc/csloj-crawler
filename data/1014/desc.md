@@ -36,6 +36,3 @@ Cho đồ thị ~G~ có ~n~ đỉnh, các đỉnh được đánh số từ ~1~ 
 + ~30\%~ số test tương ứng ~30\%~ số điểm có ~m≤10~
 + ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~m~ cạnh tạo thành đồ thị liên thông
 + ~40\%~ số test còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

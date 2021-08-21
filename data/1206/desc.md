@@ -33,6 +33,3 @@ Một mạng nội bộ gồm ~n~ máy. Máy thứ ~i~ được đặt mật kh�
 - ~20\%~ số test khác có ~k≤14;n,m≤5×10^3~;
 - ~20\%~ số test khác có ~n,m≤5×10^3;k≤60~;
 - ~30%~ số test còn lại có ~m,m≤5×10^5;k≤60~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

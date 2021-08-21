@@ -30,6 +30,3 @@ Cho số nguyên dương ~𝑆~. Hãy đếm số cách phân tích ~𝑆~ thàn
 ## Giới hạn:
 - Subtask ~\#1: 30\%~ số điểm của bài có ~𝑆 ≤ 10~;
 - Subtask ~\#2: 70\%~ số điểm còn lại của bài có ~𝑆 ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -30,6 +30,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 ## Giới hạn:
 - ~1 ≤ n ≤ 20; 1 ≤ m ≤ 10^5; 1 ≤ w_i, v_i ≤ 10^6~.
 - **Chú ý:** Có ~50\%~ có ~n ≤ 15~ và ~m ≤ 100~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

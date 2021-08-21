@@ -45,6 +45,3 @@ Vì vậy với ~N = 9~ đáp số sẽ là ~2 + 3 + 4 + 5 + 3 + 7 + 4 + 6 = 34~
 ## Giới hạn:
 - Subtask ~\#1: 50\%~ số điểm có ~N ≤ 20~;
 - Subtask ~\#2: 50\%~ số điểm còn lại có ~N ≤ 10^7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

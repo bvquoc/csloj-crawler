@@ -24,6 +24,3 @@ Bài toán Tháp Hà Nội trở thành nổi tiếng vào năm ~1883~, sau bài
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 300; 1 ≤ N ≤ 64; 3 ≤ M ≤ 64~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

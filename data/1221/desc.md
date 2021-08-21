@@ -37,6 +37,3 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 - Làm dự án ~1:~ chi ~6~ (vốn ~= 7~), thu ~2~ (vốn ~= 9~);
 - Làm dự án ~6:~ chi ~9~ (vốn ~= 0~), thu ~2~ (vốn ~= 2~);
 - Làm dự án ~4:~ chi ~2~ (vốn ~= 0~), thu ~1~ (vốn ~= 1~).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

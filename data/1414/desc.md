@@ -52,6 +52,3 @@ Có tổng cộng ~K~ người tham gia vào bữa tiệc, và mỗi người s�
 - Subtask ~\#5: 11\%~ số điểm khác có ~1 ≤ K ≤ N ≤ 300~;
 - Subtask ~\#6: 20\%~ số điểm khác có ~1 ≤ K ≤ N ≤ 2000~;
 - Subtask ~\#7: 29\%~ số điểm cuối cùng không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

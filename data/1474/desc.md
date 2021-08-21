@@ -28,6 +28,3 @@ Khi trò chơi kết thúc, Hải Phong được ~X~ đồng, Hải Dương đư
 - ~10\%~ số điểm khác của bài thoả mãn điều kiện ~N≤10000;K≤900~;
 - ~20\%~ số điểm khác của bài thoả mãn điều kiện ~N≤10000~;
 - ~40\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

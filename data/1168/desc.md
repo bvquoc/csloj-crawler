@@ -71,6 +71,3 @@ Nếu chọn lựa chọn thứ ba, thầy giáo phải trả cho công ty ~𝑥
 - Trong ví dụ đầu tiên, thầy giáo có thể tăng thêm một cây ở loại ~1~ và huỷ bỏ toàn bộ số cây ở loại ~2~. Khi đó thầy có ~4~ cây mỗi loại ~1~ và ~3~, chia đều được vào ~4~ khu vườn.
 - Trong ví dụ thứ hai, số cây hiện tại đã đủ chia vào ~6~ khu vườn, nên thầy không cần thay đổi gì. 
 - Trong ví dụ thứ ba, phương án tối ưu là huỷ bỏ các cây thuộc loại ~2, 3~ và ~4~ và giữ nguyên số cây loại ~1~. Lưu ý rằng thầy giáo không thể thay đổi đơn hàng sao cho số cây chia đều vào ~9~ khu vườn; bởi số cây loại ~1~ và ~4~ không thể thay đổi quá ~1~; và nếu loại bỏ cả hai loại cây ~1~ và ~4~, tất cả các loại ~2~ và ~3~ cũng bị huỷ bỏ theo. Nhưng thầy cần giữ lại ít nhất một loại cây.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ Một kẻ trộm đột nhập vào một cửa hiệu tìm thấy có ~n~ món
 ```
 27
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

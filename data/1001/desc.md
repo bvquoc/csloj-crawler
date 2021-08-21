@@ -20,6 +20,3 @@ Nước **ODD** có các đồng xu mệnh giá sau  ~1, 3, 5, 10, 30, 50, 100, 
 - ~25\%~ số test khác có ~x ≤ 10^5, t ≤ 10^5~
 - ~25\%~ số test khác có ~x ≤ 5.10^7, t ≤ 5.10^7~
 - ~25\%~ số test còn lại có ~x ≤ 2.10^9, t ≤ 2.10^9~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

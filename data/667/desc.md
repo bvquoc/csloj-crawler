@@ -25,6 +25,3 @@ Cho một đường tròn tâm ~(s_1,s_2)~ bán kính ~r~ trên mặt phẳng t�
 <center><img src="/images/problems/667/QUAYTRON.png" width=400px></center>
 
 - Ta có thể biến đường tròn tâm ~(0,0)~ bán kính ~2~ thành đường tròn tâm ~(0,4)~ có cùng bán kính bằng việc thực hiện phép quay ~180~ độ quanh điểm ~(0,2)~ nằm trên đường tròn tâm ~(0,0)~ bán kính ~2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

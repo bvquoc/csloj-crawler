@@ -39,6 +39,3 @@ Các toạ độ là số nguyên có trị tuyệt đối không vượt quá ~
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~n,m≤1000~;
 - ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~n≤5000; m≤10^4~;
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm có ~n≤5000;m≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

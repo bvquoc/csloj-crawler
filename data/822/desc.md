@@ -30,6 +30,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Có ~20\%~ số test ứng với ~20\%~ số điểm của bài có ~1 ≤ m ≤ 20, 1 ≤ n ≤ 10, 1 ≤ w_i, a_i ≤ 10^9~ 
 - Có ~20\%~ số test ứng với ~20\%~ số điểm của bài có ~1 ≤ m ≤ 20, 1 ≤ n ≤ 10^5, 1 ≤ w_i, a_i ≤ 10^6~
 - Có ~40\%~ số test ứng với ~40\%~ số điểm của bài có ~1 ≤ m ≤ 20, 1 ≤ n ≤ 10^5, 1 ≤ wi_, a_i ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

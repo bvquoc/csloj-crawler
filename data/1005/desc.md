@@ -28,6 +28,3 @@ Cho dãy số nguyên gồm ~N~ phần tử ~a_1, a_2, ..., a_N\ \left(N ≤ 100
 - ~30\%~ số test có ~K = 0~.
 - ~35\%~ số test có ~K ≤ 500~.
 - ~35\%~ số test có ~K ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

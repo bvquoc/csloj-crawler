@@ -23,6 +23,3 @@
 
 #### Giải thích:
 - Phương án tối ưu là lựa chọn dãy ~3~ kho vàng ~1, 3~ và ~5~ với tổng dự trữ là ~3 + 9 + 7 = 19~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

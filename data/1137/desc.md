@@ -33,6 +33,3 @@ Tất nhiên là BT đã quyết định chọn một hàng rào trong số các
 1 2
 2 3 1
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

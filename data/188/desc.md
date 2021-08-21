@@ -24,6 +24,3 @@ Hai anh em chơi một trò chơi so sánh như sau với ~3~ cặp ~(a_0,b_o),(
 ```
 1 1
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

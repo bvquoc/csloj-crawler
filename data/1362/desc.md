@@ -31,6 +31,3 @@ Bờm và Cuội vừa học về số dư. Hai bạn say sưa tính toán nhữ
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~2≤m,n≤1000;1≤a_i,b_j≤7000~;
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~m,n≤10^5;1≤a_i,b_j≤7000~;
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm có ~7000≤m,n≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ Cho hai số nguyên ~n,y~. Hãy cho biết ngày thứ ~n~ (ngày mùng ~1~ th�
 
 ## Giới hạn:
 - Trong tất cả các test: ~1≤n≤365,1900≤y≤2050~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

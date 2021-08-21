@@ -43,6 +43,3 @@ Kế hoạch xây dựng luôn thay đổi, có ~m~ sự kiện thuộc hai ki�
 - Subtask ~\#1~: ~30\%~ số test có ~∑n <=1000, ∑m <=1000~
 - Subtask ~\#2~: ~30\%~ số test khác có ~∑n <=1000, ∑m <=50000~
 - Subtask ~\#3~: ~40\%~ số test còn lại không có giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

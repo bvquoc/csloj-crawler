@@ -54,6 +54,3 @@ Bờm đã đưa cho Cuội một danh sách các cặp số được phép đ�
 - Có ~25\%~ số điểm tiếp theo đồ thị trong dữ liệu sẽ có dạng không có chu trình;
 - Có ~25\%~ số điểm tiếp theo đồ thị trong dữ liệu có dạng mỗi đỉnh thuộc không quá một chu trình đơn.
 - Có ~25\%~ số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

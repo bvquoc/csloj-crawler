@@ -48,6 +48,3 @@ NO
 - Subtask ~\#3: 30\%~ số điểm khác có ~5< n ≤200~;
 - Subtask ~\#4: 30\%~ số điểm khác có ~200< n≤2000;1≤m≤10^5~;
 - Subtask ~\#5: 20\%~ số điểm khác có ~2000< n≤10^5;1≤m≤ 5×10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

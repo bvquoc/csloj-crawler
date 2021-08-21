@@ -33,6 +33,3 @@ Xét lưới ô vuông vô hạn trong đó có một số ô cấm, các ô cò
 - Có ~30\%~ số test có ~−10^3 ≤ x_t, y_t≤ 10^3;  −10^3 ≤ x_i, y_i≤ 10^3~;
 - Có ~20\%~ số test có ~n = 0, k=2, l=3\text{ và }−10^6 ≤ x_t, y_t≤ 10^6~;  
 - Có ~10\%~ số test còn lại có ~n = 0\text{ và }−10^6 ≤ x_t, y_t≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

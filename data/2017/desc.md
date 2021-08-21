@@ -42,6 +42,3 @@ Bây giờ nhà thiết kế được giao nhiệm vụ trồng cây ở tất c
     - ~N × M × R^2 ≤ 10^7~, trong đó ~R~ là bán kính lớn nhất trong các bán kính, đạt ~24\%~ số điểm;
     - Tồn tại hình vuông với các cạnh có độ dài ~2015~, song song với các trục toạ độ chứa toàn bộ khu đất (mỗi điểm thuộc khu đất đều thuộc hình vuông này) đạt ~20\%~ số điểm.
 - ~40\%~ số lượng test: không có hạn chế bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

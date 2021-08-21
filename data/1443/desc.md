@@ -26,6 +26,3 @@ Nobita được ném ~1~ lần và buộc phải nhằm vào một chai nào đ�
 ```
 
 **Giải thích:** Nhằm vào chai thứ ~5~ hoặc thứ ~6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

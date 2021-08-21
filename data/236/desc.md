@@ -39,6 +39,3 @@ Cho dãy ~n~ số nguyên ~a_1,a_2,…,a_n~. Hãy tìm tất cả các cặp ~a_
 ```
 2 3 3 4 4 5
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

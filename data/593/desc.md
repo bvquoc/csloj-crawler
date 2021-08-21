@@ -31,6 +31,3 @@ Hãy giúp Bờm đặt các thiết bị tăng tốc sao cho tốc độ kết 
 <center><img src="/images/problems/593/NETACCEL.png" width="400px" /></center>
 
 - Ta gắn hai thiết bị tăng tốc vào kênh truyền giữa máy ~2~ và máy ~3~, thời gian truyền trên kênh này giảm xuống còn ~9/2/2 = 2.25~. Lúc này đường truyền ~1→2→3→5~ là đường truyền nhanh nhất với thời gian là ~4.25~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

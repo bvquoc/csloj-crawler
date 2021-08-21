@@ -32,6 +32,3 @@ Cho hai số nguyên không âm ~a~ và ~b~. Hãy tính ~a + b~.
 
 ## Giới hạn:
 - ~0 ≤ a, b < 10^{1000000} (a, b\text{ có không quá }10^5\text{ chữ số})~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -43,6 +43,3 @@ CABAAC
 - Có ~30\%~ số test ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~r = 0; m \le 10^3~;
 - ~40\%~ số test khác ứng với ~40\%~ số điểm của bài thỏa mãn điều kiện: ~r = m_1+m_2 \le 10; m \le 10^3~ và xâu ~S~ chỉ gồm hai kí tự `A` và `B`;
 - ~30\%~ số test còn lại ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~m \le10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

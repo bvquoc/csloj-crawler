@@ -29,6 +29,3 @@ Ví dụ ~n = 3~ và ~v_1 = 2, w_1 = 3, v_2 = 10, w_2 = 12, v_3 = 17, w_3 = 17~ 
 - ~20\%~ có ~N≤100~;
 - ~20\%~ có ~N≤200~;
 - ~20\%~ có ~N≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -23,6 +23,3 @@ Cho số nguyên dương ~n~, đếm xem có bao nhiêu số PALINDROM có ~n~ c
 
 ## Giới hạn:
 - Có không quá ~10^5~ dòng (tests), ~1≤n≤15~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ Ban đầu bạn được cho một số ~N\ (N~ là ước của ~M)~. Bạn đ
 #### Giải thích:
 - Lần thứ nhất biến đổi ~10 → 70~ qua thao tác ~5\ 14~;
 - Lần thứ hai biến đổi ~70 → 105~ qua thao tác ~35\ 3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

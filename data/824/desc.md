@@ -48,6 +48,3 @@ Hãy giúp Ming thay đổi không quá ~𝑘~ túi thính để có thê�
 #### Giải thích:
 - Trong ví dụ thứ nhất, một phương án tối ưu là thay đổi độ hấp dẫn của các túi thính thứ ~2~ và ~4~ thành ~4~. Khi đó độ hấp dẫn của các túi thính là ~\{4,4,4,4,4\}~. Chênh lệch giữa hai túi thính cạnh nhau là ~0~.
 - Trong ví dụ thứ hai, một phương án tối ưu là thay đổi độ hấp dẫn của các túi thính thứ ~3~ và ~4~ thành ~4~ và ~6~. Độ hấp dẫn của các túi thính trở thành ~\{1,2,4,6,8,9\}~. Chênh lệch giữa hai túi thính cạnh nhau lớn nhất là ~2~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

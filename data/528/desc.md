@@ -33,6 +33,3 @@ Hãy tính xem có bao nhiêu cách khác nhau để John có thể làm như v�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10^5; |a_i| ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

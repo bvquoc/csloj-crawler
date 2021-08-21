@@ -26,6 +26,3 @@ Ghi ra chuỗi ~2~ kí tự ~XY~, với ~X, Y~ là đáp án tương ứng cho m
 ```
 10
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

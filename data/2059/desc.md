@@ -45,6 +45,3 @@ Cho trước hai số nguyên dương ~N~ và ~K~, hãy tìm phần dư trong ph
 - Ví dụ ~1:~ Có ba xâu: ~011,110,111~;
 - Ví dụ ~2:~ Có tất cả xâu nhị phân độ dài ~5~ ngoại trừ ~00000~;
 - Ví dụ ~3:~ Không có xâu thỏa mãn.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

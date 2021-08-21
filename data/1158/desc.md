@@ -23,6 +23,3 @@ YES
 Trong test ví dụ đầu tiên:
 - Ở vòng đấu thứ nhất, biếu diễn ~N = 3~ dưới dạng một dãy nhị phân là ~011~, không tồn tại phép biến đổi nào để thu được số nhỏ hơn nên vì vậy Xuân Trường không thể thắng cuộc.
 - Vòng đấu thứ hai, biểu diễn ~N = 5~ dưới dạng một dãy nhị phân là ~101~. Trong lượt của mình, Xuân Trường biến đổi thành dãy nhị phân ~011~. Vì lượt sau Đức Chinh không thể thực hiện phép biến đổi để số thu được nhỏ hơn số trước đó nên Xuân Trường thắng.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

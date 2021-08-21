@@ -44,6 +44,3 @@ Bạn hãy giúp Long trả lời thầy nhé. Vì kết quả có thể rất l
 ## Giới hạn:
 - ~40\%~ số test có ~N<=50~ và số dấu hỏi bé hơn ~10~
 - ~60\%~ test còn lại có ~2<=N<=200~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

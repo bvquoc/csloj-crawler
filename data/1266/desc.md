@@ -33,6 +33,3 @@ thứ ~𝒊~.
 
 ## Giới hạn:
 - ~𝒏 ≤ 𝟏𝟎𝟎𝟎, 𝒎 ≤ 𝟐𝟎~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

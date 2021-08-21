@@ -31,6 +31,3 @@ Vào năm ~3000~, các thí sinh tham dự kỳ thi tốt nghiệp THPT không c
 - ~20\%~ số điểm khác có ~r_i < l_j, ∀ i < j; n, m ≤ 5000~;
 - ~30\%~ số điểm khác có ~n, m ≤ 5000~;
 - ~30\%~ số điểm còn lại có ~n, m ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

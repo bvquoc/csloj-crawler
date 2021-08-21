@@ -48,6 +48,3 @@ Các số trên một dòng phải ghi cách nhau bởi ít nhất một dấu c
 - ~15\%~ số test khác ứng với ~15\%~ số điểm thỏa mãn điều kiện xâu nhập vào không có kí tự ~`0`~;
 - ~20\%~ số test khác ứng với ~20\%~ số điểm có ~n≤30~;
 - ~30\%~ số test khác ứng với ~30\%~ số điểm có ~n≤50~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

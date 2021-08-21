@@ -39,6 +39,3 @@ Các số trên cùng một dòng được ghi cách nhau ít nhất một dấu
 - Có ~25\%~ số test khác ứng với ~25\%~ số điểm của bài có ~m = 1; n ≤ 10^6~;
 - Có ~25\%~ số test khác ứng với ~25\%~ số điểm của bài có ~m, n ≤ 1000~;
 - Có ~25\%~ số test còn lại với ~25\%~ số điểm của bài có ~m × n ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

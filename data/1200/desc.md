@@ -40,6 +40,3 @@ Y
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~N,Q≤1000~;
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~N,Q≤100000;0≤X_i,Y_i≤1;b_j=1~;
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm có ~N,Q≤3.10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

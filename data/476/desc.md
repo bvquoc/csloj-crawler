@@ -27,6 +27,3 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 
 #### Giới hạn:
 - ~1 ≤ M, N ≤ 500; 1 ≤ K ≤ 10^9; 0 ≤ a_i ≤ 10^4~. Tổng lượng ngô không vượt quá ~2\times 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

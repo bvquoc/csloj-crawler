@@ -35,6 +35,3 @@ Tổng chiều cao của giá sách là ~5+13+3=21~
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 2000; 1 ≤ L, h_i ≤ 10^9; 1 ≤ w_i ≤ L~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

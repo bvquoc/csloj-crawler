@@ -26,6 +26,3 @@ Cho ~n~ số nguyên dương ~a_1,a_2,…,a_n\  (1≤a_i≤10^6,1≤i≤n)~. Hã
 
 #### Giải thích:
 - ~a_4×a_7×a_8=8\times 9 \times 12 = 864~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

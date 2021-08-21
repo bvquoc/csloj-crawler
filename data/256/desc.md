@@ -20,6 +20,3 @@ Cho dãy số nguyên ~a_1,a_2,…,a_N~. Số ~a_p\ (1≤p≤N)~ được gọi 
 ```
 2
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

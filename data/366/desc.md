@@ -26,6 +26,3 @@ CHUC MUNG NAM MOI
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10^4~; Các lời chúc có độ dài không quá ~30~ ký tự gồm các chữ cái latinh IN HOA ‘A’…’Z’ và dấu cách.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

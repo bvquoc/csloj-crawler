@@ -81,6 +81,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 Toàn bộ test thoả mãn điều kiện: ~n ≤ 10^5, 0 ≤ x_a, y_a, x_b, y_b, x_c, y_c ≤ 10^6~;
 + Có 25% số test thoả mãn điều kiện: ~x_a = y_a = x_b = y_b = x_c = y_c~;
 + Có 50% số test thoả mãn điều kiện: ~n ≤ 10^3~;
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

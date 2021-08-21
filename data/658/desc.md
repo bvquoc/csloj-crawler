@@ -32,6 +32,3 @@ Biết rằng chi phí xây dựng thư viện ở thành phố ~i~ là ~a_i~. H
 - Ở ví dụ trên, ta có thể xây dựng thư viện ở thành phố ~3~ và ~4~ với tổng chi phí ~2 + 3 = 5~. Khi đó:
     - Từ thành phố ~1, 2, 4~ có thể đi đến thành phố ~4~ (thành phố có thư viện)
     - Từ thành phố ~3, 5~ có thể đi đến thành phố ~3~ (thành phố có thư viện)
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

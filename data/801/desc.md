@@ -35,6 +35,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Có ~25\%~ số test khác ứng với ~25\%~ số điểm của bài có ~a,b≤ 10^3; T ≤ 1000~;
 - Có ~25\%~ số test khác ứng với ~25\%~ số điểm của bài ~a,b≤ 10^6; T=1~;
 - Có ~25\%~ số test khác ứng với ~25\%~ số điểm còn lại của bài có ~a,b≤ 10^{12}; T ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

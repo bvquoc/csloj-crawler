@@ -77,6 +77,3 @@ Có ~13~ hình ~1×1~, ~7~ hình ~1×2~, ~3~ hình ~1×3~, ~1~ hình ~1×4~, ~8
 - *Subtask #~3~* (~25\%~ số điểm): ~n≤400,Q≤1000~;
 - *Subtask #~4~* (~20\%~ số điểm): ~n≤1 000,Q=0~;
 - *Subtask #~5~* (~20\%~ số điểm): ~n≤1 000,Q≤10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

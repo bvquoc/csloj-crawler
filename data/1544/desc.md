@@ -74,6 +74,3 @@ Alice
 - ~50\%~ số điểm của bài có tổng độ dài tên tất cả các bài hát không quá ~2000~ ký tự.
 
 **Chú ý:** Những bài làm chỉ ghi ra "Alice" hoặc "Bob" sẽ không được điểm!!!!
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

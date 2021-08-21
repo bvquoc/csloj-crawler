@@ -40,6 +40,3 @@ Có ~N~ viên bi màu được sắp thành một hàng trên mặt đất, mỗ
 + Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~K ≤ 5; N ≤ 20000~
 + Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~K ≤ 10; N ≤ 10^6~   
 + Có ~20\%~ số test còn lại tương ứng ~20\%~ số điểm có ~K ≤ 20;N ≤ 10^6~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

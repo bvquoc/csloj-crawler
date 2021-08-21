@@ -31,6 +31,3 @@ NO
 - ~50\%~ số test có ~1≤a≤ b≤ c≤10^4~
 - ~25\%~ số test khác có ~1≤a,b,c≤10^6~
 - ~25\%~ số test còn lại có ~1≤a,b,c≤10^8~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

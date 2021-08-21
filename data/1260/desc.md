@@ -30,6 +30,3 @@ trong đó ~𝑥_𝑖, 𝑦_𝑖~ là thứ tự của ký tự ~𝑋_𝑖, 𝑌
 ## Giới hạn:
 - **Subtask** ~\#1~: độ dài các xâu ~𝑆_𝑖~ không vượt quá ~10~, xâu chỉ chứa ký tự ‘0’, ‘1’;
 - **Subtask** ~\#2~: độ dài các xâu ~𝑆_𝑖~ không vượt quá ~30~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

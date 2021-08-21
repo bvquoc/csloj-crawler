@@ -33,6 +33,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Có ~40\%~ số test của bài có ~1 ≤ k ≤ n ≤ 20, 0 ≤ x_i ≤ 10^3, 1 ≤ s_i ≤ 10^3~
 - Có ~20\%~ số test của bài có ~1 ≤ n ≤ 100, 1 ≤ k ≤ 30, k ≤ n, 0 ≤ x_i ≤ 10^6, 1 ≤ s_i ≤ 10^3~
 - Có ~40\%~ số test của bài có ~1 ≤ n ≤ 1000, 1 ≤ k ≤ 30, k ≤ n, 0 ≤ x_i ≤ 10^9, 1 ≤ s_i ≤ 10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

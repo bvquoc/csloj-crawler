@@ -27,6 +27,3 @@
 - Subtask ~\#1: 40\%\text{ có }M=1~;
 - Subtask ~\#2: 20\%\text{ có }N≤1000~;
 - Subtask ~\#3: 20\%\text{ có }N≤50000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

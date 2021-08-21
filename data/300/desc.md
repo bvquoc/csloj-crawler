@@ -21,6 +21,3 @@ Cho hai số nguyên dương ~a~ và ~b~. Tính diện tích, chu vi của hình
 - ~50\%~ số test có ~1≤a,b≤10^4~
 - ~25\%~ số test khác có ~1≤a≤10^4,1≤b≤10^9~
 - ~25\%~ số test còn lại có ~1≤a,b≤10^9~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -50,6 +50,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 <center><img src="/images/problems/1523/equake.png" width=400px></center>
 
 - Cần hai xe vận chuyển ~19~ nhân viên cứu hộ từ thành phố ~3~ về thành phố ~1~ và hai xe vận chuyển ~20~ nhân viên cứu hộ từ thành phố ~4~ về thành phố ~2~, cuối cùng cần một xe vận chuyển ~1~ nhân viên từ thành phố ~1~ sang thành phố ~2~. Độ chênh lệch nhân viên cứu hộ giữa các thành phố bằng ~1~ và tổng độ dài đường đi của các xe là ~2×1 + 2×2 + 1×1 = 7~ (km).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

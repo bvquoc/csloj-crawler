@@ -29,6 +29,3 @@ CCHHCCCCHHHHCCHHCCHCCHCCHHHH
 - Subtask ~\#1: n ≤ 50~;
 - Subtask ~\#2: n ≤ 1000~;
 - Subtask ~\#3: n ≤ 20000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

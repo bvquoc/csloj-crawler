@@ -29,6 +29,3 @@ Một ngày nọ, anh muốn thăm ~K~ người bạn gái của mình, tuy nhi�
 
 ## Giới hạn:
 - ~50\%~ có ~N,K≤10^7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

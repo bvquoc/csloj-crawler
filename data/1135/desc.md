@@ -46,6 +46,3 @@ chữ số của ~C~ tối đa là ~10000~ chữ số).
 - ~25\%~ số test có ~𝐶 < 1000~ 
 - ~25\%~ số test khác có ~𝐶 < 10^6~ 
 - ~50\%~ số test còn lại không có ràng buộc gì thêm
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

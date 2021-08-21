@@ -40,6 +40,3 @@ Ghi ra một số nguyên duy nhất là kết quả của bài toán theo mo
 - Những đoạn con có ~Sum≤S: [1], [1,2], [2], [3] ⇒ P_2=1.1.1+1.2.3+2.2.2+3.3.3=42~.
 
 Do đó ~P_1+P_2=143~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -36,6 +36,3 @@ X nhờ bạn xác định tổng độ dài quãng đường chạy lớn nhấ
 
 #### Giải thích:
 - X chạy trong phút thứ ~1~, nghỉ trong phút thứ ~2~, chạy trong phút thứ ~3~ rồi nghỉ trong hai phút cuối.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

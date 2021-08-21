@@ -31,6 +31,3 @@ Cho đồ thị có hướng gồm ~N~ đỉnh, ~M~ cung (có trọng số là �
 #### Giải thích:
 - Đường đi ngắn nhất: ~1→2→4~ hoặc ~1→3→4~ độ dài ~10~
 - Đường đi ngắn nhì: ~1→2→3→4~  độ dài 11
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -31,6 +31,3 @@ Cho một dãy số nguyên gồm ~N~ phần tử ~a_1,a_2,…,a_N~. Gọi ~f(A)
 - ~30\%~ số test có ~N≤50~
 - ~30\%~ số test khác có ~N≤2000~
 - ~40\%~ số test còn lại có ~N≤3.10^5~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

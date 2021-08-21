@@ -25,6 +25,3 @@ Cho ~4~ số nguyên dương ~A, B, C, D~. Hãy xác định số lượng cặp
 
 #### Giải thích:
 - ~6~ cặp số thỏa mãn là ~(0.25,0.375),(0.5,0.25),(0.75,0.125), (0.25,0.875), (0.5,0.75), (0.75,0.625)~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

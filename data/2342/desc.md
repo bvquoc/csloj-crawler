@@ -32,6 +32,3 @@ Nếu có nhiều cặp ~(S, T )~ thỏa mãn (tối ưu), in ra bất cứ cặ
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 500~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

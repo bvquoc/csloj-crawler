@@ -38,6 +38,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 
 #### Giải thích:
 Trước tiên tác động vào công tắc ở ô ~(1, 3)~, sau đó tác động vào công tắc ở ô ~(1, 2)~, khi đó tất cả các đèn trên giàn đều sáng màu đỏ.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -21,6 +21,3 @@ Với số nguyên ~n~ cho trước ~(0 < n ≤ 100)~, hãy xác định số x�
 
 ## Giới hạn:
 - ~50\%~ số test có ~n\le 30~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

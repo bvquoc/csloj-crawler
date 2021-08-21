@@ -46,6 +46,3 @@ Nhiệm vụ của bạn là, với mỗi nhà thầu, xác định chi phí xâ
 - Nhà thầu ~1~: Xây ~4~ sân bay, tổng chi phí là ~28~.
 - Nhà thầu ~2~: Xây ~2~ đường bộ và ~2~ sân bay ở ~1~ và ~4~, tổng chi phí là ~9+9+2×10 = 38~.
 - Nhà thầu ~3~: Không thể thỏa mãn yêu cầu chỉ với ~1~ sân bay.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

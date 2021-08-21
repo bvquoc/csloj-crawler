@@ -54,6 +54,3 @@ Hãy đếm xem, thầy giáo có bao nhiêu cách phát xu? Hai cách phát đ�
 - Cách ~\#6~: ~50, 1, 50, 50~ 
 - Cách ~\#7~: ~50, 1, 50, 1~ 
 - Cách ~\#8~: ~50, 1, 50, 2~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

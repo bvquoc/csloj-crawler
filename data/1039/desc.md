@@ -35,6 +35,3 @@ Với mỗi bộ dữ liệu, in ra kết quả tìm được tương ứng
 2
 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

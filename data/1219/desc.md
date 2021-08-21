@@ -26,6 +26,3 @@ Ví dụ với ~𝑥 = 1234, 𝑛 = 3, 𝑚 = 9~, số ~𝑦 = 123412341234~, s�
 2
 5152901139
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

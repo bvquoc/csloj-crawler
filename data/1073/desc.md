@@ -51,6 +51,3 @@ Chuyển đổi từ chiến thuật “phân bố rải rác” sang “canh t�
 
 ## Giới hạn:
 - ~N≤200; |X_i|, |Y_i|≤10^8~; Trong ~50\%~ số test có ~N ≤ 20~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

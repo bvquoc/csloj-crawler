@@ -59,6 +59,3 @@ Bạn, một học trò xuất sắc của giáo sư, hãy giúp giáo sư tính
 <center>Hình minh họa cho bữa tiệc 1 trong test đề bài</center>
 
 Trong bữa tiệc này, những người số ~1, 2, 3, 7, 9, 10, 12, 13~ dùng hết ~2+3+4+5+6+7+8+10=45~ đơn vị cocktail để đạt độ sảng khoái. Do đó có ~8~ người sẽ trao đổi lời giải với bạn bè.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -30,6 +30,3 @@ Hai số liên tiếp trên một dòng cách nhau một dấu cách.
 - Có ~30\%~ số test ứng với ~30\%~ số điểm của bài có ~m,n≤ 5~;
 - Có ~30\%~ số test ứng với ~30\%~ số điểm của bài có ~m,n≤ 50~;
 - Có ~40\%~ số test khác ứng với ~40\%~ số điểm còn lại của bài có ~m,n≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

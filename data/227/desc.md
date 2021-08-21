@@ -32,6 +32,3 @@ Cho một dãy số ~a_1,a_2,…a_n~, ban đầu ~a_i=0\ ∀i=1..n~ và ~m~ truy
 - Truy vấn ~3~: ~a=[100,200,200,200,100]~.
 
 Giá trị lớn nhất là ~200~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

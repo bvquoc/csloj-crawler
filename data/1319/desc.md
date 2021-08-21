@@ -39,6 +39,3 @@ Một hình chữ nhật được xác định bởi ô trái trên ~(a, b)~ và
 - Subtask ~\#2: 20\%~ số điểm khác có ~1 ≤ M × N ≤ 10^5, K ≤ 10~;
 - Subtask ~\#3: 50\%~ số điểm khác có ~1 ≤ M, N ≤ 300, K ≤ 5 × 10^4~;
 - Subtask ~\#4: 10\%~ số điểm còn lại có ~1 ≤ M × N ≤ 10^5, K ≤ 5 × 10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -39,6 +39,3 @@ Cho dãy số nguyên ~A~ độ dài ~N~. Đếm xem có bao nhiêu dãy con li�
 - **Subtask** ~\#1\ (20\%): 1 ≤ N ≤ 500, 1 ≤ A_i ≤ 10^9~:
 - **Subtask** ~\#2\ (40\%): 1 ≤ N ≤ 10^5, 1 ≤ A_i ≤ 50~;
 - **Subtask** ~\#3\ (40\%): 1 ≤ N ≤ 5000, 1 ≤ A_i ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

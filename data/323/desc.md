@@ -25,6 +25,3 @@ Cho số nguyên dương ~n~. Tìm ước số lẻ lớn nhất của ~n~ nhỏ
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^5, 2 ≤ n ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

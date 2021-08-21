@@ -65,6 +65,3 @@ Hãy giúp Shacha, quản lí quán bar bật tất cả các bóng đèn với 
 ```
 10
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

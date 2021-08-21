@@ -32,6 +32,3 @@ Khi mở trang sách từ cuối sách thì trang ~n~ có thể ở bên phải 
 
 - Câu hỏi ~2~:
 <center><img src="/images/problems/199/BOOK3.svg" width="350px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

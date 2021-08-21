@@ -27,6 +27,3 @@ Cho ~A, B~ và ~\text{MOD}~ là các số nguyên dương. Tính giá trị ~A^B
 - ~20\%~ số test có ~\text{MOD} = 10~;
 - ~30\%~ số test khác có ~\text{MOD}~ là số nguyên tố;
 - ~50\%~ số test còn lại không giới hạn gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -61,6 +61,3 @@ Cuộn băng dính mà Bob có được có chiều dài vô hạn, cố bề r�
 - Subtask ~\#1: 30\%~ số điểm thỏa mãn mỗi ô còn Chocolate kề với (có chung cạnh) không quá ~2~ ô còn Chocolate khác.
 - Subtask ~\#2: 30\%~ số điểm khác có ~1\le m\le 10~;
 - Subtask ~\#3: 40\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

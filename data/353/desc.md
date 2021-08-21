@@ -27,6 +27,3 @@ Giải thích: Có ~3~ giá trị khác nhau là ~5~, ~3~, ~2~ (theo đúng th�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10^6,  |a_i|≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

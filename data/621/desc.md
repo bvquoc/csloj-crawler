@@ -49,6 +49,3 @@ Hãy cho biết số phép biến đổi ít nhất cần thực hiện, để d
 
 ## Giải thích:
 - Trong ví dụ thứ nhất, ta sẽ lần lượt thực hiện phép biến đổi với vị trí ~2~ và ~3~. Khi đó, dãy ~A~ trở thành ~[10, 20, 30, 40, 50]~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

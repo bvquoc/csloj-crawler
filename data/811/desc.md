@@ -57,6 +57,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~m\le 500, n \le 10^9~;
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~m\le 4\times 10^3, n \le 10^{17}~;
 - Có ~40\%~ số test còn lại ứng với ~40\%~ số điểm có ~m\le 10^5, n \le 10^{32}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

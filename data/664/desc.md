@@ -47,6 +47,3 @@ Cho dãy số không âm có ~N~ phần tử, số thứ ~i~ có giá trị là 
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 1000, 0 ≤ M ≤ 10^{15}, 0 ≤ A_i ≤ 10^{15}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

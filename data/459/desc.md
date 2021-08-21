@@ -16,6 +16,3 @@ Cho chuỗi ký tự ~s~ chỉ gồm các ký tự latin và dấu cách. Đếm
 ```
 9
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

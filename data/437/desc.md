@@ -34,6 +34,3 @@ Có ~N~ yêu cầu sử dụng hội trường, mỗi một yêu cầu sử dụ
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10000, 0 ≤ b_i ≤ e_i ≤ 30000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

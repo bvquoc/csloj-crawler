@@ -35,6 +35,3 @@ Các cách đi là:
 
 ## Giới hạn:
 - ~1 < m, n ≤ 100; 1≤ a_{ij} ≤ 30000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

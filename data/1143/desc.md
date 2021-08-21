@@ -33,6 +33,3 @@ Dãy số ~e_1,e_2,…,e_{2k}\  (k≥2)~ được gọi là dãy “đặc biệ
 
 ## Giới hạn:
 - ~30\%~ số test tương ứng với ~30\%~ số điểm có ~N≤100~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

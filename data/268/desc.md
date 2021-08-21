@@ -24,6 +24,3 @@ Một số nguyên là số lượng cặp sinh đôi tìm được.
 ## Giới hạn:
 - Subtask ~\#1: 80\%~ số điểm có ~n≤10^4~;
 - Subtask ~\#2: 20\%~ số điểm còn lại có ~10^4< n≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

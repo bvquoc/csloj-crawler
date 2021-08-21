@@ -27,6 +27,3 @@ Chẳng hạn ta có ~3~ ma trận ~A, B, C~ có số chiều lần lượt là:
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 500; 1 ≤ a_i ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

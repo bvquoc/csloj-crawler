@@ -26,6 +26,3 @@ Cho một văn bản gồm ~N~ từ, từ thứ ~i~ có độ dài ~l_i~. Một 
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 6000; 1 ≤ L ≤ 1000; 1 ≤ l_i ≤ L~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

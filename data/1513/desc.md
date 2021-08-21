@@ -58,6 +58,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - ~30\%~ số lượng test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~K = 2~;
 - ~20\%~ số lượng test khác ứng với ~20\%~ số điểm của bài thỏa mãn điều kiện: toàn bộ ~K- 1~ người bạn là khó tính;
 - ~10\%~ số lượng test còn lại ứng với ~10\%~ số điểm của bài thỏa mãn điều kiện: số người bạn dễ tính không quá ~5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

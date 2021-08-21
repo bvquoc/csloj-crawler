@@ -32,6 +32,3 @@ Hãy tìm một hành trình cho ca nô đi từ một đảo ~U~ đến đảo 
 4
 2 6 7 9
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

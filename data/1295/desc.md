@@ -38,6 +38,3 @@
 - Subtask ~\#1: 20\%~ số điểm có ~1 ≤ K ≤ N ≤ 2000~;
 - Subtask ~\#2: 30\%~ số điểm khác có ~1≤ K ≤ N ≤ 3\times 10^5~ và bậc của mỗi đỉnh tối đa bằng ~2~;
 - Subtask ~\#3: 50%~ số điểm còn lại có ~1 ≤ K ≤ N ≤ 3\times 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

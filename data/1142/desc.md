@@ -37,7 +37,3 @@ Bờm tham gia tổ xây dựng đề thi cho một cuộc thi lập trình tron
 - Dãy cuối cùng là ~1, 2, 2, 3~
 - Đổi chỗ lần ~1~ được dãy ~3, 2, 2, 1~
 - Đổi chỗ lần ~2% được dãy ~1, 2, 2, 3~
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

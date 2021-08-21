@@ -23,6 +23,3 @@ Hôm qua bạn Phương vừa học đến phần số âm và được cô giao
 
 ## Giới hạn:
 - ~N≤ 10^5~; Các phần tử của dãy có giá trị tuyệt đối không quá ~10^{30}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

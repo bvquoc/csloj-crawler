@@ -20,6 +20,3 @@ Biết rằng: Ta nói phần tử trung vị của dãy ~C~ có độ dài ~M~ 
 ```
 3
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

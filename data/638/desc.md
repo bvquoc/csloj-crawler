@@ -60,6 +60,3 @@ Bờm có đủ các đồng xu với tất cả mệnh giá không vượt quá
 - ~10\%~ số test ứng với ~10\%~ số điểm có ~C_i ≤ 10~;
 - ~20\%~ số test ứng với ~20\%~ số điểm có ~C_i ≤ 20~;
 - ~70\%~ số test ứng với ~70\%~ số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

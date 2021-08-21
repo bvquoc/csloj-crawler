@@ -25,6 +25,3 @@ Cho số nguyên dương ~n~ và dãy ~n~ số nguyên dương ~a_1, a_2, …, a
 ## Giới hạn:
 - **Subtask** ~\#1:~ ~80\%~ số điểm có ~n ≤ 10^3~ và ~1 ≤ a_i ≤ 10^6~;
 - **Subtask** ~\#2:~ ~20\%~ số điểm có ~10^3 < n ≤ 10^6~ và ~1 ≤ a_i ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

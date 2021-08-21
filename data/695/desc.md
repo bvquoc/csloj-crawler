@@ -35,6 +35,3 @@ Nhiệm vụ của bạn là xếp được càng nhiều thanh DOM có kích th
 ## Cách chấm điểm:
 - Bạn sẽ bị điểm ~0~ nếu đặt sai hoặc số lượng thanh DOM đặt được ít hơn số lượng thanh đặt được trong phương án tối ưu quá ~10%~ thanh DOM.
 - Ngược lại, điểm của bạn được tính bằng: ~1000 \times (\frac{q}{p}-0.9)~ trong đó ~𝑝, 𝑞~ tương ứng là số lượng thanh DOM đặt được trong phương án tối ưu và trong phương án của bạn.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

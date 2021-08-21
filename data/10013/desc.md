@@ -27,6 +27,3 @@ Cho ~n=10^5~ số nguyên dương ~a_1, a_2, \dots, a_n\ (1\le a_i\le 2^{53})~. 
 - Số 3 là số nguyên tố nên ghi ra ~1~;
 - Số 5 là số nguyên tố nên ghi ra ~1~;
 - Số 6 không là số nguyên tố nên ghi ra ~0~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

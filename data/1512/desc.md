@@ -55,6 +55,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - Có ~40\%~ số test ứng với ~40\%~ số điểm của bài thỏa mãn điều kiện: ~m, n ≤ 100; q ≤ 1000~ và ~p~ luôn bằng ~1~;
 - ~30\%~ số test khác ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~m, n ≤ 100, q ≤ 1000~;
 - ~30\%~ số test còn lại ứng với ~30\%~ số điểm của bài thỏa mãn điều kiện: ~m, n ≤ 500, q ≤ 5×10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

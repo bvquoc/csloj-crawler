@@ -41,6 +41,3 @@ Nhân quyết định mua những tấm thiệp có cùng kích thước với n
 
 ## Giới hạn:
 - ~N ≤ 1000; 1 ≤ H_{min} ≤ H_{max} ≤ 10^9; 1 ≤ W_{min} ≤ W_{max} ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

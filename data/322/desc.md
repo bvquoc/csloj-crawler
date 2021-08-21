@@ -25,6 +25,3 @@
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^3, 1 ≤ n ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

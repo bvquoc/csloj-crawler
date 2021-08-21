@@ -30,6 +30,3 @@ Do rất hiểu hai lập trình viên Tí và Tèo trong đội, PHUONGHD biế
 - ~40\%~ số điểm ứng với các test có ~n≤1000~;
 - ~30\%~ số điểm ứng với các test có ~n∈[10^4,10^5]~;
 - ~30\%~ số điểm ứng với các test có ~n∈[3\times 10^5,4\times 10^5]~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

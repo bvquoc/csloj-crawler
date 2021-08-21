@@ -35,6 +35,3 @@ Ban đầu vị trí đứng của Bờm là ở gốc tọa độ O.
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5; 1 ≤ T, x_i, t_i ≤ 10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

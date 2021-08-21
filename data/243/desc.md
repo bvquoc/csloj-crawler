@@ -27,6 +27,3 @@ Trong một buổi khiêu vũ, người ta muốn chọn ra một số cặp nh�
 
 ## Giới hạn:
 - Ít nhất ~50\%~ số điểm ứng với các test có ~m,n≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

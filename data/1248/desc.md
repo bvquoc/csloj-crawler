@@ -35,6 +35,3 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~𝑛 ≤ 400~ và ~𝐿 < 𝑅~;
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm có ~𝑛 ≤ 4000~ và ~𝐿 = 𝑅~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm có ~𝑛 ≤ 4000~ và ~𝐿 < 𝑅~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

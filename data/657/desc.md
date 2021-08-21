@@ -18,6 +18,3 @@ Cho ~3~ số nguyên dương ~L, R, k~. Tính tổng các số thuộc đoạn ~
 ```
 1230
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

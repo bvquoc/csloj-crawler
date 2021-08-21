@@ -37,6 +37,3 @@ Cho đồ thị vô hướng liên thông, có trọng số ~G = (V, E, w)~ có 
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 100; n – 1 ≤ m ≤ \frac{n(n – 1)}{2} ;0 ≤ c ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

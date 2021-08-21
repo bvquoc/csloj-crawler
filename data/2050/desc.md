@@ -39,6 +39,3 @@ Các ninja được đánh số từ ~1~ đến ~N~. Cho biết ninja ~i~ có s�
 
 #### Giải thích:
 - Thuê ninja ~3~ và ~4~, nhờ ninja ~1~ làm người quản lý. Số tiền được yêu cầu của hai ninja này là ~4~, không vượt quá số tiền trong túi. Vì thuê ~2~ ninja và kinh nghiệm của ninja ~1~ là ~3~, nên độ hài lòng là ~6~. Đây là giá trị tối đa.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

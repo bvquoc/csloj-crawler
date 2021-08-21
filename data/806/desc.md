@@ -53,6 +53,3 @@ Hiện tại, chính phủ đang đánh giá ~m~ đề xuất xây dựng trung 
 - Có ~30\%~ test khác ứng với ~30\%~ số điểm của bài có ~n≤10^5;m≤10~;
 - Có ~20\%~ test khác ứng với ~20\%~ số điểm của bài có ~n≤10^5;m≤10^5;w_i=1~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm của bài có ~n≤10^5;m≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -44,6 +44,3 @@ NO
 ## Giới hạn:
 - **Subtask** ~\#1~ ~(50\%\text{ số điểm}): k ≤ 10~;
 - **Subtask** ~\#2~ ~(50\%\text{ số điểm}):~ Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

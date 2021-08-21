@@ -26,7 +26,3 @@ Cho hai số nguyên dương ~L≤R~. Đếm số lượng số nằm giữa ~L~
 - ~40\%~ số điểm của bài có ~1≤L≤R≤1000~;
 - ~30\%~ số điểm khác có ~1≤L≤R≤10^6,R-L≤10^4~;
 - ~30\%~ số điểm còn lại có ~1≤L≤R≤10^9~.
-
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

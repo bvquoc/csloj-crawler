@@ -34,6 +34,3 @@ Tí có một bộ đồ chơi gồm ~N~ khối hộp được đánh số từ 
 - ~40\%~ số điểm của bài có ~1≤N≤20~;
 - ~30\%~ số điểm khác có ~20<N≤1000~;
 - ~10\%~ số điểm còn lại có ~1000<N≤100000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

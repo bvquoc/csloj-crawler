@@ -41,6 +41,3 @@ Dữ liệu đảm bảo truy vấn loại ~2~ tồn tại đáp số.
 - Subtask ~\#1: 30\%~ tổng số điểm có ~n≤1000,Q≤10~;
 - Subtask ~\#2: 30\%~ tổng số điểm tiếp theo có ~n,Q≤10^5~ và tất cả các truy vấn là loại ~1~;
 - Subtask ~\#3: 40\%~ tổng số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

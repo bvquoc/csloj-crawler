@@ -34,6 +34,3 @@ Viết chương trình xác định với mỗi truy vấn dạng ~L,R~ hãy đ�
 ## Ràng buộc:
 - Có ~50\%~ số điểm ứng với ~n, m≤ 1000~;
 - Có ~50\%~ số điểm còn lại ứng với ~n, m≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

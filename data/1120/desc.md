@@ -29,6 +29,3 @@
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 5\times 10^4, |x_i|, |y_i| ≤ 10^9~ 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -58,6 +58,3 @@ Các tài năng rất hào hứng và nhanh chóng tìm được hướng giải
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm của bài có ~n≤100;w=1~;
 - Có ~10\%~ số test khác ứng với ~10\%~ số điểm của bài có ~n≤10^5;w=0~;
 - Có ~10\%~ số test còn lại ứng với ~10\%~ số điểm của bài có ~n≤10^5;w=1~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

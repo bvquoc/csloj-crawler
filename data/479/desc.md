@@ -29,6 +29,3 @@ Cho biết danh sách trọng lượng các thùng sơn của công ty, em hãy 
 - **Subtask** ~\#1~: Có ~30\%~ test, với ~0<w_i \le 20~ và ~N\le 10~;
 - **Subtask** ~\#2~:	Có ~40\%~ test, với ~0<w_i \le 50~ và ~N\le 500~;
 - **Subtask** ~\#3~:	Có ~30\%~ test, với ~0<w_i \le 100~ và ~N\le 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

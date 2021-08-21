@@ -29,6 +29,3 @@ Xét dãy số nguyên ~A=\left(a_1,a_2,...,a_n\right)~. Dãy chứa các phần
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có ~n≤10^3~, đồng thời số ~b~ xuất hiện đúng ~1~ lần trong dãy và là số lớn nhất trong dãy đó.
 - Có ~20\%~ số test khác tương ứng ~20\%~ số điểm có  ~n≤5.10^3~
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

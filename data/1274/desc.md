@@ -36,6 +36,3 @@ Khi mực nước biển đạt một mốc nào đó, số đảo sẽ là lớ
 - ~6~ test có ~N≤10^5~ và độ cao của các khu vực không quá ~20~'
 - ~7~ test có ~N≤10^5~ và không có hai khu vực nào có độ cao như nhau.
 - ~21~ test có ~N≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

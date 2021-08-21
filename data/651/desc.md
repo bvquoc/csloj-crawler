@@ -84,6 +84,3 @@ Các bộ dữ liệu sau được coi là không hợp lệ và sẽ không xu�
 - Trong mảng hai chiều chỉ xuất hiện các hình chữ nhật và không có thêm các hình nào khác;
 - Các hình chữ nhật xuất hiện trong mảng hai chiều đều có các cạnh song song với mép của mảng hai chiều. Nói cách khác, các hình chữ nhật trong dữ liệu vào không bị nghiêng;
 - Không có hai hình chữ nhật nào chạm nhau. Nói cách khác, viền của hai hình chữ nhật bất kì sẽ không có một điểm chung nào.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

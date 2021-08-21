@@ -40,6 +40,3 @@ acbacba
 ```
 
 **Chú ý:** Bài này chấm theo từng ý, trình chấm sẽ **đọc hai số nguyên tương ứng với hai ý**, mỗi ý đúng được ~50\% số điểm một test. (Bạn chỉ trả lời một ý cũng phải ghi ra hai số nguyên).
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -35,6 +35,3 @@ hình có diện tích ~6~ và ~1~ hình có diện tích ~8~.
 - Subtask ~\#1: 25\%~ số điểm có ~N, M ≤ 50~;
 - Subtask ~\#2: 25\%~ số điểm có ~N, M ≤ 500~;
 - Subtask ~\#3: 50\%~ số điểm có ~N, M ≤ 2000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

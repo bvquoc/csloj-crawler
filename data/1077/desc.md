@@ -68,6 +68,3 @@ Q 1 5
 - **Subtask** ~\#1~ (~20\%~ số điểm): ~n,m≤1000~
 - **Subtask** ~\#2~ (~40\%~ số điểm): dữ liệu không có lệnh ~U~
 - **Subtask** ~\#3~ (~40\%~ số điểm): không có ràng buộc bổ sung
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -34,6 +34,3 @@ Cho ba số nguyên ~a, b~ và ~x~. Hãy tìm số nguyên ~c~ sao cho trung bì
 #### Giải thích:
 - Ví dụ thứ nhất, với ~c = 7~ thì trung bình cộng của ba số ~a, b, c~ là: ~\frac{2+3+7}{3} = 4~
 - Ví dụ thứ hai, với ~c = −1~ thì trung bình cộng của ba số ~a, b, c~ là: ~\frac{2+2+(−1)}{3} = 1~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

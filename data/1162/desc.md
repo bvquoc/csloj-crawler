@@ -56,6 +56,3 @@
 #### Giải thích:
 - Trong ví dụ đầu tiên, đường đi tốt nhất là ~1 → 2 → 4 → 6~
 - Trong ví dụ thứ hai, có đường đi từ ~1~ tới ~5~ nhưng không có đường đi nào thoả mãn.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

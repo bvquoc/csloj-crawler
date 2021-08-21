@@ -59,6 +59,3 @@ def
 
 ## Giới hạn:
 - ~1 ≤ k ≤ 10~; Các xâu ~s, t~ khác rỗng và độ dài không quá ~1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -37,6 +37,3 @@ Dữ liệu vào đảm bảo ~−10^3 ≤ x_i, y_i ≤ 10^3, 1 ≤ r_i ≤ 10^3
 ```
 348.52046 -94.13524
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

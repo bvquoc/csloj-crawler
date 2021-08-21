@@ -29,6 +29,3 @@ Tìm tất cả các giá trị nguyên dương ~x\ (0< x < 10^9)~ là nghiệm 
 ```
 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

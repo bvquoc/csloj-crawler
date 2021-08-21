@@ -42,6 +42,3 @@ Cho một đồ thị có hướng gồm ~n~ đỉnh và ~m~ cung, hai con robot
 
 ## Giới hạn:
 - ~1\le n \le 1000; 1\le m\le 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -37,6 +37,3 @@ Trong tất cả các test: ~1 ≤ n, a_i ≤ 10^5; m ≤ 10^6; |x_i| ≤ 10^9, 
 - **Subtask** ~\#2:~ ~30\%~ số test khác ứng với ~30\%~ số điểm có ~n ≤ 100; m ≤ 1000~
 - **Subtask** ~\#3:~ ~20\%~ số test khác ứng với ~20\%~ số điểm có ~n ≤ 10^5; a_i = 1~ với ~i = 1, 2, …, n~
 - **Subtask** ~\#4:~ ~20\%~ số test còn lại ứng với ~20\%~ số điểm không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -52,6 +52,3 @@
 - Trong ví dụ đầu tiên, gia sư duy nhất có thể xếp ở vị trí ~(4.812, 4.688)~. Từ đó gia sư có thể gửi bài giải cho cả ~3~ sinh viên. 
 - Trong ví dụ thứ hai, hai gia sư có thể ở gần hai sinh viên một cách tuỳ ý, nên sức mạnh của điện thoại cần thiết là rất nhỏ. 
 - Trong ví dụ thứ ba, vị trí của ~3~ gia sư là ~(1.667, 1.333); (1.4, 8.6); (8.6, 1.6)~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

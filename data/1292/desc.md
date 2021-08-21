@@ -29,6 +29,3 @@ Như vậy đến các nhiệm vụ tiếp theo, tập đoàn sẽ còn ít ngư
 
 ## Giới hạn:
 - Có ~50\%~ số test của bài có ~𝑛 ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

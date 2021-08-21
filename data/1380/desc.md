@@ -31,6 +31,3 @@ Cho dãy số nguyên ~a_1, a_2,…,a_n~ và một số nguyên dương ~P~.
 - Subtask ~\#1: 30\%~ tổng số điểm có ~n≤100~.
 - Subtask ~\#2: 30\%~ tổng số điểm tiếp theo có ~101<n≤10^4~;
 - Subtask ~\#3: 40\%~ tổng số điểm còn lại có ~1001<n≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -22,6 +22,3 @@ Tại bến xe buýt, mỗi ngày, chuyến xe buýt đầu tiên đi qua ở th
 ```
 1 3 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

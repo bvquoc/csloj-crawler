@@ -38,6 +38,3 @@ BAD
 ```
 
 **Chú ý**: Bạn phải hết sức cẩn thận khi sử dụng kiểu **double** (trong C++ và Pascal) để biểu diễn số thực vì nói chung chúng có sai số. Khi đó để kiểm tra ~x~ có bằng ~y~ hay không không viết ~x==y~ (C++) hay ~x=y~ (Pascal) mà phải viết ~|x - y|<ε~  (với ~ε~ là hằng số đủ nhỏ, thường thì ~10^{-6}~ là đủ)
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

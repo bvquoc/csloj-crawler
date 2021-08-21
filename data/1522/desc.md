@@ -42,6 +42,3 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 
 #### Giải thích:
 - Lối đi độc đạo là lối đi giữa cặp tòa nhà ~(4,5)~ và ~(5,6)~. Nếu đóng cửa lối đi độc đạo qua ~(4,5)~, ta có ~d_4=4~ và ~d_5=2~, do đó ~|d_4-d_5|=2~. Nếu đóng cửa lối đi độc đạo qua ~(5,6)~, ta có ~d_5=5~ và ~d_6=1~, do đó ~|d_5 - d_6| =4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -26,6 +26,3 @@ Cho ~N~ số nguyên dương ~a_1,a_2,…,a_N~. Với mỗi giá trị ~a_i, ∀
 ## Giới hạn:
 - ~60\%~ số điểm ứng với các test có ~N≤1000,1≤a_i≤10^3, ∀i=1..N~;
 - ~40\%~ số điểm ứng với các test có ~N≤1000,1≤a_i≤10^8, ∀i=1..N~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

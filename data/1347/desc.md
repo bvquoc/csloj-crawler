@@ -55,6 +55,3 @@ Các đường đi:
 - Subtask ~\#1: 17\%~ số điểm có ~M≤10; N≤10^4; K=N~;
 - Subtask ~\#2: 32\%~ số điểm khác có ~M≤10; 10^4≤N≤10^8; K=10^4~;
 - Subtask ~\#3: 51\%~ số điểm còn lại có ~M≤100;  K≤N≤10^{16}; K≤10^4~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

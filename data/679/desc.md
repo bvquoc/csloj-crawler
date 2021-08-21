@@ -34,6 +34,3 @@ Cho hai số nguyên ~N~ và ~M~. Tạo một chuỗi bằng cách ghép ~M~ l�
 
 #### Giứi thích:
 - Ở ví dụ ~1~, hai chuỗi được tạo là `3333`, `444`
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -35,6 +35,3 @@ Bạn hãy lập trình giúp Hiếu giải quyết vấn đề đơn giản nà
 - Có ~\frac{1}{7}~ số test ứng với ~\frac{1}{7}~ số điểm thỏa mãn: các số thuộc tập không vượt quá ~20~.
 - Có ~\frac{3}{7}~ số test khác ứng với ~\frac{3}{7}~ số điểm thỏa mãn: các số thuộc tập không vượt quá ~100~.
 - Có ~\frac{3}{7}~ số test còn lại ứng với ~\frac{3}{7}~ số điểm thỏa mãn: các số thuộc tập không vượt quá ~5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

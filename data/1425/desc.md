@@ -35,6 +35,3 @@ Hãy chỉ ra một hành trình thỏa mãn các yêu cầu trên hoặc cho bi
 24
 1 2 3 5 4 1
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

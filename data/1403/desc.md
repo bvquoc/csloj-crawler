@@ -28,6 +28,3 @@ xfa
 ## Giới hạn:
 - Có ~50\%~ test với ~1 ≤ |S| ≤ 20~;
 - Có ~50\%~ test với ~20 < |S| ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

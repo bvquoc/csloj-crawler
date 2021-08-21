@@ -26,6 +26,3 @@ Siêu thị Vincom Sơn La đang có đợt giảm giá. Siêu thị có ~n~ m�
 ## Giới hạn:
 - **Subtask** ~\#1: 60\%~ số điểm của bài có ~1≤n≤1000~;
 - **Subtask** ~\#2: 40\%~ số điểm còn lại của bài có ~1000< n≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

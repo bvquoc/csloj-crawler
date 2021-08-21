@@ -24,6 +24,3 @@ Cho dãy số nguyên ~a_1, a_2, …, a_n~ và một số nguyên dương ~k~. H
 ## Giới hạn:
 - ~1 ≤ k ≤ n ≤ 10^5, −10^5 ≤ a_i ≤ 10^5~;
 - Có ~50\%~ số test với ~n ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

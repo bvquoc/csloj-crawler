@@ -48,6 +48,3 @@ R 1 1
 - ~25\%~ số điểm: ~n, q ≤ 1000~;
 - ~25\%~ số điểm khác: ~n, q ≤ 10^5~;
 - ~50\%~ số điểm còn lại: Không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

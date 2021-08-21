@@ -46,6 +46,3 @@ Với mỗi test, nếu chỉ tính đúng chi phí cắt sẽ được ~50\%~ �
 - Subtask ~\#3: 20\%~ số điểm khác có thứ tự Hùng nhớ là một thứ tự hợp lý và tối ưu;
 - Subtask ~\#4: 20\%~ số điểm khác có Thứ tự Hùng nhớ là một thứ tự hợp lý;
 - Subtask ~\#5: 20\%~ còn lại có Ràng buộc gốc.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

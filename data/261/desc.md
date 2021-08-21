@@ -27,6 +27,3 @@ Cho dãy số nguyên dương ~a_1,a_2,…,a_n~. Hãy tính tổng **Ước chun
 Do đó ta có tổng là ~1+2+1=4~.
 
 **Giới hạn:** ~2≤n≤1000;1≤a_i≤10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

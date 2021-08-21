@@ -34,6 +34,3 @@ Cho biết ~N~ là số thành phố (đánh số từ ~1~ đến ~N~) và mản
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 16, 0 ≤ C_{ij} ≤ 1000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

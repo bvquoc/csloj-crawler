@@ -69,6 +69,3 @@ Look at the animals, dancing to the music
 
 ## Giới hạn:
 - Dung lượng dữ liệu vào nhỏ hơn ~1~ MB.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

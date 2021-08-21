@@ -38,6 +38,3 @@ Hành trình tuần tra của một cảnh sát giao thông như sau: Xuất ph�
 - CS ~1~ đi ~1 → 2 → 4 → 6 → 4 → 6~;
 - CS ~2~ đi ~1 → 2 → 5 → 6~
 - CS ~3~ đi ~1 → 3 → 5 → 6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

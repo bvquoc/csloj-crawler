@@ -39,6 +39,3 @@ NO
 - **Subtask** ~\#2:~ ~\frac{2}{3}~ số điểm còn lại của bài có ~1 ≤ n ≤ 10^5~.
 
 **Chú ý:** Nếu bài làm của bạn chỉ ghi ra `YES` hoặc chỉ ghi ra `NO` sẽ được ~0~ điểm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

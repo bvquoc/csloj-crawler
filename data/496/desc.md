@@ -29,6 +29,3 @@ CH(CO2H)3
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 1000~; độ dài công thức của mỗi hóa chất không quá ~1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

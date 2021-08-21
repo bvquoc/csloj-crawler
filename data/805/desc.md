@@ -33,6 +33,3 @@ Tuy hiếu khách nhưng vì miếng cơm manh áo nên ông Nghiệp vẫn mu�
 - Có ~30\%~ số test khác  ứng với ~30\%~ số điểm của bài có ~N≤1000,p_i≠p_j  ∀i≠j~;
 - Có ~20\%~ số test khác ứng với ~20\%~ số điểm của bài có ~N≤10^5,p_i≠p_j  ∀i≠j~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm của bài có ~N≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

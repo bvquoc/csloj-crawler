@@ -31,6 +31,3 @@ Một bông hoa được coi là ở trong tam giác nếu nó nằm trong tam g
 
 #### Giải thích:
 <center><img src="/images/problems/233/VUONHOA.png" width="350px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

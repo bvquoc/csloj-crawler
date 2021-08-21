@@ -43,6 +43,3 @@ BT bắt đầu học đánh đàn piano. Đàn piano của anh ta có ~n~ phím
 ## Giới hạn:
 - Subtask ~\#1: 40\%~ số điểm có ~n≤1000~;
 - Subtask ~\#2:~ Không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

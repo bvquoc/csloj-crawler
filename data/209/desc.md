@@ -35,6 +35,3 @@ Cho một số nguyên dương ~n~. Bạn hãy đếm số cách phân tích s�
 ```
 
 **Giải thích:** Số ~11~ không phân tích được.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

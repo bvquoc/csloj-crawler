@@ -40,6 +40,3 @@ Admin mới nhất của cộng đồng Vinoy  — **MofK** — là người c
 
 #### Giải thích:
 - Trong kế hoạch đầu tiên, MofK dự định dùng account có rating ~1~0 để thi ~3~ kỳ thi với độ khó lần lượt là ~1, 7~ và ~10~. Rating của account thay đổi như sau: ~10 → 9 → 2 → 8~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

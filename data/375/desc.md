@@ -37,6 +37,3 @@ Ghi trên một dòng hai số nguyên theo thứ tự là số ô nhiều nhấ
 
 ## Giới hạn:
 - Trong tất cả các test: ~1 ≤ n, L ≤ 1000; 1 ≤ a_i ≤ b_i ≤ L~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

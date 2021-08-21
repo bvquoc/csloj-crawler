@@ -45,6 +45,3 @@ Yes
 - Có ~30\%~ số test tương ứng ~30\%~ số điểm có ~n≤20,q≤100~;
 - Có ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~n,q≤5000~;
 - ~40\%~ số test còn lại có ~n≤10^5,q≤2.10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

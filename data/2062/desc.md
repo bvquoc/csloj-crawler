@@ -51,6 +51,3 @@ Dễ thấy rằng ~5~ cách trên thỏa mãn: bài tập ~1~ làm trước bà
 
 ## Giới hạn:
 - ~N ≤ 20; M ≤ \frac{N(N-1)}{2}~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

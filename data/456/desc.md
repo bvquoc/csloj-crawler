@@ -23,6 +23,3 @@ Cho hai số nguyên dương ~A~ và ~B~. Tính tổng các số nguyên dương
 ## Giới hạn:
 - **Subtask** ~\#1:~ ~80\%~ số điểm có ~A,B≤10^6~;
 - **Subtask** ~\#2:~ ~20\%~ số điểm có ~10^6<A,B≤10^9~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

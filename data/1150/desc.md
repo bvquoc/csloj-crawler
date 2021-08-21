@@ -33,6 +33,3 @@ với ~a = -1, b = 10, c = -20~, thì việc chia thành ~3~ phân đội ~(1, 2
 - Trong tất cả các test đều có: ~n ≤ 10^6, −5 ≤ a ≤ −1, |b| ≤ 10^7, |c|≤ 10^7; 1 ≤ x_i ≤ 100~. 
 - ~20\%~ số test có ~n ≤ 1000~ 
 - ~50\%~ số test khác có ~n ≤ 10000~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

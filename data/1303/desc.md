@@ -29,6 +29,3 @@ Bờm lỡ tay làm hỏng file chứa dãy số nên không kiểm tra được
 
 **Giải thích:** do các phần tử của dãy là đôi một phân biệt nên ~𝑟𝑚𝑞(1, 10) = 𝑟𝑚𝑞(5, 19) = 7~ cho ta 
 ~𝑟𝑚𝑞(5, 10) = 7~, điều này mâu thuẫn với ~𝑟𝑚𝑞(3, 12) = 8~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

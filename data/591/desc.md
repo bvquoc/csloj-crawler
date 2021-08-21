@@ -36,6 +36,3 @@ Rôn quyết định sẽ lái xe đi từ ~A~ tới ~B~ và sẽ mua đồng ti
 ```
 103 3
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

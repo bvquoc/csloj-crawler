@@ -25,6 +25,3 @@ Cho một số nguyên dương trong hệ cơ số ~2~ (hệ nhị phân), hãy 
 
 ## Giới hạn:
 - ~1 ≤ T ≤ 10^5~. Độ dài mỗi xâu nhị phân không quá ~63~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

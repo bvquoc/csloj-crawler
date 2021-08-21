@@ -33,6 +33,3 @@ Nên đáp số sẽ là ~1 + 3 + 1 + 2 + 4 + 1 + 5 = 17~.
 - Subtask ~\#1: 20\%~ số điểm có ~R − L ≤ 10~;
 - Subtask ~\#2: 30\%~ số điểm khác có ~R ≤ 10^7~;
 - Subtask ~\#3: 50\%~ số điểm còn lại không có điều kiện gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -36,6 +36,3 @@ Bối cảnh trò chơi XGUN là một nửa quả đồi, được chia thành 
 ## Giới hạn:
 - ~1 ≤ n, m ≤ 10^5, 0 ≤ h_i ≤ 10^9~;
 - Có ít nhất ~50\%~ số test với ~n, m ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

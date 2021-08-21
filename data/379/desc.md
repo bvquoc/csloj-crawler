@@ -28,6 +28,3 @@ Tất nhiên là bài toán này không thể làm khó Tí được nhưng vì 
 ## Giới hạn:
 - ~1 ≤ n ≤ 100; 1 ≤ a_i ≤ 10^5~.
 - **Chú ý:** có ~50\%~ số test có ~n ≤ 10~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

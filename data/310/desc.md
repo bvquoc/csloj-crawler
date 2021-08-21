@@ -29,6 +29,3 @@ Tính tổng các số tự nhiên liên tiếp ~S_n=1+2+⋯+n~.
 
 ## Giới hạn:
 - Trong tất cả các test: ~1≤n≤10^9~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

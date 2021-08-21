@@ -37,6 +37,3 @@ Cuội đưa ra những câu đố cho Bờm như sau: Cuội sẽ cho Bờm bi�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 500, 0 ≤ a_{ij} ≤ 100, 1 ≤ q ≤ 10000, 1 ≤ r_1 ≤ r_2 ≤ n, 1 ≤ c_1 ≤ c_2 ≤ n~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

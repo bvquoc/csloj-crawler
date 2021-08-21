@@ -34,6 +34,3 @@ Một Trung tâm nghiên cứu tuyệt mật (mà chúng ta không có quyền n
 ```
 1 4 1 2 1 3 2 0 3 0
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

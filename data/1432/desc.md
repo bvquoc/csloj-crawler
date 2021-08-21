@@ -35,6 +35,3 @@ Vị trí và đường nối giữa ~N~ thành phố được mô tả như m�
 ## Giới hạn:
 - ~2 ≤ N ≤ 30000; 1 ≤ M ≤ 100000; 1 ≤ d_i ≤ 1000~;
 - Có ~50\%~ số test có ~N ≤ 100~ và ~M ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

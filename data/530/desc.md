@@ -32,6 +32,3 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau ít nhất
 
 ## Giới hạn:
 - ~1 ≤ N, M, Q,, h_i ≤ 10^5; 1 ≤ L_i, R_i, u_i, v_i ≤ N; L_i ≤ R_i; u_i ≤ vi~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

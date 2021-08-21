@@ -29,6 +29,3 @@
 #### Giải thích:
 - Trong ví dụ đầu tiên, các bản nhạc thoả mãn có dãy cao độ là: ~(0, 1, 2, 1, 2, 1),(0, -1, 0, -1, 0, 1), (0, -1, -2, -1, -2, -1), (0, 1, 0, 1, 0, -1)~
 - Trong ví dụ thứ hai, các bản nhạc thoả mãn có dãy cao độ là: ~(0, -1, 0, -1, -2), (0, 1, 2, 1, 2), (0, 1, 0, 1, 2), (0, -1, -2, -1, -2), (0, -1, 0, 1, 0), (0, 1, 0, -1, 0)~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

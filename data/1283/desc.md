@@ -40,6 +40,3 @@ Chú ý rằng mỗi thành phố có thể đi qua nhiều lần. Trong bài to
 
 ## Giới hạn:
 - ~50\%~ số test có ~N≤16~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

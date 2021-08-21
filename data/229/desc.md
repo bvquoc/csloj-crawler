@@ -44,6 +44,3 @@ Một con robot xuất phát tai ô ~(1;1)~, trong mỗi bước, con robot có 
 ```
 
 **Chú ý:** ~50\%~ số điểm tương ứng ~n≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -36,6 +36,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 
 ## Giới hạn:
 - ~1 ≤ k ≤ 10; 0 ≤ α_i ≤ 10^9; 0 ≤ c_i ≤ 10^9; 1 ≤ m ≤ 100; 1 ≤ n_i ≤ 10^{18}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

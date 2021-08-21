@@ -29,6 +29,3 @@ Tính tổng bình phương các số tự nhiên liên tiếp ~S_n=1^2+2^2+⋯+
 
 ## Giới hạn:
 - Trong tất cả các test: ~1≤n≤10^6~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

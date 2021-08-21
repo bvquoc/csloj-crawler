@@ -21,6 +21,3 @@
 
 ### Giải thích:
 - Một cách cắt giảm chi phí lớn nhất: cắt giảm hệ thống dịch giữa hai thành phố ~(1,1)~ và ~(1,1), (2,1)~ và ~(2,1), (1,1)~ và ~(1,2), (1,3)~ và ~(1,2), (2,3)~ và ~(2,2)~, cắt giảm tuyến bay giữa hai thành phố ~(2,3)~ và ~(1,3)~. Như vậy tổng chi phí cắt giảm là ~8 + 8 + 6 + 7 + 7 + 5 = 41~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

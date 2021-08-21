@@ -69,6 +69,3 @@ Kết quả các thao tác ~3~ như sau:
 ## Giới hạn:
 + Subtask ~\#1: 60\%~ số điểm của bài có ~3< 𝑛, q ≤ 10^3~; 
 + Subtask ~\#2: 40\%~ số điểm của bài có  ~10^3< 𝑛, q ≤ 10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

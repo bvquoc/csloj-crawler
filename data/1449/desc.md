@@ -41,6 +41,3 @@ Các số trên một dòng được ghi cách nhau bởi ít nhất một dấu
 - ~20\%~ số điểm tiếp theo tương ứng với ~p_i≤10^{18};M×Q≤10^7~;
 - ~20\%~ số điểm tiếp theo tương ứng với ~p_i≤10^{18}~;
 - ~30\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

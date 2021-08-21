@@ -35,6 +35,3 @@ King Monarch vừa khai hoang một vùng đất để lập ra đất nước M
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 100; 1 ≤ c ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

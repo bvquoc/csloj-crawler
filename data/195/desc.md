@@ -28,6 +28,3 @@ Số nguyên ~x~ được gọi là **beautiful number** nếu ~|x-reversed(x)|~
 
 #### Giải thích:
 - Có ~2~ số: ~20~ và ~22~ là số beautiful number.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

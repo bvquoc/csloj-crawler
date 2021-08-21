@@ -28,6 +28,3 @@ Hãy tìm cách xóa đi đúng ~𝑛 − 𝑘~ phần tử của dãy ~𝐴~ v�
 3 1 2
 1 3 2 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

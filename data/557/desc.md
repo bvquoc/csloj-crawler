@@ -35,6 +35,3 @@ Một bộ ghép trên ~G~ là một tập các cạnh của ~E~ đôi một kh�
 
 ## Giới hạn:
 - ~1 ≤ p, q ≤ 1000; n ≤ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

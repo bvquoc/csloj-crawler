@@ -29,6 +29,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 
 ## Giới hạn:
 - ~1 ≤ m ≤ 1000; 0 ≤ n_i ≤ 10^{18}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

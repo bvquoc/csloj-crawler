@@ -28,6 +28,3 @@ Biết rằng, nếu một màu đã được dùng thì các lượt tiếp the
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 100000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -29,6 +29,3 @@ Cụ thể hơn, một số tiền ~x~ được gọi là thanh toán được b
 - Subtask ~\#2: T ≤ 20000~;
 - Subtask ~\#3: T ≤ 200000~;
 - Subtask ~\#4: T ≤ 10_{18}~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

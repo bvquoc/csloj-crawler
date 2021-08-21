@@ -35,6 +35,3 @@ YES
 ## Giới hạn:
 - ~10\%~ số test có ~𝑛 ≤ 20~ 
 - ~50\%~ số test khác có ~𝑛, 𝑚 ≤ 100, 𝑘 ≤ 10~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

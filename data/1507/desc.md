@@ -54,6 +54,3 @@ Bến xe khách liên tỉnh `XYZ` có ~M~ điểm đỗ đón xe khách cập b
 #### Giải thích:
 - Trong ví dụ thứ nhất: Xếp xe khách thứ nhất vào một trong các điểm điểm ~2, 3, 4~, xếp xe thứ hai vào điểm ~1~ (duy nhất), xe thứ ~3~ cũng yêu cầu xếp vào điểm ~1~ nên không thể đáp úng được.
 - Trong ví dụ thứ hai: Xếp xe thứ ~1~ và thứ ~2~ vào hai điểm ~1, 2~, xe thứ ~3~ vào điểm ~3~, xe thứ ~4~ không đáp ứng được nữa. 
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -45,6 +45,3 @@ Gọi ~K~ là số ô cấm:
 - ~15\%~ số test khác tương ứng ~15\%~ số điểm có ~n≤10; m≤2000; Q≤10^5~;
 - ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~n,m≤800; K≤10^5;Q≤10^5~;
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm có ~n,m≤2000; K≤10^5; Q≤10^5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

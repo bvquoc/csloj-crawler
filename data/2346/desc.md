@@ -28,6 +28,3 @@ Các trường hợp tung ~2~ con xúc xắc đạt tổng lớn hơn ~4~ là ~(
 
 ## Giới hạn:
 - ~1 ≤ N, K, S ≤ 10^6, S ≤ N ×K~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

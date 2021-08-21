@@ -46,6 +46,3 @@ John muốn chọn thứ tự xem phim sao cho cậu có thể xem được tr�
 
 #### Giải thích:
 - Ở test thứ hai, John cần xem bộ phim ~3~ trước để đảm bảo có thể xem được trọn vẹn một bộ phim. Không có cách nào cho kết quả tôt hơn, nên thứ tự ~3,0,1,2~ là thứ tự từ điển nhỏ nhất cần tìm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

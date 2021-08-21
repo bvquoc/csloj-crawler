@@ -48,6 +48,3 @@ Hãy tìm cách thực hiện các loại thao tác trên, sao cho số ô còn 
 
 ## Giới hạn:
 - ~50\%~ số test tương ứng với ~50\%~ số điểm có ~n, m, k ≤ 100~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

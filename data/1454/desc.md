@@ -29,6 +29,3 @@ Vì giá trị của ~𝑥~ có thể rất lớn, bạn chỉ cần đưa ra s�
 36
 900
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

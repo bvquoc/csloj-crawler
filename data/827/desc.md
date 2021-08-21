@@ -34,6 +34,3 @@ Là một học sinh giỏi trong lớp, Tý muốn đạt được số điểm
 - ~30\%~ số bộ dữ liệu có ~N≤ 200~;
 - ~30\%~ số bộ dữ liệu khác có ~200 < N≤ 2500~;
 - ~40\%~ số bộ dữ liệu còn lại có ~200< N≤ 20000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

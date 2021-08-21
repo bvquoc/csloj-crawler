@@ -32,6 +32,3 @@ Quốc vương không biết tên chủ tham lam này sẽ đổi các chuyến 
 - ~10~ test có duy nhất đảo ~1~ có thể có nhiều hơn ~1~ chuyến phà;
 - ~11~ test trong các đảo không có chu trình;
 - ~12~ test còn lại không có ràng buộc nào cả.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

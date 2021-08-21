@@ -29,6 +29,3 @@ Trong tất cả các test, ~0 ≤ A_i ≤ 1000~.
 - **Subtask** ~\#1\ (20\%): 1 ≤ N ≤ 500~;
 - **Subtask** ~\#2\ (40\%): 1 ≤ N ≤ 3000~;
 - **Subtask** ~\#3\ (40\%): 1 ≤ N ≤ 8000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

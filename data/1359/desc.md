@@ -24,6 +24,3 @@ Một năm ở vương quốc có ~10^9+7~ ngày, vậy nên người dân chỉ
 177582252
 644064736
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

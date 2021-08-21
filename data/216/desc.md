@@ -38,6 +38,3 @@ HD chơi ~n~ game bóng rổ, sau mỗi lần chơi, số điểm HD được gh
 
 - Test ~\#2:~
 <center><img src="/images/problems/216/BREAKING2.png" width="500px" /></center>
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

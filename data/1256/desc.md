@@ -53,6 +53,3 @@ Thời gian chờ trung bình nhỏ nhất là: ~(3+16+6)/3=25/3=8,33~
 
 #### Giải thích:
 - Thứ tự phục vụ là khách hàng ~1~, khách hàng ~4~, khách hàng ~3~ và khách hàng ~2~. Thời gian chờ trung bình nhỏ nhất là: ~(3+1+17+7)/4=28/4=7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

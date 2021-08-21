@@ -24,6 +24,3 @@ Cho một dãy số nguyên gồm ~N~ phần tử ~a_1, a_2, …, a_N~. Một d�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 10^5, 1 ≤ a_i ≤ 10^6~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

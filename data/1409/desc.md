@@ -32,6 +32,3 @@ Cho bảng số nguyên không âm gồm ~n~ dòng ~m~ cột. Hãy xác định 
 - ~0 ≤ k, a_{ij} ≤ 10^9~;
 - Có ~50\%~ test với ~1 ≤ n, m ≤ 100~;
 - Có ~50\%~ test với ~100 < n, m ≤ 5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

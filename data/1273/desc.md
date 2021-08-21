@@ -36,6 +36,3 @@ Mirko có một dãy số, và cô không thích nó nữa, cô quyết định 
 
 ## Giới hạn:
 - ~40\%~ có ~N≤5000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

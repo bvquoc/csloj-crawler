@@ -38,6 +38,3 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Con bò ~2: 1→3→5~;
 - Con bò ~3: 1→2→1→2→5~;
 - Con bò ~4: 1→2→3→5~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

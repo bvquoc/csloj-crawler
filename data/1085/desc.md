@@ -41,6 +41,3 @@ Hãy đưa ra câu trả lời cho mỗi truy vấn loại ~2~.
 - Có ~30\%~ số test có ~1 ≤ n,q ≤ 10^3~;
 - Có ~30\%~ số test khác chỉ gồm các truy vấn loại ~2, 1 ≤ n,q ≤ 5.10^4~;
 - Có ~40\%~ test còn lại: Như ràng buộc trong đề bài.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -36,6 +36,3 @@ Hãy viết chương trình kiểm tra bài làm của Hùng bằng cách viết
 ## Giới hạn:
 - Các test tương ứng với ~24\%~ số điểm có ~m = 0~
 - Các test còn lại tương ứng với ~76\%~ số điểm có giới hạn như đề bài đã cho.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

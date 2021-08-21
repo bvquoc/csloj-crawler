@@ -30,6 +30,3 @@ Dãy con của một dãy số là dãy mới được tạo thành sau khi bỏ
 ## Giới hạn:
 - Subtask ~\#1: 80\%~ số điểm có ~n≤10^3;q=1;L=1;R=n~;
 - Subtask ~\#2: 20\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

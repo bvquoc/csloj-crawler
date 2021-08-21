@@ -38,6 +38,3 @@
     - Truy vấn thứ ~4~ là có xâu `a` xuất hiện ~1~ lần và xâu `ab` xuất hiện ~1~ lần. Vì vậy kết quả sẽ là: ~1 ×1 + 1 ×2 = 3~.
     - Truy vấn thứ ~5~ là có xâu `a` xuất hiện ~2~ lần, xâu `ab` xuất hiện ~1~ lần và xâu `aba` xuất hiện ~1~ lần. Vì vậy kết quả sẽ là: ~2 ×1 + 1×2 + 1 ×3 = 7~.
 - Trong test ví dụ thứ hai, truy vấn thứ hai sẽ bị bỏ qua vì trước đó xâu `a` đã được thêm vào danh sách.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

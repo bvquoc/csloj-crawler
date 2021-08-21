@@ -36,6 +36,3 @@ Người ta muốn tính xem, sau ~n~ bước biến đổi, sẽ thu được d
 - Có ~40\%~ số test ứng với ~40\%~ số điểm của bài có ~n≤ 20~;
 - Có ~40\%~ số test khác ứng với ~40\%~ số điểm của bài có ~n≤ 50~;
 - Có ~20\%~ số test còn lại ứng với ~20\%~ số điểm còn lại của bài có ~n≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

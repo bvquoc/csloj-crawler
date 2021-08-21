@@ -39,6 +39,3 @@ Cho mạng ~G = (V, E, c, s, t)~ với ~G = (V, E)~ là một đồ thị có h�
 
 ## Giới hạn:
 - ~1 ≤ n ≤ 1000; m ≤ 10^5; 1 ≤ c ≤ 10000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

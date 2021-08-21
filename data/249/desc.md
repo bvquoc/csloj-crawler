@@ -25,6 +25,3 @@ Cho một bảng số kích thước ~N\times N~. Một ô số được gọi l
 ```
 
 **Giải thích:** các số ở các ô ~(1, 1), (1, 4), (2, 4)~ là các số đặc biệt.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -37,6 +37,3 @@ Hãy giúp ban tổ chức tìm chi phí ~X~ nhỏ nhất có thể.
 ## Giới hạn:
 - ~30\%~ số điểm có ~N≤10,k≤10,a_i≤10~;
 - ~30\%~ số điểm khác có ~N≤1000,k≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

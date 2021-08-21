@@ -29,6 +29,3 @@ Cho ~n~ hình chữ nhật đánh số từ ~1~ đến ~n~, các hình 
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 1000; 1 ≤ a_i ≤ b_i ≤ 1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

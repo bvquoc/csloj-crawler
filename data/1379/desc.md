@@ -41,6 +41,3 @@ Bé Sen mới mua một căn biệt thự lớn và hiện đại. Biệt thự 
 - Subtask ~\#1: 30\%~ số điểm của bài có ~M, N ≤ 1000~;
 - Subtask ~\#2: 40\%~ số điểm của bài có ~K ≤ 2000~;
 - Subtask ~\#3: 30\%~ số điểm còn lại không có ràng buộc gì thêm.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

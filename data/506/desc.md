@@ -26,6 +26,3 @@ Hãy đếm số hình chữ nhật con của bảng mà có các cạnh song so
 
 ## Giới hạn:
 - ~1 ≤ m, n ≤ 10^3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

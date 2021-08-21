@@ -40,6 +40,3 @@ Cho dãy số ~a_1,a_2,…,a_n~. Tìm cách chia dãy ~a~ thành ~s+1~ đoạn l
 - ~30\%~ số test có ~n≤20,0≤a_i≤10^6~;
 - ~30\%~ số test có ~20<n≤1000,0≤a_i≤10^6~;
 - ~40\%~ số test còn lại có ~n≤1000,|a_i|≤10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

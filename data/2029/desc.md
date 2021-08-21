@@ -30,6 +30,3 @@ Sau khi nhấn nút, mỗi trống sẽ độc lập quay. Sau khi các trống 
 
 #### Giái thích:
 - Trống ~1~ quay lên ~3~ vị trí, trống ~2~ quay lên ~1~ vị trí, trống ~3~ quay xuống ~1~ vị trí.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

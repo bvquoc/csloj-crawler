@@ -43,6 +43,3 @@ Mirko cũng đo được chiều cao của tất cả các cây. Tại mội th�
 
 ## Giới hạn:
 - ~30\%~ có ~N≤70~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

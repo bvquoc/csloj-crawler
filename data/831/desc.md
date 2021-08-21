@@ -50,6 +50,3 @@
 
 ## Giới hạn:
 - ~1\le K\le N \le 5000; 0\le\ x_i, w_i \le\ 10^6~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -31,6 +31,3 @@ Cho bảng số nguyên không âm kích thước ~𝑚 × 𝑛~ và hai số l�
 - Subtask ~\#2: 𝑚, 𝑛 ≤100~;
 - Subtask ~\#3: 𝑚, 𝑛 ≤300~;
 - Subtask ~\#4: 𝑚, 𝑛 ≤1000~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

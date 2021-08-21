@@ -36,6 +36,3 @@ Như vậy, ô ~(2,3)~ (giao giữa hàng ~2~ và cột ~3~) có giá trị bằ
 ```
 25
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

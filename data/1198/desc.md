@@ -29,6 +29,3 @@ Có ~10~ cách chia: ~\{(1),(2,3,4)\};\text{  } \{(2),(1,3,4)\};\text{ }\{(3),(1
 - ~30\%~ số test tương ứng ~30\%~ số điểm có ~N≤10^3~;
 - ~30\%~ số test khác tương ứng ~30\%~ số điểm có ~N≤10^7,|N-x-y|≤10~;
 - ~40\%~ số test còn lại tương ứng ~40\%~ số điểm có ~N≤10^7~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

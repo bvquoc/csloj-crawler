@@ -27,6 +27,3 @@ Bờm có thể bước như sau: ~1→3→4→5~ hoặc ~1→3→5~, do đó c�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5; 0 ≤ K ≤ N; 1 ≤ b_i < N~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

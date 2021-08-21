@@ -20,6 +20,3 @@ Cho ~N~ đoạn thẳng trên trục số với các điểm đầu ~x_i~ và đ
 ```
 21
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

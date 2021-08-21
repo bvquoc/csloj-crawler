@@ -37,6 +37,3 @@ Trong ví dụ này, ma trận giá trị tiềm năng của các ô đất như
 </pre>
 
 Do đó, tổng giá trị tiềm năng là ~2+0+1+3+2+0=8~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

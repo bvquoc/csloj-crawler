@@ -49,6 +49,3 @@ Trong tất cả các test có: ~1≤n,m≤2000;1≤c_i,C_i≤50;1≤f_i,v_i,F_i
 - Subtask ~\#4: 18\%~ số điểm khác có ~f_i=F_j=1~;
 - Subtask ~\#5: 18\%~ số điểm khác có ~v_i=V_j=1~;
 - Subtask ~\#6: 10\%~ số điểm còn lại không có ràng buộc bổ sung.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

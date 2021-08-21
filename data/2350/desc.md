@@ -87,6 +87,3 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 
 ## Giới hạn:
 - ~1 ≤ N ≤ 10^5, 1 ≤ K ≤ N, 1 ≤ u_i, v_i ≤ N, u_i ≠ v_i, ∀1 ≤ i < N, 1 ≤ w_i ≤ 10^9~, đồ thị thỏa mãn tính liên thông.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -31,6 +31,3 @@ Cho ~n~ số nguyên dương ~a_i,i=1..n~, bạn phải đặt giữa ~n~ số n
 
 #### Giải thích:
 - Biểu thức thu được là: ~4 \times 7 + 1 + 5\times3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

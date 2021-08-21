@@ -35,6 +35,3 @@ Số liệu thống kê cho thấy, muốn được giải trong kỳ thi thì h
 - Subtask ~\#1: 40\%~ số điểm có ~m, n ≤ 20~;
 - Subtask ~\#2: 30\%~ số điểm khác có ~m, n≤50~;
 - Subtask ~\#3: 30\%~ số điểm còn lại có ~m, n ≤ 500~;
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

@@ -48,6 +48,3 @@ Nhiệm vụ của bạn là giúp các bé xác định thời điểm sớm nh
 - **Subtask** ~\#2~: ~40\%~ số điểm: ~T≤1000~
 - **Subtask** ~\#3~: ~20\%~ số điểm không có ràng buộc bổ sung
 #### Chú ý: Bài này chấm theo tỉ lệ phần trăm số test đúng
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

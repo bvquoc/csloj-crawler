@@ -29,6 +29,3 @@ Cho số ~N~, hãy đếm số cách chia số ~N~ thành tổng các số nguy�
 - Subtask ~\#2~ (~24\%~ số điểm) ~N < 10^6~;
 - Subtask ~\#3~ (~36\%~ số điểm) ~N < 10^{10}~;
 - Subtask ~\#4~ (~24\%~ số điểm) ~N < 10^16~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

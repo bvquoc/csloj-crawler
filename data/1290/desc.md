@@ -41,6 +41,3 @@ FJ muốn chọn xem với mỗi con bò thì nên cho vắt sữa hay cho thuê
 #### Giải thích:
 - FJ để con bò ~\#1~ và ~\#4~ vắt sữa được ~13~ lít sữa mỗi ngày. Anh ta bán ~10~ lít với giá ~25~ và ~3~ 
 lít còn lại với giá ~15~ . Tổng cộng được ~295~. Tiếp theo, anh ta cho thuê ~3~ con bò với giá ~250~, ~80~ và ~100~. Tổng cộng được ~725~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

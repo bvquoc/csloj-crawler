@@ -43,6 +43,3 @@ Cho một dãy gồm ~n~ số nguyên, hãy đếm số cặp bằng nhau trong 
 
 ## Giới hạn:
 - ~1≤n≤10^5,0≤a_i≤5.10^4~
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

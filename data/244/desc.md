@@ -22,6 +22,3 @@ Hãy xác định, với cách bố trí tối ưu các cặp đấu, đội c�
 ```
 4
 ```
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)

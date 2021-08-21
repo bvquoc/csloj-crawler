@@ -25,6 +25,3 @@ Có ~N~ chú sóc đang đứng chờ dưới gốc của ~M~ cây hạt dẻ. C
 ```
 
 **Giải thích:** Hai chú sóc đứng ở gốc cây ~2~ và ~3~.
-**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-
-**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)
