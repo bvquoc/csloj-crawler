@@ -17,16 +17,16 @@ for (let id = 1; id <= MAX_ID; id++) {
       let content = $('.markdown-edit').text();
       if (content !== '') {
         problemIDList.push(id);
-        // content = content.split("$").join("~");
-        // content = content.split("\n#### ").join("\n## ");
-        // content = content.split("\n##### ").join("\n#### ");
-        // content = `${content}${endText}`;
+        content = content.split('$').join('~');
+        content = content.split('\n#### ').join('\n## ');
+        content = content.split('\n##### ').join('\n#### ');
+        content = `${content}${endText}`;
         console.log('Problem id', id, ' was crawled!');
-        // const dir = `${parDir}/${id}`;
-        // if (!fs.existsSync(dir)) {
-        //   fs.mkdirSync(dir, { recursive: true });
-        // }
-        // fs.writeFileSync(`${dir}/desc.md`, content);
+        const dir = `${parDir}/${id}`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+        fs.writeFileSync(`${dir}/desc.md`, content);
       } else {
         console.log('Problem id', id, " doesn't exist!");
       }
