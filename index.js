@@ -3,11 +3,10 @@ const fs = require("fs");
 const request = require("request-promise");
 
 // const endText = `\n\n**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
-// \n**Group giải đáp thắc mắc:** [Lập trình 24h](https://www.facebook.com/groups/1386904321519984)`;
 
 const parDir = "./data";
 const problemIDList = [];
-const MAX_ID = 10018;
+const MAX_ID = 50; // 10018;
 
 for (let id = 1; id <= MAX_ID; id++) {
   request(
