@@ -1,3 +1,0 @@
-**<center>NGUỒN: Free Contest 55</center>**
-
-[Tải đề bài (PDF)](/statements/2299/TRETRAU.pdf)

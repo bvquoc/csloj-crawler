@@ -1,10 +1,10 @@
-Cho hai số nguyên ~A~ và ~B~. Tính và in ra kết quả biểu thức ~A+B~.
+Cho hai số nguyên $A$ và $B$. Tính và in ra kết quả biểu thức $A+B$.
 
 ## Dữ liệu vào:
-- Một dòng duy nhất chứa hai số nguyên ~A, B~ được ghi cách nhau một dấu cách.
+- Một dòng duy nhất chứa hai số nguyên $A, B$ được ghi cách nhau một dấu cách.
 
 ## Dữ liệu ra:
-- Một số nguyên duy nhất là kết quả của phép tính ~A+B~.
+- Một số nguyên duy nhất là kết quả của phép tính $A+B$.
 
 ## Ví dụ:
 #### Dữ liệu vào:
@@ -18,7 +18,7 @@ Cho hai số nguyên ~A~ và ~B~. Tính và in ra kết quả biểu thức ~A+B
 ```
 
 ## Giới hạn:
-- ~100\%~ số test có ~|A|, |B| \le 10^9~
+- $100\%$ số test có $|A|, |B| \le 10^9$
 
 ## Code mẫu:
 Bạn phải **nhập/xuất** đúng theo đề bài yêu cầu. Không "**thông báo**" khi nhập/xuất.
