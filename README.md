@@ -1,13 +1,13 @@
 # csloj-crawler
 
-Crawl csloj data by nodejs (puppeteer)
+Crawl [csloj](http://csloj.ddns.net/) data by NodeJS (puppeteer)
 
 ## Installation
 
-To install libs, run:
-`npm install`
+To install packages, run:
+```npm install```
 
 ## Usage
 
 Execute script on the command line
-`node index.js`
+```node index.js```
