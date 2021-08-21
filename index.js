@@ -2,7 +2,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const request = require("request-promise");
 
-// const endText = `\n\n**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)
+// const endText = `\n\n**Nguồn:** [Chuyên Sơn La Online Judge](http://csloj.ddns.net/)`
 
 const parDir = "./data";
 const problemIDList = [];
