@@ -19,7 +19,7 @@ for (let id = 1; id <= MAX_ID; id++) {
         let content = $(".markdown-edit").text();
         if (content !== "") {
           problemIDList.push(id);
-          content = content.split("$").join("~");
+          // content = content.split("$").join("~");
           content = content.split("\n#### ").join("\n## ");
           content = content.split("\n##### ").join("\n#### ");
           // content = `${content}${endText}`;
