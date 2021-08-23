@@ -14,9 +14,7 @@ const parDir = './data';
 
 for (const id of IDList) {
   const dir = `${parDir}/${id}`;
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-    getDescription(dir, id);
-    getInfo(dir, id);
-  }
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+  getDescription(dir, id);
+  getInfo(dir, id);
 }
