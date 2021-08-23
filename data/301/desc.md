@@ -7,22 +7,22 @@ Cho ba số nguyên dương $a,b,c$. Kiểm tra xem ba số đó có là ba cạ
 - Đáp số của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12 6.00
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 8 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

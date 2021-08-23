@@ -10,7 +10,7 @@ Một ngày nọ, anh muốn thăm $K$ người bạn gái của mình, tuy nhi�
 - Gồm $T$ dòng là kết quả của $T$ test trong dữ liệu vào (được in ra theo modulo $100003$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 7 3
@@ -19,7 +19,7 @@ Một ngày nọ, anh muốn thăm $K$ người bạn gái của mình, tuy nhi�
 100000 555
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 0

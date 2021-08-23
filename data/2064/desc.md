@@ -12,7 +12,7 @@ Một tập các ô được gọi là hồ, nếu như tất cả các ô trong
 - Một dòng duy nhất là kích thước lớn nhất của hồ nước có trong cánh đồng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 5
 3 2
@@ -22,7 +22,7 @@ Một tập các ô được gọi là hồ, nếu như tất cả các ô trong
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

@@ -13,7 +13,7 @@ Xét các phép biến đổi bảng bằng cách dịch chuyển theo vòng tr�
 - Ghi ra $m$ dòng, mỗi dòng $n$ ký tự mô tả bảng nhỏ nhất biến đổi được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 .**
@@ -21,14 +21,14 @@ Xét các phép biến đổi bảng bằng cách dịch chuyển theo vòng tr�
 .*.
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 **.
 ..*
 *..
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 ....
@@ -43,7 +43,7 @@ Xét các phép biến đổi bảng bằng cách dịch chuyển theo vòng tr�
 ....
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 .**..
@@ -51,14 +51,14 @@ Xét các phép biến đổi bảng bằng cách dịch chuyển theo vòng tr�
 ..**.
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ***..
 .**..
 **...
 ```
 
-#### Giải thích:
+### Giải thích:
 Với test ví dụ đầu, tất cả các bảng có thể biến đổi thành như sau:
 ```
 .**     .*.     *..     **.     *..     ..*     *.*     ..*     .*.

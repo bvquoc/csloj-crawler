@@ -23,7 +23,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là kết quả bài toán (lấy theo modulo $123457$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 5 5 6 7 8 9
@@ -31,10 +31,10 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 3 7 8 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có thể chọn: $s_1,s_1-s_2,s_1-s_2-s_3,s_2,s_2-s_3,s_3$

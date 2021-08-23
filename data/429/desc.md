@@ -11,7 +11,7 @@ Chẳng hạn với $n = 12$ ta có nhiều cách lát, dưới đây là một 
 - Với mỗi $n$, in ra trên một dòng số cách lát tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1
@@ -19,14 +19,14 @@ Chẳng hạn với $n = 12$ ta có nhiều cách lát, dưới đây là một 
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 3
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với $n = 1$ hoặc $n = 3$, không có cách nào lát được.
 - Với $n = 2$ ta có $3$ cách lát như sau:
 <center><img src="/images/problems/429/LATGACH3.svg" width=500px></center>

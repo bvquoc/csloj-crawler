@@ -21,7 +21,7 @@ Banditji là một tên trộm nổi tiếng. Hắn quyết định làm một v
 - Một số nguyên – số tiền bị trộm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7
 0 2
@@ -41,7 +41,7 @@ Banditji là một tên trộm nổi tiếng. Hắn quyết định làm một v
 4 3 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 47
 ```

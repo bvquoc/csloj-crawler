@@ -12,13 +12,13 @@ Cho một mảng $n$ phần tử, ta định nghĩa vẻ đẹp của một mả
 - Ghi ra một số duy nhất là vẻ đẹp lớn nhất có thể của mảng đã cho.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 8 21 52 15 77
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

@@ -10,7 +10,7 @@ Bạn hãy tìm cách đi từ mặt đất xuống phòng của Bin Laden nhanh
 - Ghi ra một số là tổng chi phí thời gian nhỏ nhất để đến được phòng của BinLaden.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 99 10
@@ -23,12 +23,12 @@ Bạn hãy tìm cách đi từ mặt đất xuống phòng của Bin Laden nhanh
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 44
 ```
 
-#### Giải thích:
+### Giải thích:
 - Đi theo đường zigzag
 ```
 +--99--+--10--+

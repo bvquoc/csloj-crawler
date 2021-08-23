@@ -10,20 +10,20 @@ Trong một đài phun nước, bạn có $2$ chiếc bình dung tích $a,b$ lí
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$, ghi `YES` nếu có thế lấy được $c$ lít, ghi `NO` nếu không lấy được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 3 4
 3 6 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi 1:
 	- Bước $1: a=0,b=0$;
 	- Bước $2: a=5,b=0$;

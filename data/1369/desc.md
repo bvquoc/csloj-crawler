@@ -13,7 +13,7 @@ Hỏi rằng có bao nhiêu đường đua xe đạp khác nhau?. Hai đường 
 - Một số nguyên duy nhất là số lượng đường đua khác nhau. Nếu như số này có nhiều hơn $9$ chữ số thì chỉ giữ lại $9$ chữ số cuối cùng của nó.  Nếu như có vô số đường đua thì ghi `inf`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7
 1 3
@@ -25,7 +25,7 @@ Hỏi rằng có bao nhiêu đường đua xe đạp khác nhau?. Hai đường 
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -16,14 +16,14 @@ Tuy hiếu khách nhưng vì miếng cơm manh áo nên ông Nghiệp vẫn mu�
 - Ghi ra một số nguyên duy nhất là số tiền nhiều nhất mà ông Nghiệp có thể thu được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1   2   5  4
 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

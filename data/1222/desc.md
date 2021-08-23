@@ -14,13 +14,13 @@ Cho $𝑆$ là một xâu ký tự, ta gọi xâu lặp bậc $𝑘$ của $𝑆
 - Ghi ra số $𝑘$ lớn nhất mà $𝑆^𝑘$ là xâu con của xâu $𝑇$.
 
 ## Ví dụ 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 pet
 hopeforthebestbutpreparefortheworst
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

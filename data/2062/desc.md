@@ -22,7 +22,7 @@ Thiên rất tò mò về điều này, nhưng hiện Thiên đang bận làm b�
 - Dữ liệu vào của bài toán luôn đảm bảo sẽ có lời giải.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7
 1 2
@@ -34,12 +34,12 @@ Thiên rất tò mò về điều này, nhưng hiện Thiên đang bận làm b�
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 $5$ cách sắp xếp bài tập mà Thiên có thể làm là:
 - $1 2 3 4 5$
 - $1 3 2 4 5$

@@ -17,7 +17,7 @@ Với chi phí biến đổi là: $1+3+2=6$.
 - Ghi ra chi phí biến đổi nhỏ nhất. Ghi ra $-1$ trong trường hợp không tồn tại phép biến đổi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 5
 abcdba
@@ -28,7 +28,7 @@ d a 3
 a z 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

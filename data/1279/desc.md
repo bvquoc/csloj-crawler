@@ -13,12 +13,12 @@ Ví dụ $n = 3$ và $v_1 = 2, w_1 = 3, v_2 = 10, w_2 = 12, v_3 = 17, w_3 = 17$ 
 - Số nguyên duy nhất là kết quả của bài toán. Dữ liệu đảm bảo kết quả này luôn nhỏ hơn $10^6$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 3 10 12 17 17
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 19
 ```

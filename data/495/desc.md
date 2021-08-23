@@ -15,7 +15,7 @@ Kết thúc là số $0$.
 - Ứng với mỗi bộ test, ghi ra `yes` nếu có thể xếp đúng được thứ tự, ghi ra `no` nếu không thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 5 1 2 4 3
@@ -24,13 +24,13 @@ Kết thúc là số $0$.
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 yes
 no
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta bố trí các xe (trong test $\#1$) tránh vào đường Điền Biên như hình dưới đây:
 <center><img src="/images/problems/495/STPARA.png" width="800px" \></center>
 

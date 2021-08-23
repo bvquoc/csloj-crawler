@@ -13,7 +13,7 @@ Hãy tìm một hình chữ nhật gồm các ô của bảng thoả mãn các �
 - Một số nguyên dương duy nhất là diện tích lớn nhất của HCN thỏa yêu cầu bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 8
 00010000
@@ -22,12 +22,12 @@ Hãy tìm một hình chữ nhật gồm các ô của bảng thoả mãn các �
 00111000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - HCN có diện tích lớn nhất có tọa độ trái trên là $(2, 2)$, phải dưới là $(4, 5)$ tổng diện tích là $9$ ô đơn vị.
 
 ## Giới hạn:

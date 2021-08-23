@@ -13,7 +13,7 @@ Makacha là một người thích sự to lớn, vì vậy anh ta muốn chiều
 - Dòng tiếp theo chứa chỉ số của những viên gạch bạn chọn để xây tháp. Chỉ số các viên gạch được đưa ra theo thứ tự từ trên xuống dưới, có nghĩa là viên gạch được xếp trên cùng được đưa ra đầu tiên... Nếu có nhiều kết quả tối ưu, đưa ra kết quả bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 2 3 2
@@ -24,7 +24,7 @@ Makacha là một người thích sự to lớn, vì vậy anh ta muốn chiều
 5 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8 3
 4 1 2

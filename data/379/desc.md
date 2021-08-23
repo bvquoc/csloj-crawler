@@ -14,13 +14,13 @@ Tất nhiên là bài toán này không thể làm khó Tí được nhưng vì 
 - Ghi ra số nguyên dương lớn nhất ghép được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 12 907 91
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9190712
 ```

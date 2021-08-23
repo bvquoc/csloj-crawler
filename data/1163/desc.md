@@ -6,26 +6,26 @@
 **<center>Chú ý: Điểm số được quy đổi sang thang điểm 100 theo đúng tỉ lệ</center>**
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 7
 1 2 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 2 1 4
 2 1 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 0 0 0 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 2 0 1

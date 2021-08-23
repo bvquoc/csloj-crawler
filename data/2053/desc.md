@@ -10,7 +10,7 @@ Một kẻ trộm đột nhập vào một cửa hiệu tìm thấy có $n$ món
 - In ra tổng giá trị lớn nhất đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 50
 33 6
@@ -25,7 +25,7 @@ Một kẻ trộm đột nhập vào một cửa hiệu tìm thấy có $n$ món
 40 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 27
 ```

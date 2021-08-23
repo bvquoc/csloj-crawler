@@ -11,7 +11,7 @@ Cho dãy số nguyên $a$ gồm $n$ phần tử. Cho $m$ truy vấn có dạng $
 - Với mỗi truy vấn, in ra tổng các số trong đoạn từ $L$ đến $R$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 -1 -1 1
@@ -19,13 +19,13 @@ Cho dãy số nguyên $a$ gồm $n$ phần tử. Cho $m$ truy vấn có dạng $
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 -6 -5
@@ -34,14 +34,14 @@ Cho dãy số nguyên $a$ gồm $n$ phần tử. Cho $m$ truy vấn có dạng $
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -6
 -11
 -5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 17 -17 -21 6
@@ -51,7 +51,7 @@ Cho dãy số nguyên $a$ gồm $n$ phần tử. Cho $m$ truy vấn có dạng $
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -21
 6

@@ -14,7 +14,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 - Gồm $Q$ dòng, dòng thứ $i$ là kết quả của truy vấn thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 -2 5 8 6 9
@@ -22,12 +22,12 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 -2 5 8 6 9 -3 -5 6 8 10
@@ -37,12 +37,12 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -2
 6
 20
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $1 ≤ n, Q ≤ 50000; |a_i| ≤ 42000; 1 ≤ X_i ≤ Y_i ≤ n$.

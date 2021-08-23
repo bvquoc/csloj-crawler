@@ -20,7 +20,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 - Ghi ra một số nguyên duy nhất là số vị trí đặt khu nghỉ dưỡng để độ cao của phòng ngủ bằng $B$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 3 3
 1
@@ -30,7 +30,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 1 1 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

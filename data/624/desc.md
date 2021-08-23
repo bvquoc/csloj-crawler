@@ -9,7 +9,7 @@
 ## Dữ liệu ra:
 - In ra `Possible` nếu tồn tại cách xây. Ngược lại, in ra `Impossible`.
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 3 2 2 3 3
@@ -20,7 +20,7 @@
 Possible
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1 2
@@ -31,7 +31,7 @@ Possible
 Impossible
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ $1$:
 
 <center><img src="/images/problems/624/TREE.png" width=350px></center>

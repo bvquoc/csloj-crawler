@@ -13,7 +13,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Ghi trên một dòng nhiều số nguyên, mỗi số là câu trả lời cho truy vấn loại $2$ (theo đúng thứ tự thực hiện các truy vấn), hai số liên tiếp ghi cách nhau một khoảng trắng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 2 -1 5 3 -3
@@ -22,7 +22,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 2 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9 6
 ```

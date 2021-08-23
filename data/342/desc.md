@@ -8,7 +8,7 @@ Cho một số nguyên dương trong hệ cơ số $10$, hãy viết số đó t
 - Với mỗi số nguyên dương $n$ trong hệ thập phân, in ra trên một dòng xâu nhị phân biểu diễn số đó trong hệ nhị phân (không bắt đầu bởi số $0$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5
@@ -16,7 +16,7 @@ Cho một số nguyên dương trong hệ cơ số $10$, hãy viết số đó t
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 101
 111

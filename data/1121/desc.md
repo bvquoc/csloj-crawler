@@ -16,7 +16,7 @@ Người thứ $𝑖$ và người thứ $𝑗$ sẽ gặp nhau trên đường 
 - Gồm một số là số bạn trong nhóm tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1000 4
 1 3
@@ -25,7 +25,7 @@ Người thứ $𝑖$ và người thứ $𝑗$ sẽ gặp nhau trên đường 
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

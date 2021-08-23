@@ -14,13 +14,13 @@ Có $n$ con khủng long, tất cả đều đang ở trong chuồng. Con khủn
 - Ghi xâu $s\ (0 ≤ |s| ≤ 10^6)$ gồm nhiều ký tự viết liền nhau, các ký tự $'C'$ cho biết bạn bật đèn ở chuồng, các ký tự $'H'$ cho biết bạn bật đèn ở hành lang. Lưu ý các đèn là đèn báo hiệu và sẽ tắt ngay sau khi được bật sáng. Các đèn được bật theo đúng trình tự trong xâu $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 1 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 CCHHCCCCHHHHCCHHCCHCCHCCHHHH
 ```

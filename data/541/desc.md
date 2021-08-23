@@ -9,7 +9,7 @@ Cho đồ thị có hướng không chu trình (Directed Acyclic Graph - DAG) $G
 - Ghi ra $n$ số nguyên dương, số thứ $i$ là chỉ số của đỉnh thứ $i$ sau khi đánh số lại. Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 7
 1 2
@@ -21,7 +21,7 @@ Cho đồ thị có hướng không chu trình (Directed Acyclic Graph - DAG) $G
 7 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 7 5 6 3 4
 ```

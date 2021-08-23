@@ -14,7 +14,7 @@ Hãy tìm cách xóa đi đúng $𝑛 − 𝑘$ phần tử của dãy $𝐴$ v�
 - Ứng với mỗi test, ghi ra hoán vị còn lại sau khi xóa $𝑛 − 𝑘$ phần tử dãy $𝐴$ theo phương án tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4 3
@@ -23,7 +23,7 @@ Hãy tìm cách xóa đi đúng $𝑛 − 𝑘$ phần tử của dãy $𝐴$ v�
 4 2 3 3 1 3 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 1 2
 1 3 2 4

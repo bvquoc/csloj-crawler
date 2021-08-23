@@ -16,7 +16,7 @@ Tất nhiên ban tổ chức vẫn rất muốn rằng việc chọn lộ trình
 - Nếu không tồn tại lộ trình đi hợp lệ, in ra $-1$. Ngược lại, dòng đầu tiên in ra số $k\ (2 ≤ k ≤ M)$ là số lượng con đường trong lộ trình, $k$ dòng tiếp theo in ra $k$ số $e_1, e_2, …, e_k$ là chỉ số của các con đường theo đúng lộ trình đi. Các số $e_i$ phải đôi một phân biệt. Nếu có nhiều lộ trình hợp lệ, in ra một lộ trình bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 8
 1 4 1
@@ -29,13 +29,13 @@ Tất nhiên ban tổ chức vẫn rất muốn rằng việc chọn lộ trình
 2 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 3 5 6 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 2 2
@@ -45,12 +45,12 @@ Tất nhiên ban tổ chức vẫn rất muốn rằng việc chọn lộ trình
 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 1 2 1
@@ -58,7 +58,7 @@ Tất nhiên ban tổ chức vẫn rất muốn rằng việc chọn lộ trình
 2 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2 3

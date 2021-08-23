@@ -16,7 +16,7 @@ Nếu có nhiều vị trí mà tổng quãng đường di chuyển được gi�
 - Ghi ra hai số nguyên $X, Y$ là tọa độ của nơi đặt địa điểm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 0
@@ -27,12 +27,12 @@ Nếu có nhiều vị trí mà tổng quãng đường di chuyển được gi�
 11 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 1 16
@@ -46,7 +46,7 @@ Nếu có nhiều vị trí mà tổng quãng đường di chuyển được gi�
 17 18
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9 10
 ```

@@ -9,13 +9,13 @@ Cho mảng $A$ gồm $n$ số nguyên không âm: $a_1, a_2, …, a_n$, hãy đ�
 - $m$ dòng tiếp theo, mỗi dòng ghi $2$ số $u_i, f_i$ trong đó $u_i$ là giá trị có trong mảng $A, f_i$ là số lần xuất hiện của $u_i$ (các số $u_i$ được sắp xếp theo thứ tự xuất hiện lần đầu trong mảng $A$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 5 3 2 3 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 5 1

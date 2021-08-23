@@ -15,38 +15,38 @@ Cho một xâu $s$ dộ dài $n$ chỉ gồm các kí tự latin in thường. M
 - In ra xâu $s$ sau khi được khôi phục các kí tự bị mờ. Trong trường hợp không có cách khôi phục xâu $s$ thỏa điều kiện đề bài, hãy in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 y???z?
 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 yaabzc
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 yy??z?
 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 fr??co?te?t
 0 0 1 0 3 1 0 0 0 0 0 0 0 1 1 0 0 1 1 2 0 0 0 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 freecontest
 ```

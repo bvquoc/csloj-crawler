@@ -13,22 +13,22 @@ Bờm nhận thấy rằng có thể có những cặp số có **gcd** và **lc
 - Ghi ra hai số nguyên $x$ và $y\ (1 ≤ x ≤ y)$ thỏa mãn: $gcd(x, y) = gcd(a, b), lcm(x, y) = lcm(a, b)$,và hiệu $y − x$ là nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 4
 ```

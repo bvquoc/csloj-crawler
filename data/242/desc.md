@@ -10,7 +10,7 @@ Cho $4$ số nguyên dương $a,b,c,d\ (1≤a,b,c,d≤100)$ là độ dài $4$ �
 - Ghi ra trên $t$ dòng, dòng thứ $i$ ghi đáp án câu hỏi $i$: ghi `TRIANGLE` nếu tạo được tam giác, `SEGMENT` nếu tạo thành tam giác suy biến, `IMPOSSIBLE` nếu không tạo được một trong hai trường hợp trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 2 1 3
@@ -18,14 +18,14 @@ Cho $4$ số nguyên dương $a,b,c,d\ (1≤a,b,c,d≤100)$ là độ dài $4$ �
 3 5 9 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 TRIANGLE
 SEGMENT
 IMPOSSIBLE
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $1$: Tam giác tạo được có độ dài $3$ cạnh là $4, 2, 3$;
 - Test $2$: Tam giác suy biến từ $3$ cạnh có độ dài $2, 2, 4$;
 - Test $3$: Không tạo được tam giác.

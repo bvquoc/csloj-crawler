@@ -11,14 +11,14 @@ Hãy xác định, với cách bố trí tối ưu các cặp đấu, đội c�
 - Một số nguyên duy nhất là số điểm đội trường sở tại có thể đạt được với cách bố trí cặp chơi tối ưu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 10 15 30 20 25
 28 24 20 16 14
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

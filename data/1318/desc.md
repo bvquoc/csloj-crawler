@@ -16,7 +16,7 @@ Cần sửa lại cây sao cho khoảng cách giữa hai nút xa nhất là nh�
 Nếu có nhiều phương án tối ưu thì chỉ cần đưa ra một trong số chúng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2
@@ -24,14 +24,14 @@ Nếu có nhiều phương án tối ưu thì chỉ cần đưa ra một trong s
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3 4
 4 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 3
@@ -42,7 +42,7 @@ Nếu có nhiều phương án tối ưu thì chỉ cần đưa ra một trong s
 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 2 3

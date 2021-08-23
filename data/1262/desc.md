@@ -15,7 +15,7 @@ Một đường đi tăng trên bảng số là một dãy liên tiếp các ô 
 - Gồm một dòng chứa một số là số ô trên đường đi tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 1 0
@@ -23,7 +23,7 @@ Một đường đi tăng trên bảng số là một dãy liên tiếp các ô 
 2 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

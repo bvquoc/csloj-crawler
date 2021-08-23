@@ -20,7 +20,7 @@ Chú ý rằng sau khi Bờm biến đổi lại dãy về dãy ngoặc đúng, 
 - Gồm một xâu gồm $N$ kí tự biểu thị dãy ngoặc đúng sau ván cuối cùng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 3
 (((())))
@@ -29,12 +29,12 @@ Chú ý rằng sau khi Bờm biến đổi lại dãy về dãy ngoặc đúng, 
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 (()()())
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sau khi vị trí $4$ bị đổi dấu, xâu trở thành `((()))))`, khi đó vị trí trái nhất ta có thể đổi là vị trí $4$, xâu quay lại trở thành `(((())))`;
 - Sau khi vị trí $6$ bị đổi dấu, xâu trở thành `(((()())`, khi đó vị trí trái nhất ta có thể đổi là vị trí $2$, khi đó xâu trở thành `()(()())`;
 - Sau khi vị trí $3$ bị đổi dấu, xâu trở thành `())()())`, khi đó vị trí trái nhất ta có thể đổi là vị trí $2$, khi đó xâu trở thành `(()()())`.

@@ -12,7 +12,7 @@ Cuội đưa ra những câu đố cho Bờm như sau: Cuội sẽ cho Bờm bi�
 - Gồm $q$ dòng, mỗi dòng chứa một số nguyên không âm là các câu trả lời cho $q$ câu hỏi (theo đúng thứ tự câu hỏi).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 
 1 3 5
@@ -23,12 +23,12 @@ Cuội đưa ra những câu đố cho Bờm như sau: Cuội sẽ cho Bờm bi�
 1 2 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 5
 ```
-#### Giải thích:
+### Giải thích:
 - Ta có bàn cờ và $2$ câu hỏi như sau:
  <center><img src="/images/problems/436/DPBOARD.png" width=600px></center>
 

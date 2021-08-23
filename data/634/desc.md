@@ -15,7 +15,7 @@ Dù là cách sắp xếp không phải là tối ưu nhất, nhưng dù sao nó
 - Ghi ra phần dư của số lượng cách xếp theo Cá Nóc khi chia cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 ```
@@ -25,7 +25,7 @@ Dù là cách sắp xếp không phải là tối ưu nhất, nhưng dù sao nó
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 ```
@@ -35,7 +35,7 @@ Dù là cách sắp xếp không phải là tối ưu nhất, nhưng dù sao nó
 3252
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 100 100
 ```
@@ -45,7 +45,7 @@ Dù là cách sắp xếp không phải là tối ưu nhất, nhưng dù sao nó
 561068619
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/634/GRADUATION.png" width=600px></center>
 
 ## Giới hạn:

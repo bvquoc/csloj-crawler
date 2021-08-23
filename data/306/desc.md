@@ -7,32 +7,32 @@ Giải và biện luận phương trình bậc hai một ẩn $ax^2+bx+c=0$ trê
 - Nếu phương trình vô nghiệm, nghi ra `VONGHIEM`, nếu phương trình có hữu hạn nghiệm, ghi ra các nghiệm phân biệt của phương trình dạng số thập phân với quy cách làm tròn đến hàng phần trăm, mỗi nghiệm cách nhau một dấu cách, các nghiệm sắp xếp tăng dần, nếu phương trình có vô số nghiệm, ghi ra `R`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 1 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0.00
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -2.00 -1.00
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 VONGHIEM
 ```

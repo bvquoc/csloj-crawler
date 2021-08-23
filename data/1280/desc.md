@@ -10,13 +10,13 @@ Hãy tìm cách chia các em thành một số nhóm, sao cho tổng mức độ
 - Số nguyên duy nhất là tổng mức độ sức khỏe lớn nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

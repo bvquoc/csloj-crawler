@@ -15,12 +15,12 @@ Cu Tí được mừng sinh nhật một chiếc bánh gato hình chữ nhật c
 ## Ví dụ:
 <center><img src="/images/problems/182/CUTTING2.png" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

@@ -15,35 +15,35 @@ Năm tháng trôi qua, một vài cột đá trong phòng lũy bảo vệ đã b
 - Một dòng duy nhất là số phòng lũy khác nhau. Vì số này có thể rất lớn nên chỉ cần tính phần dư của nó khi chia cho $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 -1 2 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 -1 -1 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 -1 -1 -1 2 -1 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

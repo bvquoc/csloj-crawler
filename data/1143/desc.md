@@ -13,7 +13,7 @@ Dãy số $e_1,e_2,…,e_{2k}\  (k≥2)$ được gọi là dãy “đặc biệ
 - Ghi một số nguyên duy nhất là số lượng dãy con là dãy “đặc biệt” theo `modulo` $30103$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1
@@ -23,12 +23,12 @@ Dãy số $e_1,e_2,…,e_{2k}\  (k≥2)$ được gọi là dãy “đặc biệ
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $2$ dãy thỏa mãn là $(1,2,3,5)$ và $(1,2,3,6)$. Do đó kết quả bằng $2 \mod 30103$.
 
 ## Giới hạn:

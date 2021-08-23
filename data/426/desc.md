@@ -8,20 +8,20 @@ Cho một hình chữ nhật kích thước $2×N$. Hãy đếm số cách lát 
 - Ghi ra $T$ dòng là số cách lát tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với $N = 3$ ta có các cách lát sau đây:
 <center><img src="/images/problems/426/DPLATGACH.svg" width=500px></center>
  

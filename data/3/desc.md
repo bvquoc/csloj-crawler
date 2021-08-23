@@ -7,20 +7,20 @@ Nhập vào số nguyên dương $ a $, ghi ra chính số $ a $.- Dòng đầu 
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```plain
 1
 2
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```plain
 1
 1000000000000000000000000000000000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```plain
 1000000000000000000000000000000000
 ```Trong tất cả các test có $ 1 \leq T \leq 10, 1 \leq a \leq 10 ^ {1000} $.

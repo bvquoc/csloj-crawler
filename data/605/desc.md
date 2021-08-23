@@ -10,7 +10,7 @@ Hôm qua bạn Phương vừa học đến phần số âm và được cô giao
 - In ra số lượng số âm, số lượng số dương trong dãy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 -5 -3 -1 1

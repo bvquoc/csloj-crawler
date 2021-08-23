@@ -12,7 +12,7 @@ $Max(x_1,x_2,…,x_K)-Min(x_1,x_2,…,x_K)$.
 - Ghi ra số nguyên duy nhất là kết quả của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 3
@@ -25,12 +25,12 @@ $Max(x_1,x_2,…,x_K)-Min(x_1,x_2,…,x_K)$.
 30
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 4
@@ -46,7 +46,7 @@ $Max(x_1,x_2,…,x_K)-Min(x_1,x_2,…,x_K)$.
 200
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

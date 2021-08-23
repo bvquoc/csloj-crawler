@@ -4,7 +4,7 @@
 <img src="/images/problems/1057/tour.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2 4
@@ -17,18 +17,18 @@
 5 6 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2.00
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO TOUR
 ```

@@ -9,7 +9,7 @@ $${S_n} = \frac{1}{{1 \times 2}} + \frac{1}{{2 \times 3}} + ... + \frac{1}{{n \t
 - Với mỗi bộ test, ghi ra trên một dòng số $S_n$ làm tròn đến $8$ chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1
@@ -17,7 +17,7 @@ $${S_n} = \frac{1}{{1 \times 2}} + \frac{1}{{2 \times 3}} + ... + \frac{1}{{n \t
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0.50000000
 0.83333333

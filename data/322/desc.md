@@ -8,7 +8,7 @@
 - Với mỗi số nguyên dương $n$, ghi ra trên một dòng số nguyên dương là số lượng các ước nguyên dương của $n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -16,7 +16,7 @@
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 4

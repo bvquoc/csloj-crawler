@@ -14,14 +14,14 @@ Các rô-bốt trong khu mỏ có số xê ri liên tục trong khoảng $[a, b]
 - Ghi ra một số nguyên duy nhất là kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 2 3
 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

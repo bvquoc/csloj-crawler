@@ -17,7 +17,7 @@ Cho đồ thị vô hướng $G = (V, E)$, $U$ là một tập con của $V$. Ta
 Hai số trên cùng một dòng được ghi cách nhau một dấu cách, **các thành phần liên thông liệt kê theo thứ tự các đỉnh nhỏ nhất tăng dần**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 6
 1 2
@@ -28,7 +28,7 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách, **c�
 5 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 3 1 2 3

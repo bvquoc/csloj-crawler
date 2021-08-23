@@ -10,24 +10,24 @@ Cho dãy số nguyên $A_1, A_2, …, A_n$. Giá trị của một đoạn trên
 - Ghi ra một giá trị duy nhất là tổng giá trị $K$ đoạn con theo yêu cầu đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3
 1 1 3 3 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 2
 1 2 1 2 1 2 1 2 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

@@ -13,18 +13,18 @@ Cho một dãy số nguyên gồm $N$ phần tử $a_1,a_2,…,a_N$. Gọi $f(A)
 - In ra trên một dòng giá trị lớn nhất của $f(A)$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 5 -1 2 -3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta nhân $a_1$ với $x$, tức là $a_1=a_1×2=5×2=10$. Khi đó thì $A=(10,-2,4,-3,2)→f(A)=10+(-2)+4=12$
 
 ## Giới hạn:

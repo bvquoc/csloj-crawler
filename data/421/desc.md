@@ -10,18 +10,18 @@ Cho một văn bản gồm $N$ từ, từ thứ $i$ có độ dài $l_i$. Một 
 - Gồm một số nguyên duy nhất là độ xấu nhỏ nhất của văn bản dàn được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 3 2 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Văn bản trên dàn thành $3$ dòng: dòng gồm $1$ từ đầu có độ dài $3$, dòng $2$ gồm $2$ từ tiếp theo có độ dài $4$, dòng $3$ gồm từ cuối cùng có độ dài $4$. Độ xấu của các dòng lần lượt là $2, 1, 1$. Do đó độ xấu của văn bản là $2$ (Đây là cách dàn dòng tốt nhất)
 
 ## Giới hạn:

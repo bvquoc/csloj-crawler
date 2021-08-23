@@ -17,7 +17,7 @@ Thang điểm làm tròn được tính như sau:
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là điểm sau khi làm tròn của học sinh $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 73
@@ -26,7 +26,7 @@ Thang điểm làm tròn được tính như sau:
 33
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 75
 67
@@ -34,7 +34,7 @@ Thang điểm làm tròn được tính như sau:
 33
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hs $1$: Mốc $75 – 73 = 2 < 3$ lên được làm tròn lên 75$;
 - Hs $2$: Mốc $70 – 67 = 3$, không nhỏ hơn $3$ lên giữ nguyên;
 - Hs $3$: Mốc $40 – 38 = 2 < 3$ lên được làm tròn lên $40$ (đỗ vớt);

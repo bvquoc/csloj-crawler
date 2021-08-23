@@ -12,24 +12,24 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là tổng thể tích lớn nhất của số bánh Chưng luộc được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 8
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 10
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

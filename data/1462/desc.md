@@ -16,7 +16,7 @@ Chú ý là các truy vấn độc lập với nhau.
 - Ghi ra $Q$ dòng, dòng thứ $i$ in ra "Yes" nếu tồn tại phương án để giải quyết, ngược lại thì in ra "No".
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 9
 1 2
@@ -34,7 +34,7 @@ Chú ý là các truy vấn độc lập với nhau.
 2 4 5 3 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 No
 Yes

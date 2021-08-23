@@ -23,7 +23,7 @@ Các tài năng rất hào hứng và nhanh chóng tìm được hướng giải
 - Ghi ra một số nguyên là giá trị $k$ lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 0
 5 1
@@ -32,12 +32,12 @@ Các tài năng rất hào hứng và nhanh chóng tìm được hướng giải
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1
 5 1
@@ -46,7 +46,7 @@ Các tài năng rất hào hứng và nhanh chóng tìm được hướng giải
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

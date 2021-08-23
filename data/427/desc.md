@@ -14,18 +14,18 @@ Công tử Bạc Liêu nhân cơ hội này quyết mua tất cả các mặt h�
 - Một số nguyên dương duy nhất là đáp số của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 35 40 101 59 63
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 235
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ba ngày đầu mua hết $176$ (đơn vị tiền) và nhận được $1$ voucher, ngày $4$ mua bằng tiền hết $59$ (đơn vị tiền), ngày $5$ mua bằng voucher. Tổng cộng hết $176 + 59 = 235$ (đơn vị tiền).
 
 ## Giới hạn:

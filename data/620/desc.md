@@ -10,7 +10,7 @@ Sắp tới, các phóng viên Free Contest đang trú tại Hà Nội quyết �
 - In ra tất cả những địa điểm thỏa mã yêu cầu bạn Z, mỗi địa điểm trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 b
 abcd

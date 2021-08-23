@@ -13,14 +13,14 @@ Nhà kho của BT có $𝑛$ chiếc giày trái và $𝑚$ chiếc giày phải
 - In một số nguyên là mức độ xấu xí nhỏ nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 2 39 41 45
 39 42 46
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

@@ -2,7 +2,7 @@
 <br>
 <img src="/images/problems/1004/grcolor.svg" width=1080px>
 ## Ví dụ:
-#### Dữ liệu:
+### Dữ liệu:
 ```
 7 7
 1 2
@@ -18,7 +18,7 @@
 5 0 3
 ```
 
-#### Kết quả:
+### Kết quả:
 ```
 0
 1
@@ -29,7 +29,7 @@
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1004/grcolor_2.png", width=800px></center>
 
 **<center>Hình minh họa</center>**

@@ -12,7 +12,7 @@ $T$ nhóm tiếp theo, mỗi nhóm gồm $2$ dòng:
 - In ra $T$ dòng, mỗi dòng in ra `Yes` hoặc `No` tương ứng với dãy $A$ có hài hòa hay không.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6
@@ -27,7 +27,7 @@ No
 Yes
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test ví dụ đầu tiên, dãy con dài nhất thỏa mãn tính chất là $[1, 3]$, chỉ số hài hòa là $3$ chưa lớn hơn $50\%$ độ dài dãy. Vì vậy, dãy $A$ không hài hòa, in ra `No`.
 - Trong test ví dụ thứ hai, dãy con dài nhất thỏa mãn tính chất là $[1, 4]$, chỉ số hài hòa là $4$ lớn hơn $50\%$ độ dài dãy. Vì vậy, dãy $A$ là dãy hài hòa, in ra `Yes`.
 

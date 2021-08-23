@@ -10,7 +10,7 @@ Cho trước hai đỉnh $s$ và $t$. Hãy cho biết số thứ tự của lệ
 - Một số duy nhất là số thứ tự lệnh Add tìm được, trong trường hợp không thể đi từ $s$ đến $t$ cho dù thực hiện tất cả các lệnh Add thì ghi số $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1 5
 1 2
@@ -20,7 +20,7 @@ Cho trước hai đỉnh $s$ và $t$. Hãy cho biết số thứ tự của lệ
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

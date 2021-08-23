@@ -13,7 +13,7 @@ nhất. Bạn hãy giúp thầy Kiên tính toán tổng độ ngon của nhữn
 - Đưa ra kết quả bài toán trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 4
@@ -28,7 +28,7 @@ nhất. Bạn hãy giúp thầy Kiên tính toán tổng độ ngon của nhữn
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Thầy Kiên cần chọn $2$ viên kẹo liên tiếp sao cho tổng độ ngon là lớn nhất, vì thế thầy sẽ chọn viên kẹo thứ $3$ và viên kẹo thứ $4$.
 
 ## Giới hạn:

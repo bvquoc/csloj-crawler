@@ -18,7 +18,7 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Ghi ra các số nguyên tìm được, mỗi số trên một dòng.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 5
@@ -29,7 +29,7 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 500000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2
@@ -39,14 +39,14 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 151
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 36000000048123456805
 36000000048123456806
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 123456789
 123456790

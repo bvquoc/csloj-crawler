@@ -7,12 +7,12 @@ Cho hai số nguyên $A$ và $B$. Tính và in ra kết quả biểu thức $A+B
 - Một số nguyên duy nhất là kết quả của phép tính $A+B$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```plain
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```plain
 5
 ```
@@ -22,7 +22,7 @@ Cho hai số nguyên $A$ và $B$. Tính và in ra kết quả biểu thức $A+B
 
 ## Code mẫu:
 Bạn phải **nhập/xuất** đúng theo đề bài yêu cầu. Không "**thông báo**" khi nhập/xuất.
-#### C++, C++11, C++14, C++17
+### C++, C++11, C++14, C++17
 ```C++
 #include <iostream>
 using namespace std;
@@ -34,7 +34,7 @@ int main() {
 }
 ```
 
-#### C
+### C
 ```C
 #include <stdio.h>
 int main() {
@@ -45,7 +45,7 @@ int main() {
 }
 ```
 
-#### Pascal
+### Pascal
 ```Pascal
 program plus;
 var a, b: longint;
@@ -55,7 +55,7 @@ begin
 end.
 ```
 
-#### CSharp
+### CSharp
 ```C#
 using System;
 using System.IO;
@@ -71,19 +71,19 @@ namespace mycsharp{
 }
 ```
 
-#### Python3
+### Python3
 ```python
 a, b = map(int, input().split())
 print(a + b)
 ```
 
-#### Python2
+### Python2
 ```python
 a, b = map(int, raw_input().split())
 print a + b
 ```
 
-#### Java
+### Java
 ```java
 import java.util.*;
 public class APlusB {
@@ -96,7 +96,7 @@ public class APlusB {
 }
 ```
 
-#### Scala
+### Scala
 ```scala
 import scala.io.StdIn
 object aplusb extends App {

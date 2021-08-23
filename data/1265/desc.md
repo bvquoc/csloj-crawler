@@ -16,7 +16,7 @@ Cho $𝑛$ vector, mỗi vector có đúng $𝑚$ thành phần. Vector $𝑈(�
 -  Ghi ra một số nguyên là giá trị $𝑘$ lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1
 1
@@ -25,12 +25,12 @@ Cho $𝑛$ vector, mỗi vector có đúng $𝑚$ thành phần. Vector $𝑈(�
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2
@@ -39,7 +39,7 @@ Cho $𝑛$ vector, mỗi vector có đúng $𝑚$ thành phần. Vector $𝑈(�
 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

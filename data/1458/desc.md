@@ -12,7 +12,7 @@ Bạn có $𝑛$ hình chữ nhật trên mặt phẳng với hệ tọa độ t
 - Ghi ra một số nguyên duy nhất là diện tích phần mặt phẳng bị các hình chữ nhật chiếm chỗ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 2 3
@@ -20,7 +20,7 @@ Bạn có $𝑛$ hình chữ nhật trên mặt phẳng với hệ tọa độ t
 1 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```

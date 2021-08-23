@@ -7,12 +7,12 @@ Cho hai số nguyên dương $a$ và $n$. Tính $a^n$.
 - Kết quả của phép tính $a^n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 78125
 ```

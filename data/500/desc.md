@@ -10,18 +10,18 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 - Một số nguyên duy nhất là tổng chi phí để cắt thành N miếng gỗ trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 19
 ```
 
-#### Giải thích:
+### Giải thích:
 - Miếng gỗ có độ dài là $10$ cắt thành hai miếng $4$ và $6$ (chi phí là $10$);
 - Cắt miếng độ dài $6$ thành hai miếng $3$ và $3$ (chi phí là $6$);- Cắt miếng độ dài $3$ thành hai miếng $2$ và $1$ (chi phí là $3$);
 

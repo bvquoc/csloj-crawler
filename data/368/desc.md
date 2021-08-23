@@ -9,12 +9,12 @@ Cho $n$ khối lập phương có độ dài cạnh lần lượt là $1, 2, 3, 
 - Một dòng duy nhất chứa số nguyên dương là tổng thể tích các khối lập phương. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 ```

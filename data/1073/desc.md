@@ -17,7 +17,7 @@ Chuyển đổi từ chiến thuật “phân bố rải rác” sang “canh t�
 - Gồm một số duy nhất là bình phương khoảng cách tối thiểu có thể đạt được giữa hai cây hoa xa nhau nhất. Dễ dàng thấy được đây là một số nguyên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 22 2
@@ -25,28 +25,28 @@ Chuyển đổi từ chiến thuật “phân bố rải rác” sang “canh t�
 1 97
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $3$ cây hoa ở các vị trí $(22,2)$, $(7,-1)$ và $(1,97)$. Di chuyển chúng về các điểm $(0,2), (0,-1)$ và $(1,0)$. Khi đó khoảng cách giữa hai cây xa nhất là $3$ (giữa cây $1$ và $2$). Đây là giá trị nhỏ nhất có thể đạt được của khoảng cách giữa hai cây xa nhất.
 - Chú ý ta cần in ra bình phương của khoảng cách tối thiểu.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 100
 2 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Di chuyển cả $2$ cây về cùng vị trí $(0,100)$. Khoảng cách giữa $2$ cây khi đó là $0$.
 
 ## Giới hạn:

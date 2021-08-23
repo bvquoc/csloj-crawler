@@ -18,7 +18,7 @@ Hãy chỉ ra một hành trình thỏa mãn các yêu cầu trên hoặc cho bi
 ## Ví dụ:
 <center><img src="/images/problems/1425/WALK.svg" width="500px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7
 1 2 3
@@ -30,7 +30,7 @@ Hãy chỉ ra một hành trình thỏa mãn các yêu cầu trên hoặc cho bi
 4 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 1 2 3 5 4 1

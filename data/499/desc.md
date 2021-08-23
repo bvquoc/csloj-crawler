@@ -11,7 +11,7 @@ Với mọi biểu thức số học gồm $5$ phép toán hai ngôi +, -, *, /,
 - Ứng với mỗi biểu thức dạng RPN, in ra chiều cao cây nhị phân tương ứng trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 AB+CDE^-*
@@ -20,7 +20,7 @@ AB+ZX+*
 AT+BAC++CD+^*
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 2

@@ -7,22 +7,22 @@ Tính tổng bình phương các số tự nhiên liên tiếp $S_n=1^2+2^2+⋯+
 - Ghi trên một dòng số nguyên dương $S_n$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 385
 ```

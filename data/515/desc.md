@@ -16,19 +16,19 @@ Cho một số $k$. Dãy đã cho có $n – k + 1$ dãy con độ dài $k$ gồ
 - Gồm $T$ số nguyên, mỗi số là tổng trung vị tìm được của test tương ứng. Hai số liên tiếp ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 1 1 10 3
 10 0 13 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 60 49
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test case $\#1:$ Dãy sinh ra là $3, 4, 5, 6, 7, 8, 9, 10, 11, 12$. Các trung vị tương ứng là $4, 5, 6, 7, 8, 9, 10, 11$ và tổng là $60$.
 
 ## Giới hạn:

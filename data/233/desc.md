@@ -13,7 +13,7 @@ Một bông hoa được coi là ở trong tam giác nếu nó nằm trong tam g
 - Ghi ra một số nguyên duy nhất là độ dài cạnh góc vuông của mảnh đất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 1
@@ -24,10 +24,10 @@ Một bông hoa được coi là ở trong tam giác nếu nó nằm trong tam g
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5	 
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/233/VUONHOA.png" width="350px" /></center>

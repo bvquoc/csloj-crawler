@@ -13,7 +13,7 @@ Cụ thể nếu $d$ là ma trận đường đi ngắn nhất, ở đó $d_{ij}
 - Một số nguyên là độ dài đường đi ngắn thứ $k$ của đồ thị. Dữ liệu vào đảm bảo luôn tồn tại đường đi ngắn thứ $k$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 10 5
 2 5 1
@@ -28,12 +28,12 @@ Cụ thể nếu $d$ là ma trận đường đi ngắn nhất, ở đó $d_{ij}
 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 15 18
 2 6 3
@@ -53,7 +53,7 @@ Cụ thể nếu $d$ là ma trận đường đi ngắn nhất, ở đó $d_{ij}
 2 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```

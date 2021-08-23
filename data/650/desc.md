@@ -9,22 +9,22 @@ Cho một số nguyên $N$, bạn hãy tìm ba chữ số hàng trăm, chục, �
 - In ra ba chữ số là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1234
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 234
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 012
 ```

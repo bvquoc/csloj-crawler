@@ -10,7 +10,7 @@ HD trồng một loại cây chỉ có $2$ vòng sinh trưởng trong một năm
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$, là chiều cao của cây sau $n$ lần sinh trưởng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0
@@ -18,14 +18,14 @@ HD trồng một loại cây chỉ có $2$ vòng sinh trưởng trong một năm
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1: n=0→h=1$;
 - Câu hỏi $2: n=1→h=2$. Cây cao gấp đôi;
 - Câu hỏi $3:n=2→h=3, n=3→h=6, n=4→h=7$.

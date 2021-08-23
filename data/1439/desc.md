@@ -14,7 +14,7 @@ Hãy tính xem Mr Bean phải mất tối thiểu bao nhiêu lần di chuyển �
 - Ghi ra một số nguyên là số lần ít nhất Mr Bean phải đi lấy/cất dụng cụ trong quá trình phục vụ ca mổ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 7
 1
@@ -26,7 +26,7 @@ Hãy tính xem Mr Bean phải mất tối thiểu bao nhiêu lần di chuyển �
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

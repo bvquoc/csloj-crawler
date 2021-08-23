@@ -16,7 +16,7 @@ Giáo sư X xuất phát từ trường nằm tại địa điểm $1$. Ông mu�
 ## Ví dụ:
 <center><img src="/images/problems/1426/DCPP.svg" width="480px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 9
 1 4 4
@@ -30,10 +30,10 @@ Giáo sư X xuất phát từ trường nằm tại địa điểm $1$. Ông mu�
 6 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 ```
 
-#### Giải thích: 
+### Giải thích: 
 - Hành trình cần tìm là: $1→4→6→3→2→4→5→3→4→6→3→1$.

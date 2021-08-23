@@ -10,7 +10,7 @@ Tí năm nay đã lên lớp Một rồi, Tết đến Tí rất vui vì nhận 
 - Một số nguyên dương duy nhất là số lời chúc khác nhau.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 CHUC MUNG NAM MOI
@@ -19,7 +19,7 @@ CHUC MUNG TUOI MOI
 CHUC MUNG NAM MOI
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

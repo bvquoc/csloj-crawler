@@ -12,20 +12,20 @@ HD được nhận vào làm đầu bếp tại một nhà hàng bánh ngọt n�
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 2
 6 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1$: bánh hình vuông cỡ lớn nhất $2×2$ có $1$ bánh;
 - Câu hỏi $2$: Từ bánh $6×9$ ta cắt thành có thể cắt thành:
 	- $54$ bánh $1×1$;

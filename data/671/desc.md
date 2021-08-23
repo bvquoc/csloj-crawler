@@ -13,32 +13,32 @@ Hãy cho biết số bước ít nhất để robot đi đến một ô vuông b
 - In ra một số nguyên duy nhất là số bước ít nhất cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

@@ -9,25 +9,25 @@ Một số nguyên dương $n > 1$ được gọi là số nguyên tố nếu n�
 - Ghi ra `YES` nếu $n$ là số nguyên tố, ngược lại ghi ra ước nguyên dương thực sự lớn nhất của $n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $1 < n ≤ 10^{12}$.

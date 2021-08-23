@@ -12,7 +12,7 @@ Cho đồ thị có hướng gồm $N$ đỉnh, $M$ cung (có trọng số là �
 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6
 1 2 5
@@ -23,11 +23,11 @@ Cho đồ thị có hướng gồm $N$ đỉnh, $M$ cung (có trọng số là �
 1 4 13
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```
 
-#### Giải thích:
+### Giải thích:
 - Đường đi ngắn nhất: $1→2→4$ hoặc $1→3→4$ độ dài $10$
 - Đường đi ngắn nhì: $1→2→3→4$  độ dài 11

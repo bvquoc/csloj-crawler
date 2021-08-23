@@ -14,20 +14,20 @@ Một hang động nằm dưới một núi đá, nối giữa $2$ thung lũng c
 - Ghi ra một số nguyên duy nhất là kích thước tối đa khối hộp có thể sử dụng. Trường hợp không thể có đường qua hang, đưa ra $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6
 0 0 0 2 2 2  
 2 0 0 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16 20 11 17
 1 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hình dạng của hang như sau:
 ```
 ...###.

@@ -8,13 +8,13 @@ Bạn được cho một dãy $n$ số nguyên dương không giảm và $m$ tru
 - Ghi ra trên một dòng kết quả $m$ truy vấn, hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 1 2 3 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 2 3 1
 ```

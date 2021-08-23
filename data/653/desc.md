@@ -13,7 +13,7 @@ Vì đáp án có thể rất lớn nên bạn được yêu cầu đưa ra ph�
 - Với mỗi bộ dữ liệu, in ra trên một dòng kết quả tương ứng (chia cho $10^9 + 7$ lấy phần dư).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 6
@@ -24,14 +24,14 @@ Vì đáp án có thể rất lớn nên bạn được yêu cầu đưa ra ph�
 77 97 114 105 115 97
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 0
 1
 ```
 
-#### Giải thích
+### Giải thích
 - Ở ví dụ thứ nhất, các dãy con cần đếm là
     - $[x_3] = [6]$
     - $[x_1, x_2] = [5, 7]$

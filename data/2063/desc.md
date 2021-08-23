@@ -17,7 +17,7 @@ Xét dãy xâu $F_0, F_1, F_2, \dots,$ được xây dựng theo quy tắc sau:
 - Ghi ra $T$ dòng tương ứng là kết quả của $T$ bộ dữ liệu đầu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 1
@@ -26,7 +26,7 @@ Xét dãy xâu $F_0, F_1, F_2, \dots,$ được xây dựng theo quy tắc sau:
 7 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 0

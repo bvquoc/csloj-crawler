@@ -12,7 +12,7 @@ Cho một dãy số $a_1,a_2,…a_n$, ban đầu $a_i=0\ ∀i=1..n$ và $m$ truy
 - Ghi ra một số nguyên duy nhất là giá trị lớn nhất của dãy $a$ sau $m$ truy vấn.
 
 ## Ví dụ:
-#### Dữ liệu vào:	
+### Dữ liệu vào:	
 ```
 5 3
 1 2 100
@@ -20,12 +20,12 @@ Cho một dãy số $a_1,a_2,…a_n$, ban đầu $a_i=0\ ∀i=1..n$ và $m$ truy
 3 4 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 200
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy ban đầu: $a=[0,0,0,0,0]$;
 - Truy vấn $1$: $a=[100,100,0,0,0]$;
 - Truy vấn $2$: $a=[100,200,100,100,100]$;

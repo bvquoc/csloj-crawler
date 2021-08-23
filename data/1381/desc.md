@@ -19,7 +19,7 @@ Dữ liệu đảm bảo truy vấn loại $2$ tồn tại đáp số.
 ## Ví dụ:
 <center><img src="/images/problems/1381/QTREE.svg" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6  2
 1  2  1
@@ -31,7 +31,7 @@ Dữ liệu đảm bảo truy vấn loại $2$ tồn tại đáp số.
 2  4  6  4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 3

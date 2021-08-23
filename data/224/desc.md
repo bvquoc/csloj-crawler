@@ -15,7 +15,7 @@ Bé Bi-Bo có $n$ tấm bìa, trên mỗi tấm bìa có ghi một số nguyên 
 - Ghi ra $t$ dòng, mỗi dòng một số duy nhất là số lượng lớn nhất số mới chia hết cho $3$ của câu hỏi tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 
@@ -24,7 +24,7 @@ Bé Bi-Bo có $n$ tấm bìa, trên mỗi tấm bìa có ghi một số nguyên 
 1 1 1 23 10 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

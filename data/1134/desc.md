@@ -14,17 +14,17 @@ Giáo sư `X` đang dạy cậu con trai cả học toán. Để khởi động 
 - Ghi ra một số nguyên duy nhất là số lượng tam giác khác nhau tìm được (trường hợp các cạnh là hoán vị của nhau chỉ tính là $1$ cách). 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 240
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1134/triangle.svg" width=800px></center>
 
 ## Giới hạn:

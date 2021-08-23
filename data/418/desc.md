@@ -10,12 +10,12 @@ Một xâu được gọi là đối xứng (palindrome) nếu như khi đọc x
 - Mộ dòng duy nhất ghi độ dài sâu con dài nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 lmevxeyzl
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

@@ -13,7 +13,7 @@ Bờm lỡ tay làm hỏng file chứa dãy số nên không kiểm tra được
 - Ghi ra duy nhất một số nguyên kết quả, số này bằng $0$ nếu các trả lời truy vấn là không mâu thuẫn, ngược lại số này là số hiệu truy vấn đầu tiên có kết quả mâu thuẫn với các truy vấn trước đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 20 4
 1 10 7
@@ -22,7 +22,7 @@ Bờm lỡ tay làm hỏng file chứa dãy số nên không kiểm tra được
 11 15 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

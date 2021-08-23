@@ -12,7 +12,7 @@ Cho đa đồ thị vô hướng $G = (V, E)$. Một chu trình Euler là một 
 ## Ví dụ:
 <center><img src="/images/problems/548/EULERCIR.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2
@@ -25,7 +25,7 @@ Cho đa đồ thị vô hướng $G = (V, E)$. Một chu trình Euler là một 
 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 C
 1 2 3 4 1 5 3 6 1

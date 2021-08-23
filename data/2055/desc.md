@@ -10,7 +10,7 @@ Cho một bàn cờ hình chữ nhật gồm $m$ hàng và $n$ cột. Mỗi ô t
 - In ra tổng giá trị lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 -9 -1 -3 6 -6
@@ -20,7 +20,7 @@ Cho một bàn cờ hình chữ nhật gồm $m$ hàng và $n$ cột. Mỗi ô t
 -7 7 5 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```

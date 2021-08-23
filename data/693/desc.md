@@ -15,7 +15,7 @@ Hãy lập trình tìm nút cha chung gần nhất của hai nút khác nhau c�
 - Một số nguyên – nút cha chung gần nhất.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 16 8
 1 14
@@ -36,7 +36,7 @@ Hãy lập trình tìm nút cha chung gần nhất của hai nút khác nhau c�
 16 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

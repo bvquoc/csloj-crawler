@@ -12,7 +12,7 @@ Có $n$ căn nhà cần sơn. Căn nhà $i$ được sơn bằng một trong $3$
 - Một số nguyên duy nhất là chi phí ít nhất để sơn $N$ ngôi nhà.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 13 23 12
@@ -21,12 +21,12 @@ Có $n$ căn nhà cần sơn. Căn nhà $i$ được sơn bằng một trong $3$
 31 78 45
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 137
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các ngôi nhà lần lượt được sơn các màu: Vàng, Hồng, Xanh, Vàng. Tổng chi phí là: $12 + 36 + 44 + 45 = 137$
 
 ## Giới hạn:

@@ -16,7 +16,7 @@ Khi con bò $i$ trên đường từ chuồng đến cánh đồng của mình, 
 - Gồm $N$ dòng, dòng thứ $i$ ghi số lần mà con bò $i$ phải đi vòng trên con đường đến cánh đồng của mình.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 4
@@ -30,7 +30,7 @@ Khi con bò $i$ trên đường từ chuồng đến cánh đồng của mình, 
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1

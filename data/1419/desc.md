@@ -9,13 +9,13 @@ Cho một cây gồm $𝑛$ đỉnh đánh số từ $1$ tới $𝑛$. Ba con v�
 - $𝑛 − 1$ dòng tiếp theo, mỗi dòng chứa hai số nguyên dương $𝑢, 𝑣$ ứng với một cạnh $(𝑢, 𝑣)$ trên cây;
 - $𝑚$ dòng tiếp theo, mỗi dòng chứa ba số nguyên hoàn toàn phân biệt $𝑎, 𝑏, 𝑐$ ứng với một bộ vị trí của chó, mèo và chuột.
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - Ghi ra $𝑚$ dòng, mỗi dòng ghi số hiệu đỉnh là câu trả lời cho một truy vấn.
 
 ## Ví dụ:
 <center><img src="/images/problems/1419/PEACE.svg" width="200px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 1 2
@@ -29,7 +29,7 @@ Cho một cây gồm $𝑛$ đỉnh đánh số từ $1$ tới $𝑛$. Ba con v�
 6 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3

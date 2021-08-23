@@ -19,17 +19,17 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là số lượng dãy superseq theo modulo $666013$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $8$ dãy là: $\{0, 0, 1, 3\}, \{0, 2, 3, 3\}, \{0, 1, 2, 3\}, \{0, 1, 3, 3\}, \{0, 2, 1, 3\}, \{0, 0, 2, 3\}, \{0, 1, 1, 3\}, \{0, 2, 2, 3\}$.
 
 ## Giới hạn:

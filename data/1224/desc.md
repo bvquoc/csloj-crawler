@@ -27,7 +27,7 @@ Cho ma trận $𝐴$ kích thước $𝑚×𝑛$ ($𝑚$ hàng, $𝑛$ cột), c
 Các số trên một dòng được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 1 4 7 10
@@ -35,14 +35,14 @@ Các số trên một dòng được ghi cách nhau một dấu cách.
 9 6 3 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12 11 5 2
 7 10 4 1
 3 8 6 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 4 1
@@ -50,14 +50,14 @@ Các số trên một dòng được ghi cách nhau một dấu cách.
 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6 2
 3 5
 1 4
 ```
 
-#### Giải thích
+### Giải thích
 **Ví dụ** $1:$ Thực hiện lần lượt các phép biến đổi theo đúng thứ tự:
 - Đảo hàng $1$ và hàng $2$;
 - Đảo cột $1$ và cột $3$;

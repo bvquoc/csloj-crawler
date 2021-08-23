@@ -11,12 +11,12 @@ Tính $S = 1^2 + 3^2 + 5^2 + … + (2n + 1)^2$. Chỉ cần đưa ra phần dư 
 - Ghi kết quả tính được (tức $S \% M$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 1000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 771
 ```

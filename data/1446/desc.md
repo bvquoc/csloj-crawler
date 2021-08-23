@@ -16,7 +16,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách, số lư�
 - Với mỗi test ghi ra một số nguyên duy nhất trên một dòng là số dư của tích $𝑘$ phần tử được chọn khi chia cho $123456789$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 3
@@ -27,7 +27,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách, số lư�
 -1 -1 -1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 60
 1

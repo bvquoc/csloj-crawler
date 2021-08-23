@@ -20,25 +20,25 @@ chữ số của $C$ tối đa là $10000$ chữ số).
 được theo yêu cầu đề bài (kết quả được chia cho $10^9+7$ lấy phần dư).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 23
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $2$ cặp thỏa mãn là $11 + 12 = 23$ và $13 + 12=23$ 
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

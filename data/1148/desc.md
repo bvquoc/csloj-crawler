@@ -15,7 +15,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra $𝐶$ dòng, mỗi dòng gồm một số nguyên duy nhất là số đỉnh tối đa được phủ bởi các đồ thị sao.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 8 2 7
@@ -36,13 +36,13 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 1 4
 2 5
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $\#1$: Hình vẽ cho đồ thị của test này bên dưới. Bởi $𝑇 = 2$, mỗi đồ thị sao có tối đa $2$ cánh nên mỗi sao có thể phủ tối đa $3$ nút. Ta có thể phủ $6$ nút của đồ thị này với $2$ sao: một sao có tâm là $4$ và $2$ cánh là $1$ và $3$, sao kia có tâm là $5$ với $7$ và $8$ là cánh. Không có sao nào khác được tạo thêm. Mỗi test case có thể có nhiều cách kết hợp sao khác nhau.
 <center><img src="/images/problems/1148/star1.png" width=350px></center>
 <center>Hình minh họa</center>

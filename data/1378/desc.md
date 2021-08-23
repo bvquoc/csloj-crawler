@@ -13,7 +13,7 @@ Với cỗ máy thời gian mà Doremon để lại, Nobita lên kế hoạch đ
 - Ghi ra $Q$ dòng, mỗi dòng là câu trả lời cho câu hỏi tương ứng ở dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 13131
@@ -21,7 +21,7 @@ Với cỗ máy thời gian mà Doremon để lại, Nobita lên kế hoạch đ
 4 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 5

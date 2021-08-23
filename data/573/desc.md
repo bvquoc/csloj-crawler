@@ -10,7 +10,7 @@ Trò chơi bắn bi trên một bảng vuông $N$ dòng, $N$ cột được th�
 - Nếu $M>0$ thì dòng tiếp theo ghi $M$ số (cách nhau ít nhất một dấu trắng) lần lượt là chỉ số dòng tại đó các viên bi được bắn (Giới hạn số các vật cản không quá 15).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 0 0 2
@@ -20,7 +20,7 @@ Trò chơi bắn bi trên một bảng vuông $N$ dòng, $N$ cột được th�
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 3 2 3 2

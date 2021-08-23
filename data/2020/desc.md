@@ -14,7 +14,7 @@ Nông dân John đã ghi lại được: đàn bò di chuyển từ ô $(R_1, C_
 - Ghi ra một số nguyên duy nhất là số cách đàn bò di chuyển từ $(R_1, C_1)$ ô đến ô $(R_2, C_2)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5 6
 ...*.
@@ -24,7 +24,7 @@ Nông dân John đã ghi lại được: đàn bò di chuyển từ ô $(R_1, C_
 1 3 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

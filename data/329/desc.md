@@ -9,14 +9,14 @@ $${S_k} = 1 + 2 + 3 + ... + k \le n$$
 - Với mỗi bộ test, ghi ra trên một dòng số nguyên dương $k$ mà $S_k ≤ n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1
 17
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 5

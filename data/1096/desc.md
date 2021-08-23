@@ -23,7 +23,7 @@ Trong ví dụ trên $4$ điểm sạc là các ô màu đen, robot ban đầu �
 - $40\%$ số test không có giới hạn gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 0 4
@@ -33,7 +33,7 @@ Trong ví dụ trên $4$ điểm sạc là các ô màu đen, robot ban đầu �
 5 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

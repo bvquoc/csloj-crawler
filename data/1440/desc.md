@@ -17,7 +17,7 @@ Tổng các số $𝑛$ trong toàn bộ $𝑇$ test không vượt quá $2\time
 - Ứng với mỗi test, ghi ra trên một dòng một số nguyên duy nhất là số con cá khác bị ăn theo phương án tìm được. Nếu không thể làm cho con cá ăn thịt có trọng lượng lớn hơn mọi con cá khác trong bể, in ra số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6 2 12
@@ -26,12 +26,12 @@ Tổng các số $𝑛$ trong toàn bộ $𝑇$ test không vượt quá $2\time
 1 2 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $1: 2 + 1 + 1 + 4 + 6 = 14 ≥ 12$;
 - Test $2: 2 + 2 + 4 + 4 + 4 + 4 = 20 ≥ 20$.

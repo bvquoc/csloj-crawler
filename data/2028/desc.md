@@ -22,7 +22,7 @@ Mô tả sau đây cho biết thông tin của một ngôn ngữ được ngư�
 - Nếu đáp số không tồn tại, hãy viết ra `NOPAGE`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2
@@ -31,7 +31,7 @@ Mô tả sau đây cho biết thông tin của một ngôn ngữ được ngư�
 4 12 0 6 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 BBBAB
 NOPAGE
@@ -40,7 +40,7 @@ BBBBB
 NOPAGE
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0
@@ -49,7 +49,7 @@ NOPAGE
 1 4 7 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 AAB
 BAA
@@ -58,7 +58,7 @@ BAB
 AAB
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 5
@@ -67,7 +67,7 @@ BABB? ??A?B A?AAA A??AB ?A??A
 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 AABBBABABA
 AABBBBABAB

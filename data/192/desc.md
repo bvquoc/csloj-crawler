@@ -10,7 +10,7 @@ Trên mặt phẳng tọa độ cho điểm $M(u;v)$ và điểm $N(x,y)$. Tại
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$, ghi `YES` nếu có thể di chuyển từ $M$ đến $N$, ghi `NO` nếu không thể di chuyển được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1 2 3
@@ -18,12 +18,12 @@ Trên mặt phẳng tọa độ cho điểm $M(u;v)$ và điểm $N(x,y)$. Tại
 3 3 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 YES
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1$: di chuyển như sau: $(1,1) -> (2,1) -> (2,3)$.

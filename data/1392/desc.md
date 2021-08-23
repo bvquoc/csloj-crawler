@@ -14,7 +14,7 @@ Bối cảnh trò chơi XGUN là một nửa quả đồi, được chia thành 
 - In ra trên $m$ dòng là điểm của $m$ lượt chơi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 3 4 5
@@ -25,7 +25,7 @@ Bối cảnh trò chơi XGUN là một nửa quả đồi, được chia thành 
 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3

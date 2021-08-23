@@ -9,13 +9,13 @@ Cho số nguyên dương $n$, đếm xem có bao nhiêu số PALINDROM có $n$ c
 - Với mỗi số nguyên dương $n$, ghi ra trên một dòng số số PALINDROM có $n$ chữ số
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 9

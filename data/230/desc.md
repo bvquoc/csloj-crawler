@@ -10,19 +10,19 @@ Trong mặt phẳng Oxy có $n$ điểm, điểm thứ $i$ có tọa độ là $
 - Ghi ra một số nguyên duy nhất là khoảng cách Manhattan lớn nhất cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 -1 3
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 0
@@ -31,7 +31,7 @@ Trong mặt phẳng Oxy có $n$ điểm, điểm thứ $i$ có tọa độ là $
 0 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

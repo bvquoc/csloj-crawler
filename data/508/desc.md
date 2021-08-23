@@ -11,7 +11,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Ghi trên một dòng $Q$ số nguyên, mỗi số là câu trả lời cho một truy vấn (theo đúng thứ tự), hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 2 -1 5 3 -3
@@ -20,7 +20,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1 3 -3
 ```

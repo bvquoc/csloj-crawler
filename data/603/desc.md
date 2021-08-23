@@ -9,7 +9,7 @@ Cho một dãy $N$ ô vuông xếp kề nhau. Bạn hãy tính số cách tô m�
 - In ra đáp án bài toán sau khi mod cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 ```

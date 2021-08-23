@@ -18,7 +18,7 @@ Các hình trụ có thể xếp chồng lên nhau để tạo thành một `C�
 - Ghi ra $t$ dòng, mỗi dòng một số nguyên cho biết kết quả của mỗi test, nếu không có cách xếp trụ in ra `-1`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 2
@@ -32,7 +32,7 @@ Các hình trụ có thể xếp chồng lên nhau để tạo thành một `C�
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 -1

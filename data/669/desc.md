@@ -16,7 +16,7 @@ Maleficent không giỏi về những con số nên đã nhờ các bạn giúp 
 - Ghi ra một số nguyên duy nhất là số bước thay đổi ít nhất để Maleficent có thể sử dụng được mũ phép và cứu được Aurora.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 111
@@ -26,12 +26,12 @@ Maleficent không giỏi về những con số nên đã nhờ các bạn giúp 
 000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 3
 999
@@ -51,7 +51,7 @@ Maleficent không giỏi về những con số nên đã nhờ các bạn giúp 
 999
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13
 ```

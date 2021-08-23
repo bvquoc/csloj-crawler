@@ -8,18 +8,18 @@ Trong cuộc thi chung kết thế giới LEAGUE LEGENDS $2017$, đội GAM củ
 - Một số nguyên dương duy nhất là sức mạnh tối đa của đội quân GAM chọn được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 4 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - GAM chọn các vị đại tướng số $1, 2, 3$ thì sức mạnh đạt được là $3×3 = 9$.
 
 ## Giới hạn:

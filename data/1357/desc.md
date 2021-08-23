@@ -15,7 +15,7 @@ Các số trên một dòng của **Dữ liệu vào** được ghi cách nhau b
 - Ghi ra một số nguyên duy nhất là kết quả bài toán, nếu không có đường đi in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 3 5
 1 2 3
@@ -25,12 +25,12 @@ Các số trên một dòng của **Dữ liệu vào** được ghi cách nhau b
 6 8 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 8 4
 11 12 8 14 13 6 10 7
@@ -39,7 +39,7 @@ Các số trên một dòng của **Dữ liệu vào** được ghi cách nhau b
 11 12 14 3 5 6 1 13
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

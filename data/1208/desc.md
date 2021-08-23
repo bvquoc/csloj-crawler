@@ -12,13 +12,13 @@ Siêu thị bán hàng qua mạng VMART có rất nhiều chi nhánh phục vụ
 - Ghi ra một số nguyên là số tiền ít nhất An cần thanh toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 2 3 1 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

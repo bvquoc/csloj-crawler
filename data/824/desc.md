@@ -23,28 +23,28 @@ Hãy giúp Ming thay đổi không quá $𝑘$ túi thính để có thê�
 - Subtask $\#3:$ Không có ràng buộc gì thêm
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 4 7 4 7 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 1 2 3 7 8 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, một phương án tối ưu là thay đổi độ hấp dẫn của các túi thính thứ $2$ và $4$ thành $4$. Khi đó độ hấp dẫn của các túi thính là $\{4,4,4,4,4\}$. Chênh lệch giữa hai túi thính cạnh nhau là $0$.
 - Trong ví dụ thứ hai, một phương án tối ưu là thay đổi độ hấp dẫn của các túi thính thứ $3$ và $4$ thành $4$ và $6$. Độ hấp dẫn của các túi thính trở thành $\{1,2,4,6,8,9\}$. Chênh lệch giữa hai túi thính cạnh nhau lớn nhất là $2$.

@@ -21,7 +21,7 @@ Các tuyến đường kể cả thuỷ lẫn bộ đều cho phép đi theo c�
 - Ghi ra độ dài của hành trình dài nhất tìm được. Nếu C có cách dẫn đoàn khách đi không khi nào tới đích hãy ghi số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1 5
 5
@@ -37,12 +37,12 @@ Các tuyến đường kể cả thuỷ lẫn bộ đều cho phép đi theo c�
 2 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1 3
 4 
@@ -57,7 +57,7 @@ Các tuyến đường kể cả thuỷ lẫn bộ đều cho phép đi theo c�
 2 3 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20
 ```

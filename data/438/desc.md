@@ -8,19 +8,19 @@ Cho một bảng hình chữ nhật $M×N$ ($M$ dòng, $N$ cột), trên mỗi �
 - Một số nguyên duy nhất là số hình vuông của bảng chỉ gồm số $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 000
 001
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $5$ hình vuông kích thước $1×1$ và $1$ hình vuông kích thước $2×2$
 
 ## Giới hạn:

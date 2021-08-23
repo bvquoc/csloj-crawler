@@ -14,13 +14,13 @@ Hãy giúp họ thực hiện nhanh công việc khó khăn này.
 - Một số tự nhiên là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 10000
 100 200 500 1000 2000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 101
 ```

@@ -7,22 +7,22 @@ Cho hai số nguyên $n,y$. Hãy cho biết ngày thứ $n$ (ngày mùng $1$ th�
 - Ghi trên một dòng hai số nguyên $d,m$ theo thứ tự là ngày, tháng của năm $y$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2016
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 34 2012
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 2
 ```

@@ -18,13 +18,13 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Ghi ra một số nguyên là số bộ $4$ chỉ số $(𝑖_1, 𝑖_2, 𝑖_3, 𝑖_4)$ thỏa mãn điều kiện đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 0 1
 2 3 4 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

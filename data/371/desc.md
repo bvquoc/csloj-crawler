@@ -14,18 +14,18 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra một dòng duy nhất chứa hai số nguyên dương là chiều cao và số lượng các em học sinh chọn được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 155 156 156 157 156
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 156 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $1$ em cao $155$, $3$ em cao $156$ và $1$ em cao $157$. Do đó chọn được $3$ em học sinh có chiều cao bằng nhau là $156$
 
 ## Giới hạn:

@@ -11,14 +11,14 @@ Cho dãy $N$ số nguyên (mỗi phần tử của dãy có thể là số âm, 
 - Ghi ra một số nguyên là tích nhỏ nhất có thể của hai phần tử khác nhau được chọn từ dãy đã cho.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1
 -3
 2
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -6
 ```

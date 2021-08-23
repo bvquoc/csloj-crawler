@@ -11,7 +11,7 @@ Cho biết cái túi đựng được tối đa là $M$ kg vàng và trên đả
 - Gồm một dòng duy nhất ghi số nguyên không âm là đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 1 4
@@ -19,12 +19,12 @@ Cho biết cái túi đựng được tối đa là $M$ kg vàng và trên đả
 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta chọn thỏi vàng thứ $1$ và thứ $3$ thì trổng trọng lượng là $4$ và tổng giá trị là $10$.
 
 ## Giới hạn:

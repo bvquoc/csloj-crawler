@@ -24,29 +24,29 @@ Byteasar là một hacker rất khá, nhưng nó không có ý tưởng về thu
 - In ra điểm lớn nhất mà Byteasar đạt được khi nhà điều hành chơi tối ưu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 7 6 8 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 1 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, đầu tiên Byteasar hack máy tính $2$ (được $6$ điểm). Nhà điều hành sẽ bảo vệ máy tính $3$. Bước tiếp theo Byteasar hack máy tính $1$ (được thêm $7$ điểm). Cuối cùng nhà điều hành bảo vệ máy tính $4$.
 
 ## Giới hạn:

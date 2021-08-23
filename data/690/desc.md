@@ -16,7 +16,7 @@ Cứ vào đầu tuần, các con bò sẽ cho bạn biết đường đi mới 
 - Ngay sau khi biết thông tin về đường đi của động vật hoang dã mới được phát hiện, chương trình của bạn cần đưa ra một dòng trên đó bao gồm tổng chiều dài ngắn nhất các con đường mà bò phải duy trì. Nếu không tồn tại các đường đi cho phép bò di chuyển đến mọi cánh đồng, đưa ra số $-1$. Chương trình của phải phải kết thúc ngay sau khi xử lý tuần cuối cùng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6
 1 2 10
@@ -27,7 +27,7 @@ Cứ vào đầu tuần, các con bò sẽ cho bạn biết đường đi mới 
 2 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 -1

@@ -12,7 +12,7 @@ Hãy đếm số cách Bob có thể chọn khu vực để xây nhà.
 - Số nguyên duy nhất là kết quả của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 2 2 2
@@ -22,12 +22,12 @@ Hãy đếm số cách Bob có thể chọn khu vực để xây nhà.
 1 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 27
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 1 1 1
@@ -36,7 +36,7 @@ Hãy đếm số cách Bob có thể chọn khu vực để xây nhà.
 2 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 ```

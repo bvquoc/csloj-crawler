@@ -14,7 +14,7 @@ Bạn biết được giá cố phiếu của hãng bất động sản HT trong
 - Ghi ra một số nguyên duy nhất là lợi nhuận tối đa thu được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -25,14 +25,14 @@ Bạn biết được giá cố phiếu của hãng bất động sản HT trong
 1 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 197
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $1$: Không mua bán gì cả;
 - Test $2$:
 	- Ngày $1$ mua $1$;

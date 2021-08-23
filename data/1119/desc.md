@@ -16,7 +16,7 @@ Hãy giúp Bờm đặt các thiết bị tăng tốc sao cho tốc độ kết 
 
 **<center>Hình minh họa</center>**
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 2
 1 2 1
@@ -25,7 +25,7 @@ Hãy giúp Bờm đặt các thiết bị tăng tốc sao cho tốc độ kết 
 1 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4.25
 ```

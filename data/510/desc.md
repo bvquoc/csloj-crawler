@@ -13,7 +13,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Ghi trên một dòng $Q$ số nguyên, số thứ $i$ là chênh lệch chiều cao lớn nhất của các con bò trong đoạn $u_i$ đến $v_i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 1 7 3 4 2 5
@@ -22,7 +22,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6 3 0
 ```

@@ -18,17 +18,17 @@ Hai số liên tiếp được ghi cách nhau một dấu cách.
 - Ghi ra một số nguyên duy nhất là độ đẹp lớn nhất của một bức ảnh có thể chụp được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 -4 3 -2 -6 7 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
-#### Giải thích:
+### Giải thích:
 - Chụp $4$ cây số $2, 3, 4, 5$ sẽ có độ đẹp là $3 + (-2) + (-6) + 7 = 2$
 
 ## Giới hạn:

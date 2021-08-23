@@ -11,15 +11,15 @@ Biết $L\ (1≤L≤50)$, đếm số xâu nhị phân thú vị độ dài $N\ 
 - Một dòng duy nhất chứa số xâu nhị phân thứ vị độ dài $N$ trong modulo $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $6$ xâu thú vị là $001, 010, 011, 100, 101, 110$.

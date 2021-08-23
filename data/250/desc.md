@@ -13,7 +13,7 @@ Ví dụ dưới đây, khi $k=2$ Thì ô $(3,3)$ là ô phải tìm với các 
 - Một số nguyên duy nhất là giá trị tổng lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 50 5 25 6 17
@@ -23,7 +23,7 @@ Ví dụ dưới đây, khi $k=2$ Thì ô $(3,3)$ là ô phải tìm với các 
 10 0 78 1 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 342
 ```

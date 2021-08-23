@@ -14,7 +14,7 @@ Cho thông tin về $n$ bể chứa và lượng nước $V$ . Các bạn hãy c
 - Gồm một số nguyên duy nhất (làm tròn đến hai chữ số thập phân) là độ cao của mực nước so với mặt đất. Dữ liệu đảm bảo lượng nước bơm vào không vượt quá tổng dung tích các bể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 4
 0 1 1 2
@@ -22,12 +22,12 @@ Cho thông tin về $n$ bể chứa và lượng nước $V$ . Các bạn hãy c
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2.67
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 78
 11 7 1 5
@@ -37,7 +37,7 @@ Cho thông tin về $n$ bể chứa và lượng nước $V$ . Các bạn hãy c
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17.00
 ```

@@ -14,7 +14,7 @@ Cho bảng vuông kích thước $m×n$. Các hàng được đánh số $1,2,�
 - Ghi ra $Q$ dòng, dòng thứ $i$ ghi tương ứng diện tích hình vuông lớn nhất tìm được, chứa ô trong truy vấn thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 #...#
@@ -30,7 +30,7 @@ Cho bảng vuông kích thước $m×n$. Các hàng được đánh số $1,2,�
 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 4

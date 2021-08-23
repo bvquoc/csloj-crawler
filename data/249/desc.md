@@ -10,7 +10,7 @@ Cho một bảng số kích thước $N\times N$. Một ô số được gọi l
 - Ghi ra một số nguyên duy nhất là tổng giá trị của tất cả các ô số đặc biệt, hoặc ghi ra $0$ nếu không có ô số nào thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9 7 5 3
@@ -19,7 +19,7 @@ Cho một bảng số kích thước $N\times N$. Một ô số được gọi l
 4 7 7 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 18
 ```

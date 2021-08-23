@@ -16,12 +16,12 @@ Cho biết Cu Tí phải bắn ít nhất bao nhiêu lần đạn pháo để ph
 ## Ví dụ:
 <center><img src="/images/problems/183/GAME2.png" width="200px" /></center>
 
-#### Dữ liệu vào:	
+### Dữ liệu vào:	
 ```
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

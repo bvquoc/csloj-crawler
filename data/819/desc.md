@@ -13,13 +13,13 @@ Xét dãy số nguyên $A=\left(a_1,a_2,...,a_n\right)$. Dãy chứa các phần
 - Ghi ra một số nguyên duy nhất là số lượng dãy con tìm được.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 3 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

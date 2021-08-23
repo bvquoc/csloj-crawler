@@ -11,7 +11,7 @@ Một hệ thống gồm $n$ máy tính được nối thành một mạng có $
 - Nếu $r > 0$ thì $r$ dòng tiếp theo, mỗi dòng ghi chỉ số của một kênh cần loại bỏ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7
 1 2 3
@@ -23,14 +23,14 @@ Một hệ thống gồm $n$ máy tính được nối thành một mạng có $
 1 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 6
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 2 1
@@ -38,7 +38,7 @@ Một hệ thống gồm $n$ máy tính được nối thành một mạng có $
 1 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

@@ -9,7 +9,7 @@ Cho $f(x) = a ×x^2 + b ×x + c$ và giá trị của $a, b, c, x$. Bạn hãy t
 - Gồm một dòng duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3 1
 ```

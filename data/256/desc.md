@@ -10,13 +10,13 @@ Cho dãy số nguyên $a_1,a_2,…,a_N$. Số $a_p\ (1≤p≤N)$ được gọi 
 - Ghi ra một số duy nhất là số lượng số trung bình cộng của dãy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 4 3 6 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

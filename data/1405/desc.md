@@ -17,7 +17,7 @@ Cho cách lập trình của robot hút bụi, liệu bạn có lập trình đ�
 - Nếu không thể cản phá được (tức dù ông lập trình robot cản phá ra sao, thì robot hút bụi cũng có thể thực hiện hết chuỗi lệnh của mình), in ra $-1$. Ngược lại, in ra thời điểm sớm nhất cản phá được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 0000
@@ -29,12 +29,12 @@ UUCLDCL
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 00
@@ -45,12 +45,12 @@ UDUDUDUDUDUDUDUDUDUDUDUDLRLRLRUUDCC
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 34
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 -1
@@ -63,7 +63,7 @@ UUCLDCL
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

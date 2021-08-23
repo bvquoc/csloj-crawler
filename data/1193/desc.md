@@ -12,13 +12,13 @@ Sau khi trúng thầu khai thác đất ven đường toàn huyện, Phú Ông g
 - Ghi ra một số nguyên duy nhất là số lượng đoạn tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 2 5 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

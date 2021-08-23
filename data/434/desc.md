@@ -10,7 +10,7 @@ Ta biết $C_{ij}$ là độ hài lòng của vị khách thứ $i$ khi ngồi v
 - Một số nguyên duy nhất là giá trị lớn nhất của tổng độ hài lòng có thể được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 6 8 6 
@@ -19,12 +19,12 @@ Ta biết $C_{ij}$ là độ hài lòng của vị khách thứ $i$ khi ngồi v
 2 7 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```
 
-#### Giải thích:
+### Giải thích:
 - Khách VIP (người thứ nhất) vào ghế số $2$, người thứ $2$ vào ghế số $3$, người số $3$ vào ghế số $1$, người thứ $4$ vào ghế số $4$, tổng độ hài lòng là $6 + 6 + 8 + 4 = 24$.
 
 ## Giới hạn:

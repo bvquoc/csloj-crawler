@@ -15,7 +15,7 @@ Hãy tìm cách lăn từ một ô đến một ô khác trên mặt bàn để 
 - Ghi ra một số duy nhất là chi phí nhỏ nhất tìm được.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 2 3
@@ -24,7 +24,7 @@ Hãy tìm cách lăn từ một ô đến một ô khác trên mặt bàn để 
 2 2 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 52
 ```

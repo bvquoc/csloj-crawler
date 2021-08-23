@@ -16,7 +16,7 @@ Nếu không có thứ tự nào hợp lý, in ra $-1$. Ngược lại in ra tr�
 Dữ liệu đảm bảo chi phí nhỏ nhất nếu có sẽ không vượt quá $10^18$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 10 11
 3 5 5 5
@@ -32,7 +32,7 @@ Dữ liệu đảm bảo chi phí nhỏ nhất nếu có sẽ không vượt qu�
 1 8 2 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 164
 2 1 3 4 5 6 8 7 9 11 10

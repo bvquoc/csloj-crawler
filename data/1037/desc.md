@@ -16,32 +16,32 @@ Dũng tuy rất giỏi toán, nhưng số lượng số là quá nhiều đối 
 - Một số nguyên là kết quả tìm được
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 104 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 223 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7067678 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 47
 ```

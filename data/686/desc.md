@@ -13,7 +13,7 @@ Những dòng sau, mỗi dòng ghi hai số nguyên dương $u, v$ là hai đầ
 Đối với dữ liệu vào và dữ liệu ra: Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 8
 1 2 50
@@ -26,7 +26,7 @@ Những dòng sau, mỗi dòng ghi hai số nguyên dương $u, v$ là hai đầ
 4 5 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 25
 1 5

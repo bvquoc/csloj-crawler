@@ -19,19 +19,19 @@ Tony nhận ra bài toán đếm số lượng tối đa thành phố có thể 
 - $70\%$ số test còn lại không có giới hạn gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1 4
@@ -39,7 +39,7 @@ Tony nhận ra bài toán đếm số lượng tối đa thành phố có thể 
 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

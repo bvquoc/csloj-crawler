@@ -9,7 +9,7 @@ Cho số nguyên dương $n$. Kiểm tra xem $n$ có phải **số hoàn thiện
 - Với mỗi số nguyên dương $n$, nếu $n$ là số hoàn thiện thì ghi ra `YES`, ngược lại, ghi `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 6
@@ -17,14 +17,14 @@ Cho số nguyên dương $n$. Kiểm tra xem $n$ có phải **số hoàn thiện
 28
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO
 YES
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test case $\#1$: Số $6$ có ba ước thực sự là $1, 2, 3$ có tổng bằng $6$
 - Test case $\#2$: Số $10$ có các ước thực sự là $1, 2, 5$ có tổng bằng $8$ (khác $10$)
 - Test case $\#3$: Số $28$ có các ước thực sự là $1, 2, 4, 7, 14$ có tổng bằng $28$

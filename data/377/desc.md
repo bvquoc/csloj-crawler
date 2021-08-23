@@ -16,19 +16,19 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là chi phí tối thiểu để di chuyển tất cả $m$ cái bánh.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 1
 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta chuyển một cái bánh từ tọa độ $1$ sang tọa độ $2$ mất chi phí là $|2 – 1| = 1$. Lúc này $3$ cái bánh được xếp trên các tọa độ $1, 2, 3$.
 
 ## Giới hạn:

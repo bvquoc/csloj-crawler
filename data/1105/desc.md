@@ -3,4 +3,4 @@
 
 <img src="/images/problems/1105/mine.svg" width=1080px>
 
-#### Tải test đề bài ở "Tệp đính kèm" phía trên.
+### Tải test đề bài ở "Tệp đính kèm" phía trên.

@@ -13,12 +13,12 @@ Khi trò chơi kết thúc, Hải Phong được $X$ đồng, Hải Dương đư
 - Ghi ra giá trị $X-Y$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3 5 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

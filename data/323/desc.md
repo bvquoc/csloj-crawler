@@ -8,7 +8,7 @@ Cho số nguyên dương $n$. Tìm ước số lẻ lớn nhất của $n$ nhỏ
 - Với mỗi số nguyên dương $n$, ghi ra trên một dòng ước số lẻ lớn nhất của $n$ nhỏ hơn $n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -16,7 +16,7 @@ Cho số nguyên dương $n$. Tìm ước số lẻ lớn nhất của $n$ nhỏ
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

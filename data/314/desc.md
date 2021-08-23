@@ -9,7 +9,7 @@ $${S_n} = 1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$$
 - Với mỗi bộ test, ghi ra trên một dòng số $S_n$ làm tròn đến $5$ chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1
@@ -17,7 +17,7 @@ $${S_n} = 1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$$
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1.00000
 2.28333

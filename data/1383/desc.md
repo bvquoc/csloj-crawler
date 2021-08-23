@@ -15,7 +15,7 @@ Hãy xác định số lượng đường đi khác nhau có thể thực hiện
 - Ghi ra một số nguyên duy nhất là kết quả tìm được. Nếu không tồn tại đường đi từ $𝑬$ đến $𝑿$ thì đưa ra số $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 9
 .........
@@ -26,7 +26,7 @@ Hãy xác định số lượng đường đi khác nhau có thể thực hiện
 .....#...
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 ```

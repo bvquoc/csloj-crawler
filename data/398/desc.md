@@ -14,13 +14,13 @@ Tèo rất thích các bảng số, đặc biệt là ma phương, đó là các
 - Ghi ra hình hình vuông bất kỳ thỏa yêu cầu ($5$ dòng, mỗi dòng $5$ số).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 65 65 65 65 65
 65 65 65 65 65
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 20 7 24 11
 16 8 25 12 4

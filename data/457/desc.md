@@ -7,17 +7,17 @@ Cho xâu ký tự $s$ chỉ gồm các chữ cái latin. Ta gọi một từ HOA
 Một dòng duy nhất ghi số nguyên là số lượng từ HOA xuất hiện trong xâu $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 CongCHAnhunuithaison
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có hai từ HOA xuất hiện trong xâu `CongCHAnhunuithaison` là `C` và `CHA`.
 
 ## Giới hạn:

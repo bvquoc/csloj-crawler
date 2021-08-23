@@ -10,7 +10,7 @@ Ba Kenny từ Mỹ về, và đã phát hiện ra âm mưu này, tuy nhiên, m�
 - Dãy số nguyên bản ban đầu. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2
@@ -19,7 +19,7 @@ Ba Kenny từ Mỹ về, và đã phát hiện ra âm mưu này, tuy nhiên, m�
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 4
 ```

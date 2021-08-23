@@ -9,22 +9,22 @@ Cho một bảng ô vuông có kích thước $m×n$ ($m$ hàng, $n$ cột). M�
 - Ghi ra một số nguyên duy nhất là số cách tô màu thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

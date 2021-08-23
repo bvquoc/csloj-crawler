@@ -23,7 +23,7 @@ nguyên thứ $j$ là quãng đường di chuyển từ công ty $i$ đến côn
 - Gồm một dòng duy nhất chứa một số nguyên là tổng quãng đường di chuyển ngắn nhất của cả hai thanh tra.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 2 3 4
@@ -32,11 +32,11 @@ nguyên thứ $j$ là quãng đường di chuyển từ công ty $i$ đến côn
 8 6 5 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích
+### Giải thích
 - Thanh tra $A$ sẽ đi kiểm tra các công ty $1, 2, 3$. Tổng quãng đường di chuyển của thanh tra $A$ là $3$;
 - Thanh tra $B$ sẽ đi kiểm tra công ty $4$. Tổng quãng đường di chuyển của thanh tra $B$ là $0$.

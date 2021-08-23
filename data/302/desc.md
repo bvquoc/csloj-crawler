@@ -7,25 +7,25 @@ Cho ba cặp số nguyên lần lượt là tọa độ của ba điểm trong m
 - Đáp số của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 0
 3 3
 5 0
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12.848 7.500
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 1
 2 2
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

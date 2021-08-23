@@ -16,7 +16,7 @@ Hãy tìm cách thực hiện các loại thao tác trên, sao cho số ô còn 
 - In ra số ô còn lại nhỏ nhất có thể sau khi thực hiện hai loại thao tác trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 3
 2 1
@@ -29,7 +29,7 @@ Hãy tìm cách thực hiện các loại thao tác trên, sao cho số ô còn 
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 4
 2 1
@@ -43,7 +43,7 @@ Hãy tìm cách thực hiện các loại thao tác trên, sao cho số ô còn 
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 <img src="/images/problems/637/TABLEDEL.svg" width=800px>
 
 ## Giới hạn:

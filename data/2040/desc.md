@@ -12,13 +12,13 @@ Kì thi sẽ diễn ra trong $t$ phút, hỏi thầy P. cần cử đi ít nhấ
 - Với mỗi test, ghi ra một số nguyên là số học sinh mà thầy P. cần cử đi trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 10 10 30 30 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

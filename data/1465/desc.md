@@ -17,7 +17,7 @@ Bạn hãy tìm cách giúp Ryo phân bố cảnh sát sao cho tổng độ tố
 - Gồm một số nguyên dương là tổng độ tốt lớn nhất của cả $3$ ngày.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 9
 1 2
@@ -30,7 +30,7 @@ Bạn hãy tìm cách giúp Ryo phân bố cảnh sát sao cho tổng độ tố
 6 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```

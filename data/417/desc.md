@@ -17,7 +17,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Gồm $N$ dòng, dòng thứ $i$ chứa $N$ số nguyên không âm $c_{i1}, c_{i2}, …, c_{iN}$. Hai số liên tiếp trên một dòng được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 0 1 0 0
@@ -26,7 +26,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 1 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0 0 2 4
 4 0 0 2

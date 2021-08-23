@@ -15,7 +15,7 @@ Hãy xác định số tiền ít nhất người dân phải đóng góp để 
 - Một số nguyên kết quả, số này bằng $−1$ nếu không có cách xây dựng đường.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7 1
 1 2 5
@@ -27,7 +27,7 @@ Hãy xác định số tiền ít nhất người dân phải đóng góp để 
 4 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

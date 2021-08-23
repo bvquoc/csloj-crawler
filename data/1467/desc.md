@@ -23,7 +23,7 @@ Giả sử kế hoạch mô tả các thao tác của robot chứa $N$ vector l�
 - Ghi ra nhiều dòng, mỗi dòng ứng với kết quả của truy vấn loại $𝑄$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 6 2
@@ -46,7 +46,7 @@ C -4 -6
 Q
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 5

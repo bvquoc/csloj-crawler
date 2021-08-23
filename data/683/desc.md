@@ -12,13 +12,13 @@ Cho hai xâu $a$ và $b$ chỉ gồm các ký tự Latinh thường. Hãy tìm x
 - Xâu $c$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abca
 cab
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 abcab
 ```

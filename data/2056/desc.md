@@ -16,7 +16,7 @@ Cho số $n$, tìm số tribonacci đầu tiên lớn hơn hoặc bằng $n$.
 - Với mỗi test, in ra số tribonacci tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 2
@@ -25,7 +25,7 @@ Cho số $n$, tìm số tribonacci đầu tiên lớn hơn hoặc bằng $n$.
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2

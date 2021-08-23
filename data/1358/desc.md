@@ -13,15 +13,15 @@ Bạn được chèn các dấu ngoặc vào để được một biểu thức 
 - Một số duy nhất là kết quả nhỏ nhất của biểu thức toán học. Kết quả có trị tuyệt đối nhỏ hơn $10^{18}$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1+2-3*4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -9
 ```
 
-#### Giải thích:
+### Giải thích:
 - $–9 = 1 + ((2–(3×4))) = 1 + 2 – 3×4$.

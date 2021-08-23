@@ -18,18 +18,18 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách.
 	- Đầu tiên ghi số nguyên $q$ là số lượng các số trong tập con tìm được, tiếp đến ghi $q$ số nguyên là các số thứ tự trong dãy Fibonacci của q số trong tập con tìm được. Nếu không tìm được tập con thỏa mãn điều kiện đặt ra thì ghi ra một số $0$. Nếu có nhiều cách chọn thì chỉ cần đưa ra một cách chọn bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 10 3 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 5 7
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ trên một tập con thỏa mãn điều kiện đặt ra là tập gồm hai số $F_5=5, F_7=13$ với tổng bằng $18$.
 
 ## Giới hạn:

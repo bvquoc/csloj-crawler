@@ -14,7 +14,7 @@ Bạn hãy viết chương trình xác định chi phí vận chuyển từ đi�
 ## Ví dụ:
 <center><img src="/images/problems/595/GASLINE.png" width="350px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 1
 1 2 10
@@ -23,7 +23,7 @@ Bạn hãy viết chương trình xác định chi phí vận chuyển từ đi�
 3 4 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

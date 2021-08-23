@@ -14,31 +14,31 @@ Hãy tìm khoảng cách nhỏ nhất giữa một cặp điểm xanh và điể
 - In ra khoảng cách nhỏ nhất giữa một cặp điểm xanh và điểm đỏ bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 2
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 7
 10 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ thứ nhất, khoảng cách giữa điểm xanh duy nhất và điểm đỏ duy nhất là $|2 − 6| = 4$
 - Ở ví dụ thứ hai:
     - Khoảng cách giữa điểm xanh thứ $1$ và điểm đỏ thứ $1$ là $|1 − 10| = 9$

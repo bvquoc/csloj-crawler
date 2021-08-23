@@ -14,7 +14,7 @@ Tổng số dòng không vượt quá $10^6+1$.
 - Ghi ra $T$ dòng là kết quả các test tương ứng theo thứ tự.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5
@@ -25,7 +25,7 @@ Tổng số dòng không vượt quá $10^6+1$.
 196 89
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 29
 ```

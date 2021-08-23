@@ -11,7 +11,7 @@ Mirko cũng đo được chiều cao của tất cả các cây. Tại mội th�
 - Số nguyên duy nhất là kết quả của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
@@ -22,12 +22,12 @@ Mirko cũng đo được chiều cao của tất cả các cây. Tại mội th�
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 1
@@ -36,7 +36,7 @@ Mirko cũng đo được chiều cao của tất cả các cây. Tại mội th�
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

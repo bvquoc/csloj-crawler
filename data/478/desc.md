@@ -14,18 +14,18 @@ Hãy xác định $x$ – tổng nhỏ nhất giá trị phần thưởng mà He
 - Số $x$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 2
 1 2 4 5 2 4 2 2 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hermione chọn phần thưởng số $3$ và $4$. Sau khi Hermione chọn thì Harry có $6$ cách chọn hai phần thưởng liên tiếp là: $1, 2; 2, 4; 4, 2; 2, 2; 2, 1; 1, 6$. Giá trị lớn nhất có thể chọn là $7$.
 
 ## Giới hạn:

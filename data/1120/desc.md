@@ -14,7 +14,7 @@
 - Một số nguyên duy nhất là tổng năng lượng di chuyển của $n$ vận động viên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1
@@ -22,7 +22,7 @@
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

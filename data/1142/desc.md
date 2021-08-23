@@ -22,18 +22,18 @@ Bờm tham gia tổ xây dựng đề thi cho một cuộc thi lập trình tron
 - Một dòng duy nhất chứa số nguyên là số phép đổi chỗ nhiều nhất có thể  thực hiện liên tiếp trên dãy $X$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy cuối cùng là $1, 2, 2, 3$
 - Đổi chỗ lần $1$ được dãy $3, 2, 2, 1$
 - Đổi chỗ lần $2% được dãy $1, 2, 2, 3$

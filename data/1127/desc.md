@@ -4,14 +4,14 @@
 <img src="/images/problems/1127/str.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu:
+### Dữ liệu:
 ```
 2 5 
 AB 
 BA
 ```
 
-#### Kết quả:
+### Kết quả:
 ```
 ABABAB
 ```

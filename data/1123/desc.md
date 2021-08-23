@@ -18,13 +18,13 @@ Ta được phép nối điểm thứ $i$ trên $L_1$ với điểm thứ $j$ tr
 - Ghi ra số lượng cặp điểm nối lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1
 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

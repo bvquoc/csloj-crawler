@@ -9,19 +9,19 @@ Cho một đồ thị có hướng gồm $n$ đỉnh và $m$ cung, hai con robot
 - Trong trường hợp có phương án thực hiện thì dòng thứ hai ghi hành trình của robot thứ nhất theo thứ tự từ đỉnh $1$ đến đỉnh gặp nhau và dòng thứ ba ghi hành trình của robot thứ hai với qui cách tương tự.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 2
 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 2
@@ -31,7 +31,7 @@ Cho một đồ thị có hướng gồm $n$ đỉnh và $m$ cung, hai con robot
 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 2 4 3 2

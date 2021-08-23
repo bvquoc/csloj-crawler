@@ -14,13 +14,13 @@ Hai anh em chơi một trò chơi so sánh như sau với $3$ cặp $(a_0,b_o),(
 - Ghi ra hai số nguyên dương theo thứ tự là điểm của HD và HP.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 7
 3 6 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 1
 ```

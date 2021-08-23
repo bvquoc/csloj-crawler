@@ -12,12 +12,12 @@ Cho một xâu ký tự $S$ gồm toàn chữ cái alphabet in thường (`a` �
 - Một số nguyên duy nhất là số cặp chỉ số $(l, r)$ đếm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcde
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

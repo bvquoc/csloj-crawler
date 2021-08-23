@@ -13,15 +13,15 @@ a \le x \le b
 - Ghi ra một số nguyên là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4 20
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - $P=5×10×15×20=15000$.

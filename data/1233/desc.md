@@ -12,7 +12,7 @@ Một dây chuyền sản xuất có $N$ vị trí làm việc đánh số từ 
 - Ghi ra một số nguyên duy nhất là năng suất lớn nhất của dây chuyền theo cách bố trí tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9 4 4 12
@@ -21,7 +21,7 @@ Một dây chuyền sản xuất có $N$ vị trí làm việc đánh số từ 
 6 7 3 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

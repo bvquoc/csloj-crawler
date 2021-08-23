@@ -11,18 +11,18 @@ Cho số nguyên dương $N$, hãy liệt kê tất cả các dãy ngoặc đún
 - Liệt kê tất cả các dãy ngoặc đúng độ dài $2N$ theo thứ tự từ điển tăng dần (theo nguyên tắc so sánh chuỗi, chú ý `(` < `)` ), mỗi dãy trên một dòng
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 (())
 ()()
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với $N$ bằng $2$, chỉ có $2$ dãy ngoặc đúng độ dài $4$ theo thứ tự như trên.
 
 ## Giới hạn:

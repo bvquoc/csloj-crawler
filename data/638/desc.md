@@ -16,7 +16,7 @@ Bờm có đủ các đồng xu với tất cả mệnh giá không vượt quá
 - Dòng thứ hai chứa danh sách mệnh giá các đồng xu mà Bờm sẽ mang theo. Nếu có nhiều cách chọn đồng xu thỏa mãn, bạn chỉ cần chọn một cách bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5
@@ -31,7 +31,7 @@ Bờm có đủ các đồng xu với tất cả mệnh giá không vượt quá
 1 1 3 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với bộ dữ liệu đầu tiên:
 
 | Giá tiền món hàng | Danh sách mệnh giá các đồng xu Bờm chọn |

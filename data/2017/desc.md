@@ -17,7 +17,7 @@ Bây giờ nhà thiết kế được giao nhiệm vụ trồng cây ở tất c
 - Ghi ra một số nguyên là số lượng cây xanh cần trồng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 0
@@ -29,7 +29,7 @@ Bây giờ nhà thiết kế được giao nhiệm vụ trồng cây ở tất c
 15 15 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 73
 ```

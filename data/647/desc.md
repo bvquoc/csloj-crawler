@@ -10,13 +10,13 @@ Có $N$ người đang đứng chờ thang máy, người thứ $i$ muốn đi �
 - Gồm một dòng duy nhất,chứa số nguyên duy nhất là đáp án của bộ test.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

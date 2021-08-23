@@ -16,7 +16,7 @@ Hãy viết một chương trình đếm xem có bao nhiêu quân cờ domino kh
 - Ghi ra một số nguyên duy nhất là số quân domino có thể di chuyển ra vị trí khác với vị trí ban đầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 4 3 4 4
@@ -33,7 +33,7 @@ Hãy viết một chương trình đếm xem có bao nhiêu quân cờ domino kh
 2 1 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

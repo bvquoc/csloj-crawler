@@ -18,18 +18,18 @@ $$𝑎_1 ≤ 𝑎_2 ≤ ⋯ ≤ 𝑎_𝑛$$
 - Ghi ra một số thực duy nhất với $1$ chữ số sau dấu chấm thập phân là tổng năng lượng tiêu tốn nếu các bé chơi theo phương án của bạn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 3 0 0 3 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4.5
 ```
 
-#### Giải thích:
+### Giải thích:
 Ta sẽ chuyển nước để được lượng nước trong các thùng là $1.0,1.0,1.0,1.0,1.5,1.5$:
 - Chuyển $2$ lít từ thùng $2$ sang thùng $3$;
 - Chuyển $1$ lít từ thùng $3$ sang thùng $4$;

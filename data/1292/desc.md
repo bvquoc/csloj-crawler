@@ -16,13 +16,13 @@ Như vậy đến các nhiệm vụ tiếp theo, tập đoàn sẽ còn ít ngư
 - In ra một dòng chứa $𝑛$ số nguyên, số thứ $𝑖$ là số tiền mà người $𝑖$ kiếm được $(𝑖 = 1 ÷ 𝑛)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13 8 1 3 1
 ```

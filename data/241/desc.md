@@ -10,7 +10,7 @@ Mỗi hoán vị của $n$ viên gạch là một cách để sắp xếp các v
 - Ghi ra số nguyên duy nhất là độ xấu nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 4
@@ -19,10 +19,10 @@ Mỗi hoán vị của $n$ viên gạch là một cách để sắp xếp các v
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 25
 ```
 
-#### Giải thích:
+### Giải thích:
 - Thứ tự sắp xếp: $3, 2, 4, 1$.

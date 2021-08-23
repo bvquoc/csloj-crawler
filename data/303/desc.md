@@ -8,23 +8,23 @@ Cho một hình chữ nhật có các cạnh song song với các trục tọa �
 
 ## Ví dụ:
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 0 3 3 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 ```
 
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 1 3 3 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

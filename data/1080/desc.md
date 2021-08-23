@@ -11,29 +11,29 @@ Cho dãy số $a_1,a_2,…,a_n$. Tìm cách chia dãy $a$ thành $s+1$ đoạn l
 - Một số nguyên duy nhất là tổng các số trong đoạn lớn nhất theo cách chia tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 8 2 1 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 3
 1 2 3 4 5 6 7 8 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test $\#1$: Cách chia tối ưu là $\{8\}, \{2, 1, 5\}, \{6\}$
 
 ## Giới hạn:

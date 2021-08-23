@@ -8,14 +8,14 @@ Cho ma trận vuông $A$ cấp $m$ và một số nguyên dương $n$. Hãy tín
 - $m$ dòng của ma trận $B = A^n$. Các phần tử của ma trận $B$ được chia cho $10^9 + 7$ lấy phần dư.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 2
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 10
 15 22

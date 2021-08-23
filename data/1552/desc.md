@@ -1,6 +1,6 @@
 <center><img src="/images/problems/1552/SOCKS.svg" width="100%" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 1 0 0 0 0 1
@@ -15,7 +15,7 @@
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

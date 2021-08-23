@@ -10,35 +10,35 @@
 - Một dòng duy nhất chứa số IP cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

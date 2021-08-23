@@ -22,7 +22,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 ## Ví dụ:
 <center><img src="/images/problems/1215/GROUPDIV.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 3 2 3 4
@@ -34,7 +34,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 1 4 6 7

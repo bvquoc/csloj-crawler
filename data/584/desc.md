@@ -17,7 +17,7 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 - Ghi ra một dòng duy nhất là “độ đẹp” của bó hoa đẹp nhất hái được (nếu không thể đến được nhà bà thì ghi ra số $-1$) ;
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 0 3 0 0 0
@@ -26,12 +26,12 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 -1 1 1 1 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Giải thích:
+### Giải thích:
 - Những ô tô màu vàng là hành trình đi (trừ ô đầu và ô cuối)
 <center><img src="/images/problems/395/BTFLOWER_2.PNG"></center>
 

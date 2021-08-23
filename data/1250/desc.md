@@ -16,7 +16,7 @@ Bạn hãy lập trình giúp Hiếu giải quyết vấn đề đơn giản nà
 - Ghi ra một số nguyên là kích thước lớn nhất của tập con $𝑆’$ của $𝑆$ mà hai số bất kì thuộc $𝑆′$ nguyên tố cùng nhau.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 30
@@ -26,7 +26,7 @@ Bạn hãy lập trình giúp Hiếu giải quyết vấn đề đơn giản nà
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

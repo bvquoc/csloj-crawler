@@ -24,14 +24,14 @@ Trên đường đi khảo sát đoàn thám hiểm phải vượt qua một câ
 - Ghi ra một số nguyên duy nhất là số lượng cách vượt $(\text{mod }1000000007)$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 RGS
 RINGSR
 GRGGNS
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

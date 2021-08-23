@@ -15,7 +15,7 @@ Bạn hãy giúp họ tìm con đường đi từ $1$ đến $n$ sao cho thời 
 - Một số nguyên duy nhất là thời gian của con đường đi lâu nhất trên hành trình.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 1 3 2
@@ -24,7 +24,7 @@ Bạn hãy giúp họ tìm con đường đi từ $1$ đến $n$ sao cho thời 
 2 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -15,7 +15,7 @@ Một bộ ghép trên $G$ là một tập các cạnh của $E$ đôi một kh�
 ## Ví dụ:
 <center><img src="/images/problems/557/BMATCH.png" width="250px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 5
 1 1
@@ -25,7 +25,7 @@ Một bộ ghép trên $G$ là một tập các cạnh của $E$ đôi một kh�
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 1 3

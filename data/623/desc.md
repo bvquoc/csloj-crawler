@@ -13,7 +13,7 @@ Tuy là tác giả nhưng Son vẫn chưa giải quyết được bài toán nà
 ## Dữ liệu ra:
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
@@ -23,7 +23,7 @@ Tuy là tác giả nhưng Son vẫn chưa giải quyết được bài toán nà
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 ```
@@ -33,7 +33,7 @@ Tuy là tác giả nhưng Son vẫn chưa giải quyết được bài toán nà
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test ví dụ $1$, dãy thỏa mãn là: $3$, có bội chung nhỏ nhất là $3$.
 - Test ví dụ $2$, dãy thỏa mãn là $3, 4$, có bội chung nhỏ nhất là $12$.
 

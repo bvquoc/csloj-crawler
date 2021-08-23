@@ -12,39 +12,39 @@ Bạn hãy tìm cách chọn $N$ lâu đài cho $N$ vị nàng Hậu này sao ch
 - Nếu có ít nhất một phương án, dòng thứ hai ghi ra một phương án bất kỳ theo định dạng: $N$ số nguyên trong đoạn $[1..N]$, mỗi số cách nhau bởi một dấu cách, số thứ $i$ là chỉ số dòng của lâu đài trên cột thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 92
 5 7 1 3 8 6 4 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với $N = 8$, có $92$ phương án, và một phương án trong số đó như hình sau:
 <center><img src="/images/problems/392/NQUEENS.jpg" width=300px> </center>
 

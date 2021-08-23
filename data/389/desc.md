@@ -7,12 +7,12 @@ Cho tập hợp $A = {1, 2, …, n}$. Liệt kê các hoán vị của $A$.
 - Gồm nhiều dòng, mỗi dòng là một hoán vị của tập $A$, các hoán vị liệt kê theo thứ tự từ điển tăng dần, mỗi số trên một dòng cách nhau bởi một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3
 1 3 2
@@ -22,7 +22,7 @@ Cho tập hợp $A = {1, 2, …, n}$. Liệt kê các hoán vị của $A$.
 3 2 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Tập $A$ có $3$ phần tử thì sẽ có $6$ hoán vị, các hoán vị được liệt kê theo thứ tự tăng dần như trên.
 
 ## Giới hạn:

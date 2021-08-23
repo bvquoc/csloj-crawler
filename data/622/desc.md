@@ -12,7 +12,7 @@ Dòng đầu tiên chứa $T$ $(1 ≤ T ≤ 10^4)$ tương ứng với số bộ
 - In ra $T$ dòng, mỗi dòng tương ứng với khoảng cách từ điểm $A$ đến đường thẳng $BC$, làm tròn chính xác đến $2$ chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 3 0 1 -1 0 10 100 0

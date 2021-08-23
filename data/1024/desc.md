@@ -3,7 +3,7 @@
 
 <img src="/images/problems/1024/comnet.svg" width=1080px>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 2
@@ -13,7 +13,7 @@
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

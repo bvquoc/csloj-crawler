@@ -23,7 +23,7 @@ Việc mở đường tắt theo phương án $a$), độ dài đường tuần 
 - Ghi ra một số nguyên $d$ là độ dài đường tuần tra ngắn nhất nếu mở thêm $k$ đường tắt.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 1
 1 2
@@ -34,7 +34,7 @@ Việc mở đường tắt theo phương án $a$), độ dài đường tuần 
 8 5
 5 6
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```

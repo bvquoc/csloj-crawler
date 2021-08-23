@@ -18,7 +18,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một dòng duy nhất là số tiền thu được nhiều nhất sau $D$ ngày.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1
@@ -31,12 +31,12 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 32
 ```
 
-#### Giải thích:
+### Giải thích:
 - Vào ngày $1$, theo thứ tự, số tiền in được ở các máy: $1, 2, 3, 4, 𝟐$, vậy số tiền thu được nhiều nhất: $2+4 = 6$ (hoặc $1+3+2$). 
 - Ngày $2$, theo thứ tự, số tiền in được ở các máy: $1, 𝟕, 3, 4, 2$, vậy số tiền thu được nhiều nhất: $7+4 = 11$.  
 - Ngày $3$, theo thứ tự, số tiền in được ở các  máy: $𝟏𝟎, 7, 3, 4, 2$, vậy số tiền thu được nhiều nhất: $10+3+2=15$.  

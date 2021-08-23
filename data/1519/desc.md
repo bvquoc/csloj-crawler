@@ -25,7 +25,7 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách. Dữ li�
 - $30\%$ số test còn lại ứng với $30\%$ số điểm của bài không có điều kiện gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7 1 4
 1 1 2 4
@@ -37,12 +37,12 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách. Dữ li�
 2 2 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src = "/images/problems/1519/bus.png" width=500px></center>
 
 - Để đi từ $1$ đến $4$, Alice sẽ lần lượt đi tuyến $(1, 2)$ của công ty $A$ và hai tuyến $2, 5), (5, 4)$ của công ty $B$. Khi đó số tiền mà Alice phải trả cho công ty $A$ là $4$ và trả cho công ty $B$ là $8$.

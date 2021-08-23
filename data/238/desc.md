@@ -11,14 +11,14 @@ Sau trận đấu bóng đá chiều hôm qua, cô Nguyệt (Hà Tĩnh) và cô 
 - Ghi ra một số nguyên duy nhất là số lượng kem tối đa đội liên quân Nghệ-Tĩnh có thể nhận được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 100 100 5
 2 2 1000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

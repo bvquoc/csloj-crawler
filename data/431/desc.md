@@ -9,7 +9,7 @@ Cho $n$ hình chữ nhật đánh số từ $1$ đến $n$, các hình 
 - Một số nguyên duy nhất là độ dài lớn nhất của đường gấp khúc phía trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 5
@@ -19,12 +19,12 @@ Cho $n$ hình chữ nhật đánh số từ $1$ đến $n$, các hình 
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 68
 ```
 
-#### Giải thích:
+### Giải thích:
 - Cách xếp mà thu được chiều dài lớn nhất là hình trên. Cạnh phía trên gồm các đoạn  $DC, CG, GF, FJ,  JI,  IM, ML, LP$,  và $PO$. Độ dài của đoạn này là $5 + 6 + 3 + 7 + 10 + 13 + 7 + 12 + 5 = 68$
 
 ## Giới hạn:

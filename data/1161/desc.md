@@ -6,7 +6,7 @@
 **<center>Chú ý: Điểm số được quy đổi sang thang điểm 100 theo đúng tỉ lệ</center>**
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 0 1 2
@@ -14,7 +14,7 @@
 1 3 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 3 2
@@ -23,7 +23,7 @@
 3 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 2 3 4
@@ -31,7 +31,7 @@
 3 0 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 3 2

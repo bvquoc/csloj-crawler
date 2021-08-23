@@ -14,19 +14,19 @@ Chỉ số của xâu đánh số từ $1$, dữ liệu đảm bảo không mâu
 - Ghi xâu $S$. Với các ký tự không thể xác định được, ghi `?`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 2
 1<2
 2<3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 abc?
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3 3
 1>2
@@ -34,7 +34,7 @@ abc?
 5=2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 cba?b
 ```

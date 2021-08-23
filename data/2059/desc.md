@@ -11,37 +11,37 @@ Cho trước hai số nguyên dương $N$ và $K$, hãy tìm phần dư trong ph
 - In ra phần dư trong phép chia của số lượng xâu nhị phân thỏa mãn cho $1000007$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 31
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ví dụ $1:$ Có ba xâu: $011,110,111$;
 - Ví dụ $2:$ Có tất cả xâu nhị phân độ dài $5$ ngoại trừ $00000$;
 - Ví dụ $3:$ Không có xâu thỏa mãn.

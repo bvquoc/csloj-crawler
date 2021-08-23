@@ -24,7 +24,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - $40\%$ số test còn lại ứng với $40\%$ số điểm của bài thỏa mãn điều kiện: $n ≤ 10^5$, các tọa độ không vượt quá $10^9$.
 
 ## Vị dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 3 4 1
@@ -35,10 +35,10 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 6 7 9 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Lối đi độc đạo là lối đi giữa cặp tòa nhà $(4,5)$ và $(5,6)$. Nếu đóng cửa lối đi độc đạo qua $(4,5)$, ta có $d_4=4$ và $d_5=2$, do đó $|d_4-d_5|=2$. Nếu đóng cửa lối đi độc đạo qua $(5,6)$, ta có $d_5=5$ và $d_6=1$, do đó $|d_5 - d_6| =4$.

@@ -13,13 +13,13 @@ $$\sum_{i=1}^𝑛 |𝑑_𝑖 − 𝑝|^𝑘$$
 - Ghi ra một số thực là tổng chi phí giao lưu đi lại (lấy $2$ chữ số sau dấu chấm thập phân).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1
 1 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3.00
 ```

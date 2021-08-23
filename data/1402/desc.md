@@ -9,7 +9,7 @@ Bạn được cho một dãy $A$ gồm $N$ phần tử có giá trị trong đo
 - Gồm $M$ câu trả lời tương ứng với $M$ truy vấn đã cho.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 1 4 3 3 2 5
@@ -18,7 +18,7 @@ Bạn được cho một dãy $A$ gồm $N$ phần tử có giá trị trong đo
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 6

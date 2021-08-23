@@ -17,7 +17,7 @@ Ban đầu vị trí đứng của Bờm là ở gốc tọa độ O.
 - Một số nguyên duy nhất là số lượng bánh nhiều nhất mà Bờm có thể ăn trong thời gian $T$ giây.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 10
 1 4
@@ -25,12 +25,12 @@ Ban đầu vị trí đứng của Bờm là ở gốc tọa độ O.
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Bờm đi đến tọa độ $1$ và ăn chiếc bánh ở đó (mất tổng cộng $5$ giây) sau đo đi đến tọa độ $3$ và ăn chiếc bánh ở đó (mất thêm $2 + 3$ giây nữa). Tổng cộng ăn được $2$ bánh trong đúng $10$ giây.
 
 ## Giới hạn:

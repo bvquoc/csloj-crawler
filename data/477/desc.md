@@ -10,7 +10,7 @@ Vicky có $n$ cuốn sách và anh ta muốn đóng một giá sách nhiều t�
 - Một số dương duy nhất là chiều cao tối thiểu của giá sách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 10 
 5 7 
@@ -20,12 +20,12 @@ Vicky có $n$ cuốn sách và anh ta muốn đóng một giá sách nhiều t�
 3 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 ```
 
-#### Giải thích:
+### Giải thích:
 Giá sách được làm ba tầng:
 - Tầng $1$ xếp quyển số $1$ với chiều cao $5$
 - Tầng $2$ xếp các quyển số $2, 3, 4$ với chiều cao $13$

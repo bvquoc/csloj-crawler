@@ -10,7 +10,7 @@ Cơ quan hàng không vũ trụ Mĩ NASA vừa thực hiện thành công một 
 - Ghi ra một dòng duy nhất chứa số $S$ là chi phí tối thiểu cho việc duy trì trạm vũ trụ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 3
 1

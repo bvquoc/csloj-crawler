@@ -13,13 +13,13 @@ Ban tổ chức kỳ thi lập trình Quốc gia năm $2020$ có $M$ chiếc k�
 - Do kết quả có thể rất lớn nên bạn chỉ cần in ra kết quả bài toán khi chia lấy dư cho $10^5+3$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

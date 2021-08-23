@@ -19,12 +19,12 @@ trò quan trọng. Với tờ giấy hiện có, Steve muốn đóng quà vào h
 - Dòng thứ hai chứa $3$ số nguyên là chiều dài, chiều rộng và chiều cao của hộp. Nếu tồn tại nhiều lời giải thì đưa ra một trong số các lời giải  của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 37
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 3 2 2

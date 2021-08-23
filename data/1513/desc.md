@@ -27,7 +27,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là giá trị lớn nhất của $S$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 8 4
 2 1 2
@@ -44,12 +44,12 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 0 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giái thích:
+### Giái thích:
 <center><img src="/images/problems/1513/workout.png" width=500px></center>
 
 ## Giới hạn:

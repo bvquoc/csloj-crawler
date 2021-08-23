@@ -24,7 +24,7 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - $25\%$ số tes còn lại ứng với $25\%$ số điểm của bài có $n ≤ 500; k≤ 10^5;p ≤5$.
 
 ## Vị dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 2 3
 1 1 1 1
@@ -35,10 +35,10 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 1 1 1 3 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1509/bonus.png" width=900px></center>

@@ -8,35 +8,35 @@ Cho một dãy gồm $n$ số nguyên, hãy đếm số cặp **bằng nhau liê
 - In ra trên một dòng số nguyên không âm là số cặp bằng nhau liên tiếp trong dãy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 4 1 1 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 5 3 1 1 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

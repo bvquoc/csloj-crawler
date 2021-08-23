@@ -9,7 +9,7 @@ Cho lưới ô vuông kích thước $m$ dòng và $n$ cột, các dòng đượ
 - Chứa số nguyên $r$ là tổng lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 1 1 1 1
@@ -19,12 +19,12 @@ Cho lưới ô vuông kích thước $m$ dòng và $n$ cột, các dòng đượ
 1 1 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 -1 -1 -1 -1
@@ -34,7 +34,7 @@ Cho lưới ô vuông kích thước $m$ dòng và $n$ cột, các dòng đượ
 -1 -1 -1  1 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

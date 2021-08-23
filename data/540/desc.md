@@ -17,7 +17,7 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 ## Ví dụ:
 <center><img src="/images/problems/540/STROCONN.svg" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2
@@ -30,7 +30,7 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 6 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3 1 2 3

@@ -2,7 +2,7 @@
 <br>
 
 <img src="/images/problems/1029/game2.svg" width=1080px>
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 -3 -1 -2 0 5 -1 0
@@ -10,7 +10,7 @@
 1 1 1 1 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 ```

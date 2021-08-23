@@ -23,7 +23,7 @@ Bạn, một tay anh hùng bàn phím cự phách, muốn hoàn thành trò chơ
 - Trong $\frac{3}{7}$ số test có $N ≤ 2000$ và $M ≤ 2000$.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 18
 copypaste
@@ -34,12 +34,12 @@ copypaste
 17 18 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ac
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 100
 vvooii
@@ -49,7 +49,7 @@ vvooii
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 voiovi
 ```

@@ -21,24 +21,24 @@ Nhưng tệ ở một chỗ là từ đầu cả nước lại muốn bầu cho 
 ## Ví dụ:
 <center><img src="/images/problems/1416/GREEN1.png" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
 <center><img src="/images/problems/1416/GREEN2.png" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

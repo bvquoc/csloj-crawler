@@ -12,7 +12,7 @@ Cho $N$ điểm trên mặt phẳng tọa độ. Đếm số các tam giác đ�
 - In ra số tam giác đặc biệt.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2
@@ -22,12 +22,12 @@ Cho $N$ điểm trên mặt phẳng tọa độ. Đếm số các tam giác đ�
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 10 10
@@ -38,7 +38,7 @@ Cho $N$ điểm trên mặt phẳng tọa độ. Đếm số các tam giác đ�
 30 30
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

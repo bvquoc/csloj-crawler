@@ -10,20 +10,20 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra $T$ dòng, Mỗi dòng một xâu ký tự `YES` hoặc `NO` tương ứng với ba số $a, b, c$ là độ dài ba cạnh của tam giác hoặc không là độ dài ba cạnh của một tam giác.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 2 3
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 YES
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ba số $1, 2, 3$ không là độ dài ba cạnh của một tam giác;
 - Ba số $2, 3, 4$ là độ dài ba cạnh của một tam giác.
 

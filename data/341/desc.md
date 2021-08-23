@@ -8,7 +8,7 @@ Cho một số nguyên dương trong hệ cơ số $2$ (hệ nhị phân), hãy 
 - Với mỗi xâu nhị phân, in ra trên một dòng số đó trong hệ thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 101
@@ -16,7 +16,7 @@ Cho một số nguyên dương trong hệ cơ số $2$ (hệ nhị phân), hãy 
 1010
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 7

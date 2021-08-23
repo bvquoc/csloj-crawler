@@ -19,7 +19,7 @@ Bạn được chính phủ thuê để xác định thiệt hai của mỗi cu�
 - Ghi ra trên $n$ dòng, mỗi dòng một số, số ở dòng thứ $𝑖$ thể hiện số cặp thị trấn mà họ không thể đến thăm được nhau nếu cuộc biểu tình diễn ra ở thành phố $𝑖$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2
@@ -29,7 +29,7 @@ Bạn được chính phủ thuê để xác định thiệt hai của mỗi cu�
 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 8

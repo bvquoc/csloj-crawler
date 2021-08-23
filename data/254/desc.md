@@ -12,13 +12,13 @@ Bạn là một người chơi, giả sử tỉ lệ bắn trúng đĩa của b�
 - Một số nguyên là số điểm lớn nhất mà người chơi có thể đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9 3 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 18
 ```

@@ -13,7 +13,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 - Ghi $K$ dòng là $K$ số đầu tiên trong dãy $C$ theo thứ tự không giảm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 6
 1
@@ -26,7 +26,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 4
@@ -36,7 +36,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy $C$ gồm $16$ số theo thứ tự không giảm: $3\ 4\ 4\ 5\ 5\ 5\ 6\ 6\ 6\ 6\ 7\ 7\ 7\ 8\ 8\ 9$.
 
 ## Giới hạn:

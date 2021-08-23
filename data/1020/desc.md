@@ -3,7 +3,7 @@
 
 <img src="/images/problems/1020/photo.svg" width=1080px>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 1 5 7 8 9 2 4 3 6
@@ -13,7 +13,7 @@
 1 7 3 5 9 2 4 6 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3 5 7 9 2 4 6 8
 ```

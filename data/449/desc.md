@@ -8,7 +8,7 @@ Trên trục tọa độ, tại các điểm có tọa độ nguyên trong đo�
 - Ghi ra trên một dòng danh sách tọa độ các ô người chơi sẽ đi qua theo thứ tự tăng dần để đạt được tổng điểm lớn nhất, nếu có nhiều cách, chỉ cần ghi ra một cách bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 -2 3 -6 -4 5
@@ -19,7 +19,7 @@ Trên trục tọa độ, tại các điểm có tọa độ nguyên trong đo�
 0 2 4 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Người chơi di chuyển như sau: $0→2→4→5$, tổng điểm là $3 + (-4) + 5 = 4$
 
 ## Giới hạn:

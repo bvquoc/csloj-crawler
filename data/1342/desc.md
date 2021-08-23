@@ -12,32 +12,32 @@ Cho dãy $a_1,a_2,…,a_n$.
 - Ghi ra một số nguyên duy nhất là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 1 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy con $\{2,5,3\}$ hoặc $\{1,5,3\}$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 5 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy con $\{1,5\}$.
 
 ## Giới hạn:

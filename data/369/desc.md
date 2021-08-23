@@ -10,13 +10,13 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là số lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 7 3 3 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

@@ -12,7 +12,7 @@ Một dãy số $a_1, a_2, ..., a_n$ là một dãy nhân tính hoàn toàn nế
 - Nếu dãy số được cho là dãy nhân tính hoàn toàn, in ra `YES`, ngược lại, in ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 1 2 3 4 5 6 7 8 9 10
@@ -23,7 +23,7 @@ Một dãy số $a_1, a_2, ..., a_n$ là một dãy nhân tính hoàn toàn nế
 YES
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 1 1 2 2 4 2 6 4 6 4

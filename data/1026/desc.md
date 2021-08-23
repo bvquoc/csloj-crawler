@@ -15,15 +15,15 @@ Bờm vừa mới nhận được một khoản tiền thù lao lớn từ bản
 - Ghi ra hai số nguyên $a$ và $b$, trong đó $a$ là số lượng cửa hàng trong cách mua tìm được, còn $b$ là chỉ số của cửa hàng đầu tiên trong dãy các cửa hàng liên tiếp tìm được (nếu có nhiều dãy như vậy hãy đưa ra dãy với chỉ số $b$ là nhỏ nhất).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 666
 101 42 -132 17 404 -13 55 222 89 11 -66 91 -9 21 4
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có thể mua dãy $10$ cửa hàng liên tiếp bắt đầu từ cửa hàng thứ $2$ (có giá $42$) với tổng chi phí là $42 – 132 + 17 + 404 – 13 + 55 + 222 + 89 + 11 – 66 = 629$ (không vượt quá tổng vốn đầu tư $666$). Có thể mua dãy $10$ cửa hàng liên tiếp bắt đầu từ cửa hàng $6$ với chi phí nhỏ hơn $(-13 + 55 + 222 + 89 + 11 – 66 + 91 – 9 + 21 + 4 = 405)$, nhưng bạn cần đưa ra lời giải với chỉ số của cửa hàng bắt đầu là nhỏ nhất.

@@ -23,12 +23,12 @@
 - Ghi ra số đèn xanh sau lần bấm công tắc thứ $𝑛$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```

@@ -4,13 +4,13 @@
 <img src="/images/problems/1090/punch.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1047 640 1632
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

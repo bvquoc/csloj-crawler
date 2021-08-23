@@ -19,53 +19,53 @@ Bạn dự định thiết kế trạng thái “Bất khả thi” trong trò c
 - In ra số màu ít nhất cần sử dụng để tạo ra trạng thái Bất khả thi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 1
 A
 B
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 A A D
 B C D
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 B C D
 C D B
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6
 AABBC AAAADA AAACA CABAA AAAAAA BAAAA
 AACCB DAAABC AAAAD ABCBA AABAAA AACAA
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 499
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test ví dụ đầu tiên, đương nhiên xâu $“A”$ và $“B”$ phải khác màu nhau, nên ít nhất hai màu cần được sử dụng. Đây cũng là phương án tối ưu.

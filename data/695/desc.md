@@ -15,7 +15,7 @@ Nhiệm vụ của bạn là xếp được càng nhiều thanh DOM có kích th
 - Tiếp theo là $𝑟$ dòng, mỗi dòng chứa hai số nguyên $𝑢_𝑖, 𝑣_i$ là hai ô kề cạnh được đánh số là $𝑢_𝑖, 𝑣_𝑖$ sẽ được đặt thanh DOM mà giữa hai ô đó không có vách ngăn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 2 3
 1 2
@@ -23,7 +23,7 @@ Nhiệm vụ của bạn là xếp được càng nhiều thanh DOM có kích th
 3 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 5

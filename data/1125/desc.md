@@ -21,7 +21,7 @@ Gồm $T$ nhóm dòng tương ứng với $T$ bộ dữ liệu ở đầu vào:
 Nếu có nhiều dãy phép hoán đổi thì chỉ cần ghi ra dãy phép hoán đổi bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 
 2 3

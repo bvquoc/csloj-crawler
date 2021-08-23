@@ -13,24 +13,24 @@ Cho số $n$ và mảng $a$ gồm $10$ số nguyên, đánh số từ $0$ đến
 - In ra số lượng số nguyên dương thỏa mãn trong mô đun $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 0 0 0 0 0 0 0 0 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1 0 0 0 0 0 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 ```

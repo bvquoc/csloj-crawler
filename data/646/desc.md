@@ -10,13 +10,13 @@ Cho dãy số nguyên gồm $N$ phần tử $a_1, a_2, ..., a_N$. Đếm xem có
 - In ra số lượng cách chọn thỏa mãn đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 1 2 2 2 2 10 99 -9 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

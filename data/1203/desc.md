@@ -12,7 +12,7 @@ Cho một ma trận gồm $m$ hàng và $n$ cột $(2≤m,n≤10^3)$. Mỗi ph�
 - Ghi ra một số nguyên – số dòng tối đa có thể xóa được từ đầu ma trận.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 alfa
@@ -20,12 +20,12 @@ beta
 zeta
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6 
 mrvica 
@@ -33,7 +33,7 @@ mrvica
 marica 
 mateja
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

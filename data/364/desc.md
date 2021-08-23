@@ -9,18 +9,18 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là số học sinh có giải.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 98 97 100 98 98
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - $[\frac{n}{2}] = [\frac{5}{2}] = 2$. Hai học sinh được chọn có điểm từ cao xuống thấp là $100$ và $98$, tiếp theo, còn $2$ học sinh cùng đạt $98$ điểm nữa cũng được chọn. Vậy có $4$ học sinh có giải.
 
 ## Giới hạn:

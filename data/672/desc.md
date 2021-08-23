@@ -12,19 +12,19 @@ Ta định nghĩa khoảng cách **Manhattan** giữa hai điểm $(x_1, y_1)$ v
 - In ra một số nguyên duy nhất là khoảng cách Manhattan lớn nhất cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 -1 3
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 0
@@ -33,7 +33,7 @@ Ta định nghĩa khoảng cách **Manhattan** giữa hai điểm $(x_1, y_1)$ v
 0 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

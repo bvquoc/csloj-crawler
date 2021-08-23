@@ -11,7 +11,7 @@ Cho bảng số nguyên không âm kích thước $𝑚 × 𝑛$ và hai số l�
 - Gồm một số là trung vị nhỏ nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 3 3
 5  11 12 16 25
@@ -21,7 +21,7 @@ Cho bảng số nguyên không âm kích thước $𝑚 × 𝑛$ và hai số l�
 6  22  8 13 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```

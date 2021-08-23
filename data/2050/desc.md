@@ -22,7 +22,7 @@ Các ninja được đánh số từ $1$ đến $N$. Cho biết ninja $i$ có s�
 - Có $30\%$ số test mà $N ≤ 3000$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 0 3 3
@@ -32,10 +32,10 @@ Các ninja được đánh số từ $1$ đến $N$. Cho biết ninja $i$ có s�
 2 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Thuê ninja $3$ và $4$, nhờ ninja $1$ làm người quản lý. Số tiền được yêu cầu của hai ninja này là $4$, không vượt quá số tiền trong túi. Vì thuê $2$ ninja và kinh nghiệm của ninja $1$ là $3$, nên độ hài lòng là $6$. Đây là giá trị tối đa.

@@ -4,7 +4,7 @@
 <img src="/images/problems/1092/ffill.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 BWB
@@ -15,13 +15,13 @@ W 2 2
 B 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 5
 1 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 4
 WWBB
@@ -31,7 +31,7 @@ W 1 3
 W 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 7
 2 7

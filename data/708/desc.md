@@ -8,12 +8,12 @@ Cho số nguyên dương $N\ (N ≤100)$. Tính số ước và tổng các ư�
 - Dòng sau ghi tổng các ước của $N!$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3

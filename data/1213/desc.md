@@ -16,13 +16,13 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là số $𝑘$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 8
 4 7 8 6 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

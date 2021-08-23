@@ -21,18 +21,18 @@ Cho hay dãy số nguyên dương $a_1,a_2,…,a_m$ và $b_1,b_2,…,b_n$. Các 
 - $50\%$ số điểm ứng với các test khác không có ràng buộc bổ sung.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 4 9
 1 2 1 3 1 2 1
 1 2 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 1 1 1 2 1 2 3 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy con của dãy a là: $1\ 1\ 1\ 2\ 1$
 - Các phần tử còn lại tạo thành dãy con của dãy $b$ là: $1\ 2\ 3\ 1$

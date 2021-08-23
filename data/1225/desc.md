@@ -10,7 +10,7 @@ Cho một bảng kích thước $𝑚×𝑛$ được chia làm lưới ô vuôn
 - Ghi ra một số nguyên duy nhất là số hàng tối đa có thể cắt bỏ. Nếu không tồn tại phương án cắt. Ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 abba
@@ -20,7 +20,7 @@ pqrs
 aaaa
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

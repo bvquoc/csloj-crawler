@@ -14,7 +14,7 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 - Ghi trên một dòng $n$ số nguyên là kết quả của dãy $a$ theo đúng thứ tự.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2 3
@@ -22,7 +22,7 @@ Hai số trên cùng một dòng được ghi cách nhau một dấu cách.
 2 3 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 2 2
 ```

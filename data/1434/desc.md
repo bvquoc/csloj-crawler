@@ -16,7 +16,7 @@ Người chơi được máy bay lên thẳng thả xuống phòng $1$ và phả
 - Dòng thứ hai chứa $k$ số nguyên – màu của các đoạn theo trình tự đi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6
 1 2 1
@@ -27,7 +27,7 @@ Người chơi được máy bay lên thẳng thả xuống phòng $1$ và phả
 3 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1 3

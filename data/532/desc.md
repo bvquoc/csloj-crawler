@@ -16,7 +16,7 @@ Tại mỗi thời điểm, nhà thám hiểm chỉ được di chuyển sang m�
 - Nếu dòng đầu ghi từ `YES`, các dòng tiếp theo, mỗi dòng ghi chỉ số hàng và chỉ số cột của một ô trong hành trình cách nhau ít nhất một dấu cách. Các ô trên đường đi phải được liệt kê theo đúng thứ tự đi qua, bắt đầu từ ô mà nhà thám hiểm đang đứng tới ô biên kết thúc hành trình, không có ô nào được lặp lại trong hành trình. Nếu có nhiều hành trình thỏa mãn thì ghi ra một hành trình bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 10
 XXXXXXXXXX
@@ -31,7 +31,7 @@ XXXXXXXX.X
 XXXXXXXXXX
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 5 4

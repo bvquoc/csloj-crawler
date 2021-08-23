@@ -13,62 +13,62 @@ Dãy con của một xâu là xâu thu được bằng cách xóa đi (hoạc c�
 - In ra độ dài của dãy con chung dài nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 BBUS
 UII
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 19 16
 UAPJHVVJLRILRKULEAH
 FAOIPJZLLKLUEGLE
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 EFSS
 LEJ
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 10
 DGBLRRUSXU
 ODGBLDRRXU
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 14 14
 MJAORPFSGHUHDB
 MJRDFQSSGSHHDB
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

@@ -11,7 +11,7 @@ Cho đồ thị vô hướng liên thông, có trọng số $G = (V, E, w)$ có 
 ## Ví dụ:
 <center><img src="/images/problems/554/HPANTREE.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 9
 1 2 1
@@ -25,7 +25,7 @@ Cho đồ thị vô hướng liên thông, có trọng số $G = (V, E, w)$ có 
 5 6 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 2 1

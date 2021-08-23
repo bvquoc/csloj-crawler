@@ -16,14 +16,14 @@ Cho hai xâu `X` và `Y` chỉ chứa các ký tự chữ cái la tinh và chữ
 solution` nếu không tồn tại cách xóa. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 xabcd
 aefdz
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ad
 ```

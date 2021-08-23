@@ -10,7 +10,7 @@ Bila là trò chơi lăn bi trên lưới ô $M$ hàng $N$ cột. Mỗi ô trên
 - In ra một dòng gồm hai số nguyên: Số đầu tiên là quãng đường tối đa mà viên bi có thể lăn, số thứ hai là chiều cao của ô thấp nhất mà nếu xuất phát từ đó, viên bi di chuyển với quãng đường lớn nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 109 120 4 5 7
@@ -20,12 +20,12 @@ Bila là trò chơi lăn bi trên lưới ô $M$ hàng $N$ cột. Mỗi ô trên
 3 2 19 20 21
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 101
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/2039/bila.png" width=400px /></center>
 
 - Đường đi dài nhất là $101, 12, 8, 7, 5, 4, 1$.

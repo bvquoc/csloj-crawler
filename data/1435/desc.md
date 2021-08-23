@@ -15,7 +15,7 @@ Cho biết giá trị của $D$ và vị trí các giọt nước mưa. Hãy xá
 - Ghi ra một số nguyên là giá trị nhỏ nhất chiều rộng $W$ của chậu hoa hoặc in ra $-1$ nếu không thể thiết kế được một chậu nào như vậy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 6 3
@@ -24,10 +24,10 @@ Cho biết giá trị của $D$ và vị trí các giọt nước mưa. Hãy xá
 12 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chiều rộng nhỏ nhất là $2$ và đặt tại toạ độ $x$ từ $4$ đến $6$. Khi đó chậu hứng được hai giọt $\#1$ và $\#3$. Chênh lệch thời gian là $10-3=7 > 5$.

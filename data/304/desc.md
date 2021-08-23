@@ -9,24 +9,24 @@ Cho hai hình chữ nhật có các cạnh song song với các trục tọa đ�
 ## Ví dụ:
 <center><img src="/images/problems/304/tthcn3.svg" width=400px /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 -2 3 2 1
 3 4 0 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 -2 -3 0 0
 0 0 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

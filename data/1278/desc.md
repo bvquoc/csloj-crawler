@@ -10,7 +10,7 @@ Biết rằng không có thí sinh nào xuất phát cùng lúc, và cũng khôn
 - Gồm một số nguyên duy nhất là số người nhiều nhất của nhóm tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1000 4
 1 3
@@ -19,12 +19,12 @@ Biết rằng không có thí sinh nào xuất phát cùng lúc, và cũng khôn
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1000 4
 0 1
@@ -33,7 +33,7 @@ Biết rằng không có thí sinh nào xuất phát cùng lúc, và cũng khôn
 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

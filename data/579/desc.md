@@ -9,7 +9,7 @@ Cho đồ thị gồm $N$ nút được đánh số từ $1$ đến $N$ và $M$ 
 - Ghi ra số $S$ là số bước đẩy ít nhất ta cần phải thực hiện.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 3
 2 3 4
@@ -18,7 +18,7 @@ Cho đồ thị gồm $N$ nút được đánh số từ $1$ đến $N$ và $M$ 
 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

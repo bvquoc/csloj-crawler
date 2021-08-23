@@ -12,7 +12,7 @@ Bạn hãy cho biết buổi học có bị hủy hay không?
 - Ghi trên $t$ dòng, dòng $i$ ghi câu trả lời cho câu hỏi $i$, ghi `YES` nếu buổi học bị hủy, ghi `NO` nếu không.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4 3
@@ -20,7 +20,7 @@ Bạn hãy cho biết buổi học có bị hủy hay không?
 4 2
 0 -1 2 1
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO

@@ -7,12 +7,12 @@ Cho xâu ký tự $s$ chỉ gồm các ký tự Latinh in hoa và in thường (
 - Xâu ký tự đối xứng sau khi đã thêm ít nhất các ký tự vào cuối xâu $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 xyz
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 xyzyx
 ```

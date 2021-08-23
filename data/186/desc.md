@@ -7,22 +7,22 @@ Nhập $n$. Cho biết $n$ có phải số chính phương không?
 - Ghi `YES` nếu $n$ là số chính phương, ngược lại ghi `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 36
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

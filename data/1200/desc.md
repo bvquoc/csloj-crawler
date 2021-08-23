@@ -18,7 +18,7 @@ Sau khi liếc qua hai dãy, Cuội cho phép Bờm thực hiện $Q$ thao tác 
 - Ghi ra $Q$ dòng, dòng thứ $i$ ghi tương ứng câu trả lời sau thao tác thứ $i$. Ghi ra ký tự `Y` trong trường hợp dãy của Bờm lớn hơn, ghi ra `N` trong trường hợp ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 4 6 5 2 3
@@ -28,7 +28,7 @@ Sau khi liếc qua hai dãy, Cuội cho phép Bờm thực hiện $Q$ thao tác 
 3 1
 2 8
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 N
 Y

@@ -21,7 +21,7 @@ Cho $S$ là tập các điểm có tọa độ nguyên trên mặt phẳng. Có 
 - Đối với thao tác $3$, hãy đưa ra trên một dòng một số nguyên hoặc số thực có một chữ số thập phân (nếu kết quả không là số nguyên). Nếu không có tam giác vuông nào thỏa mảng các tính chất như đã nêu thì xuất ra kết quả là $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 10
 1 1
@@ -43,7 +43,7 @@ Cho $S$ là tập các điểm có tọa độ nguyên trên mặt phẳng. Có 
 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2
@@ -54,7 +54,7 @@ Cho $S$ là tập các điểm có tọa độ nguyên trên mặt phẳng. Có 
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 ***<center><img src="/images/problems/1377/TRIANGLE.png" width="600px" /> <br>Hình minh họa</center>***
 
 Kết quả các thao tác $3$ như sau:

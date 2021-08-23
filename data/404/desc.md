@@ -14,7 +14,7 @@ Bạn được cho một danh sách các mật khẩu, hãy viết chương trì
 - Ghi $n$ dòng, dòng thứ i là `YES` nếu mật khẩu thứ $i$ là an toàn và là `NO` nếu mật khẩu thứ $i$ không an toàn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 Password
@@ -23,7 +23,7 @@ A1234
 Abcd123456
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 NO
@@ -31,5 +31,5 @@ NO
 YES
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $1 ≤ n ≤ 100$.

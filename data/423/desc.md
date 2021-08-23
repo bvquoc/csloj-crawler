@@ -8,7 +8,7 @@ Trong cuộc thi đường lên đỉnh Olympia do nhà trường tổ chức, b
 - Một số nguyên duy nhất là tổng giá trị các phần quà lớn nhất mà bạn Vận có thể nhận được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 1 9 1 1
@@ -17,11 +17,11 @@ Trong cuộc thi đường lên đỉnh Olympia do nhà trường tổ chức, b
 1 9 9 14
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 86
 ```
-#### Giải thích:
+### Giải thích:
 - Cách chọn hình vuông $3\times 3$ có đỉnh trái trên là ô $(2, 2)$, đỉnh phải dưới là ô $(4, 4)$, tổng giá trị là $86$.
 
 ## Giới hạn:

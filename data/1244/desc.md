@@ -11,13 +11,13 @@ $$\sum_{p=1}^{i}A_p=\sum_{p=j}^{N}A_p\text{ với }1\le i < j \le N$$
 - Gồm một số là số cặp tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 
 1 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

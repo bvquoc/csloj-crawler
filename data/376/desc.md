@@ -11,7 +11,7 @@ Là một học sinh giỏi Tin, em hãy giúp Nam trả lời câu hỏi trên 
 - Một số nguyên dương duy nhất là số câu đối khác nhau có thể có.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abab
 ```
@@ -21,7 +21,7 @@ abab
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - có tất cả $5$ câu đối khác nhau là “abab”, “**ba**ab”, “a**ab**b”, “**baba**”, “ab**ba**” (đoạn chữ đậm chính là đoạn được đảo ngược).
 
 ## Giới hạn:

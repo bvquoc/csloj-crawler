@@ -9,22 +9,22 @@ Một ngày nọ, Tí đến nhà sách trung tâm để mua sắm sách vở v�
 - In ra một số nguyên duy nhất là số tiền ít nhất Tí cần mang theo.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 0 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

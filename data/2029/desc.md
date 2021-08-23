@@ -15,7 +15,7 @@ Sau khi nhấn nút, mỗi trống sẽ độc lập quay. Sau khi các trống 
 - In ra số lượng dòng tối đa có ba biểu tượng giống nhau.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 5 4 3 2
@@ -23,10 +23,10 @@ Sau khi nhấn nút, mỗi trống sẽ độc lập quay. Sau khi các trống 
 2 1 5 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giái thích:
+### Giái thích:
 - Trống $1$ quay lên $3$ vị trí, trống $2$ quay lên $1$ vị trí, trống $3$ quay xuống $1$ vị trí.

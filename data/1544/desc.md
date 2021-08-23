@@ -16,7 +16,7 @@ Tên các bài hát chỉ chứa các chữ cái la-tin thường, tổng độ 
 - Ghi ra tên của người thắng cuộc (Alice hoặc Bob).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 aaa
@@ -27,12 +27,12 @@ aba
 bbb
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Alice
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 acg
@@ -42,12 +42,12 @@ adi
 bfj
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Bob
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ja
@@ -61,7 +61,7 @@ te
 mali
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Alice
 ```

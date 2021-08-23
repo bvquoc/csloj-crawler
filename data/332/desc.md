@@ -8,14 +8,14 @@ Cho hai số nguyên dương $L ≤ R$. Hãy đếm xem trong đoạn $[L, R]$ c
 - Với mỗi cặp số $L$ và $R$, ghi ra trên một dòng số số nguyên tố trong đoạn $[L, R]$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 3
 10 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2

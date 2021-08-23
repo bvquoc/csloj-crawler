@@ -20,7 +20,7 @@ Viết chương trình xác định cảm giác hấp dẫn của du khác trên
 - Với các truy vấn $2\ i\ j$ in ra kết quả tìm được trên một dòng (theo thứ tự trong dữ liệu vào).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2 4 8 16
@@ -35,7 +35,7 @@ Viết chương trình xác định cảm giác hấp dẫn của du khác trên
 2 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 20

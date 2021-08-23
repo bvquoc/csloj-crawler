@@ -9,7 +9,7 @@ CK-chan có một cây gồm $n$ đỉnh, mỗi đỉnh có màu trắng hoặc 
 - Số nguyên duy nhất là kết quả của bài toán (theo modul $10^9+7$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 0
@@ -19,7 +19,7 @@ CK-chan có một cây gồm $n$ đỉnh, mỗi đỉnh có màu trắng hoặc 
 0 0 0 1 0 1 1 0 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 27
 ```

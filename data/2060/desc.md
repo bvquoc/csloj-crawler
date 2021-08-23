@@ -12,12 +12,12 @@ Bằng các công cụ đồ họa, Rôn vẽ một đường tròn với đư�
 - Ghi ra một số nguyên duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

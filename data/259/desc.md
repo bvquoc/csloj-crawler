@@ -11,7 +11,7 @@ Có $N$ chú sóc đang đứng chờ dưới gốc của $M$ cây hạt dẻ. C
 - Ghi ra trên một dòng duy nhất một số nguyên là thời gian sớm nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 
 3 2 5
@@ -19,7 +19,7 @@ Có $N$ chú sóc đang đứng chờ dưới gốc của $M$ cây hạt dẻ. C
 1 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

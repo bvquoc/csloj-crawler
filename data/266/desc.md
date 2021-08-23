@@ -10,12 +10,12 @@ Trước mặt Mario là một dãy $10$ cây nấm xếp thành một hàng dà
 - Ghi ra một số nguyên là tổng giá trị nấm Mario hái được (gần $100$ nhất).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3 5 8 13 21 34 55 79
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 110
 ```

@@ -13,7 +13,7 @@ Trên trục tọa độ Ox, có hai chú mèo $A$ và mèo $B$. Mèo $A$ ở đ
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
@@ -21,14 +21,14 @@ Trên trục tọa độ Ox, có hai chú mèo $A$ và mèo $B$. Mèo $A$ ở đ
 2 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Cat B
 Mouse C
 Cat A
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1:$
 <center><img src="/images/problems/201/CATS1.png" width="350px" /></center>
 

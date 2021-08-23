@@ -9,12 +9,12 @@ Cho một kí tự in thường (`a` đến `z`), bạn hãy in ra kí tự đ�
 - In ra một kí tự là đáp án.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 d
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 e
 ```

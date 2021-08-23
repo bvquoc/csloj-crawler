@@ -10,13 +10,13 @@ Cho biết hai xâu ký tự $A$ và $B$ chỉ gồm các chữ cái latin và c
 - Mộ dòng duy nhất chứa xâu $C$ tìm được, nếu có nhiều xâu con chung có cùng độ dài (dài nhất) thì ghi ra một xâu bất kỳ thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abc1def2ghi3
 abcdefghi123
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 abcdefghi3
 ```

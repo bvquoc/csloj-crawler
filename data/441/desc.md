@@ -10,12 +10,12 @@ Một xâu được gọi là đối xứng (palindrome) nếu như khi đọc x
 - Mộ dòng duy nhất là xâu con đối xứng dài nhất của $S$. Nếu có nhiều kết quả, chỉ cần in ra một kết quả bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 lmevxeyzl
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 level
 ```

@@ -12,13 +12,13 @@ Mỗi lần ta có thể lấy mỗi thanh gỗ cắt thành hai đoạn với t
 - Ghi ra một số nguyên duy nhất là chi phí của cách cưa tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 8
 1 1 1 1 1 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```

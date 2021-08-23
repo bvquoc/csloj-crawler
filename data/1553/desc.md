@@ -1,6 +1,6 @@
 <center><img src="/images/problems/1553/DHAKA.svg" width="100%" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6 2 2
 0
@@ -17,12 +17,12 @@
 3 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6 2 2
 0
@@ -39,12 +39,12 @@
 3 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6 2 2
 0
@@ -61,7 +61,7 @@
 3 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

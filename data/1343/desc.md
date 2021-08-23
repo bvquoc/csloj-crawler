@@ -18,7 +18,7 @@ Hãy tái cấu trúc lại công ty sao cho tổng mức lương phải trả l
 - Ghi ra một số nguyên là tổng số lương tối thiểu phải trả sau khi tái cấu trúc công ty.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 100
 1 4
@@ -27,7 +27,7 @@ Hãy tái cấu trúc lại công ty sao cho tổng mức lương phải trả l
 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 800
 ```

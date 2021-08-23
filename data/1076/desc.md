@@ -16,7 +16,7 @@ Trong tòa biệt thự của giáo sư $X$ có nhiều phòng nằm dọc theo 
 - Ghi ra một dòng duy nhất mô tả màu của các phòng được sơn theo thứ tự lần lượt phòng $1, 2, ...., K$ với $K$ là số hiệu lớn nhất của phòng được sơn lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 1 c
@@ -31,12 +31,12 @@ Trong tòa biệt thự của giáo sư $X$ có nhiều phòng nằm dọc theo 
 2 b d
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 cddcdcad
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trước tiên giáo sư sơn $5$ phòng đầu với các màu sơn $c, b, a, c, d$
 - Sau đó các  phòng màu $a$ sơn lại thành $b$, màu của các phòng là $c, b, b, c, d$
 - Tiếp theo $3$ phòng tiếp được sơn và các màu là $c, b, b, c, d, c, a, b$

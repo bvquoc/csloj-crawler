@@ -9,12 +9,12 @@ Cho xâu $S$ độ dài $N ≤ 10^5$. Tính và đưa ra dãy $t_1, t_2, ..., t_
 - Một dòng duy nhất in ra các giá trị $t_1, t_2, ..., t_N$ các nhau bởi một dấu cách trống.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abababa
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 3 3 2 2 1 1
 ```

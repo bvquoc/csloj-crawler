@@ -4,7 +4,7 @@
 <img src="/images/problems/1056/rselect.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 0 3 6 3 0
@@ -14,7 +14,7 @@
 0 3 6 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16
 ```

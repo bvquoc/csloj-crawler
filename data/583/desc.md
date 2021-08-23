@@ -14,7 +14,7 @@ Tí có một bộ đồ chơi gồm $N$ khối hộp được đánh số từ 
 - Ghi ra một số nguyên duy nhất là chiều cao lớn nhất của tháp hộp xếp được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3 2
@@ -22,12 +22,12 @@ Tí có một bộ đồ chơi gồm $N$ khối hộp được đánh số từ 
 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Xếp khối hộp thứ nhất chồng lên khối hộp thứ ba ta được tháp hộp có chiều cao bằng $2$.
 
 ## Giới hạn:

@@ -14,13 +14,13 @@ Tuấn Anh tạo ra một dãy số gồm $N$ số nguyên dương $(1≤N≤10^
 - Gồm $N$ số nguyên liền nhau, số thứ $i$ có giá trị là $1, 2$ hoặc $3$, có nghĩa là phần tử ở vị trí $i$ thuộc vào nhóm tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 3 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3223
 ```

@@ -12,7 +12,7 @@ Hãy tìm cách giúp nhà Vua xây dựng được hệ thống đường cao t
 - Một số nguyên duy nhất - Chi phí nhỏ nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4
@@ -20,7 +20,7 @@ Hãy tìm cách giúp nhà Vua xây dựng được hệ thống đường cao t
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

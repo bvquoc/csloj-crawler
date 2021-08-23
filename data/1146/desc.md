@@ -13,7 +13,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi số tìm được thỏa mãn điều kiện đầu bài hoặc ký tự `x` nếu không tìm được. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3  4
@@ -21,12 +21,12 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 4  3  2  -1 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5  6  7
@@ -35,7 +35,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 11 4  7  8  9  0  3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

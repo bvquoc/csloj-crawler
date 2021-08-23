@@ -27,7 +27,7 @@ $$y_i=({\tilde y_i} - 1+t×z_{i-1})\text{ mod }\frac{(n+1)(n+2)}{2}+1,$$
 - Ghi ra $q$ dòng, dòng thứ $i$ là đỉnh có nhãn lớn nhất là cha chung của $x_i$ và $y_i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5 0
 1 2 6
@@ -38,7 +38,7 @@ $$y_i=({\tilde y_i} - 1+t×z_{i-1})\text{ mod }\frac{(n+1)(n+2)}{2}+1,$$
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 5
@@ -47,7 +47,7 @@ $$y_i=({\tilde y_i} - 1+t×z_{i-1})\text{ mod }\frac{(n+1)(n+2)}{2}+1,$$
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5 1
 1 2 6
@@ -58,7 +58,7 @@ $$y_i=({\tilde y_i} - 1+t×z_{i-1})\text{ mod }\frac{(n+1)(n+2)}{2}+1,$$
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 6
@@ -67,7 +67,7 @@ $$y_i=({\tilde y_i} - 1+t×z_{i-1})\text{ mod }\frac{(n+1)(n+2)}{2}+1,$$
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 Trong cả hai test ví dụ thì cây được cho bởi hình trên. Đối với test ví dụ thứ $2$ ta có:
 - $x_1=7,y_1=10$, cha chung là $1$;
 - $x_2=9,y_2=6$, cha chung là $6$;

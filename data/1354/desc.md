@@ -10,31 +10,31 @@ BT bắt đầu học đánh đàn piano. Đàn piano của anh ta có $n$ phím
 - Một số nguyên duy nhất là kết quả tìm được. Vì con số này có thể rất lớn nên bạn chỉ cần in ra phần dư của nó khi chia cho $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 2 4 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 39
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1
 1 0 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 5 2
 3 3 4 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 31
 ```

@@ -11,7 +11,7 @@ Hai số liên tiếp trên một dòng cách nhau một khoảng trắng.
 - In ra trên một dòng $q$ số nguyên ứng với $q$ truy vấn. Hai số liên tiếp cách nhau một khoảng trắng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 3 6 4 8
@@ -20,7 +20,7 @@ Hai số liên tiếp trên một dòng cách nhau một khoảng trắng.
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 1 2 
 ```

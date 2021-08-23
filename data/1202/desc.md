@@ -12,16 +12,16 @@ Hai cây khác nhau nếu khác nhau về cấu trúc, giá trị hoặc thứ t
 
 ## Dữ liệu ra:
 - Ghi ra một số nguyên duy nhất là số lượng cây tìm được. Đưa ra theo mudule $1000000007$.
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 3 3 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1202/ctree.png" width="600px" /></center>

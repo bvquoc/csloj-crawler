@@ -4,14 +4,14 @@
 <img src="/images/problems/1131/lcs.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu:
+### Dữ liệu:
 ```
 9 9
 1 2 7 3 4 8 5 6 9 
 1 2 3 4 5 6 7 8 9
 ```
 
-#### Kết quả:
+### Kết quả:
 ```
 7 
 1 2 3 4 5 6 9

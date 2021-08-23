@@ -17,7 +17,7 @@ Các số trên cùng một dòng được ghi cách nhau ít nhất một dấu
 - Ghi ra $q$ dòng, mỗi dòng chứa một số là câu trả lời cho một truy vấn theo thứ tự xuất hiện trong dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 2
 2 2
@@ -28,7 +28,7 @@ Các số trên cùng một dòng được ghi cách nhau ít nhất một dấu
 1 2 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 9

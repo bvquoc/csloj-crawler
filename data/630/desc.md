@@ -18,7 +18,7 @@ Cho xâu $s$ chỉ gồm các kí tự in thường và số nguyên dương $k$
 - Với mỗi bộ dữ liệu vào, nếu xâu t thu được là xâu đối xứng thì in ra `YES`. Ngược lại, in ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 aba
@@ -36,7 +36,7 @@ NO
 NO
 ```
 
-#### Giải thích
+### Giải thích
 - Với bộ dữ liệu vào thứ nhất, ta có $t =$ `abaabaaba` là một xâu đối xứng.
 - Với bộ dữ liệu vào thứ hai, ta có $t =$ `ccddccdd` không phải là một xâu đối xứng.
 - Với bộ dữ liệu vào thứ ba, ta có $t =$ `freecontest` không phải là một xâu đối xứng.

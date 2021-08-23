@@ -9,18 +9,18 @@ Vua Hùng rất muốn biết độ đoàn kết của đất nước Văn Lang 
 - Ghi ra một số nguyên duy nhất là độ đoàn kết của đất nước Văn Lang.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta có đáp số là 1 ^ 2 + 2 ^ 3 + 3 ^ 1 = 3 + 1 + 2 = 6.
 
 ## Giới hạn:

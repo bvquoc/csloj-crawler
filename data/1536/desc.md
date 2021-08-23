@@ -24,7 +24,7 @@ Với $t = 1, k < 10^{100}$. Trường hợp còn lại, $k < 10^9$. Các test c
 - Với truy vấn loại $2$ hoặc $3$, in ra kết quả theo modulo $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 20598
@@ -32,7 +32,7 @@ Với $t = 1, k < 10^{100}$. Trường hợp còn lại, $k < 10^9$. Các test c
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ggfgfgggffff

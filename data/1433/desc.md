@@ -16,7 +16,7 @@ Mỗi tuyến đường có thể thuộc một hoặc nhiều đường đi ng�
 - Đưa ra $m$ dòng, mỗi dòng chứa một số nguyên, dòng thứ $i$ xác định kết quả tìm được với tuyến đường $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 1 2 5
@@ -25,7 +25,7 @@ Mỗi tuyến đường có thể thuộc một hoặc nhiều đường đi ng�
 1 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3

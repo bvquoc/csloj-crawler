@@ -12,7 +12,7 @@ $N$ con bò của John đứng ăn cỏ trên một đường thẳng, vị trí
 - Ghi ra một số nguyên duy nhất là kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 25 7
@@ -23,7 +23,7 @@ $N$ con bò của John đứng ăn cỏ trên một đường thẳng, vị trí
 30 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

@@ -6,7 +6,7 @@
 **<center>Chú ý: Điểm số được quy đổi sang thang điểm 100 theo đúng tỉ lệ</center>**
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8 -1
 1 2 5
@@ -19,12 +19,12 @@
 3 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 2
 1 2 4
@@ -34,12 +34,12 @@
 3 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 0
 1 2 3
@@ -48,11 +48,11 @@
 3 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ đầu tiên, đường đi tốt nhất là $1 → 2 → 4 → 6$
 - Trong ví dụ thứ hai, có đường đi từ $1$ tới $5$ nhưng không có đường đi nào thoả mãn.

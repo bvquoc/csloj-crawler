@@ -19,7 +19,7 @@ X nhờ bạn xác định tổng độ dài quãng đường chạy lớn nhấ
 - Một số nguyên là tổng độ dài quãng đường X chạy được lớn nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 5
@@ -29,10 +29,10 @@ X nhờ bạn xác định tổng độ dài quãng đường chạy lớn nhấ
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - X chạy trong phút thứ $1$, nghỉ trong phút thứ $2$, chạy trong phút thứ $3$ rồi nghỉ trong hai phút cuối.

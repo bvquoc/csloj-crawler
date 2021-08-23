@@ -9,32 +9,32 @@ Cho hai số nguyên $a$ và $b$. Hãy cho biết tích của $a$ và $b$ là s�
 - Nếu tích của $a$ và $b$ dương, hãy in ra $1$. Nếu tích của $a$ và $b$ âm, hãy in ra $-1$. Ngược lại, hãy in ra $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 -4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

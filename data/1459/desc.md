@@ -10,20 +10,20 @@ Ngân hàng câu hỏi của trường SuperKids có $10^9$ bài toán đánh s�
 - Ứng với mỗi test, ghi ra một số nguyên duy nhất trên một dòng là số dư của kết quả tìm được khi chia cho $1000000007\ (10^9 + 7)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 10
 2 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $1$:
     - $1 + 2 + 7 = 10$;
     - $1 + 3 + 6 = 10$;

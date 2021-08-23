@@ -10,7 +10,7 @@ Có $N$ yêu cầu sử dụng hội trường, mỗi một yêu cầu sử dụ
 - Một số nguyên duy nhất là tổng thời gian sử dụng hội trường tối đa có thể được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 1 2
@@ -27,7 +27,7 @@ Có $N$ yêu cầu sử dụng hội trường, mỗi một yêu cầu sử dụ
 18 20
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16
 ```

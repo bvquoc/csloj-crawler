@@ -12,24 +12,24 @@ Bạn hãy giúp HT xác định chính xác có bao nhiêu oto có thể vào t
 - Ghi ra một số duy nhất là số lượng xe có biển số là nguyên tố?
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3000 0013 8009 7100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 0870 4412 0981 4989 4142
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

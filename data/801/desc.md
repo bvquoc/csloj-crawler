@@ -17,7 +17,7 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Ghi ra $T$ dòng, mỗi dòng là số lượng số **DMT** trong đoạn  $\left[a,b\right]$ tương ứng với bộ dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 10

@@ -18,7 +18,7 @@ Hãy cho biết xâu nén của $S$.
 - In ra xâu nén của xâu $S$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcabc
 ```
@@ -28,7 +28,7 @@ abcabc
 2abc
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 aaaa
 ```
@@ -38,7 +38,7 @@ aaaa
 4a
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 freecontest
 ```

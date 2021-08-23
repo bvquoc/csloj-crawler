@@ -20,7 +20,7 @@ Bạn được ngài thị trưởng tin tưởng giao cho danh sách $W$ tuần
 - Gồm $W$ dòng, mỗi dòng là số lượng nhiệm vụ cần giao trong tuần đó.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 2 1 3 
@@ -33,7 +33,7 @@ Bạn được ngài thị trưởng tin tưởng giao cho danh sách $W$ tuần
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 5

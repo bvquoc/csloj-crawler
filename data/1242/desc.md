@@ -18,7 +18,7 @@ Quân là một hành khách muốn đi từ thành phố $1$ đến thành ph�
 - Ghi ra duy nhất một số là chi phí Quân phải trả để đi từ thành phố $1$ đến thành phố $N$. Dữ liệu đảm bảo luôn có cách đi từ thành phố $1$ đến thành phố $N$.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6
 400 2
@@ -35,10 +35,10 @@ Quân là một hành khách muốn đi từ thành phố $1$ đến thành ph�
 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 800
 ```
 
-#### Giải thích:
+### Giải thích:
 - Quân sử dụng lần lượt hệ thống xe của thành phố $1$ rồi thành phố $5$.

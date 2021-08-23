@@ -20,7 +20,7 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Ghi ra một số nguyên là chi phí thấp nhất mà công ty $\text{XYZ}$ phải trả.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 2
@@ -30,12 +30,12 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 ```
 
-#### Giải thích:
+### Giải thích:
 - Nâng cột $1$ thêm $1$, nâng cột $4$ thêm $2$. Khi đó chiều cao các cột lần lượt là: $3,3,5,3,4$. Tổng chi phí là: $2×(0+2+2+1)+1^2+2^2=15$.
 
 ## Giới hạn:

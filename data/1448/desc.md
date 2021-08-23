@@ -13,14 +13,14 @@ Hãy giúp Bill xác định độ lệch chung nhỏ nhất có thể được.
 - Đưa ra một số nguyên – độ lệch chung nhỏ nhất tìm được. Nếu không tồn tại cách phân chia phù hợp thì đưa ra số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2 3
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

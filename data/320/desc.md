@@ -8,7 +8,7 @@ Liệt kê tất cả các ước nguyên dương của số nguyên dương $n$
 - Với mỗi số nguyên dương $n$, ghi ra trên một dòng tất cả các ước nguyên dương của $n$, các số được ghi theo thứ tự tăng dần, mỗi số cách nhau bởi một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -16,7 +16,7 @@ Liệt kê tất cả các ước nguyên dương của số nguyên dương $n$
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3
 1 2 4 8

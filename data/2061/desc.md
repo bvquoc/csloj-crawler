@@ -16,13 +16,13 @@ xa: chỉ được đi ngang qua các thành phố đã giao hàng. Xe của cô
 - Ghi ra một số nguyên duy nhất là chi phí giao hàng nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 1 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

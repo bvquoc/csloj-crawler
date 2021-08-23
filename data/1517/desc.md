@@ -35,7 +35,7 @@ $$[a,e]+[b,e]+[c,e]+[d,e]+[a,f]+[f,g]+[b,h]$$
 - $20\%$ số lượng test còn lại ứng với $20\%$ số điểm của bài thỏa mãn điều kiện: $3 \le N \le 100$, và bốn đỉnh $a, b, c, d$ tạo thành một hình vuông.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 4 0
@@ -45,12 +45,12 @@ $$[a,e]+[b,e]+[c,e]+[d,e]+[a,f]+[f,g]+[b,h]$$
 -1 0 5 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14.00
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1517/efill2.png" width=250px></center>
 
 Trong ví dụ trên, các đoạn dây điện nối dọc theo các cạnh của đa giác bao gồm: $a$ nối

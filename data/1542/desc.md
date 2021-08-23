@@ -14,7 +14,7 @@ Sau mỗi thao tác, hãy tìm số cặp nghịch thế (số cặp chỉ số 
 - Sau mỗi thao tác, hãy in ra trên một dòng riêng biệt số cặp nghịch thế của $p$ hiện tại theo modulo $2$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 S 1 1 1
@@ -22,14 +22,14 @@ R 0 1
 R 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 R 0 1
@@ -37,7 +37,7 @@ S 0 1 0
 R 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

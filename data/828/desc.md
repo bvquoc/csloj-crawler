@@ -13,16 +13,16 @@ Cho dãy gồm $L$ số $C[1..L]$, cần chia dãy này thành $G$ đoạn liên
 - $1 ≤  L ≤ 8000, 1 ≤ G  ≤ 800; 1 ≤ C_i ≤ 10^9$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 11 11 11 24 26 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 299
 ```
 
-#### Giải thích:
+### Giải thích:
 - Cách tối ưu là $C[]=(11,11,11), (24,26), (100)$, chi phí là $11\times 3 + 11\times 3 + 11\times 3 + 24\times 2 + 26\times 2 + 100\times 1=299$.

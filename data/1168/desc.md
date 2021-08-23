@@ -31,43 +31,43 @@ Nếu chọn lựa chọn thứ ba, thầy giáo phải trả cho công ty $𝑥
 - **Subtask** $\#4$ $(35\% \text{ số điểm}):$ Không có ràng buộc gì thêm. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 3 1 1
 3 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 1000000000 1
 18 54 30 42 24
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 1 5
 7 45 90 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ đầu tiên, thầy giáo có thể tăng thêm một cây ở loại $1$ và huỷ bỏ toàn bộ số cây ở loại $2$. Khi đó thầy có $4$ cây mỗi loại $1$ và $3$, chia đều được vào $4$ khu vườn.
 - Trong ví dụ thứ hai, số cây hiện tại đã đủ chia vào $6$ khu vườn, nên thầy không cần thay đổi gì. 
 - Trong ví dụ thứ ba, phương án tối ưu là huỷ bỏ các cây thuộc loại $2, 3$ và $4$ và giữ nguyên số cây loại $1$. Lưu ý rằng thầy giáo không thể thay đổi đơn hàng sao cho số cây chia đều vào $9$ khu vườn; bởi số cây loại $1$ và $4$ không thể thay đổi quá $1$; và nếu loại bỏ cả hai loại cây $1$ và $4$, tất cả các loại $2$ và $3$ cũng bị huỷ bỏ theo. Nhưng thầy cần giữ lại ít nhất một loại cây.

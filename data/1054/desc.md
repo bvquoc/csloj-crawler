@@ -22,7 +22,7 @@ Các số trên một dòng của được ghi cách nhau bởi dấu cách
 - Ghi ra $n$ dòng, dòng thứ $i$ ghi một số nguyên duy nhất là giá đồ trang sức đắt nhất bán tại vị trí $i$, nếu tại ví trí $i$ không có đồ trang sức nào được bán thì dòng $i$ ghi số $0$
 
 ## Ví dụ:
-#### Dữ liệu vào: 
+### Dữ liệu vào: 
 ```
 6 4 
 4 4 3 1 
@@ -31,7 +31,7 @@ Các số trên một dòng của được ghi cách nhau bởi dấu cách
 6 6 1 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 6

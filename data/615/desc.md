@@ -10,7 +10,7 @@ Cho hai số nguyên dương $A$ và $B$. Tìm chữ số tận cùng của $A^B
 - In ra chữ số tận cùng của $A^B$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 3

@@ -11,7 +11,7 @@ Cho ba số nguyên $a, b$ và $x$. Hãy tìm số nguyên $c$ sao cho trung bì
 - In ra số nguyên $c$ cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3 4
 ```
@@ -21,7 +21,7 @@ Cho ba số nguyên $a, b$ và $x$. Hãy tìm số nguyên $c$ sao cho trung bì
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 1
 ```
@@ -31,6 +31,6 @@ Cho ba số nguyên $a, b$ và $x$. Hãy tìm số nguyên $c$ sao cho trung bì
 -1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ví dụ thứ nhất, với $c = 7$ thì trung bình cộng của ba số $a, b, c$ là: $\frac{2+3+7}{3} = 4$
 - Ví dụ thứ hai, với $c = −1$ thì trung bình cộng của ba số $a, b, c$ là: $\frac{2+2+(−1)}{3} = 1$

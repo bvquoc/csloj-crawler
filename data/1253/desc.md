@@ -14,7 +14,7 @@ Viết chương trình xác định với mỗi truy vấn dạng $L,R$ hãy đ�
 - Gồm $m$ dòng, mỗi dòng ghi kết quả một truy vấn theo thứ tự xuất hiện trong dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
@@ -24,7 +24,7 @@ Viết chương trình xác định với mỗi truy vấn dạng $L,R$ hãy đ�
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 5

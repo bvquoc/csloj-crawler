@@ -12,18 +12,18 @@ Trên cung trăng không có thước đo các loại nên Cuội **chỉ có th
 Một số nguyên dương duy nhất là diện tích của tấm biển lớn nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 5 2 4 3 3 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Phương án tối ưu được mô tả trong hình sau (ô màu xanh là biển làm được):
 <center><img src="/images/problems/502/SALEMON2.jpg" width="250px" /></center>
 

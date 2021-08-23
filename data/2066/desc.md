@@ -13,7 +13,7 @@ Từ một tấm giấy ca-ro chữ nhật gồm $m$ dòng và $n$ cột, ngư�
 - Ghi ra  số lượng mảnh bị căt rời.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 8
 #.##.#.#
@@ -22,7 +22,7 @@ Từ một tấm giấy ca-ro chữ nhật gồm $m$ dòng và $n$ cột, ngư�
 ##.##.##
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

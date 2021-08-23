@@ -8,14 +8,14 @@ Cho xâu ký tự $s$ chỉ gồm các ký tự chữ cái latinh và dấu các
 - Gồm $T$ dòng, mỗi dòng là một xâu đã chuẩn hóa.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 abc   xyz ab
   abc   def   ghi
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 abc xyz ab
 abc def ghi

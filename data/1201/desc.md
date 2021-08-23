@@ -12,7 +12,7 @@ Tại mỗi thời điểm, đôi khi ban giám đốc muốn biết hai ngườ
 - Với mỗi truy vấn $?$ đưa ra câu trả lời `yes/no` tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 8
 1 2 6
@@ -25,7 +25,7 @@ Tại mỗi thời điểm, đôi khi ban giám đốc muốn biết hai ngườ
 ? 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 no
 yes

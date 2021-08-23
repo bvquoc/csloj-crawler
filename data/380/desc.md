@@ -11,19 +11,19 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là điểm số lớn nhất Nghé có thể đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 10
 4 5 7
 3 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - chọn cày thửa ruộng số $3$ thì sẽ cày xong và đạt số điểm là $8$ (Nếu chọn cày thửa ruộng số $1$ và $2$ thì cũng cày xong nhưng chỉ đạt $7$ điểm).
 
 ## Giới hạn:

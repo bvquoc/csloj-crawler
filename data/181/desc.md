@@ -9,12 +9,12 @@ Cho dãy số $T_n=n^2-(n-1)^2$.
 - Một số nguyên duy nhất là giá trị $S$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

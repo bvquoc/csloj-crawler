@@ -18,40 +18,40 @@ Bạn được cung cấp một lịch sử gồm $𝑚$ bài hát đã đ
 - Ghi ra một số duy nhất là số thời điểm khác nhau cố thể là thời điểm shuffle danh sách này.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6
 6 5 4 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 3 3 1 1 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 10
 3 4 4 1 3 2 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test đầu: có $6$ vị trí cố thể là thời điểm bắt đầu:
     - $(6\ 5\ 4\ 3\ 2\ 1)$,
     - $(..6) (5\ 4\ 3\ 2\ 1..)$,

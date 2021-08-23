@@ -4,7 +4,7 @@
 <img src="/images/problems/1129/resort.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu:
+### Dữ liệu:
 ```
 4 4 3 3
 1
@@ -14,7 +14,7 @@
 1 1 2 
 ```
 
-#### Kết quả:
+### Kết quả:
 ```
 2
 ```

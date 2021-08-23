@@ -17,19 +17,19 @@ Cuộn băng dính mà Bob có được có chiều dài vô hạn, cố bề r�
 - Ghi ra một số nguyên duy nhất là số đoạn băng dính ít nhất cần cắt ra để dán hết hộp Chocolate của Bob.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 #.#
 ###
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 .#.
@@ -38,12 +38,12 @@ Cuộn băng dính mà Bob có được có chiều dài vô hạn, cố bề r�
 .#.
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 ####
@@ -52,7 +52,7 @@ Cuộn băng dính mà Bob có được có chiều dài vô hạn, cố bề r�
 ####
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

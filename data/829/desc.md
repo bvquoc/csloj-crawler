@@ -15,24 +15,24 @@ Với $G$ nhà thầu xây dựng $(0 < G)$ bạn hãy phân chia để $G$ nhà
 - Ghi ra giá trị xây dựng bé nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1 1
 1 2 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1 2
 1 2 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

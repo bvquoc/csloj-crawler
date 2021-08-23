@@ -7,22 +7,22 @@ Cho hai số nguyên dương $M, N$. Hãy cho biết để biểu diễn các s�
 - Một số nguyên duy nhất là số chữ số `2` được dùng để biểu diễn các số trong phạm vi từ $M$ đến $N$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 20
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 20 30
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```

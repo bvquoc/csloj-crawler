@@ -12,7 +12,7 @@ Hãy chọn ra từ tập này nhiều đoạn thẳng nhất sao cho không có
 - Ghi ra số nguyên là số lượng nhiều nhất các đoạn thẳng có thể chọn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 5 10 5
@@ -20,7 +20,7 @@ Hãy chọn ra từ tập này nhiều đoạn thẳng nhất sao cho không có
 8 3 8 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

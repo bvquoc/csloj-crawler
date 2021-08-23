@@ -14,12 +14,12 @@ Cho số $N$, hãy đếm số cách chia số $N$ thành tổng các số nguy�
 - Một dòng duy nhất chứa số cách chia.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

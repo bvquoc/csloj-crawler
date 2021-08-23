@@ -16,12 +16,12 @@ Khi $0 ≤ x_1, y_1, x_2, y_2 ≤ M$, có bao nhiêu tam giác vuông có thể 
 - Số lượng tam giác vuông.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```

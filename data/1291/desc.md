@@ -9,14 +9,14 @@ Một xâu $𝑃$ được gọi là xâu con của xâu $𝑆$ nếu $𝑃$ kh�
 - Một số nguyên duy nhất là độ dài của xâu $𝑃$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ABCXYZ
 XYZABC
 XYABCZ
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```

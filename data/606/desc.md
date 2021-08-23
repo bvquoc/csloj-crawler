@@ -16,7 +16,7 @@ An và Bình là hai anh em. Ba của An sau chuyến đi công tác xa nhà tr�
 In ra chênh lệch lượng kẹo nhỏ nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 5 1 3 2 6
@@ -27,7 +27,7 @@ In ra chênh lệch lượng kẹo nhỏ nhất có thể.
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 4 5 3 6 1 2
@@ -38,7 +38,7 @@ In ra chênh lệch lượng kẹo nhỏ nhất có thể.
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 100 100
@@ -49,7 +49,7 @@ In ra chênh lệch lượng kẹo nhỏ nhất có thể.
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, nếu chọn $k = 3$ thì tổng số kẹo An được chia là $5 + 1 + 3 = 9$, tổng số kẹo Bình được chia là $2 + 6 = 8$, chênh lệch lượng kẹo là $|9 − 8| = 1$.
 - Trong ví dụ thứ hai, có hai cách chọn k tối ưu:
     - Chọn $k = 2$. Tổng số kẹo An được chia là $4 + 5 = 9$, tổng số kẹo Bình được chia là $3 + 6 + 1 + 2 = 12$, chênh lệch lượng kẹo là $|9 − 12| = 3$.

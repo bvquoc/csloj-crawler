@@ -21,7 +21,7 @@ Bộ test đảm bảo luôn có thể bắt tàu đi từ $1$ đến $N$.
 - In ra một số nguyên duy nhất là tổng chi phí nhỏ nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4 1 3 6
 1 4 2 7
@@ -30,12 +30,12 @@ Bộ test đảm bảo luôn có thể bắt tàu đi từ $1$ đến $N$.
 4 5 6 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 42
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chọn tàu $1$ và tàu $3$ rồi đến thành phố $5$ tại thời điểm $10$.
 
 ## Giới hạn:

@@ -17,7 +17,7 @@ Xác định số tiền tối đa mà Banditji có thể ăn trộm được. D
 - In ra số tiền tối đa Banditji có thể ăn trộm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7
 1 2
@@ -37,12 +37,12 @@ Xác định số tiền tối đa mà Banditji có thể ăn trộm được. D
 4 3 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 47
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/2018/atm.png" width=500px></center>
 
 Mô tả test ví dụ. Banditji xuất phát tại thành phô $1$. Hắn sẽ đi theo tuyến đường $1 ⇨ 2⇨ 4 ⇨ 1 ⇨ 2 ⇨ 3 ⇨ 5$ và lấy được tiền tại tất cả các giao điểm trừ giao điểm 6. Tổng số tiền là $47$.

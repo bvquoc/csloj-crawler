@@ -7,12 +7,12 @@ Cho số nguyên dương $n$. Liệt kê tất cả các xâu nhị phân độ 
 - Gồm nhiều dòng, mỗi dòng là một xâu nhị phân thỏa yêu cầu bài toán, các xâu được liệt kê theo **thứ tự từ điển tăng dần**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 010
 011

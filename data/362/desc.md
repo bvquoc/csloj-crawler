@@ -22,22 +22,22 @@
 Ghi trên một dòng hai số nguyên dương là số lượng học sinh mặc trang phục xanh và số lượng học sinh mặc trang phục đỏ để xếp được tam giác có chiều cao $h$. Hai số liên tiếp được ghi cách nhau một dấu cách. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16 9
 ```

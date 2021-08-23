@@ -20,12 +20,12 @@ Hay ta sẽ có dãy số như sau: $33,39,51,57,69,84,96,111,114,120,123,129,14
 - Ghi ra một số nguyên là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 33 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

@@ -8,18 +8,18 @@ Trung thu năm nay Tí và Tèo được chị Hằng tặng cho rất nhiều k
 - Gồm một dòng, liệt kê số lượng kẹo của các gói kẹo mà Tí nhận được (tất nhiên những gói kẹo không liệt kê ra sẽ thuộc về Tèo), mỗi số cách nhau một dấu cách. (chỉ cần liệt kê một cách chia)
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 10 20 20 30 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20 30
 ```
 
-#### Giải thích:
+### Giải thích:
 - Cách chia tốt nhất là chênh lệch số kẹo giữa hai bạn là $5$ (một bạn được $50$ cái và một bạn được $45$ cái).
 
 ## Giới hạn:

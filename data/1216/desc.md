@@ -24,7 +24,7 @@ nguyên $𝑖$ chỉ ra vị trí tương ứng với thao tác $(1 ≤ 𝑖 ≤
 - Úng với mỗi thao tác $Q$ ghi ra một số nguyên duy nhất là kết quả trả lời trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 )((())()
 6
@@ -36,7 +36,7 @@ C 1
 Q 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 6

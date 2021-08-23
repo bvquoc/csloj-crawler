@@ -11,14 +11,14 @@ Cho hai số $l, r$, hãy tìm số que diêm ít nhất và số que diêm nhi�
 - Gồm $T$ dòng, mỗi dòng gồm hai số nguyên dương $a,b$ lần lượt là số que diêm ít nhất và số que diêm nhiều nhất biểu diễn được một số trong đoạn $[l, r]$ (các số cách nhau bởi dấu cách).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 10
 123 456
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 8
 7 19

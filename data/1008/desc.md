@@ -20,7 +20,7 @@ Ngày kỷ niệm đang cận kề, mà ngài thị trưởng thì lại đang q
 - Với mội test in ra trên một dòng số $k$ lớn nhất thỏa điều kiện, nếu không tồn tại số $P$ thỏa mãn thì in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 30
@@ -29,7 +29,7 @@ Ngày kỷ niệm đang cận kề, mà ngài thị trưởng thì lại đang q
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 3

@@ -21,14 +21,14 @@ Rar sẽ thực hiện $Q$ chuyến bay, với chuyến bay thứ $i$ có độ 
 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 1 3 2 4 1 2
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 9

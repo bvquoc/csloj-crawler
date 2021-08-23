@@ -16,7 +16,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 ## Ví dụ:
 <center><img src="/images/problems/1229/CROBOT.svg" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8 11
 1 2 1
@@ -29,23 +29,23 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 6 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 39
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 3
 1 2 1
 2 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Giải thích:
+### Giải thích:
 **Ví dụ 1:** Một trong những hành trình tối ưu là:
 $$2\overset{1}{\rightarrow}3\overset{2}{\rightarrow}4\overset{1}{\rightarrow}6\overset{1}{\rightarrow}3\overset{2}{\rightarrow}4\overset{1}{\rightarrow}6\overset{1}{\rightarrow}3\overset{2}{\rightarrow}4\overset{10}{\rightarrow}5\overset{8}{\rightarrow}5\overset{10}{\rightarrow}2$$

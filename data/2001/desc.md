@@ -12,7 +12,7 @@ Do lượng công việc quá lớn, nên anh có thể bỏ qua một số côn
 - In ra lợi nhuận tối ưu có thể thu được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 10
@@ -20,10 +20,10 @@ Do lượng công việc quá lớn, nên anh có thể bỏ qua một số côn
 1 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - John không thể hoàn thành được cả $3$ công việc, nên anh sẽ chọn làm công việc $3$ rồi đến công việc $1$. Tổng lợi nhuận sẽ là $7 + 10 = 17$.

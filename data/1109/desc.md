@@ -21,7 +21,7 @@ BT choáng ngợp vì khối lượng công việc đồ sộ đến như vậy.
 - Dòng sau ghi tổng giá tiền nhỏ nhất của các yêu cầu bay đáp ứng được
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 1 2
 1 2 10
@@ -32,7 +32,7 @@ BT choáng ngợp vì khối lượng công việc đồ sộ đến như vậy.
 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 20

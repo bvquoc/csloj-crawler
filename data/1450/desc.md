@@ -19,7 +19,7 @@ Các số trên một dòng của input file được ghi cách nhau bởi dấu
 - Ghi ra trên $Q$ dòng, dòng thứ $i$ là thời gian ngắn nhất mà HD có thể đi thăm $A_i$ rồi đến thăm $B_i$ trong truy vấn thứ $i$ theo thứ tự.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 4
@@ -30,13 +30,13 @@ Các số trên một dòng của input file được ghi cách nhau bởi dấu
 4 3 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - Đường đi trong 2 truy vấn lần lượt là: $1→2→3→4$ và $1→2→4→2→3$.
 
 ## Giới hạn:

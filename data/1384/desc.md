@@ -12,7 +12,7 @@ Trong năm học $2020-2021$, trường THPT ABC có $n$ học sinh tham gia thi
 - Ghi ra một số nguyên duy nhất là số học sinh phải di chuyển ra khỏi hàng để tìm chỗ mới ít nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 D 9
@@ -25,7 +25,7 @@ A1 8
 B 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

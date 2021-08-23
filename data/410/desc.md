@@ -14,13 +14,13 @@ Chẳng hạn ta có $3$ ma trận $A, B, C$ có số chiều lần lượt là:
 - Một số nguyên duy nhất là số phép nhân ít nhất cần tính.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 3 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 81
 ```

@@ -8,13 +8,13 @@ Máy ATM ở cổng trường Chuyên Sơn La có $N$ tờ tiền có mệnh gi�
 - Liệt kê các tờ tiền cần trả với tổng bằng $M$, mỗi số cách nhau bởi một dấu cách. Nếu không có phương án trả đúng số tiền $M$ thì ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 10
 1 5 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 5
 ```

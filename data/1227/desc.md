@@ -20,7 +20,7 @@ Hãy tìm cách xóa đi một số hàng và một số cột của ma trận $
 - Dòng thứ ba ghi chỉ số của những cột phải xóa.
 
 ## Ví dụ 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6
 1 0 0 0 0 1
@@ -30,7 +30,7 @@ Hãy tìm cách xóa đi một số hàng và một số cột của ma trận $
 1 0 0 0 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 5

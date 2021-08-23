@@ -10,16 +10,16 @@
 - Ghi ra duy nhất một số là tổng trữ lượng của các kho vàng được lựa chọn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2 2
 3 5 9 6 7 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 19
 ```
 
-#### Giải thích:
+### Giải thích:
 - Phương án tối ưu là lựa chọn dãy $3$ kho vàng $1, 3$ và $5$ với tổng dự trữ là $3 + 9 + 7 = 19$.

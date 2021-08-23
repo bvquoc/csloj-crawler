@@ -12,18 +12,18 @@ Hãy đếm số hoán vị $B$ sao cho $A[B[x]]=B[A[x]], ∀x=1..n$ theo modul 
 - Ghi ra một số nguyên duy nhất kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 3 1 2 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - $A[1] = 3; A[2] = 1; A[3] = 2; A[4] = 5; A[5] = 4$;
 
 Một số kết quả của B:

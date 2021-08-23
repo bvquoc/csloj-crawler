@@ -13,14 +13,14 @@ Cho dãy số nguyên $a_1, a_2,…,a_n$ và một số nguyên dương $P$.
 - Ghi một số nguyên không âm duy nhất là kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 3 2
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

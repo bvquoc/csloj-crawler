@@ -13,7 +13,7 @@ Mỗi chàng trai được phát $S$ đồng và phải chọn một hành trìn
 - Một dòng viết dãy các phòng theo trình tự từ phòng đầu đến phòng công chúa.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 3 4 9
 1 2 3 4 5
@@ -25,7 +25,7 @@ Mỗi chàng trai được phát $S$ đồng và phải chọn một hành trìn
 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 2 4
 ```

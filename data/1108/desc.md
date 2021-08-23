@@ -14,7 +14,7 @@ Hỏi rằng có bao nhiêu cặp đoạn thẳng cắt nhau?
 - Ghi ra trên một dòng một số nguyên duy nhất là số lượng các đoạn thẳng cắt nhau
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 5 12
@@ -23,7 +23,7 @@ Hỏi rằng có bao nhiêu cặp đoạn thẳng cắt nhau?
 30 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

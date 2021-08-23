@@ -9,12 +9,12 @@ Cu Tí được phân công mua bút chì cho cả lớp nhân dịp đầu năm
 - Số tiền cu Tí cần mang theo.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 36 5 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 150
 ```

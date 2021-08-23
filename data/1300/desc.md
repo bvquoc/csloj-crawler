@@ -12,19 +12,19 @@ Bờm muốn nhờ bạn xác định liệu có tồn tại giá trị $𝑋$ t
 - Ghi ra số nguyên là giá trị $𝑋$ lớn nhất tìm được, số này bằng $−1$ nếu không tồn tại giá trị $𝑋$ thỏa mãn tất cả các manh mối.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 2
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 2
@@ -32,7 +32,7 @@ Bờm muốn nhờ bạn xác định liệu có tồn tại giá trị $𝑋$ t
 8 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

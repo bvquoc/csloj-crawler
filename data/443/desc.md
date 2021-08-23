@@ -9,7 +9,7 @@ Cho một dãy số nguyên gồm $N$ phần tử $a_1, a_2, …, a_N$. Một d�
 - Dòng thứ hai ghi ra một dãy con tăng dài nhất của dãy $a_1, a_2, …, a_N$. Nếu có nhiều dãy con tăng có cùng số phần tử (nhiều nhất) thì ghi ra một dãy bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2 5 4 6 2
@@ -21,7 +21,7 @@ Cho một dãy số nguyên gồm $N$ phần tử $a_1, a_2, …, a_N$. Một d�
 1 2 4 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy con tăng dài nhất là dãy $1, 2, 4, 6$ độ dài dãy này là $4$.
 
 ## Giới hạn:

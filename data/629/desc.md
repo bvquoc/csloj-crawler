@@ -9,7 +9,7 @@ Hai số nguyên dương $A$ và $B$ được gọi là một cặp số tương
 - In ra kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 10
 ```
@@ -19,7 +19,7 @@ Hai số nguyên dương $A$ và $B$ được gọi là một cặp số tương
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $4$ cặp số tương đồng đó là: $\{2, 4\}, \{2, 8\}, \{3, 9\}, \{4, 8\}$.
 
 ## Giới hạn:

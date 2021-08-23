@@ -12,18 +12,18 @@ Cho dãy số $a_1,a_2,…,a_N$ và $2$ số nguyên dương $L,R\ (L,R≤N)$. T
 - Ghi ra một số nguyên duy nhất là tổng lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 2 3
 40 -40 0 3 -5 0 3 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $20\%$ số test có $n≤100$;
 - $40\%$ số test khác có $n≤5000$;
 - $40\%$ số test còn lại có $n≤10^5$.

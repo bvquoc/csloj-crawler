@@ -16,7 +16,7 @@ Bạn được cho một dãy ô ban đầu, và $N$ dãy ô cần kiểm tra. T
 - In ra số lượng dãy ô cần kiểm tra đạt được từ dãy ô ban đầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 **.
 3
@@ -25,12 +25,12 @@ Bạn được cho một dãy ô ban đầu, và $N$ dãy ô cần kiểm tra. T
 .*.*
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ..***
 3
@@ -39,7 +39,7 @@ Bạn được cho một dãy ô ban đầu, và $N$ dãy ô cần kiểm tra. T
 ..****
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

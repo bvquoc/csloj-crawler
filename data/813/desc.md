@@ -22,14 +22,14 @@ Các số $a_i,b_i$ với mọi $i$ thỏa mãn điều kiện đã nêu. Hai s�
 - Ghi ra trên một dòng hai số nguyên xác định số sàn đấu cần chạy thêm và số người nhiều nhất gặp lại được đối thủ cũ. Các số ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 3 5 2 4
 2 5 4 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 3
 ```

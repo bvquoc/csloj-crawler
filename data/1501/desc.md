@@ -26,7 +26,7 @@ Vườn đã mua, máy đã sắm, kế hoạch trồng cây đã lập, nhưng 
 - **Subtask** $\#6$: $30\%$ số điểm không có ràng buộc gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 2
 1 1
@@ -34,12 +34,12 @@ Vườn đã mua, máy đã sắm, kế hoạch trồng cây đã lập, nhưng 
 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Kế hoạch trồng cây của giáo sư là: $[1, 2, 2, 1, 1, 1, 1, 1]$  
 - Vận hành lần $\#1$: trồng $1$ cây trên đoạn $[0, 7]$, số cây tương ứng là $[1, 1, 1, 1, 1, 1, 1, 1]$
 - Vận hành lần $\#2$: trồng $2$ cây trên đoạn $[1, 1]$, số cây tương ứng là $[1, 2, 1, 1, 1, 1, 1, 1]$

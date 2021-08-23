@@ -18,7 +18,7 @@ phố $j$. Dữ liệu đảm bảo $A(i, j) = A(j, i)$ và $A(i, i) =$ `N`.
 - In ra số cách di chuyển có thể trong mô đun `1000000007`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 NYN
@@ -26,12 +26,12 @@ YNN
 NNN
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 NYYY
@@ -40,12 +40,12 @@ YNNN
 YNNN
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 NNNNNY
@@ -56,7 +56,7 @@ NYYNNN
 YNNNNN
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```

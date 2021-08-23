@@ -12,13 +12,13 @@ Hai số liên tiếp được ghi cách nhau một khoảng trắng.
 - Một số nguyên duy nhất là tổng thể tích lớn nhất của các đồ chơi có thể xếp vào hộp.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 9
 2 3 3 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```

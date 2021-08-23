@@ -29,13 +29,13 @@ Xâu $st$ nhận được là $`0-+0`$.
 Các số trên một dòng phải ghi cách nhau bởi ít nhất một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0-+0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 1
 ```

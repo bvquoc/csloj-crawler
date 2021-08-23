@@ -4,7 +4,7 @@
 <img src="/images/problems/1094/sym.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 0
@@ -13,12 +13,12 @@
 1000 1000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 0 0
@@ -34,7 +34,7 @@
 400 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 6
 ```

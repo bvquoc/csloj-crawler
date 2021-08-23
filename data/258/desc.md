@@ -8,13 +8,13 @@ Trong nhà bếp của bé Hải Dương có $N$ con gà, các con gà tương �
 - Một số duy nhất là thời gian tối thiểu để nướng x chiếc bánh.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 50 70
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 100
 ```

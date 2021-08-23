@@ -16,7 +16,7 @@ Bạn, một lập trình viên xuất sắc của đất nước Free Contest, 
 Với mỗi phương án, in ra một số nguyên duy nhất là tổng chi phí tối thiểu xây dựng các đường dây dẫn sao cho mỗi thành phố đều được cung cấp điện.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2 4
@@ -38,7 +38,7 @@ Với mỗi phương án, in ra một số nguyên duy nhất là tổng chi ph�
 13
 ```
 
-#### Giải thích:
+### Giải thích:
 Hình vẽ minh họa ví dụ thứ nhất (cạnh nét đứt biễu diễn các đường dây dẫn có thể xây dựng, cạnh nét liền biểu diễn các đường dây dẫn cần xây dựng, đỉnh màu đen biểu diễn thành phố được đặt trạm phát điện).
 <img src="/images/problems/614/ELECTRIC.svg" width=600px>
 

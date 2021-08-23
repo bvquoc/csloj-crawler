@@ -15,7 +15,7 @@ Gồm nhiều bộ test, mỗi bộ test là một nhóm dòng:
 - Ghi ra kết quả mỗi bộ test trên một dòng gồm $Q$ số nguyên là kết quả từng truy vấn tương ứng theo thứ tự.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 0 8
@@ -36,7 +36,7 @@ Gồm nhiều bộ test, mỗi bộ test là một nhóm dòng:
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16 20 11 17
 1 1

@@ -18,7 +18,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 Các số trên một dòng được ghi cách nhau bởi ít nhất một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 5 21 23 5
 0
@@ -28,12 +28,12 @@ Các số trên một dòng được ghi cách nhau bởi ít nhất một dấu
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 10 2 8 15
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy $A = \{7; 10; 2; 8; 15;…\}$.
 
 ## Giới hạn:

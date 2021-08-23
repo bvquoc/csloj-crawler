@@ -21,7 +21,7 @@ Trong ngày sinh nhật của bé Bông, mẹ em đã mua tặng em một chiế
 nhận được tương ứng với dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 3

@@ -23,7 +23,7 @@ Các cầu thủ vốn rất thông minh và tìm ra cách đi để đạt đư
 - $40\%$ số test còn lại có $m,n,k≤300$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 2
 5 2 4 2 
@@ -33,11 +33,11 @@ Các cầu thủ vốn rất thông minh và tìm ra cách đi để đạt đư
 1 2 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 16
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, chiếm ô $(3,3)$. Trong ví dụ thứ hai, chiếm ô $(2,3)$.

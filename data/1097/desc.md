@@ -20,26 +20,26 @@ Hãy đếm xem, thầy giáo có bao nhiêu cách phát xu? Hai cách phát đ�
 - $35\%$ số test còn lại không có giới hạn gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 2 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
 **Giải thích**: $3$ cách trả là $(1, 50), (1, 1), (1, 2)$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 
 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

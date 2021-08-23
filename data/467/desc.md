@@ -7,7 +7,7 @@ BGH nhà trường đang có kế hoạch làm mái che sân trường để có
 ## Dữ liệu ra:
 - Một số nguyên duy nhất là số lượng ít nhất các cây nằm dưới mái che. Nếu không thể làm được mái che với diện tích đúng bằng $k$ thì ghi ra $-1$.
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 6
 0110
@@ -15,12 +15,12 @@ BGH nhà trường đang có kế hoạch làm mái che sân trường để có
 1001
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Làm mái che là hình chữ nhật $2×3$ có ô trên trái là $(2, 2)$, dưới phải là $(3,4)$, có diện tích bằng $6$ và chỉ chứa duy nhất một cây ở ô $(3, 4)$ (như hình dưới)
 <center><img src="/images/problems/467/cover.png" width=250px></center>
 

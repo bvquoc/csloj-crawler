@@ -12,34 +12,34 @@ Có tổng cộng $K$ người tham gia vào bữa tiệc, và mỗi người s�
 - Ghi ra một số nguyên duy nhất trên một dòng, tổng điểm hài lòng trong một bài tập tối ưu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 1
 1 -2 3 -1 5 -6
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 1 2 3 -10 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 -1 -2 -1 0 -5 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

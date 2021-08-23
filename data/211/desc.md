@@ -10,14 +10,14 @@ HD cần mua $n$ chiếc vé xe bus, một chiếc vé có giá là $a$ VNĐ, v�
 - Ghi trên $t$ dòng, dòng $i$ ghi câu trả lời cho câu hỏi $i$, ghi số tiền ít nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6 2 1 2
 5 2 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 8

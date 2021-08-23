@@ -30,7 +30,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 ## Ví dụ:
 <center><img src="/images/problems/1520/stars2.png" width=600px></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 4 270
@@ -45,7 +45,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 9 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 19
 ```

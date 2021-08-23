@@ -13,7 +13,7 @@ Với một số lượng que diêm cho trước, hãy xác định số nhỏ n
 - Với mỗi số $n$ là số que diêm, in ra trên một dòng hai số nguyên dương là số nhỏ nhất và số lớn nhất mà $n$ que diêm biểu diễn được, mỗi số cách nhau bởi một khoảng trắng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -21,7 +21,7 @@ Với một số lượng que diêm cho trước, hãy xác định số nhỏ n
 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 7
 2 71

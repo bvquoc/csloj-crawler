@@ -14,7 +14,7 @@ Viết chương trình để tính thời gian cần thiết nhỏ nhất có th
 Hai số liên tiếp trên một dòng được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5 8
 1 2 1
@@ -27,12 +27,12 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 4 5 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 23
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các đường đi dẫn đến kết quả nghiệm trong test ví dụ là:
 - Con bò $1: 1→2→5$;
 - Con bò $2: 1→3→5$;

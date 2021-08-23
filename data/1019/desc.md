@@ -3,13 +3,13 @@
 
 <img src="/images/problems/1019/trip.svg" width=1080px>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4 
 9 3 7 6 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

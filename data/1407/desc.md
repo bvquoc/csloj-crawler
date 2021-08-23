@@ -15,13 +15,13 @@ trong $a$. Hãy tìm dãy con lỗ chỗ có tổng lớn nhất của dãy $a$.
 Nếu có nhiều dãy con tốt nhất, hãy in ra dãy con có thứ tự từ điển nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 1 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 3

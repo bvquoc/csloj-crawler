@@ -9,12 +9,12 @@ Bạn Việt cầm trên tay $N$ quả bóng bay, nhưng bạn Mạnh lại ch�
 - In ra một số nguyên duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

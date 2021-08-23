@@ -13,7 +13,7 @@ Vấn đề đặt ra là khi có bản đồ khu nhà trong tay, hãy xác đ�
 - Ghi số con rô-bốt tham gia xây nhà.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 1 1 1 0 1 0 0 0 1
@@ -27,7 +27,7 @@ Vấn đề đặt ra là khi có bản đồ khu nhà trong tay, hãy xác đ�
 1 1 1 1 1 0 0 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

@@ -13,26 +13,26 @@ Dãy số Fibonacci được định nghĩa  $\left\{ \begin{array}{l}
 - Gồm $T$ dòng là, mỗi dòng là kết quả của test đầu vào tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 3

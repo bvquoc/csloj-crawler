@@ -8,7 +8,7 @@ Cho danh sách $N$ lập trình viên đánh số lần lượt từ $1$ đến 
 - Ghi trên một dòng $N$ số nguyên không âm, hai số liên tiếp cách nhau một dấu cách, số thứ $i$ là số lập trình viên mà $i$ giỏi hơn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 1798 1832
@@ -21,7 +21,7 @@ Cho danh sách $N$ lập trình viên đánh số lần lượt từ $1$ đến 
 1014 1473
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6 0 2 4 7 1 5 1
 ```

@@ -18,7 +18,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Một dòng duy nhất chứa $m$ số nguyên là phần dư của các số $a_{n_1}, a_{n_2}, …, a_{n_m}$ khi chia cho $10^9 + 7$. Hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 1
@@ -26,7 +26,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 10 45
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 55 134903163
 ```

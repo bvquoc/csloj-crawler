@@ -20,41 +20,41 @@ Hình vẽ dưới đây cho một ví dụ về bài toán này.
 - Ghi ra $N$ dòng, trong đó dòng thứ $i$ chứa $N$ số mô tả tình trạng của dòng thứ $i$ của bảng sau khi điền số (qui ước ghi số $0$ nếu như ô tương ứng không được điền số). Nếu như có nhiều lời giải thì chỉ cần đưa ra một lời giải bất kỳ. Dữ liệu đảm bảo luôn có ít nhất một lời giải.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 12
 3 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3
 2 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 8 18
 2 30 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 0
 5 0 6
 0 4 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 54 6 12 20 88
 18 9 132 32 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6 3 0 0 0
 9 0 1 0 0

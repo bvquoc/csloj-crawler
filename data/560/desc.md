@@ -22,7 +22,7 @@ Bằng thuật toán tìm kiếm theo chiều sâu, hãy đưa ra danh sách cá
 - Gồm $n$ dòng, mỗi dòng gồm một số ghi số hiệu đỉnh theo thứ tự duyệt **DFS**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 7
 1 2
@@ -34,7 +34,7 @@ Bằng thuật toán tìm kiếm theo chiều sâu, hãy đưa ra danh sách cá
 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2

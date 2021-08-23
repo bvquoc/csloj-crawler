@@ -30,13 +30,13 @@ Dãy $B$ thỏa mãn các điều kiện nêu trên được gọi là ***dãy �
 Đối với mỗi test, $50\%$ số điểm của test dành cho việc đưa ra giá trị độ chênh lệch nhỏ nhất và $50\%$ số điểm còn lại dành cho việc đưa ra dãy đơn điệu tăng xấp xỉ tốt nhất dãy đã cho.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 5 1 7 3 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 -1 0 1 2 3 4 5

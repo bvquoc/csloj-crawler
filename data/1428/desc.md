@@ -14,16 +14,16 @@ Vấn đề là chi phí nối cáp khá đắt, bạn cần tìm cách nối sa
 - Ghi ra một số nguyên duy nhất là tổng độ dài cáp nối theo phương án tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 1 3 4 6 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Phương án tối ưu là nối văn phòng $1$ với văn phòng $2$ bằng cáp độ dài $2$, nối văn phòng $3$ với văn phòng $4$ cũng bằng cáp độ dài $2$.

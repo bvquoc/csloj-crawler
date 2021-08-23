@@ -8,18 +8,18 @@ Cho dãy số nguyên dương $a_1,a_2,…,a_n$. Hãy tính tổng **Bội chung
 - Một dòng duy nhất ghi số nguyên là tổng cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 22
 ```
 
-#### Giải thích:
+### Giải thích:
 - $BCNN(2,3)=6$;
 - $BCNN(2,4)=4$;
 - $BCNN(3,4)=12$.

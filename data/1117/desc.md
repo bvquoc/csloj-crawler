@@ -16,11 +16,11 @@ Có $q$ truy vấn dạng như sau:
     - $1\  x\ (1≤x≤2.10^9)$
     - $2\ r\ c\ y\ (1≤r≤n,1≤c≤m,1≤y≤50000)$
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - Ghi ra nhiều dòng, mỗi dòng theo thứ tự là câu trả lời cho truy vấn loại $1$. Ghi `Y` nếu có phần tử $x$, ngược lại ghi `N`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 11 13 14 17
@@ -38,7 +38,7 @@ Có $q$ truy vấn dạng như sau:
 1 42
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Y
 N

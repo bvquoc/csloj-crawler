@@ -13,13 +13,13 @@ Hai hàm số $f$ và $g$ $(f,g:X→X)$ được gọi là giao hoán nhau nếu
 - Ghi ra $n$ số nguyên $b_1,b_2,b_3,…,b_n$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 2 3 4 5 6 7 8 1 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 4 5 6 7 8 9 9
 ```

@@ -12,12 +12,12 @@ Cho số nguyên dương $N\ (N≤10^{100})$, hãy tách $N$ thành tổng các 
 Nếu có nhiều cách tách thì chỉ cần ghi ra một cách bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 16
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 1

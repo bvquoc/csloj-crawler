@@ -15,14 +15,14 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra một xâu độ dài $m$, ký tự thứ $i$ là `1` nếu mặt hàng thứ $i$ có thể cân được và là `0` nếu mặt hàng thứ $i$ không thể cân được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 1 2 5
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1110
 ```

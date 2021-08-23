@@ -19,24 +19,24 @@ Bạn hãy giúp Long trả lời thầy nhé. Vì kết quả có thể rất l
 - In ra $5$ **chữ số cuối** của số cách có thể để tạo ra những dãy ngoặc hợp lệ từ dãy ngoặc dính mực ban đầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 [{????)]
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 24
 {[????[??????]})????????
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15106
 ```

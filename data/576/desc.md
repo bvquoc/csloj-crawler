@@ -24,7 +24,7 @@ Trong **dữ liệu vào** và **dữ liệu ra**, các số trên một dòng c
 7 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1 5

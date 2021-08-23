@@ -14,19 +14,19 @@ Dubu thắc mắc không biết có bao nhiêu cách để có thể cắt ra đ
 - Gồm một số nguyên duy nhất là số cách cắt hình chữ nhật thỏa mãn điều kiện trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 4 4
 1 1 1 1
 0 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Xét các hình chữ nhật con có đủ $2$ loại màu và diện tích $≥ 4$ thì có $3$ hình có diện tích $4$, $2
 hình có diện tích $6$ và $1$ hình có diện tích $8$.
 

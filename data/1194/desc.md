@@ -12,7 +12,7 @@
 - Ghi ra $q$ dòng, dòng thứ $i$ ghi `Yes/No` tương ứng hệ thống đường có cân bằng tại thời điểm $i$ hay không.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 10
 1 1 2
@@ -27,7 +27,7 @@
 1 6 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 No
 No

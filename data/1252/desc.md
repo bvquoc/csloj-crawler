@@ -16,7 +16,7 @@ XYZ là một công ty lớn trong lĩnh vực công nghệ phần mềm và t�
 - Ghi ra một dòng duy nhất là kết quả của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 3 2
@@ -25,12 +25,12 @@ XYZ là một công ty lớn trong lĩnh vực công nghệ phần mềm và t�
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 2
 1 4
@@ -44,7 +44,7 @@ XYZ là một công ty lớn trong lĩnh vực công nghệ phần mềm và t�
 8 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```

@@ -13,14 +13,14 @@ Bờm và Cuội vừa học về số dư. Hai bạn say sưa tính toán nhữ
 - Ghi ra m dòng., dòng thứ $i$ ghi số dư bé nhất và số dư lớn nhất trong phép chia của số $b_i$ cho các số trong dãy $a_1,a_2,…,a_n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 2 5 9 7
 35 74 13
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0 8
 0 4

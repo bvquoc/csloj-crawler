@@ -18,13 +18,13 @@ Ví dụ với $A = 7$, $B = 2, N = 3$ và $K = 5$ thì $S = 277$ là một đá
 - $50\%$ số test còn lại không có ràng buộc gì thêm
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 2
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 277
 ```

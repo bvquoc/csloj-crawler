@@ -13,14 +13,14 @@ Mỗi lượt chơi mỗi bạn đưa ra một số hạng trong dãy số của
 - Ghi ra giá nhỏ nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 -2
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

@@ -15,14 +15,14 @@ $$W = \sum_{i=1}^{M-1}\sum_{j=i+1}^MS_{ij}$$
 - Gồm một dòng chứa số $W$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 2 3 1
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

@@ -20,7 +20,7 @@ Giáo sư đã cho máy trồng $q$ cây nhưng lại không thể xác định 
 - **Subtask** $\#3$: $30\%$ số điểm có $n, q \le 10^5, T=1$
 
 ## Ví dụ (Tải test đề bài và 2 test mẫu khác ở "Tệp đính kèm" phía trên đề bài):
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0
 6
@@ -39,7 +39,7 @@ Giáo sư đã cho máy trồng $q$ cây nhưng lại không thể xác định 
 5 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 YES
@@ -49,7 +49,7 @@ NO
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1503/treeagain.svg" width=400px></center>
 <center>Hình minh họa cho test đề bài</center>
 

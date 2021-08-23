@@ -14,7 +14,7 @@ Cho đồ thị gồm $N$ đỉnh đánh số từ $1$ đến $N$, đỉnh thứ
 - Gồm $M$ dòng, mỗi dòng là số cặp $(i,j)$ cùng màu mà từ $i$ có thể đến được $j$ qua các cạnh của đồ thị.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 
 1 2 1 2
@@ -24,7 +24,7 @@ Cho đồ thị gồm $N$ đỉnh đánh số từ $1$ đến $N$, đỉnh thứ
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 0

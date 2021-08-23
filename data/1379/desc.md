@@ -12,7 +12,7 @@ Bé Sen mới mua một căn biệt thự lớn và hiện đại. Biệt thự 
 - Ghi ra một dòng chứa số nguyên là số phút ít nhất để đi từ phòng $(1, 1)$ tới phòng $(M, N)$. Nếu không đi được, in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 1
 1 2
@@ -29,12 +29,12 @@ Bé Sen mới mua một căn biệt thự lớn và hiện đại. Biệt thự 
 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1379/MANSION.jpg" width="800px" /></center>
 
 ## Giới hạn:

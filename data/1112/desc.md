@@ -15,7 +15,7 @@ Các số trong dữ liệu đầu vào được viết cách nhau ít nhất m�
 - Ghi ra $M$ dòng, dòng thứ $i$ chứa một số nguyên là kết quả tương ứng với truy vấn thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 1
 1 2
@@ -29,7 +29,7 @@ Các số trong dữ liệu đầu vào được viết cách nhau ít nhất m�
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 2

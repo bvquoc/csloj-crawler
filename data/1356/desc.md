@@ -19,30 +19,30 @@ Cho $N$ thùng nước đặt liên tiếp nhau, được đánh số từ $1$ �
 - In ra hai số nguyên không âm lần lượt là thời gian sớm nhất để thùng thứ $N$ đầy nước và thời gian sớm nhất để tất cả các thùng đầy nước (hai số ngăn cách nhau bởi khoảng trống).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hai kết quả là $1.25$ và $1.25$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 10 7 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hai kết quả là $0.6667$ và $3.3333$.

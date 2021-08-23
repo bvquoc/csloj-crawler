@@ -15,7 +15,7 @@ Ta có thể nối các quân bài domino lại thành một dãy bằng cách g
 - Ghi ra số lượng dãy ít nhất gộp được từ các quân bài còn lại sao cho mỗi quân bài còn lại phải thuộc vào đúng một dãy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 2
@@ -23,7 +23,7 @@ Ta có thể nối các quân bài domino lại thành một dãy bằng cách g
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

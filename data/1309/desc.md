@@ -11,22 +11,22 @@ Cho một xâu biểu diễn số nguyên dương $𝑆$, nếu xâu con từ v�
 - Một số nguyên kết quả.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 121
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 158
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 102
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 115
 ```

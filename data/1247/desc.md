@@ -19,14 +19,14 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 -  Ghi ra $T$ dòng, mỗi dòng là số lượng nghiệm của phương trình tương ứng với bộ dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 1
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3

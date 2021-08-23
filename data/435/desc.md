@@ -10,7 +10,7 @@ Bạn hãy giúp những con bò xây thang máy cao nhất có thể bằng cá
 - Một số nguyên duy nhất là chiều cao lớn nhất của thang máy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 7 40 3
@@ -18,12 +18,12 @@ Bạn hãy giúp những con bò xây thang máy cao nhất có thể bằng cá
 2 52 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 48
 ```
 
-#### Giải thích:
+### Giải thích:
 - Từ dưới lên: $3$ khối loại $2$, $3$ khối loại $1$, $6$ khối loại $3$ (nếu chồng $4$ khối loại $2$ và $3$ loại $1$ không hợp lệ vì đỉnh của khối loại $1$ vượt quá độ cao $40$).
 
 ## Giới hạn:

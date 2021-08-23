@@ -21,7 +21,7 @@ Kế hoạch xây dựng luôn thay đổi, có $m$ sự kiện thuộc hai ki�
 - Với mỗi truy vấn, in ra trên một dòng kết quả cần tìm
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5 4
@@ -32,7 +32,7 @@ Kế hoạch xây dựng luôn thay đổi, có $m$ sự kiện thuộc hai ki�
 2 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 6

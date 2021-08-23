@@ -22,26 +22,26 @@ Quá trình biến đổi kết thúc khi các đoạn thẳng có độ dài b�
 - Đưa ra một số nguyên – thời gian tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 4
 white
 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 100
 black
 2 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

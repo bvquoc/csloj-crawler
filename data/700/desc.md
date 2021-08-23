@@ -9,13 +9,13 @@ Cho $N\ (N ≤10)$ số nguyên dương $a_1, a_2, …, a_N\ (a_i ≤ 10^9)$. T�
 - Dòng sau ghi bội chung nhỏ nhất của $N$ số đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 6 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 30

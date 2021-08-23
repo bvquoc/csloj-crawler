@@ -19,7 +19,7 @@ Bằng thuật toán tìm kiếm theo chiều rộng, hãy đưa ra danh sách c
 - Gồm $n$ dòng, mỗi dòng gồm một số ghi số hiệu đỉnh theo thứ tự duyệt **BFS**.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 7
 1 2
@@ -31,7 +31,7 @@ Bằng thuật toán tìm kiếm theo chiều rộng, hãy đưa ra danh sách c
 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2

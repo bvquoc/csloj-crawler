@@ -11,14 +11,14 @@ Cho $A, B$ và $\text{MOD}$ là các số nguyên dương. Tính giá trị $A^B
 - In ra giá trị cần tính.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2
 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

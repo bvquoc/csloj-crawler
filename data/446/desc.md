@@ -13,19 +13,19 @@ Các số trên cùng một dòng được ghi cách nhau ít nhất một dấu
 - Ghi ra một số nguyên duy nhất là số $k$ lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 3 1
 -3 5 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/446/DPPOINTS.png" width=400px></center>
 <center>Cách chọn các điểm để nối</center>
 

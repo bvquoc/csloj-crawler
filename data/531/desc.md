@@ -15,7 +15,7 @@ Một khách du lịch xuất phát từ địa điểm $S$ muốn đi thăm m�
 ## Ví dụ:
 <center><img src="/images/problems/531/ACIRCLE.png" width="350px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 1
 1 2
@@ -28,7 +28,7 @@ Một khách du lịch xuất phát từ địa điểm $S$ muốn đi thăm m�
 6 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 1 7 6 5 1

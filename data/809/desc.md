@@ -16,14 +16,14 @@ Xét lưới ô vuông vô hạn trong đó có một số ô cấm, các ô cò
 - Ghi ra một số nguyên là số lượng bước đi ít nhất cần thực hiện để di chuyển siêu mã từ ô xuất phát $(0,0)$ đến ô đích. Ghi số $−1$ nếu như không thể di chuyển siêu mã đến ô đích. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 2 4
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

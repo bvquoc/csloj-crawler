@@ -4,13 +4,13 @@
 <img src="/images/problems/1059/P.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 1
 ```

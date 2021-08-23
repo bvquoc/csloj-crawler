@@ -10,7 +10,7 @@ Cho bảng số nguyên không âm gồm $n$ dòng $m$ cột. Hãy xác định 
 - Ghi một số nguyên duy nhất là kích thước cạnh bảng vuông tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4 24
 3 9 2 6
@@ -20,12 +20,12 @@ Cho bảng số nguyên không âm gồm $n$ dòng $m$ cột. Hãy xác định 
 3 6 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1409/TABLE.png" width="300px" /></center>
 
 ## Giới hạn:

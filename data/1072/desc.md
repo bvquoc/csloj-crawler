@@ -20,7 +20,7 @@ Các quan lóng ngóng mãi mới tìm ra một phương án cho Lãnh chúa c�
 - Trong $1/3$ số test có $R ≤ 50 \text{ và }C ≤ 50$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 2
@@ -28,12 +28,12 @@ Các quan lóng ngóng mãi mới tìm ra một phương án cho Lãnh chúa c�
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 2
@@ -41,10 +41,10 @@ Các quan lóng ngóng mãi mới tìm ra một phương án cho Lãnh chúa c�
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5040
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1072/lands.svg" width=1080px></center>

@@ -17,7 +17,7 @@ Rar the Cat muốn biết: Trong số $L$ tia laser của đồ chơi, có bao n
 - Ghi ra một số nguyên duy nhất trên một dòng là số lượng laser sẽ bị chặn bởi ít nhất một bức tường trong tất cả các cấu hình có thể có của đồ chơi.
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11 3
 2 2 3
@@ -25,23 +25,23 @@ Rar the Cat muốn biết: Trong số $L$ tia laser của đồ chơi, có bao n
 2 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 1 2 3 -10 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 -1 -2 -1 0 -5 -1

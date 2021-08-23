@@ -10,11 +10,11 @@ Chi phí để đặt một quảng cáo trên con đường đó đã được 
 - Dòng tiếp theo là $Q$ – số lượng truy vấn;
 - $Q$ dòng tiếp theo, mỗi dòng chứa $5$ số nguyên $a, b, c, d, e$ là địa điểm của $5$ nhà tài trợ cuộc thi, trong đó $a, b, c, d, e$ đôi một khác nhau.
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - Gồm $Q$ dòng, mỗi dòng là tổng chi phí đặt biển quảng nhỏ nhất tương ứng với $5$ nhà tài trợ được cho trong **dữ liệu vào**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 4 0 4
@@ -27,7 +27,7 @@ Chi phí để đặt một quảng cáo trên con đường đó đã được 
 0 4 1 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 16

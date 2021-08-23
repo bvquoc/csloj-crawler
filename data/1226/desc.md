@@ -16,13 +16,13 @@ Có rất nhiều truyền thuyết và tên gọi khác nhau về bài toán Jo
 - Ghi ra một dòng chứa hai số $𝑞, 𝑥$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3
 0 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 6
 ```

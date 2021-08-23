@@ -10,24 +10,24 @@ Cho hai số nguyên dương $a,b$. Hãy tìm chiều cao $h$ nguyên dương nh
 ## Ví dụ:
 <center><img src="/images/problems/184/TRIANGLE2.png" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
 <center><img src="/images/problems/184/TRIANGLE3.png" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 17 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```

@@ -15,13 +15,13 @@ Pha lê Swarovski được dùng làm đồ trang sức vô cùng đẹp và vô
 - $k$ dòng tiếp theo, dòng thứ $i\ (1≤i≤k)$ chứa $2$ số nguyên dương $x_i , y_i$ với $x_i$ là kích thước các chuỗi con mới theo cách cắt thứ $i$ và $y_i$ là độ đa dạng của cách cắt tìm được. Các cách cắt liệt kê theo thứ tự tăng dần của của kích thước chuỗi hạt con.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2 2 4 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 1

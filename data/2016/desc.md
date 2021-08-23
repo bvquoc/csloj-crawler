@@ -9,7 +9,7 @@ Các ninja làng IOI cần giết $n$ người tại $n$ địa điểm khác nh
 ## Dữ liệu ra:
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 1 2
@@ -18,22 +18,22 @@ Các ninja làng IOI cần giết $n$ người tại $n$ địa điểm khác nh
 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 8
 1 2
@@ -46,7 +46,7 @@ Các ninja làng IOI cần giết $n$ người tại $n$ địa điểm khác nh
 8 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

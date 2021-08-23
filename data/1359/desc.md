@@ -11,14 +11,14 @@ Một năm ở vương quốc có $10^9+7$ ngày, vậy nên người dân chỉ
 - Với mỗi test in ra kết quả trên một dòng số $D\text{ mod }(10^9+7)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9348095
 6297540
 0
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 177582252

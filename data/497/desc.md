@@ -11,7 +11,7 @@ Công ty ABC chuyên thu thập thông tin về những người nổi tiếng. 
 - Dòng thứ hai liệt kê số chỉ số của những người được mời theo thứ tự tăng dần.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7 2
 4 3
@@ -23,13 +23,13 @@ Công ty ABC chuyên thu thập thông tin về những người nổi tiếng. 
 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 2 3 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sơ đồ mối quan hệ như hình dưới, những người được mời là $1, 2, 3, 4$
 <center><img src="/images/problems/497/HFAMOUS.svg" width="350px" /></center>
 

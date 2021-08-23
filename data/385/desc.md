@@ -7,24 +7,24 @@ Cho hai số nguyên không âm $a$ và $b$. Hãy tính $a×b$.
 ## Dữ liệu ra:
 - Gồm một dòng duy nhất là kết quả của $a×b$.
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 123
 4567
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 561741
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1234567890
 9879879876543219876
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12197382452637423456119381640
 ```

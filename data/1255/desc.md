@@ -21,27 +21,27 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là số cách khác nhau để Hải Dương có thể nhảy từ ô số $0$ đến ô số $n$ theo modulo $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 1 2 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có ba cách sau: $(1,1,1); (1,2)\text{ và }(2,1)$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 2 2 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

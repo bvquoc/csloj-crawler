@@ -20,13 +20,13 @@ Hãy tính xem có bao nhiêu cách khác nhau để John có thể làm như v�
 - Một số nguyên duy nhất là kết quả thu được sau khi chia lấy dư cho `1000000009` $(10^9 + 9)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 3 -3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

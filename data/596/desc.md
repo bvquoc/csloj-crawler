@@ -8,7 +8,7 @@ Một đế chế đang xây dựng mạng lưới cho các hành tinh trong nó
 - Ghi trên một dòng một số duy nhất là chi phí nhỏ nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 11 -15 -15
@@ -18,12 +18,12 @@ Một đế chế đang xây dựng mạng lưới cho các hành tinh trong nó
 19 -4 19
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Nối giữa hành tinh $1$ và $2$ chi phí bằng $0$;
 - Nối giữa hành tinh $4$ và $5$ chi phí bằng $0$;
 - Nối giữa hành tinh $4$ và $1$ chi phí bằng $1$;

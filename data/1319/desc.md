@@ -18,7 +18,7 @@ Một hình chữ nhật được xác định bởi ô trái trên $(a, b)$ và
 - Ghi ra một số duy nhất là $X$ cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4 2
 1 1 2 3
@@ -28,7 +28,7 @@ Một hình chữ nhật được xác định bởi ô trái trên $(a, b)$ và
 2 2 3 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

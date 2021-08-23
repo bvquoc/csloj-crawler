@@ -21,12 +21,12 @@ Cho hai số nguyên $n$ và $m$, hãy giúp Georgie xác định tất cả cá
 - Dòng thứ hai ghi chỉ số các phần tử không xác định theo thứ tự tăng dần.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2

@@ -14,18 +14,18 @@ Tuy nhiên, nếu lật ngược lại thì vẫn coi là khác nhau. Ví dụ n
 - Dòng đầu chứa số nguyên $T$ là số test $\left(1 ≤ T ≤ 10\right)$.
 - $T$ dòng tiếp theo, mỗi dòng chứa $2$ số nguyên $N$ và $K$, các số cách nhau ít nhất một dấu cách $\left(1 ≤ N ≤ 10^5, 1 ≤ K ≤ 10^5\right)$.
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - Ghi ra $T$ dòng, mỗi dòng một số nguyên là số dư của kết quả tìm được tương ứng với mỗi test khi chia cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 2
 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 6

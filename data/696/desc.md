@@ -7,12 +7,12 @@ Cho số nguyên dương $n$. Tính tổng các ước nguyên dương của $n$
 - Một dòng duy nhất chứa đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 18
 ```

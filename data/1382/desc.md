@@ -20,7 +20,7 @@ Cho hai dãy số nguyên $a_1, a_2,…,a_n$ và $b_1, b_2,…,b_m$. Dãy $c_1, 
 - Ghi một dòng gồm hai số là độ dài lớn nhất của dãy con đẹp và số lượng dãy con đẹp khác nhau có độ dài lớn nhất theo modulo $10^9+9$. Trong trường hợp không có câu trả lời, dữ liệu in ra hai số $0\ 0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 5 3 4 2 5 2
@@ -28,7 +28,7 @@ Cho hai dãy số nguyên $a_1, a_2,…,a_n$ và $b_1, b_2,…,b_m$. Dãy $c_1, 
 1 3 5 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 6
 ```

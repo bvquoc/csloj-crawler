@@ -24,20 +24,20 @@ Trong trường học mà Sơn đang theo học có $N$ học sinh. Cũng giốn
 - $30\%$ số test còn lại ứng với $30\%$ số điểm của bài thỏa mãn điều kiện: $1 ≤K≤S≤N≤10000; 1 ≤M≤ 100000$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1 1 1
 cuoi
 son cuoi
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 cuoi son
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 2 3 6
 san son rong
@@ -49,11 +49,11 @@ son phong
 san phan
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 cuoi phuong rong san son
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ hai: Sau khi trao đổi tin nhắn với **son** và **san**, **cuoi** trở thành người đặc biệt. Tiếp đến trong bảng thống kê cả **son** và **cuoi** đều trao đổi tin nhắn với **phuong**, nên **phuong** cũng trở thành người đặc biệt. Lưu ý rằng: nếu như coi rằng **cuoi** trao đổi tin nhắn với **phuong** trước khi trở thành người đặc biệt (tức là trình tự thời gian thực hiện các tin nhắn là trình tự liệt kê trong dữ liệu) thì **phuong** sẽ không trở thành người đặc biệt được. Nhưng theo giả thiết đầu bài ta có thể xếp lại trình tự thực hiện các tin nhắn sao cho có được nhiều người đặc biệt nhất, nên tin nhắn này có thể coi là được thực hiện sau khi **cuoi** đã trở thành người đặc biệt. Trong ví dụ này có hai học sinh trong trường không trao đổi tin nhắn với bất cứ ai, vì thế tên của họ không xuất hiện trong bảng thống kê.

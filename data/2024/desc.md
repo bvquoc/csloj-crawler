@@ -15,7 +15,7 @@ Lễ hội sắp đến và đàn bò của nông dân John chuẩn bị gặp n
 -Một số nguyên duy nhất là tổng khoảng cách di chuyển nhỏ nhất trong tình huống tối ưu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1
@@ -29,12 +29,12 @@ Lễ hội sắp đến và đàn bò của nông dân John chuẩn bị gặp n
 4 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 ```
 
-#### Giải thích:
+### Giải thích:
 Địa điểm tối ưu là đồng cỏ số $3$. Khi đó
 - Con bò ở đồng cỏ $1$ di chuyển quãng đường $1$
 - Con bò ở đồng cỏ $2$ di chuyển quãng đường $2$

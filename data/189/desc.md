@@ -12,32 +12,32 @@ Xếp $𝑛$ viên đá lên một bảng hình chữ nhật chia thành lưới
 - Ghi ra hai số cách nhau một dấu cách là độ dài hai cạnh của bảng tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 14
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 4
 ```

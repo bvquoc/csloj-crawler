@@ -11,18 +11,18 @@ Một nhóm nhân viên khai mỏ có dự định tiến vào một hầm mỏ 
 - In ra kết quả theo <samp>**modulo**</samp> $1000003$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 6
 1 2 3 7 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có 3 người thợ mỏ. Giả sử người đầu $(A)$ vào mỏ ở thời điểm $1$:
     - Nếu $A$ rời mỏ ở thời điểm $2$, thì người $2\ (B)$ sẽ vào mỏ ở thời điểm $3$. Do không được ở trong mỏ ở quá $6$, nên $B$ không thể rời mỏ ở thời điểm $10$. $B$ không thể rời mỏ ở thời điểm $9$ vì khi đó ở thời điểm $7$ có người thứ $3$ đi vào và chặn lỗi ra. Do đó $B$ chỉ có thể rời ở thời điểm $7$. Và người thứ $3$ đến và đi ở thời điểm $9$, $10$. Đây là tình huống $\#1$.
     - Nếu $A$ rời mỏ ở thời điểm $7$, thì $(2, 3)$ và $(9, 10)$ là hai thời điểm đến và đi của hai người khác nhau, đây là tình huống $\#2$.

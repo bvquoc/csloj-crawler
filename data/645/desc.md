@@ -9,17 +9,17 @@ Arya trồng hai cái cây $A$ và $B$. Sau mỗi năm, cây $A$ cao thêm **g�
 - Gồm một dòng duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Năm $0$: $A$ cao $4m$, $B$ cao $7m$;
 - Năm $1$: $A$ cao $12m$, $B$ cao $14m$;
 - Năm $2$: $A$ cao $36m$, $B$ cao $28m$.

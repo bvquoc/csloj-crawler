@@ -23,19 +23,19 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 Ghi ra một số nguyên duy nhất là kết quả của bài toán theo modulo $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 1  2  3  4
 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 143
 ```
 
-#### Giải thích:
+### Giải thích:
 - Những đoạn con có $Sum>S: [1,2,3], [1,2,3,4], [2,3], [2,3,4], [3,4], [4] ⇒ P_1=1.3.3+1.4.4+2.3.2+2.4.3+3.4.2+4.4.1 = 101$.
 - Những đoạn con có $Sum≤S: [1], [1,2], [2], [3] ⇒ P_2=1.1.1+1.2.3+2.2.2+3.3.3=42$.
 

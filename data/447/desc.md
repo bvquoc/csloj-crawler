@@ -8,18 +8,18 @@ Nhà Bờm có $n$ máy tính xếp thẳng hàng (cố định) được đánh
 - Một số nguyên duy nhất là tổng độ dài dây cáp Bờm cần dùng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 2 2 3 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/447/DPCABLE.svg" width=500px></center>
 <center>Cách nối máy của Bờm</center>
 

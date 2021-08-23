@@ -15,7 +15,7 @@ Các xâu chỉ gồm các chữ cái `$“a”, “b”, “c”, “h”$.
 - Ghi ra một số nguyên là độ dài của xâu con dài nhất có thể được xét như là chuỗi tiếng cười.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ahahhahaah
@@ -23,7 +23,7 @@ a
 ha
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

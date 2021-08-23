@@ -16,7 +16,7 @@ Cho một đồ thị gồm $N$ đỉnh được đánh số từ $1$ đến $N$
 - Với mỗi yêu cầu dạng $X\ Y\ 2$ (với $Z = 2$) bạn cần ghi ra số $0$ hoặc $1$ trên một dòng tùy thuộc hai đỉnh $X$ và $Y$ không thuộc hoặc thuộc cùng một thành phần liên thông.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 1 2 2
@@ -30,7 +30,7 @@ Cho một đồ thị gồm $N$ đỉnh được đánh số từ $1$ đến $N$
 1 7 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 0

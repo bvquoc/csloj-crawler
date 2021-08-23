@@ -9,14 +9,14 @@ Tính tổng của tất cả các số mà các chữ số của nó khác $0$ 
 - Với mỗi test, in ra tổng tìm được trong mô đun $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 17891

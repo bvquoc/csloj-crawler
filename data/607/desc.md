@@ -11,7 +11,7 @@ thành các cạnh. Tìm hình chữ nhật có diện tích lớn nhất mà c�
 - In ra diện tích lớn nhất trong số các hình chữ nhật có thể tạo được. Nếu không thể tạo ra hình chữ nhật nào thì in ra $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 9 5 5 2 3 1 3
@@ -22,7 +22,7 @@ thành các cạnh. Tìm hình chữ nhật có diện tích lớn nhất mà c�
 15
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 4 4 4 4 1
@@ -33,7 +33,7 @@ thành các cạnh. Tìm hình chữ nhật có diện tích lớn nhất mà c�
 16
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9 8 7 6
@@ -44,7 +44,7 @@ thành các cạnh. Tìm hình chữ nhật có diện tích lớn nhất mà c�
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, ta chọn các que diêm thứ $2, 3, 5, 7$. Khi đó ta tạo được hình chữ nhật có chiều dài $5$, chiều rộng $3$ và diện tích $15$.
 - Trong ví dụ thứ hai, ta chọn các que diêm thứ $1, 2, 3, 4$. Khi đó ta tạo được hình vuông có cạnh là $4$ và diện tích $16$. (Lưu ý rằng hình vuông là hình chữ nhật đặc biệt).
 

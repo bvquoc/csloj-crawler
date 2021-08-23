@@ -13,7 +13,7 @@ Trước buổi thuyết trình, Giáo sư nhận được câu hỏi: với hai
 - Dòng sau là $𝑘$ số lần lượt là số hiệu các điểm dừng đỗ tương ứng theo thứ tự trên đường đi, bắt đầu là $𝑠$ và kết thúc là $𝑡$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 10 2 4
 2 1 9 1
@@ -28,7 +28,7 @@ Trước buổi thuyết trình, Giáo sư nhận được câu hỏi: với hai
 3 5 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 2 1 6 3 4

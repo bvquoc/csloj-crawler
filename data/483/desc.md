@@ -16,18 +16,18 @@ Hãy tìm độ dài quãng đường lớn nhất mà Hưng có thể chạy tr
 - Một số nguyên duy nhất là độ dài quãng đường lớn nhất mà Hưng có thể chạy trong một ngày.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 5 3 4 2 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Phút $1$: chạy ($5$m), phút $2$: nghỉ, phút $3$: chạy ($4$m), phút $4, 5$: nghỉ.
 
 ## Giới hạn:

@@ -13,7 +13,7 @@
 - Ghi ra giá trị bé nhất để hợp nhất số vàng khai thác được di chuyển về $K$ đống vàng.
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1
 20 1
@@ -21,15 +21,15 @@
 40 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20
 ```
 
-#### Giải thích:
+### Giải thích:
 - Di chuyển vàng về đống $2$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 10 15
@@ -40,12 +40,12 @@
 32 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 182
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chuyển vàng ở vị trí $1,3,4$ về đống $2$; vị trí $6$ về đống $5$.
 
 ## Giới hạn:

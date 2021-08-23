@@ -25,7 +25,7 @@ Bạn hãy giúp nhà trường loại đi ít thí sinh nhất, sao cho các th
 - Trong $30\%$ số test có $N ≤ 15$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 RGB
@@ -35,19 +35,19 @@ RGB
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 RRR
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

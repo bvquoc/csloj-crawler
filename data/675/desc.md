@@ -12,14 +12,14 @@ Người ta đặt một con Robot lên một tọa độ Descartes tại vị t
 - In ra kết quả bài toán sau khi chia lấy dư cho $\text{mod}$ ở mỗi dòng ứng với mỗi testcase.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4 -3 1 99
 5 2 1 99
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 50

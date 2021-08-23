@@ -14,16 +14,16 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là ước chung lớn nhất tìm được
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3 
 6 9 8 10 15 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - Chọn $3$ số $15, 9, 6$ có ƯCLN bằng $3$

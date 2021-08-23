@@ -12,7 +12,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra trên một dòng hai số nguyên là chỉ số lớp đang giữ cờ vô địch và số lớp đã giữ cờ vô địch trong năm nay.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 3
 2 1
@@ -20,12 +20,12 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sau trận đấu thứ nhất (lớp $2$ thắng lớp $1$), lớp $2$ giữ cờ vô địch;
 - Sau trận đấu thứ hai (lớp $3$ thắng lớp $2$), lớp $3$ giữ cờ vô địch;
 - Trận đấu thứ ba không ảnh hưởng đến lớp giữ cờ vô địch.

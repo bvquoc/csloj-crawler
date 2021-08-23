@@ -15,7 +15,7 @@ Các toạ độ là số nguyên có trị tuyệt đối không vượt quá $
 - Ghi ra $m$ dòng, dòng thứ $i\ (1≤i≤m)$ chứa câu trả lời cho điểm $B_i$. Ghi `1` nếu điểm điểm $B_i$ nằm hoàn toàn bên trong đa giác. Ghi `0` nếu điểm $B_i$ nằm trên cạnh hoặc nằm ngoài đa giác.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 -2 3
@@ -28,7 +28,7 @@ Các toạ độ là số nguyên có trị tuyệt đối không vượt quá $
 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 0

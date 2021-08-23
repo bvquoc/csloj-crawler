@@ -9,12 +9,12 @@ Cho một xâu ký tự $s$ chỉ gồm các chữ cái latin thường. Hãy t�
 - Một số nguyên dương duy nhất là độ dài xâu con đối xứng dài nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcdcbb
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

@@ -16,7 +16,7 @@ Một mạng lưới giao thông gồm $n$ thành phố và $m$ tuyến đườn
 ## Ví dụ:
 <center><img src="/images/problems/549/MSTONES.png" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 8
 1 2
@@ -29,7 +29,7 @@ Một mạng lưới giao thông gồm $n$ thành phố và $m$ tuyến đườn
 6 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 6 7 6 5 2 5 6 2 4 3 2 3 4 2 1
 ```

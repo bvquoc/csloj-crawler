@@ -14,7 +14,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra một dòng duy nhất chứa số nguyên dương là số lượng tờ tiền ít nhất nếu có phương án trả, ngược lại ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 130
 10 60 100
@@ -25,7 +25,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trả hai tờ $60$ và một tờ $10$
 
 ## Giới hạn:

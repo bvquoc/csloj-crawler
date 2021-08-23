@@ -13,22 +13,22 @@ Hãy viết chương trình kiểm tra bài làm của Hùng bằng cách viết
 - Gồm một dòng duy nhất chứa một số thực làm tròn đến đúng một chữ số sau dấu phẩy thập phân là góc giữa kim giờ và kim phút tính bằng độ. Lưu ý rằng giá trị cần in ra phải không âm và không vượt quá $180.0$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 30.0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 50
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 145.0
 ```

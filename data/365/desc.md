@@ -13,7 +13,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi trên một dòng $k$ số nguyên theo thứ tự là đáp số của bài toán ứng với $k$ cặp số $u, v$. Hai số liên tiếp được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 1 2 3 4 5
@@ -21,7 +21,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15 9
 ```

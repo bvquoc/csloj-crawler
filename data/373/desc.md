@@ -8,14 +8,14 @@ Cho một chuỗi ký tự chỉ gồm các ký tự chữ cái latinh, chữ s�
 - Gồm $T$ dòng, mỗi dòng là một số nguyên là số khoảng trống của chuỗi đầu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 abc   xyz ab
  abc def ghi
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3

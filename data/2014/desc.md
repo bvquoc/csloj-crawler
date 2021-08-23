@@ -17,7 +17,7 @@ Bạn được cho trước biểu thức chỉ gồm các phép toán $+/-$, b�
 - Ghi một số duy nhất là số cách thêm ngoặc thỏa mãn các yêu cầu (mod $10^9$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 -
@@ -28,7 +28,7 @@ Bạn được cho trước biểu thức chỉ gồm các phép toán $+/-$, b�
 +
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -8,7 +8,7 @@ Cho một số nguyên dương trong hệ cơ số $16$, hãy viết số đó t
 - Với mỗi số nguyên dương $n$ trong hệ thập lục phân, in ra trên một dòng xâu nhị phân biểu diễn số đó trong hệ nhị phân (không bắt đầu bởi số $0$).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5
@@ -16,7 +16,7 @@ Cho một số nguyên dương trong hệ cơ số $16$, hãy viết số đó t
 A
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 101
 111

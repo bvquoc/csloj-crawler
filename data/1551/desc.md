@@ -1,6 +1,6 @@
 <center><img src="/images/problems/1551/GIFT11.svg" width="100%" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2
@@ -13,7 +13,7 @@
 1 2 3 4 5 6 7 8 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2

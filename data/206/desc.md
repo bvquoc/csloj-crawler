@@ -7,25 +7,25 @@ Tìm tất cả các giá trị nguyên dương $x\ (0< x < 10^9)$ là nghiệm 
 - Ghi ra một số nguyên duy nhất là số lượng nghiệm nguyên dương $x$ thỏa mãn phương trình.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các nghiệm là: $10, 2008, 13726$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 -18
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

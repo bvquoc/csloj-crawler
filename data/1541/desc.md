@@ -16,7 +16,7 @@ Với hai đỉnh $u$ và $v$ trên đồ thị, gọi $d(u, v)$ là trọng s�
 - Một dòng duy nhất với $n$ số nguyên $S(1), S(2), …, S(n)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 3
@@ -26,12 +26,12 @@ Với hai đỉnh $u$ và $v$ trên đồ thị, gọi $d(u, v)$ là trọng s�
 3 1 97
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 264 174 174
 ```
 
-#### Giải thích:
+### Giải thích:
 Trong ví dụ trên, ta có:
 - $d(1, 2) = d(2, 1) = 22 * 6 = 132$;
 - $d(2, 3) = d(3, 2) = 7 * 6 = 42$;

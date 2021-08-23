@@ -35,7 +35,7 @@ Trong tất cả các test có $n,q \le 10^5$, chi phí để đi qua các con �
 | 20 ~ 24 |   20   |  $10^5$  |  $5 \times 10^4$  |    C2    |
 | 25 |   4   |  $10^5$  |  $10^5$  |    C2    |
 
-#### Ý nghĩa các ràng buộc bổ sung:
+### Ý nghĩa các ràng buộc bổ sung:
 
 + A: Con đường thứ $i$ đi từ mảnh vườn thứ $i$ đến mảnh vườn thứ $i + 1$
 + B: con đường thứ $i$ đi từ mảnh vườn thứ $\lfloor \frac{i+1}{2} \rfloor$ đến mảnh vườn thứ $i+1$
@@ -44,7 +44,7 @@ Trong tất cả các test có $n,q \le 10^5$, chi phí để đi qua các con �
 + 2: Không có ràng buộc thêm về các sự kiện
 
 ## Ví dụ (Tải test đề bài và 2 test mẫu khác ở "Tệp đính kèm" phía trên đề bài):
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2 1
@@ -58,7 +58,7 @@ Trong tất cả các test có $n,q \le 10^5$, chi phí để đi qua các con �
 2 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 6
@@ -67,7 +67,7 @@ Trong tất cả các test có $n,q \le 10^5$, chi phí để đi qua các con �
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sau sự kiện thứ nhất: chưa có vườn cây nào được thu hoạch nên kết quả là $0$
 - Sau sự kiện thứ hai: Có một lái buôn ở vườn thứ $3$ thu hoạch luôn vườn cây này (cách duy nhất), kết quả thu được là $5 + 1=6$
 - Sau sự kiện thứ ba và thứ tư có thêm hai lái buôn ở vườn cây số $1$ và số $4$ nhưng phương án tốt nhất vẫn là cho lái buôn ở vườn cây số $3$ thu hoạch vườn cây thứ $3$ nên kết quả vẫn là $6$

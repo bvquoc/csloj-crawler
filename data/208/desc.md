@@ -8,13 +8,13 @@ Cho $N$ số nguyên dương $a_1,a_2,…,a_N$. Với mỗi giá trị $a_i, ∀
 - Ghi trên $N$ dòng, dòng thứ $i$ ghi số ước số của $a_i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 2 3 5 7 4 8	2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2

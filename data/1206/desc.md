@@ -13,7 +13,7 @@ Một mạng nội bộ gồm $n$ máy. Máy thứ $i$ được đặt mật kh�
 - Ghi ra một số nguyên duy nhất là số cách chọn tìm được. Đưa ra theo module $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 2
 0 1 0 1
@@ -23,7 +23,7 @@ Một mạng nội bộ gồm $n$ máy. Máy thứ $i$ được đặt mật kh�
 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 50
 ```

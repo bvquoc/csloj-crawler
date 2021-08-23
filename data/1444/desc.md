@@ -15,7 +15,7 @@ Cho $𝑛$ điểm trên mặt phẳng với hệ tọa độ Đề-các vuông 
 - Ứng với mỗi bộ dữ liệu vào, ghi ra hai số nguyên dương $𝑑, 𝑘$ trên một dòng là đáp số cho hai câu hỏi tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 7
@@ -28,7 +28,7 @@ Cho $𝑛$ điểm trên mặt phẳng với hệ tọa độ Đề-các vuông 
 6 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 4
 ```

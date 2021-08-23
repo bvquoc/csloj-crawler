@@ -13,7 +13,7 @@ Bờm mới sưu tầm được một bài toán trên lưới ô vuông sau đ�
 - Ghi ra một số nguyên $k$ là số lượng cách di chuyển thoả mãn các điều kiện đặt ra. Nếu $k ≥ 1000003$, hãy ghi phân dư của phép chia $k$ cho $1000003$.
 
 ## Vị dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 loc
@@ -22,11 +22,11 @@ gos
 logos
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $5$ cách di chuyển tạo thành xâu `logos` như hình sau:
 <center><img src="/images/problems/1235/CPATH.svg" width="500px" /></center>

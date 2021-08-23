@@ -15,13 +15,13 @@ Xâu cơ sở của hai xâu $S$ và $T$ là xâu $q$ có độ dài lớn nhấ
 - Ghi ra xâu $q$ nếu tìm được, ngược lại ghi ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 aaa
 aa
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 a
 ```

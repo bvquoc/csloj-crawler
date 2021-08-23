@@ -9,17 +9,17 @@ Cho hai số nguyên dương $L≤R$. Đếm số lượng số nằm giữa $L$
 - Ghi ra một số nguyên duy nhất là đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Số $4$ và số $9$ nằm trong đoạn từ $4$ đến $10$ có đúng $3$ ước nguyên dương.
 
 ## Giới hạn:

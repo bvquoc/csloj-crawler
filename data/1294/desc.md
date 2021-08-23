@@ -10,22 +10,22 @@ thể hơn với mỗi số $i\ (2 ≤ i ≤ N)$ Dubu sẽ phải tính xem lư�
 - Gồm một số nguyên là tổng các số $M$ trong tất cả các trường hợp.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 34
 ```

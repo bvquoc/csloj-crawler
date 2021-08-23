@@ -18,7 +18,7 @@ Bạn hãy viết một chương trình: cho hệ số của các tầng cách n
 - Ghi một số duy nhất là hệ số cách nhiệt lớn nhất của tấm tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 5
@@ -27,7 +27,7 @@ Bạn hãy viết một chương trình: cho hệ số của các tầng cách n
 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```

@@ -4,7 +4,7 @@
 <img src="/images/problems/1065/teaworld.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 5 4
 0 10 0 1
@@ -27,13 +27,13 @@
 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 254
 ```
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 0
 0 0 0 1
@@ -42,7 +42,7 @@
 1 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

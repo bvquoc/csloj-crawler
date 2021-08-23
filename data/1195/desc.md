@@ -14,7 +14,7 @@ Có $n$ quả bóng bay, mỗi quả có một trong số $4$ màu $\{R,B,G,Y\}$
 - Ghi ra kết quả mỗi test trên một dòng dưới dạng số nguyên theo thứ tự nhập.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 BBGGBBYYY
@@ -23,7 +23,7 @@ BGGBGGGG
 GBGB
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 29
 13

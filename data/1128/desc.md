@@ -3,13 +3,13 @@
 
 <img src="/images/problems/1128/circle.svg" width=1080px>
 
-#### Dữ liệu:
+### Dữ liệu:
 ```
 6
 2 3 1 5 6 4
 ```
 
-#### Kết quả:
+### Kết quả:
 ```
 2
 1 4

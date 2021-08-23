@@ -16,7 +16,7 @@ Nhân quyết định mua những tấm thiệp có cùng kích thước với n
 - Ghi ra $N$ dòng, dòng thứ $i$ là kết quả của trường hợp thứ $i$ mà Nhân nghĩ đến.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 8 8 3 10
@@ -33,7 +33,7 @@ Nhân quyết định mua những tấm thiệp có cùng kích thước với n
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trường hợp $1:$ Thiệp $8×8$ có thể tạo siêu thiệp $8×8$
 - Trường hợp $2:$ Thiệp $7×7$ có thể tạo siêu thiệp $14×7$
 - Trường hợp $3:$ Thiệp $2×2$ có thể tạo siêu thiệp $4×22$

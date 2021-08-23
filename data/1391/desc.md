@@ -35,7 +35,7 @@ Dữ liệu đảm bảo có ít nhất một kết nối từ $s$ đến $t$ kh
 1 2 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1

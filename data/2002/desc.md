@@ -18,7 +18,7 @@ The input consists of multiple test cases.
 - For each test case, print the minimum number of moves required.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2 3 4
@@ -35,7 +35,7 @@ The input consists of multiple test cases.
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6 2 0 8
 ```

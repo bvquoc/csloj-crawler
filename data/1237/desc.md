@@ -14,14 +14,14 @@ Trung tâm máy tính cần phân máy thực hành cho $N$ lớp sinh viên (đ
 - Dòng thứ hai ghi $N$ số, trong đó số thứ $i$ cho biết chỉ số phòng máy phân cho lớp $i$ theo cách phân bố tìm được (ghi số $0$ nếu lớp $i$ không được phân phòng máy).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 5 3 4
 3 5 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 0 2 4

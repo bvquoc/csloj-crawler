@@ -17,7 +17,7 @@ Cho một dãy ngoặc đúng độ dài $𝑁$. Hãy xác định giá trị c�
 - Một số nguyên duy nhất là kết quả tìm được, lấy phần dư khi chia cho $12345678910$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 0
@@ -28,7 +28,7 @@ Cho một dãy ngoặc đúng độ dài $𝑁$. Hãy xác định giá trị c�
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -7,17 +7,17 @@ Cho xâu ký tự $s$ chỉ gồm các chữ cái latin và chữ số. Ta gọi
 - Một dòng duy nhất ghi số nguyên là số lượng số xuất hiện trong xâu $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 A0123b345
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các số xuất hiện trong xâu `A0123b345` là $0123$ và $345$.
 
 ## Giới hạn:

@@ -7,12 +7,12 @@ Cho $n$ điểm phân biệt trên mặt phẳng, hỏi có bao nhiêu đoạn t
 - Một số nguyên duy nhất là đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

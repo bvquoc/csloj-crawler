@@ -9,22 +9,22 @@ Một số nguyên dương $n > 1$ được gọi là số nguyên tố nếu n�
 - Ghi ra trên một dòng các số nguyên tố nhỏ hơn hoặc bằng $n$, các số được ghi ra theo thứ tự tăng dần, hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 3 5 7
 ```

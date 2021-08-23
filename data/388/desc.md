@@ -10,22 +10,22 @@ $${C_n} = \frac{1}{{n + 1}}C_{2n}^n = \frac{{\left( {2n} \right)!}}{{\left( {n +
 - Một số nguyên duy nhất $C_n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 132
 ```

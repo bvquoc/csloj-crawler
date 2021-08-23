@@ -10,18 +10,18 @@ Hãy tính số điểm lớn nhất có thể đạt được từ một lượ
 - Một số nguyên duy nhất là giá trị lớn nhất có thể thực hiện được ở một lượt chơi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 4 9 2 4 1 3 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta lần lượt chọn $5$ số như hình sau:
  <center><img src="/images/problems/433/DPLINEGAME.jpg" width=250px></center>
 

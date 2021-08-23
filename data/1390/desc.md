@@ -12,13 +12,13 @@ trong đó $gcd(S)$ là số nguyên dương lớn nhất là ước của tất
 - Một số nguyên là kết quả bài toán sau khi chia lấy dư cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 100
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

@@ -13,7 +13,7 @@ Cho mạng $𝐺 = (𝑉, 𝐸, 𝑐, 𝑠, 𝑡)$. Xác định luồng cực �
 ## Ví dụ:
 <center><img src="/images/problems/1427/FLOW.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8 1 6
 5 6 6
@@ -26,7 +26,7 @@ Cho mạng $𝐺 = (𝑉, 𝐸, 𝑐, 𝑠, 𝑡)$. Xác định luồng cực �
 1 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 3

@@ -14,7 +14,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số duy nhất là số cặp đỉnh u,v thỏa mãn yêu cầu đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2
@@ -24,12 +24,12 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $3$ cặp đỉnh thỏa mãn yêu cầu đề bài là khi loại bỏ một cạnh bất kỳ thì vẫn tồn tại đường đi giữa hai đỉnh là $(1;2),(2;3),(3;1)$.
 
 ## Giới hạn:

@@ -14,7 +14,7 @@ BTC rất muốn biết những bạn nào có khả năng vô địch giải đ
 - Dòng thứ hai ghi chỉ số của những bạn có khả năng vô địch theo thứ tự tăng dần, hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1 0
@@ -22,13 +22,13 @@ BTC rất muốn biết những bạn nào có khả năng vô địch giải đ
 1 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 1 2 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 1 1 1 1 0 1
@@ -40,12 +40,12 @@ BTC rất muốn biết những bạn nào có khả năng vô địch giải đ
 0 1 0 0 0 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 1 3 6
 ```
-#### Giải thích:
+### Giải thích:
 - Trong test $\#1$: Tương quan thắng thua của $3$ bạn như hình sau (Mũi tên chỉ vào ai là người đó thắng)
  <center><img src="/images/problems/450/DPFIGHT.svg" width=300px></center>
 

@@ -21,7 +21,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - $20\%$ số test còn lại ứng với $20\%$ số điểm của bài thỏa mãn điều kiện: $m × m < 10^5$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3 3
 2 1 0
@@ -31,10 +31,10 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 1 3 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 Trước tiên tác động vào công tắc ở ô $(1, 3)$, sau đó tác động vào công tắc ở ô $(1, 2)$, khi đó tất cả các đèn trên giàn đều sáng màu đỏ.

@@ -14,7 +14,7 @@ Nhiệm vụ của bạn là giúp công ty BETA tìm $2$ tuyến đường đ�
 - Lợi nhuận lớn nhất thu được của công ty.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2
@@ -24,12 +24,12 @@ Nhiệm vụ của bạn là giúp công ty BETA tìm $2$ tuyến đường đ�
 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2
@@ -37,7 +37,7 @@ Nhiệm vụ của bạn là giúp công ty BETA tìm $2$ tuyến đường đ�
 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

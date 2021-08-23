@@ -15,7 +15,7 @@ Tây bắc Si bê ri là vùng khai thác dầu mỏ quan trọng của nước 
 - Nếu kết quả là `YES` thì dòng thứ hai chứa `k` số nguyên cho biết các trạm cần đặt bộ cảm biến, các số đưa ra theo thứ tự tăng dần.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 6 2
 1 2
@@ -26,7 +26,7 @@ Tây bắc Si bê ri là vùng khai thác dầu mỏ quan trọng của nước 
 2 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 12

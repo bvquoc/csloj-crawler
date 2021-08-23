@@ -9,12 +9,12 @@ Với số nguyên $n$ cho trước $(0 < n ≤ 100)$, hãy xác định số x�
 - Một số nguyên duy nhất là số lượng xâu tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 ```

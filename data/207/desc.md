@@ -10,22 +10,22 @@ Trong đó $x, N$ là những số nguyên dương, $S(x)$ bằng tổng các ch
 - Ghi ra một số nguyên duy nhất $x$ nhỏ nhất thỏa mãn phương trình. Trong trường hợp không tìm được $x$ thì ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

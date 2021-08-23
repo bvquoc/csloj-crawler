@@ -10,13 +10,13 @@ Hãy xác định xem trong dãy $𝐴$ có tồn tại hai phần tử $a_p,a_q
 - Ghi ra hai chỉ số $p,q$ tìm được. Nếu không tồn tại cặp số thỏa mãn yêu cầu, ghi ra hai số $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 88
 11 33 55 99 33 77 99
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 1
 ```

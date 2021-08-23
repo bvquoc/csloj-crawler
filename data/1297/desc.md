@@ -10,7 +10,7 @@ Dubu được một người bạn tặng cho một mảnh vải siêu to khổn
 - Gồm một số nguyên duy nhất là diện tích của hình chữ nhật mà Dubu có thể cắt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 0 0 0 0
@@ -19,7 +19,7 @@ Dubu được một người bạn tặng cho một mảnh vải siêu to khổn
 0 0 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

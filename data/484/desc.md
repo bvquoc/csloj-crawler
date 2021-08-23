@@ -16,43 +16,43 @@ Bạn hãy giúp An tính toán tổng độ dài lớn nhất của $k$ xâu th
 - Một số nguyên duy nhất là giá trị lớn nhất của $|p_1| + |p_2| + ⋯ + |p_k$|, nếu không tồn tại cách tách xâu thỏa mãn thì đưa ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 abc
 ab
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 bbaaababb
 abbbabbaaaba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 abc
 def
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test $2$: $4$ xâu tách được là `bb`, `a`, `aa`, `ba`.
 - $s =$ `bb|a|aa|ba|b|b`
 - $t =$ `a|bb|babb|a|aa|ba`

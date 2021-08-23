@@ -16,7 +16,7 @@ Hành trình tuần tra của một cảnh sát giao thông như sau: Xuất ph�
 ## Ví dụ:
 <center><img src="/images/problems/1429/PATROL.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2
@@ -29,12 +29,12 @@ Hành trình tuần tra của một cảnh sát giao thông như sau: Xuất ph�
 6 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - CS $1$ đi $1 → 2 → 4 → 6 → 4 → 6$;
 - CS $2$ đi $1 → 2 → 5 → 6$
 - CS $3$ đi $1 → 3 → 5 → 6$.

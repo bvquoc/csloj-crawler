@@ -12,7 +12,7 @@ Giả thiết rằng phòng triển lãm được thiết kế sao cho luôn t�
 - Một số nguyên duy nhất là diện tích của phần trong đa giác có thể dùng để đặt ghế ngồi của nhân viên bảo vệ. Kết quả được ghi dưới dạng số thực với ba chữ số phần thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 1 0
@@ -29,7 +29,7 @@ Giả thiết rằng phòng triển lãm được thiết kế sao cho luôn t�
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1.000
 ```

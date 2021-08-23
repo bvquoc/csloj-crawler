@@ -12,20 +12,20 @@ Hãy tính số bước ít nhất để đưa chồng bánh về theo ý muốn
 - Gồm $T$ dòng tương ứng với kết quả trong dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4 4 3 2 1
 8 8 7 6 5 4 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 4 4 3 2 1
@@ -33,27 +33,27 @@ Hãy tính số bước ít nhất để đưa chồng bánh về theo ý muốn
 5 5 1 2 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 555555 111111 222222 444444 333333
 8 1000000 999999 999998 999997 999996 999995 999994 999993
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 555555 111111 222222 444444 333333
@@ -61,7 +61,7 @@ Hãy tính số bước ít nhất để đưa chồng bánh về theo ý muốn
 5 3 8 7 6 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 0

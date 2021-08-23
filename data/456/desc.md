@@ -7,17 +7,17 @@ Cho hai số nguyên dương $A$ và $B$. Tính tổng các số nguyên dương
 - Một dòng duy nhất ghi số nguyên là đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 25
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các số nguyên dương là ước chung của $15$ và $25$ là $1$ và $5$. Do đó tổng bằng $6$.
 
 ## Giới hạn:

@@ -9,22 +9,22 @@ Có $n$ người bạn đến dự tiệc tại nhà Cu Tí. Biết rằng mỗi
 - Một số nguyên duy nhất là số lượng cái bắt tay.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

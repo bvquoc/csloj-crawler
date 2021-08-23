@@ -14,13 +14,13 @@ khoảng cách tới $𝐴$ và đều là lớn nhất, cần chỉ ra giá tr�
 - Ghi ra một số nguyên duy nhất là giá trị số $𝑥$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 8
 2 4 6 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

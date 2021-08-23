@@ -15,18 +15,18 @@ Có $N$ em thiếu nhi đứng thành một hàng ngay ngắn, người đứng 
 - Dòng thứ hai ghi $N$ số nguyên là phương án chia kẹo thỏa mãn yêu cầu và chênh lệch giữa em ít nhất và em nhiều nhất là nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2 2 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có hai cách chia kẹo là $3, 1, 1$ và $2, 2, 1$, phương án chia thứ hai có sự chênh lệch giữa em nhận ít kẹo và em nhận nhiều kẹo là nhỏ nhất ($1$ cái).
 
 ## Giới hạn:

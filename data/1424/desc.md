@@ -16,7 +16,7 @@ Vì thực khách là những người nước ngoài, không biết những th�
 Các số trên một dòng được ghi cách nhau ít nhất một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 8
 1 1
@@ -29,7 +29,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 3
 2 3 5

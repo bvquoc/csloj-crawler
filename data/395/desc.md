@@ -18,7 +18,7 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 - Nếu tồn tại hành trình, các dòng tiếp theo ghi một hành trình từ nhà bé khăn đỏ sang nhà bà, mỗi dòng ghi hai số nguyên $u, v$ là chỉ số dòng, chỉ số cột của ô trên hành trình. Hành trình được liệt kê theo thứ tự các ô đi qua (Bắt đầu từ ô $(1, 1)$ đến ô $(M, N)$) 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 0 3 0 0 0
@@ -27,7 +27,7 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 -1 1 1 1 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 1 1
@@ -40,7 +40,7 @@ Trên đường đi, bé khăn đỏ muốn hái tặng bà một bó hoa đẹp
 4 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Những ô tô màu vàng là hành trình đi (trừ ô đầu và ô cuối)
 <center><img src="/images/problems/395/BTFLOWER_2.PNG"></center>
 

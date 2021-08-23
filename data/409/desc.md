@@ -11,14 +11,14 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một dòng duy nhất chứa m số nguyên, trong đó số thứ $i$ $(1 ≤ i ≤ m)$ là chỉ số $j$ nhỏ nhất mà $a_j = b_i$ (nếu tồn tại) và là $0$ nếu ngược lại. Hai số liên tiếp được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 5
 6 4 7 2 4 1 3
 3 1 5 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 6 0 2 0
 ```

@@ -11,14 +11,14 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một xâu nhị phân độ dài $m$, trong đó ký tự thứ $i$ $(1 ≤ i ≤ m)$ là `1` nếu $b_i$ có xuất hiện trong dãy $a_1, a_2, …, a_n$, và là `0` nếu ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 5
 1 2 3 4 4 6 7
 3 1 5 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11010
 ```

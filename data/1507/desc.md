@@ -20,7 +20,7 @@ Bến xe khách liên tỉnh `XYZ` có $M$ điểm đỗ đón xe khách cập b
 - **Subtask** $\#4$ $(25\% \text{ số điểm}): 1≤ N, M ≤ 50000$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 4 3
@@ -29,12 +29,12 @@ Bến xe khách liên tỉnh `XYZ` có $M$ điểm đỗ đón xe khách cập b
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 4 6
@@ -46,11 +46,11 @@ Bến xe khách liên tỉnh `XYZ` có $M$ điểm đỗ đón xe khách cập b
 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất: Xếp xe khách thứ nhất vào một trong các điểm điểm $2, 3, 4$, xếp xe thứ hai vào điểm $1$ (duy nhất), xe thứ $3$ cũng yêu cầu xếp vào điểm $1$ nên không thể đáp úng được.
 - Trong ví dụ thứ hai: Xếp xe thứ $1$ và thứ $2$ vào hai điểm $1, 2$, xe thứ $3$ vào điểm $3$, xe thứ $4$ không đáp ứng được nữa. 

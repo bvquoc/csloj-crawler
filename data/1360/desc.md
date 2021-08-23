@@ -17,7 +17,7 @@ Trong ví dụ trên, đường đi dài nhất trên cây là đường đi t�
 - Đưa ra hai số nguyên tương ứng là độ dài đường đi dài nhất trên cây và số lượng đường đi dài nhất trên cây.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 3
@@ -26,7 +26,7 @@ Trong ví dụ trên, đường đi dài nhất trên cây là đường đi t�
 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 2
 ```

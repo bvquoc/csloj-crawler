@@ -10,18 +10,18 @@ Cho dãy số nguyên gồm $N$ phần tử $a_1, a_2, ..., a_N\ \left(N ≤ 100
 - Một số duy nhất là độ dài dãy con không giảm đơn điệu dài nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1
 6 4 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy ban đầu là $(6, 4, 3, 2)$ mà có $K = 1$ thì dãy sau khi thêm bớt là $(6, 4 − 1, 3, 2 + 1) = (6, 3, 3, 3)$. Lúc này dãy con không giảm đơn điệu dài nhất có độ dài là $3$.
 
 ## Giới hạn:

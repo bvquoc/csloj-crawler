@@ -12,7 +12,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 - Nếu không tồn tại vùng nào cho đủ lượng ngô cần thu hoạch, in ra $-1$. Ngược lại in ra trên một dòng hai số nguyên gồm diện tích khu đất và khối lượng ngô thu được, hai số được ghi cách nhau bởi dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 19
 5 4 0
@@ -20,10 +20,10 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 0 0 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 20
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $1 ≤ M, N ≤ 500; 1 ≤ K ≤ 10^9; 0 ≤ a_i ≤ 10^4$. Tổng lượng ngô không vượt quá $2\times 10^9$.

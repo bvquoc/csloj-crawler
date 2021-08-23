@@ -10,13 +10,13 @@ Cho dãy số nguyên $a_1, a_2, …, a_n$ và một số nguyên dương $k$. H
 - Ghi trung bình cộng lớn nhất tìm được, quy tròn đến số thập phân thứ năm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3
 2 4 5 1 3 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3.66667
 ```

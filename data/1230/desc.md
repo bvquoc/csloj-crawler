@@ -16,12 +16,12 @@ hiện;
 - $K$ dòng tiếp theo mỗi dòng chứa một chỉ số của tam giác con theo thứ tự trên đường di chuyển tìm được bắt đầu từ chỉ số của tam giác xuất phát và kết thúc bởi chỉ số của tam giác cần đến.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 14 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 14

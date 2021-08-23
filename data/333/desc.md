@@ -10,20 +10,20 @@ Cho số nguyên dương $n$, tìm số Amstrong lớn nhất không vượt qu�
 Với mỗi số $n$, ghi ra trên một dòng số Amstrong lớn nhất không vượt quá $n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4
 154
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 153
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test case $\#1$: Số $4$ là số Amstrong vì $4=4^1$
 - Test case $\#2$: Số $153$ là số Amstrong vì $1^3 + 5^3 + 3^3 = 153$ nhưng $154$ không là số Amstrong.
 

@@ -26,14 +26,14 @@ Dữ liệu vào đảm bảo $−10^3 ≤ x_i, y_i ≤ 10^3, 1 ≤ r_i ≤ 10^3
 - Nếu tồn tại điểm tập kết thỏa mãn yêu cầu bài toán, in ra hai số thực làm tròn đến đúng năm chữ số sau dấu phẩy thập phân lần lượt là hoành độ và tung độ của điểm đó. Nếu không tồn tại điểm nào thỏa mãn điều kiện $1$, in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 0 0 10
 300 300 11
 500 -500 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 348.52046 -94.13524
 ```

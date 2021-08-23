@@ -7,12 +7,12 @@ Cho số nguyên dương $N\ (N ≤ 10^{100})$, hãy cho biết $N$ có phải l
 - Nếu $N$ không là số chính phương, ghi ra `NO`, ngược lại ghi ra số nguyên dương $M$ với $M^2=N$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 144
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```

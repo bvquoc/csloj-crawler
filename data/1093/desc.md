@@ -4,7 +4,7 @@
 <img src="/images/problems/1093/simplegraph.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 7 6 5
@@ -21,7 +21,7 @@
 4 7 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 PURPLE

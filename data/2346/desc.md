@@ -13,17 +13,17 @@ Yêu cầu: Hãy tính xác suất nhận được tổng số chấm lớn hơn
 - Gọi xác suất phải tìm là $P$ , biết rằng $V = P ×K^N$ là một số nguyên không âm, hãy in ra phần dư của $V$ khi chia cho $998244353$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 Các trường hợp tung $2$ con xúc xắc đạt tổng lớn hơn $4$ là $(2, 3), (3, 2)$ và $(3, 3)$, mỗi trường hợp xảy ra với xác suất $1/9$, như vậy $V = 3/9 ×3^2 = 3$.
 
 ## Giới hạn:

@@ -4,12 +4,12 @@
 <img src="/images/problems/1069/string.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 hhehellolloelhellolo
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 hello
 ```

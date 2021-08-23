@@ -9,22 +9,22 @@ Tìm $K$ chữ số cuối cùng của $M^N\ (0< K ≤ 9, 0 < M, N ≤ 10^6)$.
 - Một dòng duy nhất chứa **đáp số bài toán**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 01024
 ```

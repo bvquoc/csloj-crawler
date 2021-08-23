@@ -13,19 +13,19 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là lợi nhuận lớn nhất có thể được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 10
 4 5 7
 3 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chọn thầu dự án số $3$ thì có đủ vốn để xây dựng và thu được lợi nhuận là $8$ (Nếu chọn thầu dự án số $1$ và $2$ thì cũng đủ vốn để xây dựng nhưng chỉ thu được lợi nhuận là $7$).
 
 ## Giới hạn:

@@ -12,14 +12,14 @@ Ví dụ, $x = 9, y = 10, k = 10$ và $t = 2$. An có thể ngay lập tức hac
 - Với mỗi test ghi ra một số nguyên duy nhất là số chỉ lớn nhất trên đồng hồ sau $t$ giây trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 6 1 3
 9 10 10 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 30

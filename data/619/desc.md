@@ -13,7 +13,7 @@ Cho $Q$ truy vấn, mỗi truy vấn được cho bởi ba số nguyên $l, r, x
 - In ra $Q$ dòng, dòng thứ $i$ cho biết số vị trí tăng sau khi thực hiện xong truy vấn thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3
 3 5 4 2 4 6 7
@@ -29,7 +29,7 @@ Cho $Q$ truy vấn, mỗi truy vấn được cho bởi ba số nguyên $l, r, x
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sau khi thực hiện xong truy vấn thứ nhất, dãy số trở thành $3, 5, 4, 4, 6, 8, 7$, các vị trí tăng là $2, 6$;
 - Sau khi thực hiện xong truy vấn thứ hai, dãy số trở thành $6, 8, 7, 7, 6, 8, 7$, các vị trí tăng là $2, 4, 6$;
 - Sau khi thực hiện xong truy vấn thứ ba, dãy số trở thành $6, 3, 7, 7, 6, 8, 7$, các vị trí tăng là $1, 4, 6$.

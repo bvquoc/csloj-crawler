@@ -14,14 +14,14 @@ Hai số liên tiếp trên một dòng cách nhau một dấu cách.
 - Ghi ra một số duy nhất là chi phí ít nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 0 1 1
 1 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

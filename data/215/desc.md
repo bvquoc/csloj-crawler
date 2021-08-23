@@ -7,12 +7,12 @@ Cho hai số nguyên $A, B$ và một chữ số $D$. Hãy đếm số lượng 
 - Ghi ra một số duy nhất là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 15 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

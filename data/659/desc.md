@@ -15,7 +15,7 @@ Vì bận đi cắn cáp nên Cá Nóc muốn nhờ các bạn tính giúp mình
 - Ghi ra một số nguyên duy nhất là lượng thể lực tối thiểu mà Cá Nóc cần để đạt được mong muốn của mình.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1
@@ -23,24 +23,24 @@ Vì bận đi cắn cáp nên Cá Nóc muốn nhờ các bạn tính giúp mình
 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 1
 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ $1$: Có thể di chuyển cây ở vị trí $(2, 2)$ sang vị trí $(2, 1)$ và mất $1$ đơn vị thể lực để thu được $3$ cây trên một hàng dọc.
 - Ở ví dụ $2$: Di chuyển cây ở vị trí $(1, 1)$ sang vị trí $(1, 2)$ mất $1$ đơn vị thể lực.
 

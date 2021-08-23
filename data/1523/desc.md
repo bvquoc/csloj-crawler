@@ -28,7 +28,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 Đối với mỗi test, nếu thí sinh đưa ra đúng giá trị tổng độ dài ngắn nhất của các xe dùng để vận chuyển, thí sinh sẽ được $70\%$ số điểm của test đó, nếu tiếp tục đưa ra được một phương án vận chuyển đúng, thí sinh sẽ được $30\%$ số điểm còn lại.
 
 ## Vị dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 10
 12 9 49 51
@@ -37,7 +37,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 2 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 3
@@ -46,7 +46,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 1 2 1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1523/equake.png" width=400px></center>
 
 - Cần hai xe vận chuyển $19$ nhân viên cứu hộ từ thành phố $3$ về thành phố $1$ và hai xe vận chuyển $20$ nhân viên cứu hộ từ thành phố $4$ về thành phố $2$, cuối cùng cần một xe vận chuyển $1$ nhân viên từ thành phố $1$ sang thành phố $2$. Độ chênh lệch nhân viên cứu hộ giữa các thành phố bằng $1$ và tổng độ dài đường đi của các xe là $2×1 + 2×2 + 1×1 = 7$ (km).

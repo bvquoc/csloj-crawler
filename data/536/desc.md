@@ -15,7 +15,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 ## Ví dụ:
 <center><img src="/images/problems/536/AFLOWERS.png" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 16
 1 2
@@ -36,7 +36,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 12 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 2 3 7

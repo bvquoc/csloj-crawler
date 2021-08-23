@@ -12,7 +12,7 @@ Khi khai quật một di chỉ thời trung cổ, các nhà khảo cổ đào đ
 - Đưa ra một số nguyên – số phản ứng cần thực hiện hoặc số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 Aqua -> AquaVita
@@ -24,7 +24,7 @@ Aqua
 Aurum
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

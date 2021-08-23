@@ -12,24 +12,24 @@ Hãy giúp Bờm giải quyết bài toán trên.
 - Ghi ra một số nguyên duy nhất là số dãy con liên tiếp có chênh lệnh giữa số lớn nhất và số nhỏ nhất là một số chẵn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 4 5 2 6 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9
 4 3 6 8 4 3 5 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 17
 ```

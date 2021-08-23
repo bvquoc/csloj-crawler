@@ -16,14 +16,14 @@ Với một số nguyên dương $n$, Hoàng viết liên tiếp tất cả $n$ 
 - In ra $T$ dòng, dòng thứ $i$ ghi kết quả của test thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 10 10
 8 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 792329
 7719

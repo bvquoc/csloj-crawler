@@ -17,19 +17,19 @@ Giáo sư biết các học trò của mình là những lập trình viên rấ
 - **Subtask** $\#3$: $50\%$ số test còn lại tương ứng với $50\%$ số điểm có $300\le N, M \le 2000$
 
 ## Ví dụ (Tải test đề bài và 2 test mẫu khác ở "Tệp đính kèm" phía trên đề bài):
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 .#.
 ..#
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 Trong ví dụ này, ma trận giá trị tiềm năng của các ô đất như sau:
 <pre>
 2 0 1

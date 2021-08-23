@@ -21,7 +21,7 @@ Trong bài giảng chuyên đề về thành phần liên thông trên đồ th�
 - Ghi ra $k$ dòng, mỗi dòng chỉ ra một số nguyên là số thành phần máy tính liên thông tương ứng với mỗi thí nghiệm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 5
 1 2
@@ -38,7 +38,7 @@ Trong bài giảng chuyên đề về thành phần liên thông trên đồ th�
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 5

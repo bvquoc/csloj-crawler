@@ -8,7 +8,7 @@ Cho một số nguyên dương trong hệ thập phân, hãy viết số đó tr
 - Với mỗi số ở hệ thập phân phân, in ra trên một dòng số đó trong hệ thập lục phân (Các ký tự `A`..`F` viết hoa).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5
@@ -16,7 +16,7 @@ Cho một số nguyên dương trong hệ thập phân, hãy viết số đó tr
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 7

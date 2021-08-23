@@ -8,7 +8,7 @@ Cho một bảng hình chữ nhật kích thước $M×N$, trên các ô của b
 - Một số nguyên dương duy nhất là số HCN thỏa yêu cầu bài toán đếm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 ABC
@@ -17,7 +17,7 @@ BBC
 ABC
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 ```

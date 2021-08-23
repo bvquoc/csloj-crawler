@@ -10,13 +10,13 @@ Biết rằng: Ta nói phần tử trung vị của dãy $C$ có độ dài $M$ 
 - Ghi ra giá trị của phần tử trung vị.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 0 1 2 4 6 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

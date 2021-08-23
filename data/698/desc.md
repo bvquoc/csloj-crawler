@@ -12,14 +12,14 @@ Cho số nguyên dương $N\ (N ≤ 10^{100})$, hãy cho biết $N$ có phải l
 - Ghi ra $T$ dòng, dòng thứ $i$ là `YES` nếu $N_i$ là số đẹp, ngược lại ghi ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 18
 1234
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO

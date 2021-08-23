@@ -21,7 +21,7 @@ Giáo sư rất muồn biết trong hệ thống vườn và đường của mì
 - **Subtask** $\#3$: $30\%$ số điểm không có ràng buộc gì thêm.
 
 ## Ví dụ (Tải test đề bài và 2 test mẫu khác ở "Tệp đính kèm" phía trên đề bài):
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 acdbabcd
@@ -34,12 +34,12 @@ acdbabcd
 8 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1504/palinpath.svg" width=400px></center>
 
 **<center>Hình minh họa cho test ví dụ</center>**

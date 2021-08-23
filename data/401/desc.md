@@ -21,7 +21,7 @@ Bạn được cho một danh sách các mật khẩu, hãy viết chương trì
 Ghi trên một dòng $n$ số nguyên là độ an toàn của $n$ mật khẩu (theo đúng thứ tự), hai số liên tiếp ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 Password
@@ -30,7 +30,7 @@ A1234
 Abcd123456
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 4 2 10
 ```

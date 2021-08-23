@@ -20,7 +20,7 @@ Ngoài ra còn có các số $4, 22, 27, 58, 85, 94$ là các số may mắn.
 - Ghi trên $t$ dòng, dòng $i$ ghi câu trả lời cho câu hỏi $i$, ghi $1$ nếu $n$ là số may mắn, ngược lại ghi $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 378
@@ -28,7 +28,7 @@ Ngoài ra còn có các số $4, 22, 27, 58, 85, 94$ là các số may mắn.
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

@@ -26,18 +26,18 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - $20\%$ số test còn lại ứng với $20\%$ số điểm của bài thỏa mãn điều kiện: $n\le 300$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 1 3 10 2 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 - Bước $1$: Alice chọn hai thẻ cuối hàng là $1$ và $4$ và nhận được số tiền thưởng là $|4-1|=3$;
 - Bước $2$: Alice loại thẻ cuối hàng có giá trị $2$;
 - Bước $3$: Alice chọn một thẻ đầu hàng và một thẻ cuối hàng có giá trị là $1$ và $10$ và nhận được số tiền thưởng là $|10-1|=9$;

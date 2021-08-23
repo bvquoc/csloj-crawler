@@ -12,7 +12,7 @@ Sau khi chơi một số lượt, An tự hỏi liệu mình có thể thắng B
 - Với mỗi test, nếu An luôn thắng Bình thì ghi ra một dòng chứa từ `YES`, ngược lại, ghi ra một dòng chứa từ `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 1
@@ -23,7 +23,7 @@ Sau khi chơi một số lượt, An tự hỏi liệu mình có thể thắng B
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 YES

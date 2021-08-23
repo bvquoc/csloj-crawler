@@ -17,7 +17,7 @@ Các số trên một dòng được ghi cách nhau một dấu cách.
 - Một số nguyên duy nhất là lợi nhuận lớn nhất thu được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 4 2200 700
@@ -30,12 +30,12 @@ Các số trên một dòng được ghi cách nhau một dấu cách.
 3 2400 4550
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 350
 ```
 
-#### Giải thích:
+### Giải thích:
 - Mua $2$ máy tính số $1$ và số $4$ với tổng số tiền là $1450$;
 - Cung cấp dịch vụ cho $2$ đơn hàng số $1$ và số $2$ thu được $1800$;
 

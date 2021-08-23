@@ -25,7 +25,7 @@ Nhiệm vụ của bạn là, với mỗi nhà thầu, xác định chi phí xâ
 - Trong $30\%$ số test tiếp theo có $M < N$ và luôn có cách đi giữa hai thành phố bất kì sử dụng đường bộ.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 3
 2 4 9
@@ -35,7 +35,7 @@ Nhiệm vụ của bạn là, với mỗi nhà thầu, xác định chi phí xâ
 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 38

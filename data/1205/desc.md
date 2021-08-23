@@ -12,13 +12,13 @@ Một trang trại có $n$ chú bò, chú bò thứ $i$ có chiều cao $h_i$ n�
 - Ghi ra $n$ số nguyên, số thứ $i$ là số lượng chuồng bò mà chú bò $i$ có thể ghé thăm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3 
 3 7 4 2 5 6 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 7 6 3 6 6 7
 ```

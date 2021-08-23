@@ -17,7 +17,7 @@ Hãy đưa ra câu trả lời cho mỗi truy vấn loại $2$.
 - Với mỗi truy vấn loại $2$, ghi ra trên một dòng chứa một số nguyên là câu trả lời của truy vấn đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 3 4 5
@@ -27,13 +27,13 @@ Hãy đưa ra câu trả lời cho mỗi truy vấn loại $2$.
 2 1 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với truy vấn đầu tiên: $gcd(a_1, 2) = 2, gcd(a_2, 2) = 1,  gcd(a_3, 2) = 2\text{ và }gcd(a_4, 2) = 1$, do đó câu trả lời là $2$.
 - Với truy vấn thứ ba: chỉ có $gcd(a_4, 2) = 1$, do đó câu trả lời là $1$.
 

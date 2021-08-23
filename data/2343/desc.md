@@ -11,15 +11,15 @@ Xét dãy fibonacci như sau:
 - Một số nguyên duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta có: $f_6 = 8$ nên $f_{f_6} = f_8 = 21$ và tính theo modulo $100$ vẫn là $21$.

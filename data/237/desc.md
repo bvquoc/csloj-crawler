@@ -10,13 +10,13 @@ Ban lãnh đạo muốn bạn viết một chương trình xác định: nếu m
 - Ghi một số duy nhất là giảm giá lớn nhất của một người nếu người đó mua toàn bộ các sản phẩm của siêu thị mỗi loại một đơn vị.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 400 100 200 350 300 250
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 400
 ```

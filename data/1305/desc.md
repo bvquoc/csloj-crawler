@@ -14,7 +14,7 @@ Trong đó $⌊𝑥⌋$ là phần nguyên của $𝑥$ (số nguyên lớn nh�
 - Mỗi dòng ghi số nguyên kết quả của một test (theo thứ tự trong **dữ liệu vào**).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 13
 1
@@ -32,7 +32,7 @@ Trong đó $⌊𝑥⌋$ là phần nguyên của $𝑥$ (số nguyên lớn nh�
 10000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1

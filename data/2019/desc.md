@@ -13,7 +13,7 @@ Hãy giúp Shacha, quản lí quán bar bật tất cả các bóng đèn với 
 - In ra số thao tác ít nhất cần thực hiện, hoặc $-1$ nếu việc bật tất cả các bóng là không thực hiện được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5  
 *****
@@ -23,23 +23,23 @@ Hãy giúp Shacha, quản lí quán bar bật tất cả các bóng đèn với 
 *****
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 
 .*
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3  
 **.
@@ -47,12 +47,12 @@ Hãy giúp Shacha, quản lí quán bar bật tất cả các bóng đèn với 
 ...
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4   
 *...
@@ -61,7 +61,7 @@ Hãy giúp Shacha, quản lí quán bar bật tất cả các bóng đèn với 
 ...*
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

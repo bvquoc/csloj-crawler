@@ -7,7 +7,7 @@ Cho một bàn cờ hình vuông kích thước $N×N$ được chia thành $N$ 
 - Gồm $N×N$ dòng, mỗi dòng là một cặp số nguyên dương là tọa độ dòng và cột của quân mã đi qua (theo đúng thứ tự trong hành trình).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 ```

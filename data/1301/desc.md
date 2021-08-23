@@ -13,7 +13,7 @@ Hãy tìm khoảng cách giữa hai đỉnh gần nhất trong một tập $𝑋
 - Một dòng duy nhất chứa số nguyên kết quả.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 2
 1 2
@@ -25,7 +25,7 @@ Hãy tìm khoảng cách giữa hai đỉnh gần nhất trong một tập $𝑋
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

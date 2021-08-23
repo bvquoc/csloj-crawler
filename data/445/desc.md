@@ -8,18 +8,18 @@ Hôm nay Bờm đến thăm nhà A Phủ, A Phủ ở nhà sàn, để lên nhà
 - Một số nguyên duy nhất là số cách bước lên nhà A Phủ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
  <center><img src="/images/problems/444/DPSTEPS.png" width=400px></center>
 <center>Cầu thang nhà A Phủ</center>
 

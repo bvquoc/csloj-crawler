@@ -10,19 +10,19 @@ Cho một thùng nước và hai gáo nước có dung tích lần lượt là $
 - Ứng với mỗi test, ghi ra trên một dòng một số nguyên duy nhất là số lần múc theo phương án tìm được, nếu không thể thực hiện yêu cầu ghi ra số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 15 24 3
 100 27 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test case $\#1:$ Dùng giáo $24$ múc vào $2$ lần và dùng gáo $15$ đổ ra $3$ lần;
 - Test case $\#2:$ Dùng gáo $27$ múc vào $4$ lần và dùng gáo $100$ múc ra $1$ lần.

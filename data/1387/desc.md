@@ -14,7 +14,7 @@ Cô vừa tới khu chợ thời trang có $𝑛$ cửa hàng. Qua khảo sát n
 - Ghi ra một số nguyên duy nhất là số lượng cửa hàng nhiều nhất Anna có thể ghé thăm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2
@@ -22,12 +22,12 @@ Cô vừa tới khu chợ thời trang có $𝑛$ cửa hàng. Qua khảo sát n
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 5 8
@@ -37,7 +37,7 @@ Cô vừa tới khu chợ thời trang có $𝑛$ cửa hàng. Qua khảo sát n
 6 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -16,14 +16,14 @@ Ví dụ, $𝑁 = 30 = 2 × 3 × 5$ ta có $4$ cách phân tích như sau: $30 =
 - Gồm $𝑇$ dòng, mỗi dòng chứa một số là số cách phân tích khác nhau của từng bộ dữ liệu tương ứng với dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 30
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 8

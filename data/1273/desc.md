@@ -8,19 +8,19 @@ Mirko có một dãy số, và cô không thích nó nữa, cô quyết định 
 - Ghi ra kết quả theo modulo $10^9$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 16
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2

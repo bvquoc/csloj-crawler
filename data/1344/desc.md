@@ -20,19 +20,19 @@ Từ một ô đánh số $x$ bạn được di chuyển:
 - Nếu dòng đầu khác $-1$ thì dòng thứ hai mô tả đường đi từ ô xuất phát đến ô kết thúc.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 7
 13 1 8 5 29
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 6 11 16 17 18 24 25 30
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1344/DMAZE.svg" width="450px" /></center>
 
 - Các ô cấm: $1, 14, 2, 22, 8, 12, 15, 10, 28, 27, 19, 13$ và $23$;

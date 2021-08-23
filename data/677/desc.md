@@ -15,7 +15,7 @@ Sau mỗi thao tác xóa, hãy cho biết còn lại bao nhiêu tập tin trong 
 - In ra $Q$ dòng, dòng thứ $i$ gồm số tập tin còn lại trong hệ thống máy tính sau khi thực hiện thao tác xóa thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 shoes
@@ -29,14 +29,14 @@ z
 s
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 4
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 3
 abc
@@ -45,12 +45,12 @@ a
 a
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ thứ nhất:
     - Sau thao tác xóa thứ nhất, các tập tin còn lại là `split`, `rect`, `line` và `walk`;
     - Thao tác xóa thứ hai không xóa đi tập tin nào;

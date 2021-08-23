@@ -25,7 +25,7 @@ Tuấn đặt robot của mình vào ô có tọa độ $(x, y)$, mặt robot qu
 - **Subtask** $\#2$ $(50\%\text{ số điểm}): 1 \le S \le 10^9$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 5 9
 ###.
@@ -34,12 +34,12 @@ Tuấn đặt robot của mình vào ô có tọa độ $(x, y)$, mặt robot qu
 ##.#
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 5 7
 ###
@@ -47,12 +47,12 @@ Tuấn đặt robot của mình vào ô có tọa độ $(x, y)$, mặt robot qu
 #..
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hình 1a) minh họa cho ví dụ thứ nhất. Lưới con gồm các ô được tô nền xám là mê cung. Đường di chuyển của robot xuất phát từ ô $(3, 5)$ (ô có chữ $R$) qua các ô của sàn thi đấu được chỉ ra bởi các mũi tên. Trong ví dụ này ô xuất phát không thuộc mê cung. Sau $9$ giây robot đạt đến ô $(2, 3)$.
 - Tương tự, hình 1b) minh họa đường di chuyển của robot trong ví dụ thứ hai: Robot xuất phát từ ô $(2,5)$ đạt đến ô $(2,6)$ sau $7$ giây.
 <center><img src="/images/problems/1506/robot.png" width=700px></center>

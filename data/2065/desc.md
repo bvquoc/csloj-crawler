@@ -11,19 +11,19 @@ Cho xâu $S$ có độ dài $n$ chỉ gồm các kí tự $0$ hoặc $1$. Cho $m
 - Với mỗi truy vấn, in ra `YES` nếu đoạn con là xâu đối xứng và `NO` nếu ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1001010
 2
 6 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 00001
 11
@@ -40,7 +40,7 @@ NO
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO
@@ -55,7 +55,7 @@ NO
 YES
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1101111111111
 5
@@ -66,7 +66,7 @@ YES
 10 13
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO

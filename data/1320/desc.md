@@ -13,7 +13,7 @@ Mỗi núm ga có thể xoay theo cùng chiều kim đồng hồ hoặc ngược
 - Gồm một số duy nhất là số thao tác ít nhất cần thực hiện.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 3528482
@@ -25,12 +25,12 @@ Mỗi núm ga có thể xoay theo cùng chiều kim đồng hồ hoặc ngược
 7473823
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 5383638
@@ -42,7 +42,7 @@ Mỗi núm ga có thể xoay theo cùng chiều kim đồng hồ hoặc ngược
 6483826
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

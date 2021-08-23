@@ -8,14 +8,14 @@ Sắp tới là ngày thi học kỳ I. Là học sinh ngoan, Hiếu không mu�
 - Ghi hai số là độ dài đường đi ngắn nhấn và số lượng đường đi ngắn nhất. Biết rằng số lượng đường đi ngắn nhất không vượt quá $2^{63} - 1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 1 2 3
 2 2 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 1
 ```

@@ -11,7 +11,7 @@ Có $T$ câu hỏi dạng $u,v (u≤v)$ yêu cầu cho biết trong đoạn $a_u
 - Ghi trên $T$ dòng, dòng thứ $i$ ghi câu trả lời cho câu hỏi $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 2 1 9
@@ -21,7 +21,7 @@ Có $T$ câu hỏi dạng $u,v (u≤v)$ yêu cầu cho biết trong đoạn $a_u
 4 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2
@@ -29,7 +29,7 @@ Có $T$ câu hỏi dạng $u,v (u≤v)$ yêu cầu cho biết trong đoạn $a_u
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy $A=(3,5,7,9,2)$;
 - Đoạn $[1,3]$ là $(3,5,7)$ có $3$ số nguyên tố;
 - Đoạn $[2,4]$ là $(5,7,9)$ có $2$ số nguyên tố;

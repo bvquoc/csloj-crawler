@@ -12,23 +12,23 @@ Biết rằng buổi sáng Bờm có $n$ quả táo và trong ngày Bờm gặp 
 - Dòng thứ hai ghi $m$ số thực được xếp theo thứ tự tăng dần là các câu trả lời có thể. Các số thực trong dòng này phải được ghi với một chữ số sau dấu chấm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3.0 5.5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1.0 2.0

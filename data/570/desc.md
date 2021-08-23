@@ -9,7 +9,7 @@ Hành tinh FEN nổi tiếng bởi vô số các đầm lầy kỳ lạ của m�
 ## Dữ liệu ra:
 - Ghi số $T$ là thời gian dịch chuyển robot.
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 3 2 3 3
@@ -17,7 +17,7 @@ Hành tinh FEN nổi tiếng bởi vô số các đầm lầy kỳ lạ của m�
 3 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

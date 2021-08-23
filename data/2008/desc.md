@@ -18,31 +18,31 @@ Viết chương trình tính toán cho mỗi đảng, trong số các khả năn
 - Dòng thứ hai ghi $N$ số nguyên cách nhau bởi khoảng trống – số ghế nhỏ nhất mà mỗi đảng có thể giành được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 20 4 5
 4 3 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 3 3 2
 1 0 1 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 100 3 5
 30 20 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 3 3
 1 1 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ đầu tiên, $14$ phiếu bầu đã được kiểm và $6$ phiếu chưa. Để minh họa một kết quả có thể, giả sử rằng đảng đầu tiên nhận $2$ trong số $6$ lá phiếu đó, đảng thứ hai $0$ phiếu, đảng thứ ba $1$ phiếu và đảng thứ tư $3$ phiếu. Tổng số phiếu của các đảng sẽ là $6, 3, 7$ và $4$. Tất cả các đảng đều vượt qua ngưỡng $5\%$. Các ghế được phân bố như sau:
 1. Các thương số ban đầu là $\frac{6}{1}, \frac{3}{1}, \frac{7}{1}$ và $\frac{4}{1}$; lớn nhất là $\frac{7}{1}$ nên đảng $3$ giành được $1$ ghế.
 2. Các thương số bây giờ là $\frac{6}{1}, \frac{3}{1}, \frac{7}{2}$ và $\frac{4}{1}$; lớn nhất là $\frac{6}{1}$ nên đảng $1$ giành $1$ ghế.

@@ -18,16 +18,16 @@ Cho một số nguyên dương $n$. Chúng ta chỉ quan tâm đến những xâ
 Nếu có nhiều cặp $(S, T )$ thỏa mãn (tối ưu), in ra bất cứ cặp nào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```10
 01
 ```
-#### Giải thích:
+### Giải thích:
 - Nhận thấy hai xâu `10` và `01` có $f(`10`, `01`) = 2$ vì mọi xâu con khác `10` của `10` đều là xâu con của `01`.
 
 ## Giới hạn:

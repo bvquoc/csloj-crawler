@@ -12,7 +12,7 @@ Hỏi Tèo có thể tạo tối đa bao nhiêu cặp lá bài biết rằng kh�
 - Gồm một dòng duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 4

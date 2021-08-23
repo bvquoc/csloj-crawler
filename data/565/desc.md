@@ -13,7 +13,7 @@ Một Trung tâm nghiên cứu tuyệt mật (mà chúng ta không có quyền n
 - Một dòng chứa $n$ số nguyên, số thứ $i$ xác định thời gian tối thiểu để nhân viên phòng $i$ đi được tới phòng có lối thoát hiểm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 2
@@ -30,7 +30,7 @@ Một Trung tâm nghiên cứu tuyệt mật (mà chúng ta không có quyền n
 9 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 4 1 2 1 3 2 0 3 0
 ```

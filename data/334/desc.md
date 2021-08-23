@@ -7,14 +7,14 @@ Tính tổng các chữ số của số nguyên dương trong hệ thập phân.
 ## Dữ liệu ra:
 - Với mỗi bộ test, ghi ra trên một dòng một số là tổng các chữ số của số $n$ tương ứng.
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 13
 256
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 13

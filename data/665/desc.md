@@ -10,13 +10,13 @@ Cho một dãy gồm $N$ số nguyên dương được đánh số từ $1$. B�
 - In ra một số nguyên duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 -1 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

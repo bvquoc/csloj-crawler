@@ -12,7 +12,7 @@ Dữ liệu đảm bảo có đường đi từ $1$ đến $N$.
 - Gồm một số nguyên duy nhất là số tiền ít nhất phải trả để đi từ $1$ đến $N$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7 2
 1 2 6
@@ -24,12 +24,12 @@ Dữ liệu đảm bảo có đường đi từ $1$ đến $N$.
 5 6 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 3
 2 1 1
@@ -39,12 +39,12 @@ Dữ liệu đảm bảo có đường đi từ $1$ đến $N$.
 1 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test ví dụ $1$: Chọn đường đi $1 → 2 → 5 → 6$. Khi đó chi phí của các đường đi là $6, 5, 8$ và
 vì ta chỉ lấy $2$ đường đi có chi phí đắt nhất nên đáp số là $6 + 8 = 14$.
 

@@ -14,19 +14,19 @@ Ta gọi một cách di chuyển từ mép trái sang mép phải của lưới 
 - Một số nguyên dương duy nhất là số cách di chuyển từ mép trái lưới sang mép phải lưới (do số này có thể rất lớn nên chỉ lấy phần nguyên khi chia cho `1000000007`).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 2 4
 6 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 Các cách đi là:
 - Cách $1: (1, 1)→(1, 2)$
 - Cách $2: (1, 1)→(1, 2) →(2, 2)$

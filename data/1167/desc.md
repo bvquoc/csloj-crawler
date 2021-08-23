@@ -19,7 +19,7 @@ Admin mới nhất của cộng đồng Vinoy  — **MofK** — là người c
 - **Subtask** $\#4$ $(35\%\text{ số điểm}):$ Không có ràng buộc gì thêm. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5 4
@@ -30,7 +30,7 @@ Admin mới nhất của cộng đồng Vinoy  — **MofK** — là người c
 2696 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 20
@@ -38,5 +38,5 @@ Admin mới nhất của cộng đồng Vinoy  — **MofK** — là người c
 2558
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong kế hoạch đầu tiên, MofK dự định dùng account có rating $1$0 để thi $3$ kỳ thi với độ khó lần lượt là $1, 7$ và $10$. Rating của account thay đổi như sau: $10 → 9 → 2 → 8$.

@@ -10,7 +10,7 @@ Dọc theo con đường hội chợ (để dễ hình dung có thể mô tả c
 - Một số nguyên duy nhất khoảng cách nhỏ nhất giữa hai gian hàng trong trường hợp lớn nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1
@@ -20,7 +20,7 @@ Dọc theo con đường hội chợ (để dễ hình dung có thể mô tả c
 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

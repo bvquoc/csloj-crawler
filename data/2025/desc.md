@@ -16,7 +16,7 @@ Hãy giúp lũ bò chọn ra đường chạy tối ưu.
 - Đưa ra $T$ dòng là độ cao của đường chạy tối ưu trong vòng chạy tương ứng, hoặc $-1$ trong trường hợp không có đường đi từ $A_i$ đến $B_i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 3
 1 2 12
@@ -30,7 +30,7 @@ Hãy giúp lũ bò chọn ra đường chạy tối ưu.
 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 8

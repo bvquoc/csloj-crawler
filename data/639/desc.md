@@ -19,7 +19,7 @@ Thuyền trưởng Roxana muốn các thí sinh Free Contest viết chương tr�
 - Gồm $n$ dòng, dòng thứ $i$ gồm một số thực được làm tròn đến đúng $4$ chữ số sau dấu phẩy thập phân là thời gian một thủy thủ thông minh có thể  hoàn thành phần chơi của mình với câu cảm hứng thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 WINNING ISN’T EVERYTHING IT’S THE ONLY THING

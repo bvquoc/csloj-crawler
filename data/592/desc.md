@@ -13,7 +13,7 @@ Vị trí và đường nối giữa $N$ thành phố được mô tả như m�
 - $S$ dòng tiếp theo, mỗi dòng ghi một số nguyên dương là số thứ tự của thành phố được chọn (theo thứ tự tăng dần).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6
 1 2 1
@@ -24,7 +24,7 @@ Vị trí và đường nối giữa $N$ thành phố được mô tả như m�
 5 6 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 4

@@ -12,35 +12,35 @@ Cho dãy số không âm có $N$ phần tử, số thứ $i$ có giá trị là 
 - In ra một số $K$ lớn nhất cần tìm, hoặc in ra $-1$ nếu không tìm ra số K thỏa mãn yêu cầu đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 45
 30 0 4 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 0
 123
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 123
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2
 5 5 1 5 1 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

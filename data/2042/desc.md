@@ -14,7 +14,7 @@ Hãy xác định xem với khung thời gian và thời gian giải bài cho tr
 - Với mỗi test, nếu An có thể hoàn thành bài thi trong thời gian cho phép, ghi ra một dòng chứa từ `Perfect`. Nếu An cần xin thêm một giờ làm bài, ghi ra một dòng chứa từ `Extra`. Ngược lại, ghi ra một dòng chứa từ `Fail`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 01:02:03 01:05:03 3
@@ -23,7 +23,7 @@ Hãy xác định xem với khung thời gian và thời gian giải bài cho tr
 01:00:00 05:00:00 666
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Perfect
 Extra

@@ -13,7 +13,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra $Q$ dòng, dòng thứ $j$ ghi kết quả của truy vấn $j$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 1
 1 2
@@ -23,7 +23,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

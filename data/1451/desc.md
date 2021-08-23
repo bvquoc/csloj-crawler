@@ -11,29 +11,29 @@ Cho dãy $n$ số nguyên dương $P=(p_1,p_2,…,p_n)$ và một số nguyên $
 - Ghi ra một số nguyên duy nhất là kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 2 3
 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong đoạn $[1,10]$ có đúng $6$ số nguyên chỉ chia hết cho $1$ số trong dãy $(2,3)$ là: $2, 3, 4, 8, 9, 10$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 1
 2 2
 1 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

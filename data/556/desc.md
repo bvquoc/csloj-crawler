@@ -11,7 +11,7 @@ Cho mạng $G = (V, E, c, s, t)$ với $G = (V, E)$ là một đồ thị có h�
 ## Ví dụ:
 <center><img src="/images/problems/556/HMAXFLOW.png" width="800px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8 1 6
 1 2 5
@@ -24,7 +24,7 @@ Cho mạng $G = (V, E, c, s, t)$ với $G = (V, E)$ là một đồ thị có h�
 5 6 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 1 2 5

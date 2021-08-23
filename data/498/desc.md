@@ -11,7 +11,7 @@ Bạn được cho một hàng đợi rỗng và một số truy vấn với hà
 - Ứng với mỗi truy vấn loại $3$, in ra kết quả tương ứng trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8
 1 5
@@ -24,7 +24,7 @@ Bạn được cho một hàng đợi rỗng và một số truy vấn với hà
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 Empty!

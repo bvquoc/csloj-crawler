@@ -13,7 +13,7 @@ Xét một trò chơi dành cho $N$ bạn thí sinh, bạn thí sinh thứ $i$ �
 - Với mỗi yêu cầu loại $2$, bạn cần in ra kết quả tương ứng trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1 2 2 3 5
@@ -22,11 +22,11 @@ Xét một trò chơi dành cho $N$ bạn thí sinh, bạn thí sinh thứ $i$ �
 2 2 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ban đầu, trong đoạn từ $2$ đến $4$ có một thành viên thuộc nhóm $3$. Sau khi yêu cầu thứ $2$ được thực hiện, các thành viên mang số hiệu nhóm là $2$ sẽ chuyển sang nhóm có số hiệu là $3$ và các thành viên có số hiệu nhóm là $3$ lại chuyển sang nhóm có số hiệu là $2$. Từ đó, kết quả bài toán ở yêu cầu thứ $3$ là $2$.

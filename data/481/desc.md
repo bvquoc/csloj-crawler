@@ -20,13 +20,13 @@ Ví dụ, với $N = 4$ và các con bò có mức độ ủng hộ lần lượ
 - Một số nguyên duy nhất là kết quả thu được sau khi chia lấy dư cho `1000000009`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 3 -3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

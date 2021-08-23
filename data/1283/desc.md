@@ -14,7 +14,7 @@ Chú ý rằng mỗi thành phố có thể đi qua nhiều lần. Trong bài to
 - Gồm $T$ dòng là kết quả tương ứng với dữ liệu vào. In ra $1$ nếu tồn tại đường đi và $0$ nếu ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3 2

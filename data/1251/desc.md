@@ -15,7 +15,7 @@ cái tiếng Anh in hoa.
 - Ghi ra một dòng duy nhất là kết quả của bài toán.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 OTN
@@ -24,12 +24,12 @@ THA
 HUN
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 CFETHIA
@@ -40,7 +40,7 @@ MALCABC
 DABNEY
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

@@ -14,13 +14,13 @@ Các bạn học sinh thường so kè nhau về chiều cao nên hay đếm xem
 - Ghi ra dãy số nguyên $x_1,x_2,…,x_n$ với $x_i$ là thứ hạng chiều cao của người thứ $i$ (thứ hạng đánh số $1, 2, ..., n$ theo thứ tự từ thấp đến cao).
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 0 1 0 3 0 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 2 6 1 7 5 4
 ```

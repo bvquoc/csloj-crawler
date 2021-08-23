@@ -15,12 +15,12 @@ Ghi ra hai dòng, mỗi dòng có định dạng sau:
 Dòng đầu cho đĩa cân bên trái, dòng sau cho đĩa cân bên phải, vật cần cân đặt ở đĩa cân bên phải.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 1 2
 1 0

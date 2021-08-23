@@ -8,7 +8,7 @@ $N$ sinh viên mới chuẩn bị được nhập vào kí túc xá của trư�
 - Số nguyên duy nhất là số lượng tiếng “ồn” nhỏ nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 1 2
 1
@@ -18,7 +18,7 @@ $N$ sinh viên mới chuẩn bị được nhập vào kí túc xá của trư�
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

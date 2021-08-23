@@ -12,13 +12,13 @@ Cho dãy số nguyên $A=(a_1,a_2,…,a_n)$. Hãy tìm một đoạn gồm các 
 - Ghi ra một số duy nhất là số lượng phần tử của đoạn không giảm dài nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 88 99 11 22 22 33 11 66 33 44 55 77
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

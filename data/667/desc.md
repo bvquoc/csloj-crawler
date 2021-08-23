@@ -11,17 +11,17 @@ Cho một đường tròn tâm $(s_1,s_2)$ bán kính $r$ trên mặt phẳng t�
 - Gồm một dòng duy nhất chứa một số nguyên là số lần biến đổi ít nhất để biến đường tròn tâm $(s_1, s_2)$ thành đường tròn tâm $(f_1,f_2)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 0 0 0 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/667/QUAYTRON.png" width=400px></center>
 
 - Ta có thể biến đường tròn tâm $(0,0)$ bán kính $2$ thành đường tròn tâm $(0,4)$ có cùng bán kính bằng việc thực hiện phép quay $180$ độ quanh điểm $(0,2)$ nằm trên đường tròn tâm $(0,0)$ bán kính $2$.

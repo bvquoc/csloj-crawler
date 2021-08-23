@@ -14,13 +14,13 @@ Nobita được ném $1$ lần và buộc phải nhằm vào một chai nào đ�
 - Ghi ra một số nguyên duy nhất là điểm của Nobita có theo phương án tìm được.
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 2
 1 2 6 3 4 5 9 7 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```

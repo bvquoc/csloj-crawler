@@ -6,11 +6,11 @@ Hãy tìm một hành trình cho ca nô đi từ một đảo $U$ đến đảo 
 - Dòng đầu ghi $4$ số nguyên dương $N, M, U, V$;
 - Các dòng tiếp theo, dòng $i$ chứa hai số nguyên $x_i$ và $y_i\ (|x_i|, |y_i| ≤ 1000)$ là tọa độ đảo thứ $i$.
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - Nếu có đường đi thì dòng đầu tiên ghi số đảo ghé vào lấy xăng (trừ $U$ và $V$), dòng thứ hai ghi số hiệu các đảo theo thứ tự của hành trình. Nếu không có đường đi thì ghi $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 10 1 12
 0 0
@@ -27,7 +27,7 @@ Hãy tìm một hành trình cho ca nô đi từ một đảo $U$ đến đảo 
 30 14
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 2 6 7 9

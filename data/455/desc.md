@@ -8,18 +8,18 @@ Cho số nguyên dương $n$ và dãy $n$ số nguyên dương $a_1, a_2, …, a
 - Một dòng duy nhất ghi số nguyên là số lượng số độc thân tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 2 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có duy nhất một số độc thân là số $3$.
 
 ## Giới hạn:

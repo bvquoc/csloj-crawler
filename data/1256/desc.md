@@ -20,7 +20,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 - Ghi ra một số nguyên duy nhất là phần nguyên của thời gian chờ trung bình nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 3
@@ -28,16 +28,16 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Thứ tự phục vụ là khách hàng $1$, khách hàng $3$ và khách hàng $2$. 
 Thời gian chờ trung bình nhỏ nhất là: $(3+16+6)/3=25/3=8,33$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 3
@@ -46,10 +46,10 @@ Thời gian chờ trung bình nhỏ nhất là: $(3+16+6)/3=25/3=8,33$
 2 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 - Thứ tự phục vụ là khách hàng $1$, khách hàng $4$, khách hàng $3$ và khách hàng $2$. Thời gian chờ trung bình nhỏ nhất là: $(3+1+17+7)/4=28/4=7$.

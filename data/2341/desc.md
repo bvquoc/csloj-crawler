@@ -20,40 +20,40 @@ Trong cuộc thi tuyển sinh, có $N$ bạn tham gia. Ban tổ chức đã quy�
 - Gọi $S$ là số lượng dãy khác nhau thỏa mãn yêu cầu đề bài, cần in ra $S$ khi lấy phần dư với $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2 3 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 3 4 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 
 - Trong ví dụ thứ nhất, các dãy thỏa mãn là: $(1), (1, 2), (1, 2, 3)$;
 - Trong ví dụ thứ hai, các dãy thỏa mãn là: $(1), (1, 2), (1, 2, 3), (1, 2, 6), (1, 5), (1, 5, 6), (4),(4, 5), (4, 5, 6)$;

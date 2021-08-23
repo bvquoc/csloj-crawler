@@ -12,7 +12,7 @@ King Monarch vừa khai hoang một vùng đất để lập ra đất nước M
 - Trong một số dòng tiếp theo, mỗi dòng ghi hai số nguyên $u$ và $v$ với ý nghĩa cần xây dựng con đường hai chiều nối giữa hai thành phố $u$ và $v$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 3 4 1
@@ -24,7 +24,7 @@ King Monarch vừa khai hoang một vùng đất để lập ra đất nước M
 3 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 1 5

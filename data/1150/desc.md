@@ -18,13 +18,13 @@ với $a = -1, b = 10, c = -20$, thì việc chia thành $3$ phân đội $(1, 2
 - Ghi ra một số nguyên là hiệu năng chung lớn nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 
 -1 1 -20 
 2 2 3 4
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```

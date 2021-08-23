@@ -13,7 +13,7 @@ Loay hoay cả một ngày nhưng không tìm được đáp án. Himt nhờ b�
 - Gồm một dòng duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 6
 ```
@@ -23,7 +23,7 @@ Loay hoay cả một ngày nhưng không tìm được đáp án. Himt nhờ b�
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 Có $5$ trường hợp khác nhau của tổng là:
 - $18 = 4 + 4 + 4 + 6$;
 - $19 = 4 + 4 + 5 + 6$;

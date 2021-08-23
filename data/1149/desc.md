@@ -20,7 +20,7 @@ Có $p$ dự án hành trình xanh được đưa ra xem xét $(1 ≤ p ≤ 10^5
 <center><img src="/images/problems/1149/oaks.svg" width=400px></center>
 <center>Hình minh họa</center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6  
 1 2  
@@ -36,7 +36,7 @@ Có $p$ dự án hành trình xanh được đưa ra xem xét $(1 ≤ p ≤ 10^5
 5 1 6 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 4

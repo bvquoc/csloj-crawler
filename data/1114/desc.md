@@ -19,7 +19,7 @@ Phần tử thỏa mãn điều kiện $3$ được gọi là phần tử trội
 - Nếu kết quả là `YES` thì dòng thứ $2$ chứa một số nguyên là số phần tử trội.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 10 5 5
@@ -27,7 +27,7 @@ Phần tử thỏa mãn điều kiện $3$ được gọi là phần tử trội
 2 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 2

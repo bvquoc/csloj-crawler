@@ -16,7 +16,7 @@ Số liệu thống kê cho thấy, muốn được giải trong kỳ thi thì h
 - Một số nguyên duy nhất là số học sinh đạt giải.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5 6
 1 1
@@ -24,7 +24,7 @@ Số liệu thống kê cho thấy, muốn được giải trong kỳ thi thì h
 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

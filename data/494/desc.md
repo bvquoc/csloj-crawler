@@ -8,12 +8,12 @@ Cho dãy ngoặc đúng gồm $n$ dấu mở ngoặc `(` và $n$ dấu đóng ng
 
 ## Ví dụ:
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ()(()())
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 4 5

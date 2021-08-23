@@ -18,7 +18,7 @@ Rôn quyết định sẽ lái xe đi từ $A$ tới $B$ và sẽ mua đồng ti
 ## Ví dụ:
 <center><img src="/images/problems/591/MONEY.png" width="500px" /></center>
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 7 4
 1 4
@@ -32,7 +32,7 @@ Rôn quyết định sẽ lái xe đi từ $A$ tới $B$ và sẽ mua đồng ti
 4 5 21
 ```
 
-#### Dữ liệu vào;
+### Dữ liệu vào;
 ```
 103 3
 ```

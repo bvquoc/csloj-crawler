@@ -16,20 +16,20 @@ Biết rằng công ty X có thể thực hiện các dự án theo thứ tự t
 Các số trên một dòng được ghi cách nhau ít nhất một dấu cách.
 
 ## Ví dụ 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 6 3 1 2 4 9
 2 4 3 1 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 3 2 5 1 6 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Vốn ban đầu là $11$;
 - Làm dự án $3:$ chi $1$ (vốn $= 10$), thu $3$ (vốn $= 13$;
 - Làm dự án $2:$ chi $3$ (vốn $= 10$), thu $4$ (vốn $= 14$);

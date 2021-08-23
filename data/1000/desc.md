@@ -16,7 +16,7 @@ Các số trên một dòng của input file được ghi cách nhau bởi dấu
 - Ghi ra một số nguyên duy nhất là độ cao lớn nhất có thể đạt được của hàng rào sau khi gia cố. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 2 5 4 1 7 5
@@ -24,12 +24,12 @@ Các số trên một dòng của input file được ghi cách nhau bởi dấu
 2 3 1 3 2 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích
+### Giải thích
 Có nhiều cách gia cố hàng rào để đạt độ cao bằng $5$. Đây là một cách gia cố: $a_1+b_2,a_2,a_3+b_3,a_4+b_6,a_5,a_6$, độ cao tương ứng của các thanh sau khi gia cố là: ${5,5,5,5,7,5}$. Do đó, độ cao của hàng rao là $5$.
 
 ## Giới hạn:

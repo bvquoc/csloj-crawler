@@ -25,18 +25,18 @@ Nhận thấy rằng, $m_1+m_2$ kí tự đầu tiên của xâu $S$ ảnh hư�
 - Ghi ra một số nguyên là độ lỗi nhỏ nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 2 1 1
 CABAAC
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```
 
-#### Giái thích:
+### Giái thích:
 - Trong ví dụ trên, cách thay tối ưu nhất là thay kí tự đầu tiên của xâu $S$ thành `A` để nhận được xâu $S^*=$ `AABAAC`. Với $m_1 = 2$ và $m_2 = 1$, xâu $S^*$ được nén thành bộ $(AB, A, 6)$, ta tạo ra xâu $F_5 =$ `AABAAAB`. Khi đó, độ lỗi của việc nén xâu $S$ bằng $1$ do kí tự ở vị trí thứ $6$ của $S^*$ và $F_5$ là khác nhau.
 
 ## Giới hạn:

@@ -11,7 +11,7 @@
 ## Ví dụ:
 <center><img src="/images/problems/572/SPY.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4 0 0 5 4
 0 1
@@ -23,7 +23,7 @@
 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13
 0 0

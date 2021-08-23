@@ -21,19 +21,19 @@ Trò chơi sẽ được diễn ra nhiều ván, trong đó, mã Đen nằm tạ
 - Ghi ra trên một dòng $N$ kí tự mô tả kết quả của $N$ ván. Kí tự `W` ứng với chiến thắng thuộc về bên Trắng, và `B` là thuộc về Đen.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 1 2 2 9 3
 0 1 0 1 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 BWWWWB
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ván $1$, Trắng không có nước đi hợp lệ (Đen thắng);
 - Trong ván $2$, Trắng di chuyển đến $(-1,0)$ hoặc $(0,-1)$ và Đen không có bước đi hợp lệ (Trắng thắng);
 - Trong ván $3$, Trắng di chuyển đến $(0,-1)$;

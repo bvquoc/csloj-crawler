@@ -16,7 +16,7 @@ trong $𝑘$ ngày.
 - Ghi ra $𝑘$ dòng, mỗi dòng một số nguyên là số lượng xe Bus chưa được kiểm dịch trong ngày tương ứng theo thứu tự trong **dữ liệu vào**
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 4 3
 1 3
@@ -31,7 +31,7 @@ trong $𝑘$ ngày.
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1

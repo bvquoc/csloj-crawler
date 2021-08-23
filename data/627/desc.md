@@ -10,7 +10,7 @@ Một số nguyên không âm $x$ được gọi là đẹp nếu như $x$ chia 
 - In ra $T$ dòng, mỗi dòng chứa một số duy nhất tương ứng với số lượng số đẹp.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1 10
@@ -23,7 +23,7 @@ Một số nguyên không âm $x$ được gọi là đẹp nếu như $x$ chia 
 3
 ```
 
-#### Giải thích
+### Giải thích
 - Trong test ví dụ đầu tiên, có ba số thỏa mãn là $4, 7$ và $8$.
 - Trong test ví dụ thứ hai, có ba số thỏa mãn là $11, 12$ và $14$.
 

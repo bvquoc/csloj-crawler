@@ -20,7 +20,7 @@ sư $X$ hay nhà thám điểm $𝑌$. Nếu là thông điệp của giáo sư 
 ## Ví dụ:
 <center><img src="/images/problems/1214/DWLABYR.svg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 7
 1 2 10
@@ -37,7 +37,7 @@ Y 3 4
 Y 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 40
 60

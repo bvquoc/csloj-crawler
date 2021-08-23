@@ -13,7 +13,7 @@ Một đường đi trong đồ thị $G=(V, E)$ được gọi là đường đ
 ## Ví dụ:
 <center><img src="/images/problems/545/EULERPATH2.svg" width="400px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 2
@@ -26,7 +26,7 @@ Một đường đi trong đồ thị $G=(V, E)$ được gọi là đường đ
 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 4 1 5 3 6 1
 ```

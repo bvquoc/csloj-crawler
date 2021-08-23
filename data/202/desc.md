@@ -12,13 +12,13 @@ Tại bến xe buýt, mỗi ngày, chuyến xe buýt đầu tiên đi qua ở th
 - Ghi ra một dòng chứa $N$ số nguyên, số thứ $i$ là số hiệu chuyến xe buýt mà học sinh thứ $i$ sẽ lên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5 8
 0 15 23
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3 4
 ```

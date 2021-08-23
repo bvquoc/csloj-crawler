@@ -15,7 +15,7 @@ Một hôm, Phú ông đem các vòng ngọc của mình ra để đổi lấy q
 - Ghi ra $K$ dòng, dòng thứ $i$ là `YES` nếu chuỗi ngọc thứ $i$ được cắt ra từ vòng ngọc giống với mẫu $S$, ngược lại ghi ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 abcde
@@ -25,7 +25,7 @@ cbaed
 cdeab
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 YES

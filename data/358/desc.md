@@ -9,31 +9,31 @@ $$n = {p_1}^{{\alpha _1}} \times {p_2}^{{\alpha _2}} \times ... \times {p_k}^{{\
 - $k$ dòng sau, dòng thứ $i$ ghi hai số $p_i$ và $α_i$ cách nhau một dấu cách, các số $p_i$ được sắp xếp tăng dần.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2 1
 5 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2 2
 3 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - $10 = 2^1 × 5^1$
 - $12 = 2^2 × 3^1$
 

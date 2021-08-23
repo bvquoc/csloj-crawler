@@ -10,7 +10,7 @@ Cho $N$ thanh sắt, thanh sắt thứ $i$ có độ dài là $A_i$. Đếm số
 - In ra một số nguyên duy nhất là số lượng bộ ba $(i, j, k)$ thỏa mãn điều kiện đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 3 4 5
@@ -21,7 +21,7 @@ Cho $N$ thanh sắt, thanh sắt thứ $i$ có độ dài là $A_i$. Đếm số
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Những bộ ba thỏa mãn đề bài lần lượt là $(2,3,4), (2,4,5) và (3,4,5)$.
 
 ## Giới hạn:

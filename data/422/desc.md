@@ -12,7 +12,7 @@ Hãy tìm một đường đi sao cho tổng tất cả các số trên đườn
 - Gồm một dòng duy nhất ghi tổng lớn nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7
 9 -2 6 2 1 3 4
@@ -22,12 +22,12 @@ Hãy tìm một đường đi sao cho tổng tất cả các số trên đườn
 7 -2 6 2 1 3 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 41
 ```
 
-#### Giải thích:
+### Giải thích:
 - Đường đi được mô tả là các ô xanh trong hình dưới đây:
 <center><img src="/images/problems/422/DPPATHMAX.SVG" width=350px></center>
 

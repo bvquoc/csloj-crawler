@@ -13,7 +13,7 @@ Xét đơn đồ thị vô hướng $G = (V, E)$ có $n$ đỉnh và $m$ cạnh.
 - $C$ dòng tiếp theo, mỗi dòng ghi một cặp số nguyên là hai đỉnh liên thuộc một cầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 12
 1 10
@@ -30,7 +30,7 @@ Xét đơn đồ thị vô hướng $G = (V, E)$ có $n$ đỉnh và $m$ cạnh.
 9 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 3
 2 3 7 10

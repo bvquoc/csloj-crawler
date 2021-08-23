@@ -11,13 +11,13 @@ Tập thể sinh viên của một trường gồm $N$ người nhận vé xem b
 - Mỗi dòng là một số nguyên $K$ - số lần đi đổi vé, ứng với một cặp $N, M$ của dữ liệu vào, $K=-1$ trong trường hợp không có cách đổi vé cho tất cả mọi người.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 10
 23 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 5

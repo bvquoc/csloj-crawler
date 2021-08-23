@@ -13,7 +13,7 @@ Dãy con của một dãy số là dãy mới được tạo thành sau khi bỏ
 - Ghi trên $q$ dòng, dòng thứ $i$ là đáp án truy vấn $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 -1 2 -3 4 -5
@@ -21,7 +21,7 @@ Dãy con của một dãy số là dãy mới được tạo thành sau khi bỏ
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 0

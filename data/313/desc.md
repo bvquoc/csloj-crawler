@@ -7,12 +7,12 @@ Viết chương trình nhập vào một số nguyên không âm $n$ $(0 ≤ n <
 - In ra trên một dòng theo định dạng `hh:mm:ss` (`hh` là hai chữ số của giờ, `mm` là hai chữ số của phút, `ss` là hai chữ số của giây)
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 61
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 00:01:01
 ```

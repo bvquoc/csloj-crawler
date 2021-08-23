@@ -14,7 +14,7 @@ Cho một dãy gồm $n$ số nguyên $a_1, a_2, …, a_n$, tìm phần tử xu�
 2 1 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 2
 ```
@@ -25,7 +25,7 @@ Cho một dãy gồm $n$ số nguyên $a_1, a_2, …, a_n$, tìm phần tử xu�
 3 1 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 2
 ```

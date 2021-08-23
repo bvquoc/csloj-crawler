@@ -14,20 +14,20 @@ John muốn chọn thứ tự xem phim sao cho cậu có thể xem được tr�
 - Đưa ra $N$ dòng là thứ tự xem các bộ phim trong phương án tối ưu;
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 100 1
 50 49
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 100 77
@@ -36,7 +36,7 @@ John muốn chọn thứ tự xem phim sao cho cậu có thể xem được tr�
 100 74
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 0
@@ -44,5 +44,5 @@ John muốn chọn thứ tự xem phim sao cho cậu có thể xem được tr�
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở test thứ hai, John cần xem bộ phim $3$ trước để đảm bảo có thể xem được trọn vẹn một bộ phim. Không có cách nào cho kết quả tôt hơn, nên thứ tự $3,0,1,2$ là thứ tự từ điển nhỏ nhất cần tìm.

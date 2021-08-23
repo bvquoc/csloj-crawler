@@ -11,17 +11,17 @@ Vì độ dài hai xâu đẹp của giáo sư X khá lớn nên thầy vẫn ch
 ## Dữ liệu vào:
 - Dữ liệu đầu vào gồm hai dòng, dòng đầu tiên chứa xâu $s_1$, dòng thứ hai chứa xâu $s_2$. Hai xâu này chỉ gồm những chứ cái in thường. Dữ liệu đầu vào đảm bảo độ dài mỗi xâu không vượt quá $10^6$ và hai xâu luôn tồn tại ít nhất một xâu con chung khác rỗng.
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 - In ra tên giáo sư X sẽ đặt cho con trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcfeg
 adbcxfpg
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 g
 ```

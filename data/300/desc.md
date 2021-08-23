@@ -7,12 +7,12 @@ Cho hai số nguyên dương $a$ và $b$. Tính diện tích, chu vi của hình
 - Ghi ra trên một dòng hai số nguyên là chu vi và diện tích của hình chữ nhật tương ứng, hai số được ghi cách nhau bởi một khoảng trắng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10 6
 ```

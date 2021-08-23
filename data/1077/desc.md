@@ -27,7 +27,7 @@ Cho xâu ký tự $S=S_1 S_2…S_n$ chỉ gồm các ký tự $∈\{'(',')'\}$ (
 - Với mỗi lệnh $Q$, ghi ra một số nguyên duy nhất trên một dòng là câu trả lời cho lệnh đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ((()))
 10
@@ -43,7 +43,7 @@ C 1
 Q 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 2
@@ -51,7 +51,7 @@ Q 1 5
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Xâu $S$ sau mỗi lệnh
     - 1  )(()))
     - 2:  )(()))

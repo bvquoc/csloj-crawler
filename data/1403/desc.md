@@ -14,13 +14,13 @@ Hãy viết chương trình thực hiện điều đó, kể cả khi suốt th�
 - Ghi một xâu có $k$ ký tự, là xâu con có thứ tự từ điển lớn nhất của $S$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 cxabdfa
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 xfa
 ```

@@ -12,7 +12,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau ít nhất
 - Ghi trên một dòng $Q$ số nguyên dương, số thứ $i$ là câu trả lời cho câu hỏi thứ $i$, hai số liên tiếp được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 4 3
 1 2 1 2 2 1 2
@@ -25,7 +25,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau ít nhất
 1 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 4 5
 ```

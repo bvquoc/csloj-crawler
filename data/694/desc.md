@@ -15,7 +15,7 @@ Alice và Jonh là một cặp vợ chồng, họ quyết định chia tay nhau 
 
 <center><img src="/images/problems/694/FAREWELL.PNG" width="350px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 6

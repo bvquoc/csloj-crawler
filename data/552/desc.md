@@ -9,7 +9,7 @@ Cho đồ thị vô hướng có trọng số $G = (V, E, w)$ có $n$ đỉnh, $
 - Dòng thứ hai ghi ra một đường đi từ $s$ tới $t$ có độ dài ngắn nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 1 3
 1 2 3
@@ -17,7 +17,7 @@ Cho đồ thị vô hướng có trọng số $G = (V, E, w)$ có $n$ đỉnh, $
 1 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 1 2 3

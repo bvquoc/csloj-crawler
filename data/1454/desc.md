@@ -15,7 +15,7 @@ Vì giá trị của $𝑥$ có thể rất lớn, bạn chỉ cần đưa ra s�
 - Ghi ra $𝑇$ dòng, mỗi dòng ghi một số nguyên duy nhất là số dư trong phép chia số $𝑥$ tìm được cho $1000000007\ (10^9 + 7)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3
@@ -24,7 +24,7 @@ Vì giá trị của $𝑥$ có thể rất lớn, bạn chỉ cần đưa ra s�
 1 2 3 4 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 900

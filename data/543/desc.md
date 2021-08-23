@@ -8,7 +8,7 @@ Cho đơn đồ thị vô hướng liên thông $G(V, E)$ có $n$ đỉnh và $m
 - Danh sách các cạnh của cây khung ($n – 1$ cạnh, mỗi cạnh trên một dòng).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6
 1 2 
@@ -19,7 +19,7 @@ Cho đơn đồ thị vô hướng liên thông $G(V, E)$ có $n$ đỉnh và $m
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 1 3

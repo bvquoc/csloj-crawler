@@ -12,7 +12,7 @@ Cho đơn đồ thị vô hướng $𝑁$ đỉnh, $𝑀$ cạnh, các đỉnh �
 - Một dòng duy nhất ghi số nguyên là số cặp đỉnh thỏa mãn yêu cầu bài toán, chú ý rằng các cặp đỉnh chỉ khác nhau về thứ tự đỉnh chỉ được tính là một cặp.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2
@@ -22,7 +22,7 @@ Cho đơn đồ thị vô hướng $𝑁$ đỉnh, $𝑀$ cạnh, các đỉnh �
 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

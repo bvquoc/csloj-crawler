@@ -10,7 +10,7 @@ Lớp KC97 tại trường học Free Contest có $N$ học sinh, các học sin
 - In ra $N$ số nguyên, số nguyên thứ $i$ cho biết số học sinh có chiều cao thấp hơn học sinh $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 110 120 130 140
@@ -21,7 +21,7 @@ Lớp KC97 tại trường học Free Contest có $N$ học sinh, các học sin
 0 1 2 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ trên, có $2$ học sinh có chiều cao thấp hơn học sinh $3$ là học sinh $1$ và học
 sinh $2$.
 

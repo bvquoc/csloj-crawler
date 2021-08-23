@@ -11,27 +11,27 @@ Viết một chương trình mà xác định số thứ $n$ (bắt đầu đán
 - In ra số tự nhiên $Y$, là số thứ $n$ trong danh sách tăng dần của các số có thể được tạo thành với tất cả các chữ số của $X$. Nếu không có, in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 8264
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2486
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 523525
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 225535
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất: $2$ số đầu tiên là $2468$ và $2486$;
 - Trong ví dụ thứ hai: $3$ số đầu tiên là $223555, 225355, 225535$
 

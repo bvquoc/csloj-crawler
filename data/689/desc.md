@@ -11,14 +11,14 @@ Cho một cây, một đỉnh được gọi là tâm của cây nếu khoảng 
 - Dòng thứ hai ghi $c$ số liệt kê theo thứ tự tăng dần các đỉnh là tâm của cây.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 2
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2

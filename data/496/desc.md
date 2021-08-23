@@ -12,7 +12,7 @@ Cho công thức phân tử của một hợp chất hữu cơ, hãy tính khố
 - Gồm $T$ dòng, mỗi dòng một số nguyên dương là khối lượng của hợp chất ở test tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 COOH
@@ -20,7 +20,7 @@ CH(CO2H)3
 ((CH)2(OH2H)(CHO))3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 45
 148

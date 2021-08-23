@@ -12,7 +12,7 @@ Cho dãy số nguyên dương gồm $N$ phần tử $a_1, a_2, ..., a_N$. In ra 
 - In ra số cặp $(i, j)$ thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 1 2 1

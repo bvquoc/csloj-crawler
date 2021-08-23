@@ -17,7 +17,7 @@ Tính số lượng thắng cảnh tối đa mà Bessie có thể thăm quan.
 - Một dòng duy nhất chứa số nguyên là số thắng cảnh mà Bessie có thể thăm quan.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 25 5
 10
@@ -27,7 +27,7 @@ Tính số lượng thắng cảnh tối đa mà Bessie có thể thăm quan.
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

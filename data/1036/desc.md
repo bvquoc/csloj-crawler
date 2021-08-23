@@ -14,7 +14,7 @@ Tất cả $n$ người đều đi bộ $T$ phút. Hỏi rằng ở thời đi�
 - Một số nguyên duy nhất là số nhóm sau khi kết thúc buổi đi bộ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 0 1
@@ -24,7 +24,7 @@ Tất cả $n$ người đều đi bộ $T$ phút. Hỏi rằng ở thời đi�
 6 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

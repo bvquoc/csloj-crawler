@@ -14,7 +14,7 @@ Hãy xóa một phần tử bất kì trong dãy $a$ sao cho độ đẹp của 
 - In ra độ đẹp lớn nhất của dãy $a$ sau khi xóa đi một phần tử bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2 4 5 6
@@ -25,7 +25,7 @@ Hãy xóa một phần tử bất kì trong dãy $a$ sao cho độ đẹp của 
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 2 3 4
@@ -36,7 +36,7 @@ Hãy xóa một phần tử bất kì trong dãy $a$ sao cho độ đẹp của 
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 1 1 1 1
@@ -47,7 +47,7 @@ Hãy xóa một phần tử bất kì trong dãy $a$ sao cho độ đẹp của 
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với ví dụ thứ nhất, ta sẽ xóa đi phần tử thứ $2$ trong dãy $a$. Dãy sau khi xóa là $[2, 5, 6]$ và có độ đẹp là $3$.
 - Với ví dụ thứ hai, ta sẽ xóa đi phần tử thứ $4$ trong dãy $a$. Dãy sau khi xóa là $[1, 2, 2, 4]$ và có độ đẹp là $2$.
 - Với ví dụ thứ ba, dù xóa đi phần tử nào thì độ đẹp của dãy thu được cũng đều bằng $0$.

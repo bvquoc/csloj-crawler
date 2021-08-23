@@ -11,28 +11,28 @@ Có $n$ diễn viên làm việc trong nhà hát, trong đó có $a$ diễn viê
 ## Dữ liệu ra:
 - Tương ứng với $k=1$, ghi ra số lượng diễn viên tối thiểu, $k=2$, ghi ra số lượng diễn viên tối đa.
 
-#### Dữ liệu vào
+### Dữ liệu vào
 ```
 2
 5 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test ví dụ $1$: Chỉ có $3$ diễn viên cao lên tối đa có $3$ diễn viên để đạo diễn CASTING;
 - Test ví dụ $2$: Có $3$ diễn viên cao, $5$ diễn viên tóc vàng. Vì $4$ diễn viên mắt xanh $→$ có $1$ diễn viên không phải mắt xanh, vậy trong $3$ diễn viên cao có ít nhất $2$ diễn viên mắt xanh. Vậy ít nhất có $2$ diễn viên để đạo diễn CASTING.

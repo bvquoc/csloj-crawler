@@ -12,14 +12,14 @@ Vào năm $3000$, các thí sinh tham dự kỳ thi tốt nghiệp THPT không c
 - In ra một số nguyên duy nhất là kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 2
 1 3
 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

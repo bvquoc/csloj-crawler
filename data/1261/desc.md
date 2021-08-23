@@ -21,18 +21,18 @@ Ta có loại phép biến đổi bảng như sau: Tráo hai ô liên tiếp tr�
 - Gồm một số duy nhất là tổng điểm lớn nhất đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 -3 -1 -2 0 5 -1 0
 0 -3 2 4 0 5 -2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 36
 ```
 
-#### Giải thích:
+### Giải thích:
 Ta đưa bảng về như hình dưới đây:
 <center><img src="/images/problems/1261/game2.svg" with="500px" /></center>

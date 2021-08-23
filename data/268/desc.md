@@ -9,12 +9,12 @@ Trong lý thuyết số, hai số nguyên tố $p$ và $q$ được gọi là c�
 Một số nguyên là số lượng cặp sinh đôi tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 17 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

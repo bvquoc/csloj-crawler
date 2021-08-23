@@ -8,18 +8,18 @@ Cho một dãy số nguyên gồm $N$ phần tử $a_1, a_2, …, a_N$. Một d�
 - Ghi ra độ dài của dãy con đơn điệu tăng dài nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2 5 4 6 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy con tăng dài nhất là dãy $1, 2, 4, 6$ độ dài dãy này là $4$.
 
 ## Giới hạn:

@@ -14,7 +14,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 Ghi trên một dòng hai số nguyên theo thứ tự là số ô nhiều nhất mà một lớp nhận được theo dự kiến và số ô nhiều nhất mà một lớp nhận được trên thực tế. Hai số liên tiếp được ghi cách nhau một dấu cách. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 10
 2 4
@@ -22,12 +22,12 @@ Ghi trên một dòng hai số nguyên theo thứ tự là số ô nhiều nhấ
 6 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 3
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/375/CAKEBOILED.PNG" width=500px></center>
 
 (Lớp số $1$ nhận được $3$ ô màu xanh, lớp số $2$ nhận được $2$ ô màu vàng, lớp số $3$ nhận được $2$ ô màu đỏ do hai ô màu vàng đã bị lớp số $2$ nhận trước rồi).

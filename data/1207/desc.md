@@ -11,27 +11,27 @@ Năm học $2018-2019$, thầy Hùng được phân công dạy Ngữ văn lớp
 - Ghi ra một số nguyên là số lượng cách kiểm tra. Đưa ra phần dư trong phép chia cho $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với $n=3,k=2$ có $6$ cách gọi như sau: $(1, 1, 2), (1, 2, 1), (1, 2, 2), (2, 1, 1), (2, 1, 2), (2, 2, 1)$.
 
 ## Giới hạn:

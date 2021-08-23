@@ -11,7 +11,7 @@ Tuy biết địa chỉ nhà của từng người, nhưng bạn phải quyết 
 - Gồm $N$ dòng, dòng thứ $i$ là thời gian nhanh nhất của lộ trình nếu thành phố $i$ là thành phố trung tâm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 2 5 1
@@ -22,7 +22,7 @@ Tuy biết địa chỉ nhà của từng người, nhưng bạn phải quyết 
 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 3

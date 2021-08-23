@@ -4,7 +4,7 @@
 <img src="/images/problems/1066/bubbletea.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 6
 1 4 5 6 7 8
@@ -17,12 +17,12 @@
 3 8 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 6
 1 4 5 6 7 8
@@ -35,7 +35,7 @@
 3 8 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```

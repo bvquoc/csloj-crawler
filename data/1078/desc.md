@@ -19,7 +19,7 @@ Nhiệm vụ của bạn là giúp các bé xác định thời điểm sớm nh
 - Ứng với mỗi test, nếu hai viên bi không thể va chạm, in ra trên một dòng số $-1$. Nếu không in ra $2$ số nguyên dương $p$ và $q$ trên một dòng, tương ứng là tử số và mẫu số của phân số tối giản $\frac{p}{q}$ ứng với thời điểm hai viên bi va chạm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 7 2 0 0 1 2 7 2 6 0
@@ -29,7 +29,7 @@ Nhiệm vụ của bạn là giúp các bé xác định thời điểm sớm nh
 9 7 0 0 1 1 9 0 8 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7 2
 3 2
@@ -38,7 +38,7 @@ Nhiệm vụ của bạn là giúp các bé xác định thời điểm sớm nh
 63 2
 ```
 
-#### Giải thích:
+### Giải thích:
 
 <center><img src="/images/problems/1078/motion.svg" width=800px></center>
 <center>Hình minh họa cho test đề bài</center>

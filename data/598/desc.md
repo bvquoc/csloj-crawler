@@ -13,7 +13,7 @@ Nhiệm vụ của bạn là viết một chương trình để chọn ra một 
 ## Ví dụ:
 <center><img src="/images/problems/598/MANGGT.svg" width=300px /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5 3 1 4
 1 2 13
@@ -26,7 +26,7 @@ Nhiệm vụ của bạn là viết một chương trình để chọn ra một 
 2 4 25
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 35
 ```

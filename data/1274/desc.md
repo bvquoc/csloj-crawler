@@ -14,7 +14,7 @@ Khi mực nước biển đạt một mốc nào đó, số đảo sẽ là lớ
 - Số nguyên duy nhất là kết quả của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 5
@@ -26,7 +26,7 @@ Khi mực nước biển đạt một mốc nào đó, số đảo sẽ là lớ
 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

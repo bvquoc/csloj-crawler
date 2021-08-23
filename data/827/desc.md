@@ -11,7 +11,7 @@ Là một học sinh giỏi trong lớp, Tý muốn đạt được số điểm
 - Với mỗi bộ dữ liệu in ra một số nguyên trên một dòng là kết quả của bộ dữ liệu đó.
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -22,7 +22,7 @@ Là một học sinh giỏi trong lớp, Tý muốn đạt được số điểm
 4 1 0 1 1 0 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 2

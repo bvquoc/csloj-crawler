@@ -7,12 +7,12 @@ Cho chuỗi ký tự $s$ chỉ gồm các ký tự latin và dấu cách. Đếm
 - Một số nguyên duy nhất là số dấu cách có trong xâu $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
   Cong Cha   nhu nui Thai Son
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```

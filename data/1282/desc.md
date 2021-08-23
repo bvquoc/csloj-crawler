@@ -11,7 +11,7 @@ Sau $K$ thao tác này, Mizzie phải đưa về dãy bit với toàn bit $0$. V
 - Gồm $T$ dòng, mỗi dòng là một số nguyên theo modulo $10^9+7$ tương ứng là kết quả của các test trong dữ liệu vào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 10
@@ -29,7 +29,7 @@ Sau $K$ thao tác này, Mizzie phải đưa về dãy bit với toàn bit $0$. V
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

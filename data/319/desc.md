@@ -9,7 +9,7 @@ Với số thực $x$ và số nguyên dương $n$, tính tổng:
 - Với mỗi bộ test, ghi ra trên một dòng số $S_n$ làm tròn đến $5$ chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0.100 1
@@ -17,7 +17,7 @@ Với số thực $x$ và số nguyên dương $n$, tính tổng:
 1.000 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0.10000
 4.00000

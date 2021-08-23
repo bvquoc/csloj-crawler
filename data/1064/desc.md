@@ -4,14 +4,14 @@
 <img src="/images/problems/1064/minsum.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4 5
 4 6 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 5
 2 3

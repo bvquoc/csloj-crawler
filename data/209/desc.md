@@ -8,12 +8,12 @@ Cho một số nguyên dương $n$. Bạn hãy đếm số cách phân tích s�
 - Trường hợp $k>0, k$ dòng tiếp theo, dòng thứ $i$ ghi hai số $u_i,v_i\ (u_i< v_i)$ là cách phân tích thứ $i$ theo yêu cầu: $u_1< u_2<…< u_k$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 82
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 3 79
@@ -24,12 +24,12 @@ Cho một số nguyên dương $n$. Bạn hãy đếm số cách phân tích s�
 
 **Giải thích:** Số $82$ có $4$ cách phân tích $82=3+79=11+71=23+59=29+53$. Cách phân tích $82=41+41$ không được tính vì $u=v$.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

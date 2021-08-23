@@ -17,24 +17,24 @@ Sau khi làm xong bài toán trên, Bé Bi mới đặt một câu hỏi để m
 - Đưa ra hai số nguyên tương ứng là  độ dài xâu con chung dài nhất và số lượng xâu con chung dài nhất khác nhau theo modul $666013$?
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 banana
 oana
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcabcaa
 acbacba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 7
 ```

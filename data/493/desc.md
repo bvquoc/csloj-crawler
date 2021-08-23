@@ -8,18 +8,18 @@ Có $N$ người đang xếp hàng chờ đợi để vào một buổi hòa nh�
 - Một số nguyên duy nhất là số cặp có thể nhìn thất nhau.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 
 2 4 1 2 2 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Giải thích:
+### Giải thích:
 - $10$ cặp có thể nhìn thấy nhau là $(A, B), (B, C), (B, D), (B, E), (C, D), (B, F), (D, F), (D, E), (E, F), (F, G)$ như hình vẽ:
 <center><img src="/images/problems/493/STCONCERT.svg" width="400px" /></center>
 

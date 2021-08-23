@@ -12,7 +12,7 @@ Một đồ thị $n$ đỉnh, đỉnh thứ i được tô màu $c_i\ (1≤c_i�
 - Ghi ra một số nguyên duy nhất là số lượng đường đi thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 3
 1 2 1 3
@@ -21,12 +21,12 @@ Một đồ thị $n$ đỉnh, đỉnh thứ i được tô màu $c_i\ (1≤c_i�
 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1199/colorpath.png" width=350px /></center>
 
 Ta có các đường đi sau: $1→2;2→1;2→3;3→2;2→4;4→2;

@@ -8,24 +8,24 @@ Cho hai số nguyên không âm $a$ và $b$. Hãy tính $a + b$.
 - Gồm một dòng duy nhất là kết quả của $a + b$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 123
 4567
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4690
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1234567890
 9879879876543219876
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9879879877777787766
 ```

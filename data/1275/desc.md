@@ -16,7 +16,7 @@ Nhiệm vụ của bạn là đưa xe tải tới đích với số lượng xă
 - Lượng xăng còn lại nhiều nhất có thể sau khi tới đích, hoặc in ra $-1$ nếu xe không thể tới nơi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 100 200 100 0
@@ -25,7 +25,7 @@ Nhiệm vụ của bạn là đưa xe tải tới đích với số lượng xă
 400 400 300 600
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24299
 ```

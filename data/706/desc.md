@@ -9,12 +9,12 @@ Hãy đếm số cách đặt $k$ quân xe lên bàn cờ $n×n$ sao cho không 
 - Một dòng duy nhất chứa đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

@@ -14,7 +14,7 @@ Cho $n$ số nguyên dương $a_i,i=1..n$, bạn phải đặt giữa $n$ số n
 - Ghi ra một số nguyên dương duy nhất là giá trị lớn nhất của biểu thức thu được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 4
@@ -24,10 +24,10 @@ Cho $n$ số nguyên dương $a_i,i=1..n$, bạn phải đặt giữa $n$ số n
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 44
 ```
 
-#### Giải thích:
+### Giải thích:
 - Biểu thức thu được là: $4 \times 7 + 1 + 5\times3$.

@@ -11,14 +11,14 @@ Hãy tính xem, nếu mọi người nhờ mua vé một cách thích hợp nh�
 - Một số nguyên duy nhất là thời gian tối thiểu người bán vé phải phục vụ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 5 7 8 4
 4 9 10 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 18
 ```
@@ -30,12 +30,12 @@ Hãy tính xem, nếu mọi người nhờ mua vé một cách thích hợp nh�
 50 50 50
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test case $\#1$: Người thứ $2$ và người thứ $4$ rời khỏi hàng để nhờ người thứ nhất và người thứ $3$ mua hộ, tổng thời gian là: $4 + 10 + 4 = 18$
 - Test case $\#2$: Mọi người tự mua vé cho mình: Tổng thời gian là $5 + 7 + 8 + 4 = 24$
 

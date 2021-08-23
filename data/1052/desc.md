@@ -15,13 +15,13 @@ Trong một đợt đi du lịch ở Đà Nẵng, sáng sớm DONG3D thường �
 - Ghi ra một số nguyên duy nhất là số lượng vỏ ốc trong chuỗi tạo được. 
 
 ## Ví dụ
-#### Dữ liệu vào: 
+### Dữ liệu vào: 
 ```
 5 
 4 4 5 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 
 ```

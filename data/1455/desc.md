@@ -21,7 +21,7 @@ Dữ liệu vào đảm bảo các ô chứa chữ R tạo thành một hình ch
 - Ghi ra một số nguyên duy nhất là số lệnh di chuyển để đưa robot ra khỏi nhà kho. Nếu không tồn tại dãy lệnh di chuyển để đưa robot ra khỏi nhà kho, ghi ra số $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 8
 ########
@@ -34,15 +34,15 @@ Dữ liệu vào đảm bảo các ô chứa chữ R tạo thành một hình ch
 #...#..#
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy lệnh di chuyển ngắn nhất để đưa robot ra khỏi nhà kho là: Sang phải, Đi xuống, Sang trái, Đi xuống.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 ........
@@ -53,12 +53,12 @@ Dữ liệu vào đảm bảo các ô chứa chữ R tạo thành một hình ch
 ........
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 6
 .#..##
@@ -71,7 +71,7 @@ Dữ liệu vào đảm bảo các ô chứa chữ R tạo thành một hình ch
 ######
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

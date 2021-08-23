@@ -8,13 +8,13 @@ Cho hai số nguyên dương $l, r$, đếm xem có bao nhiêu số PALINDROM tr
 - Với mỗi cặp số $l, r$, in ra trên một dòng số số PALINDROM trong đoạn $[l, r]$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 10
 11 30
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 2

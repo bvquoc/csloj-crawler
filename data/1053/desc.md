@@ -16,7 +16,7 @@ Trên bàn cờ, tại một số ô có đặt vật cản. Quân hậu ở m�
 Các số trên một dòng  được/phải ghi cách nhau bởi dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào: 
+### Dữ liệu vào: 
 ```
 4 3
 .#.
@@ -25,7 +25,7 @@ Các số trên một dòng  được/phải ghi cách nhau bởi dấu cách.
 ..#
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 0 3 
 5 0 5 

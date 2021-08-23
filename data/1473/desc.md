@@ -14,13 +14,13 @@ Hải Phong muốn dồn sao cho có ít nhất $1$ đống không còn sỏi sa
 Dữ liệu đề bài đảm bảo luôn có phương án thực hiện thỏa mãn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 17 7
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 2 1
@@ -29,13 +29,13 @@ Dữ liệu đề bài đảm bảo luôn có phương án thực hiện thỏa 
 1 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 17 7
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 3 1

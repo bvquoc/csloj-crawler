@@ -15,7 +15,7 @@ Hãy giúp FJ chọn vị trí xây dựng nông trang sao cho quãng đường 
 - Ghi ra một số nguyên là khoảng cách nhỏ nhất mà hàng ngày FJ thực hiện nếu như anh ta chọn được vị trí tối ưu để xây nông trang.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6 3
 1
@@ -29,10 +29,10 @@ Hãy giúp FJ chọn vị trí xây dựng nông trang sao cho quãng đường 
 4 5 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 - FJ xây nông trang tại vị trí $5$ và hành trình tối ưu hàng ngày của anh ta là: $5-1-2-3-2-1-5$ (có tổng khoảng cách là $12$).

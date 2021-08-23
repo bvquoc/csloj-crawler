@@ -14,18 +14,18 @@ Ban đầu bạn được cho một số $N\ (N$ là ước của $M)$. Bạn đ
 - Một dòng duy nhất chứa số lớn nhất có thể đạt được sau khi thực hiện các bước biến đổi.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 2
 35 3
 5 14
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 105
 ```
 
-#### Giải thích:
+### Giải thích:
 - Lần thứ nhất biến đổi $10 → 70$ qua thao tác $5\ 14$;
 - Lần thứ hai biến đổi $70 → 105$ qua thao tác $35\ 3$.

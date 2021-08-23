@@ -14,13 +14,13 @@ Cho biết danh sách trọng lượng các thùng sơn của công ty, em hãy 
 - Số trọng lượng khác nhau mà công ty có thể đáp ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

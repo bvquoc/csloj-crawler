@@ -14,30 +14,30 @@ Các số trên một dòng ghi cách nhau bởi dấu cách.
 - Ghi ra một số duy nhất là số phép biến đổi ít nhất để dãy đã cho thành dãy không giảm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 6 4 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Áp dụng $2$ lần phép biến đổi **Giảm $a_2$ đi $1$ đơn vị**;
 - **Tăng $a_4$ lên $1$ đơn vị**;
 - Áp dụng $2$ lần phép biến đổi **Tăng $a_5$ lên $1$ đơn vị**.
 
 Dãy thu được ${2;4;4;4;4}$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 6 6 7 7
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```

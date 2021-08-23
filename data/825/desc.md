@@ -24,7 +24,7 @@ Vì kết quả bài toán có thể rất lớn, bạn chỉ cần tìm kế
 - Subtask $\#4:$ Không có ràng buộc gì thêm.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 3
@@ -32,7 +32,7 @@ Vì kết quả bài toán có thể rất lớn, bạn chỉ cần tìm kế
 6 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 2

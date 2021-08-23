@@ -13,24 +13,24 @@ Hãy tính và in ra những thông tin sau:
 - Một dòng chứa ba số nguyên tương tứng với câu trả lời cho ba yêu cầu của bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 7 1 6 9 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 27 5 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 5 -3 7 5 7 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24 5 0
 ```

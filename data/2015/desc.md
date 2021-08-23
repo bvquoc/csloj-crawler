@@ -21,7 +21,7 @@ Hãy giúp nông dân John xếp lũ bò sao cho đi từ trái sang phải, xâ
 - Đưa ra thứ tự sắp xếp tối ưu. Viết kết quả trên nhiều dòng, mỗi dòng gồm $80$ kí tự (dòng cuối có thể viết thiếu).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 A
@@ -32,7 +32,7 @@ C
 B
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ABCBCD
 ```

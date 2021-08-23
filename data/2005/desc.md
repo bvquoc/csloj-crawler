@@ -13,7 +13,7 @@ Sẽ có một lượng lớn ô tô di chuyển từ thành phố $c_1$ sang $c
 - In ra lượng xe nhiều nhất có thể di chuyển.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1 4
 1 2 10
@@ -21,7 +21,7 @@ Sẽ có một lượng lớn ô tô di chuyển từ thành phố $c_1$ sang $c
 3 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 ```

@@ -16,7 +16,7 @@ Hãy cho biết có thể xảy ra trường hợp hy hữu nói trên hay khôn
 - Với mỗi bộ dữ liệu vào, nếu trường hợp hy hữu (tất cả các ứng cử viên có số phiếu ủng hộ bằng nhau) có thể xảy ra, in ra `YES`. Ngược lại, in ra `NO`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 3
@@ -27,13 +27,13 @@ Hãy cho biết có thể xảy ra trường hợp hy hữu nói trên hay khôn
 6 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, nếu ứng cử viên thứ $1$ nhận thêm $1$ phiếu ủng hộ, ứng cử viên thứ $4$ nhận thêm $2$ phiếu ủng hộ thì mỗi ứng cử viên sẽ có $2$ phiếu ủng hộ. Do đó, trường hợp hy hữu có thể xảy ra.
 - Trong ví dụ thứ hai và thứ ba, dù ứng cử viên nào nhận được thêm $1$ phiếu ủng hộ thì số phiếu của hai ứng cử viên cũng sẽ luôn khác nhau. Do đó, trường hợp hy hữu không thể xảy ra.

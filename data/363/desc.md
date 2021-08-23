@@ -10,18 +10,18 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên duy nhất là số điểm tối đa Tí có thể đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 7 3 3 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:-
+### Giải thích:-
 - Tí chọn làm các bài số $2$ và số $4$, số điểm đạt được là $3 + 9 = 12$.
 
 ## Giới hạn:

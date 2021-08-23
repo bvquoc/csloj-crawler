@@ -17,14 +17,14 @@ Cho số nguyên dương $x$. Hàm $f(x)$ được xây dựng bằng cách như
 - Subtask $\#3:$ Không có ràng buộc bổ sung.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 9 13
 44 45
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 19
 17

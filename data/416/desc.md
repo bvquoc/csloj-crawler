@@ -25,7 +25,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Một dòng duy nhất chứa $N$ số là số lượng vi khuẩn của mỗi bầy sau thời gian $T$ (chia co $10^9 + 7$ lấy phần dư)..
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6 8
 A 2 0
@@ -36,7 +36,7 @@ E 1 3
 F 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 0 0 3
 ```

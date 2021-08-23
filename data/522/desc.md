@@ -18,7 +18,7 @@ Cho $M$ truy vấn, mỗi truy vấn thuộc một trong hai loại sau:
 - Một chuỗi gồm các ký tự $0$ hoặc $1$ tướng ứng với câu trả lời mỗi truy vấn loại $1\ i\ j$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 7
 ()))(())
@@ -31,7 +31,7 @@ Cho $M$ truy vấn, mỗi truy vấn thuộc một trong hai loại sau:
 1 5 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10110
 ```

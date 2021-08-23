@@ -7,12 +7,12 @@ Cho số nguyên dương $n$. Đếm số xâu độ dài $n$ chỉ gồm các k
 - Một dòng duy nhất chứa số nguyên dương là số lượng xâu thỏa yêu cầu bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

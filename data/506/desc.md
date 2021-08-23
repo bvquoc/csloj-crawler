@@ -10,7 +10,7 @@ Hãy đếm số hình chữ nhật con của bảng mà có các cạnh song so
 - Một số nguyên dương duy nhất là số HCN đếm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 111
@@ -19,7 +19,7 @@ Hãy đếm số hình chữ nhật con của bảng mà có các cạnh song so
 001
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```

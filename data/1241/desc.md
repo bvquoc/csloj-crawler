@@ -14,14 +14,14 @@ Một người du lịch xuất phát từ thành phố thứ nhất muốn đi 
 - Ghi ra duy nhất một số là tổng chi phí hành trình nhỏ nhất tìm được.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 2 3
 2 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

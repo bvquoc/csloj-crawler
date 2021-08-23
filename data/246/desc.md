@@ -12,7 +12,7 @@ Do rất hiểu hai lập trình viên Tí và Tèo trong đội, PHUONGHD biế
 - Ghi ra một số nguyên duy nhất là tổng thời gian lập trình cả $2n$ bài theo phương án phân công tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 1
@@ -21,7 +21,7 @@ Do rất hiểu hai lập trình viên Tí và Tèo trong đội, PHUONGHD biế
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

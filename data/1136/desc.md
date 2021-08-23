@@ -14,7 +14,7 @@ Nói tóm lại, sàn nhà của Giáo sư $X$ có thể coi như một hệ t�
 - Ghi ra $N$ dòng, dòng thứ $i$ trong $N$ dòng chứa một số nguyên – Số lượng màu đã được tô trên tờ giấy thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 1 3 3
@@ -23,13 +23,13 @@ Nói tóm lại, sàn nhà của Giáo sư $X$ có thể coi như một hệ t�
 5 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 1 7 7
@@ -40,19 +40,19 @@ Nói tóm lại, sàn nhà của Giáo sư $X$ có thể coi như một hệ t�
 4 7 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 2
 1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1135/paint.png" width=50%></center>
 
 <center>Hình minh họa cho test trên</center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 3
 1 1 7 7
@@ -61,7 +61,7 @@ Nói tóm lại, sàn nhà của Giáo sư $X$ có thể coi như một hệ t�
 4 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

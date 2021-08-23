@@ -9,12 +9,12 @@ Cho số nguyên $M\ (M ≤ 10^{100})$, hãy tìm nguồn nhỏ nhất của nó
 - Một dòng duy nhất ghi đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 216
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 198
 ```

@@ -12,7 +12,7 @@ Cho dãy số nguyên $𝑎_1, 𝑎_2, … , 𝑎_𝑛$ và số nguyên dương
 - Một số nguyên là tổng các giá trị đoạn con theo yêu cầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 3
 -20
@@ -25,7 +25,7 @@ Cho dãy số nguyên $𝑎_1, 𝑎_2, … , 𝑎_𝑛$ và số nguyên dương
 125
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 120
 ```

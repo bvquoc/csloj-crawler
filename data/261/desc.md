@@ -8,18 +8,18 @@ Cho dãy số nguyên dương $a_1,a_2,…,a_n$. Hãy tính tổng **Ước chun
 - Một dòng duy nhất ghi số nguyên là tổng cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - $UCLN(2,3)=1$;
 - $UCLN(2,4)=2$;
 - $UCLN(3,4)=1$.

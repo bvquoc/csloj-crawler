@@ -12,12 +12,12 @@ Cho xâu ký tự $s$, cần tìm cách biểu diễn xâu $s$ dưới dạng m�
 - Gồm một dòng duy nhất ghi số lượng ít nhất các palindrome trong biểu diễn tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 bobseesanna
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

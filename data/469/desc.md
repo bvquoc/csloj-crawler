@@ -12,18 +12,18 @@ An là một thành viên ở đội Rạng Đông. An đếm được mình đ�
 - Một số nguyên duy nhất là số điểm tối đa mà đội Bình Minh đã ghi được. Nếu không có cách ghi điểm nào để An phải chống đẩy $N$ (có thể do An đếm sai) thì ghi ra số $–1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 29 3
 7 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Giải thích:
+### Giải thích:
 - Số điểm đội Bình Minh lần lượt ghi là $3, 2, 2, 7$, tổng bằng $14$. Số lần chống đẩy $3+5+7+14 = 29$.
 
 ## Giới hạn:

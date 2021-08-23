@@ -25,7 +25,7 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 - Ghi ra mức hấp thụ của các mảng pin hình chữ nhật tại từng thời điểm được yêu cầu tính toán tương ứng trong dữ liệu vào, mỗi số trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 2 5 2 1
@@ -40,14 +40,14 @@ Các số trên cùng một dòng cách nhau bởi dấu cách.
 1 3 2 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 3
 17
 ```
 
-#### Giái thích:
+### Giái thích:
 - Trạng thái tấm pin sau mỗi tín hiệu điểu khiển được thể hiện trên hình vẽ dưới đây. Các mảng pin hình chữ nhật cần tính toán được tô màu xám.
 <center><img src="/images/problems/1512/solpin.png" width=500px></center>
 

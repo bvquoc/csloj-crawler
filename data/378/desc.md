@@ -9,12 +9,12 @@ Cho biết hàng chữ cái Tèo xếp ban đầu, bạn hãy cho biết xâu ch
 - Một dòng duy nhất chứa xâu ký tự mô tả xâu chữ cái mà Robot sẽ nhặt. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ABABACD
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ABCD
 ```

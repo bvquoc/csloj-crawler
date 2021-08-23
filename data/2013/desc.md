@@ -11,67 +11,67 @@ Tìm số phần nhiều nhất có thể cắt ra, sao cho xâu sau khi ghép l
 - In ra số phần nhiều nhất có thể cắt ra.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 aba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 babbaba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 philosopherstone
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 knuthmorrispratt
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 acrushpetrtourist
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 zzzzz
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giái thích:
+### Giái thích:
 - Ví dụ $1:$ Cắt thành $2$ phần `a` và `ba`. Nếu cắt thành $3$ phần sẽ dẫn đến việc ghép lại thành xâu `aab`;
 - Ví dụ $2:$ Cắt thành $2$ phần `ba` và `bbaba`;
 - Ví dụ $6:$ Có thể cắt thành các phần giống nhau.

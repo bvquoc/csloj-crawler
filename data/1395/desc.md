@@ -12,7 +12,7 @@ Cho một cây $n$ đỉnh, các đỉnh được đánh số từ $1$ đến $n
 - Một số nguyên là số cặp cây con đẳng cấu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2
@@ -21,7 +21,7 @@ Cho một cây $n$ đỉnh, các đỉnh được đánh số từ $1$ đến $n
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

@@ -16,7 +16,7 @@ Các số trên một dòng được/phải ghi cách nhau bởi dấu cách.
 
 <center><img src="/images/problems/1447/ROADS.svg" width="250px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 12 1 8
 1 2 1
@@ -33,13 +33,13 @@ Các số trên một dòng được/phải ghi cách nhau bởi dấu cách.
 4 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 1 12 7 11 10
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 1 3
 1 2 1
@@ -47,7 +47,7 @@ Các số trên một dòng được/phải ghi cách nhau bởi dấu cách.
 2 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 1 2 3

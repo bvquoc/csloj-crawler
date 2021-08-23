@@ -12,7 +12,7 @@ Hãy đếm số cách xóa đi $K$ trong $N$ vết bẩn, để số vết bẩ
 - Số nguyên duy nhất là kết quả của bài toán (được in ra theo modulo $1000000007$).
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 0 1
@@ -22,7 +22,7 @@ Hãy đếm số cách xóa đi $K$ trong $N$ vết bẩn, để số vết bẩ
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

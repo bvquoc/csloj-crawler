@@ -10,18 +10,18 @@ Cho hai xâu ký tự $s$ và $p$ chỉ chứa các ký tự la tinh thường. 
 - Một số nguyên duy nhất là phần dư của số cách xóa khi chia cho `1000000007`.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abc
 aaa
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 Các cách xóa như sau:
 - Cách $1$: Xóa hai ký tự `bc` ở xâu $s$, xóa hai ký tự `aa` cuối ở xâu $p$
 - Cách $2$: Xóa hai ký tự `bc` ở xâu $s$, xóa hai ký tự `aa` đầu ở xâu $p$

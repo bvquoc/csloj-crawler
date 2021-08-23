@@ -35,7 +35,7 @@ Nhắc lại, xâu ký tự $𝑠 = 𝑠_1𝑠_2 … 𝑠_𝑚$ có thứ t�
 - **Subtask** $\#4$ $(35\%\text{ số điểm}):$ Không có ràng buộc gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 vuonglongtoanatgmaildotcomorz
@@ -55,7 +55,7 @@ vuonglongtoanatgmaildotcomorz
 1 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 -1
@@ -65,7 +65,7 @@ vuonglongtoanatgmaildotcomorz
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 aaabcbdaac
@@ -85,7 +85,7 @@ aaabcbdaac
 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 2
@@ -95,7 +95,7 @@ aaabcbdaac
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 Trong ví dụ đầu tiên, $6$ tổ tiên trong gia tộc lần lượt có tên là `𝑣𝑢𝑜𝑛𝑔`, `𝑣𝑢𝑜𝑛𝑔𝑙𝑜𝑛𝑔`, 
 `𝑣𝑢𝑜𝑛𝑔𝑙𝑜𝑛𝑔𝑡𝑢`, `𝑣𝑢𝑜𝑛𝑔ℎ𝑜𝑎𝑛𝑔`, `𝑣𝑢𝑜𝑛𝑔𝑙𝑜𝑛𝑔𝑡𝑜𝑎𝑛`, `𝑣𝑢𝑜𝑛𝑔ℎ𝑜𝑎𝑛𝑔𝑙𝑜𝑛𝑔`. Các tổ tiên sắp xếp theo thứ tự tăng dần của tên là $(1, 4, 6, 2, 5, 3)$.
 - Đoạn văn cần xét thứ nhất là `𝑣𝑢𝑜𝑛𝑔𝑙𝑜𝑛𝑔𝑡𝑜𝑎𝑛`. Tổ tiên số $5$ trùng với đoạn văn này.

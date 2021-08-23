@@ -11,12 +11,12 @@ Bạn hãy giúp Tèo viết một chương trình giải mã mật khẩu nhé?
 - Ghi ra một dòng duy nhất là mật khẩu giải mã được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 A1b23c4d2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Abcd12
 ```

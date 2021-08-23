@@ -11,7 +11,7 @@ Cho $m$ truy vấn, mỗi truy vấn có một trong hai dạng:
 - Với mỗi truy vấn loại hai, ghi ra trên một dòng đáp án của truy vấn đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 0 1 3 3
@@ -19,12 +19,12 @@ Cho $m$ truy vấn, mỗi truy vấn có một trong hai dạng:
 1 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Dãy ban đầu: $0, 0, 0, 0, 0, 0$;
 - Dãy sau truy vấn thứ nhất: $3, 3, 3, 0, 0, 0$;
 - Dãy sau truy vấn thứ hai: $3, 3, 3, 4, 4, 4$;

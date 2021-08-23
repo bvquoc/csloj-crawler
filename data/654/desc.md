@@ -10,29 +10,29 @@ Cho dãy số nguyên $A$ độ dài $N$. Đếm xem có bao nhiêu dãy con li�
 - In ra một số nguyên duy nhất là kết quả cần tìm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 3 2 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test ví dụ đầu tiên, các bộ $(l, r)$ thỏa mãn là: $(1, 1), (1, 3), (1, 4), (1, 5), (2, 2), (2, 3), (2, 4), (2, 5), (3, 3), (4, 4), (4, 5), (5, 5)$.
 
 ## Giới hạn:

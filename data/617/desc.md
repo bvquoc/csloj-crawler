@@ -16,7 +16,7 @@ Cho một dãy số, tìm:
 - Với mỗi bộ test in ra trên một dòng hai số là hai tổng lớn nhất theo thứ tự yêu cầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 4

@@ -8,13 +8,13 @@ Cho hai số nguyên dương $l, r$, đếm xem có bao nhiêu số đẹp trong
 - Với mỗi cặp số $l, r$, in ra trên một dòng số số đẹp trong đoạn $[l, r]$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 10
 11 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 1

@@ -14,7 +14,7 @@ Mỗi vệt có kích thước ngang đúng bằng kích thước ô vuông, và
 - Ghi ra $𝑞$ dòng, mỗi dòng một số nguyên là số lượng vùng liên thông tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6 5
 2 2 2 6
@@ -24,7 +24,7 @@ Mỗi vệt có kích thước ngang đúng bằng kích thước ô vuông, và
 1 6 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3
@@ -33,7 +33,7 @@ Mỗi vệt có kích thước ngang đúng bằng kích thước ô vuông, và
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1375/DRAWRECT.png" width="600px" /></center>
 
 ## Giới hạn:

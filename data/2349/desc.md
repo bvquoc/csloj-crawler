@@ -23,7 +23,7 @@ Bạn hãy giúp lớp trưởng DHK kiểm tra xem liệu có thể chơi đư�
 Bạn có thể in danh sách nhóm theo bất kì thứ tự nào.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 0111
@@ -32,7 +32,7 @@ Bạn có thể in danh sách nhóm theo bất kì thứ tự nào.
 1110
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 1
@@ -40,7 +40,7 @@ YES
 3 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 0111
@@ -49,12 +49,12 @@ YES
 1000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/2349/GGRAPH1.png" width="350px" /></center>
 
 - Trong ví dụ thứ nhất, với đồ thị như trên ta có thể chơi được trò chơi thứ nhất, với $2$ nhóm là $(1, 2)$ và $(3, 4)$.

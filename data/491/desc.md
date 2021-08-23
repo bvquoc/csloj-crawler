@@ -13,7 +13,7 @@ Hãy chuyển đổi biểu thức đó sang dạng hậu tố và giữ nguyên
 - Ứng với mỗi biểu thức dạng trung tố, in ra biểu thức RPN tương ứng trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 (a+(b*c))
@@ -21,7 +21,7 @@ Hãy chuyển đổi biểu thức đó sang dạng hậu tố và giữ nguyên
 ((a+t)*((b+(a+c))^(c+d)))
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 abc*+
 ab+zx+*

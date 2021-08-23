@@ -12,17 +12,17 @@ Tất nhiên vì không giỏi lắm trong việc tính toán nên Thắng khôn
 - Gồm số nguyên là đáp án của bài toán. Vì đáp số có thể khá lớn nên bạn chỉ cần in ra đáp án modulo $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 17
 ```
 
-#### Giải thích:
+### Giải thích:
 - Số $3$ có $2$ ước: $1, 3$;
 - Số $4$ có $3$ ước: $1, 2, 4$;
 - Số $5$ có $2$ ước: $1 5$;

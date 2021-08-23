@@ -23,13 +23,13 @@ Hãy giúp ban tổ chức tìm chi phí $X$ nhỏ nhất có thể.
 - Ghi ra số nguyên duy nhất $X$ là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 12
 1 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

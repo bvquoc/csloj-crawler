@@ -15,17 +15,17 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Ghi ra một số nguyên duy nhất là tổng số lượng quả vải nhiều nhất mà Hà có thể thu hoạch giúp bác Thuấn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1 2 2 2 1
 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta đứng ở gốc cây số $3$ sẽ thu được toàn bộ số quả vải ở các cây $2, 3, 4$.

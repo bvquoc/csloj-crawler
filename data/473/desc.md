@@ -14,19 +14,19 @@ Trên quốc lộ $6$ mà ta coi như một trục tọa độ có $N$ hộ dân
 - Dòng thứ hai chứa $K$ số nguyên theo thứ tự tăng dần là tọa độ lắp đặt các trạm cấp nước, hai số liên tiếp được ghi cách nhau một dấu cách. Nếu có nhiều phương án lắp đặt, hãy đưa ra phương án bất kỳ.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với cách lắp $2$ trạm cấp nước như trên thì các hộ dân cư thứ $1, 2, 3$ sẽ được lấy nước từ trạm số $1$ (có tọa độ là $2$), hộ dân cư thứ $4$ sẽ lấy nước từ trạm số $2$ (có tọa độ là $5$). Tổng đường ống cần dùng là $2$.
 
 ## Giới hạn:

@@ -15,7 +15,7 @@ Cho số nguyên dương $n$, hãy đếm số lượng dãy cặp đẹp độ 
 Với mỗi bộ dữ liệu, in ra kết quả tìm được tương ứng
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 1
@@ -26,7 +26,7 @@ Với mỗi bộ dữ liệu, in ra kết quả tìm được tương ứng
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3

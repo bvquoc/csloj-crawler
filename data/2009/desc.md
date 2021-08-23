@@ -20,7 +20,7 @@ Dòng đầu tiên chứa một số nguyên dương là số lượng test. M�
 - Với mỗi test, in ra số lượng kim cương nhiều nhất có thể lấy được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 10 3
@@ -36,7 +36,7 @@ Dòng đầu tiên chứa một số nguyên dương là số lượng test. M�
 9 4 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

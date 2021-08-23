@@ -24,7 +24,7 @@ Một đường thử nghiệm cho robot là một dãy liên tiếp các ô chu
 - Ghi ra một số nguyên là số đường thử nghiệm nhiều nhất tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 T.*S..##S#
@@ -32,7 +32,7 @@ T.*S..##S#
 .*S.*.##T#
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

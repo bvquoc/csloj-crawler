@@ -8,7 +8,7 @@ Cho đồ thị có hướng gồm $n$ đỉnh, $m$ cung và sức chứa của 
 - Một số nguyên là luồng cực đại từ đỉnh $s$ đến đỉnh $t$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 14 1 7
 1 2 5
@@ -27,12 +27,12 @@ Cho đồ thị có hướng gồm $n$ đỉnh, $m$ cung và sức chứa của 
 6 7 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 16 1 2
 1 3 2
@@ -53,7 +53,7 @@ Cho đồ thị có hướng gồm $n$ đỉnh, $m$ cung và sức chứa của 
 4 10 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

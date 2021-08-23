@@ -12,30 +12,30 @@ Cho biết số $k$, số lá bài $n$ và màu của các lá bài, em hãy tí
 - Dòng thứ hai là số điểm mà người thua cuộc đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 10110
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1111
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong test $1$: Nếu người đi đầu bốc $3$ lá bài trên cùng (lá $5, 4$ và $3$) thì sẽ được $2$ điểm (ở lá $3$ và lá $4$), người đi sau bốc $2$ lá bài còn lại (lá $2$ và $1$) thì được $1$ điểm (ở lá $1$). Như vậy người đi trước đã thắng người đi sau. Người đi sau là người thua có thể có nhiều nhất là $1$ điểm.
 
 ## Giới hạn:

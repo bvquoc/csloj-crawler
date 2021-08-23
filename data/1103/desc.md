@@ -12,16 +12,16 @@ Cho một bảng gồm hai dòng và $N$ cột. Hai ô được gọi là kề n
 - Ghi ra một số duy nhất là kết quả bài toán lấy theo modul $12345678$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src = "/images/problems/1103/table.svg" width=600px></center>
 <center>Hình minh họa cho test đề bài</center>

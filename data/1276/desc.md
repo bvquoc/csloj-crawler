@@ -12,7 +12,7 @@ Quốc vương không biết tên chủ tham lam này sẽ đổi các chuyến 
 - Số nguyên duy nhất là kết quả của bài toán. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 1 2 2
@@ -22,12 +22,12 @@ Quốc vương không biết tên chủ tham lam này sẽ đổi các chuyến 
 1 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giới hạn:
+### Giới hạn:
 - $7$ test có $M = 2 × N – 4$, trong đó có $N – 2$ tuyến phà từ $1$ tới $2, 3, …, N – 1$ và $N – 2$ tuyến phà khác từ $2, 3, …, N – 1$ tới $N$;
 - $10$ test có duy nhất đảo $1$ có thể có nhiều hơn $1$ chuyến phà;
 - $11$ test trong các đảo không có chu trình;

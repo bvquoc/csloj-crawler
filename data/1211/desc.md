@@ -12,13 +12,13 @@ Dữ liệu ra:
 - Ghi ra một số nguyên là tích lớn nhất của ba số tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7 3
 6 1 5 2 1 3 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 60
 ```

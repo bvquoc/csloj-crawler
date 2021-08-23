@@ -15,7 +15,7 @@ Có $N$ viên bi màu được sắp thành một hàng trên mặt đất, mỗ
 - Với mỗi test ghi kết quả trên một dòng cho bết số lần đổi chỗ ít nhất tìm được trong test tương ứng. 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 3 
 1 1 2 1 2 3 2 3 
@@ -24,13 +24,13 @@ Có $N$ viên bi màu được sắp thành một hàng trên mặt đất, mỗ
 0 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong trường hợp thứ nhất cần sắp xếp lại thành $1\ 1\ 1\ 2\ 2\ 2\ 3\ 3$ với $2$ phép đổi chỗ (lần lượt: vị trí $3$ đổi chỗ cho vị trí $4$, vị trí $6$ đổi chỗ cho vị trí $7$).
 - Trong trường hợp thứ hai cần sắp xếp lại thành $3\ 3\ 2\ 2\ 1$ với $3$ phép đổi chỗ (lần lượt: vị trí $3$ đổi chỗ cho vị trí $4$; vị trí $4$ đổi chỗ cho vị trí $5$; vị trí $2$ đổi chỗ cho vị trí $3$)
 

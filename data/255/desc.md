@@ -10,7 +10,7 @@ Gồm đúng hai bộ dữ liệu, mỗi bộ dữ liệu có dạng như sau:
 Ghi ra chuỗi $2$ kí tự $XY$, với $X, Y$ là đáp án tương ứng cho mỗi bộ dữ liệu, $X/Y = 1$ nếu tồn tại bộ số nói trên, và $0$ nếu ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3
 -1
@@ -22,7 +22,7 @@ Ghi ra chuỗi $2$ kí tự $XY$, với $X, Y$ là đáp án tương ứng cho m
 -2 2 -2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

@@ -16,7 +16,7 @@ Một lần, Nghĩa bắt gặp một hình vẽ là một cây nhị phân, tr�
 Gồm một dòng chứa một số nguyên là số bước ít nhất giúp Nghĩa điều chỉnh giá trị khóa tại các nút để cây nhận được có tính chất như cây ABST. Lưu ý rằng, cây sau khi điều chỉnh giá trị khóa ở các nút có thể âm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 4 0 0
@@ -25,12 +25,12 @@ Gồm một dòng chứa một số nguyên là số bước ít nhất giúp Ng
 4 3 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1537/ABST.png" width="250px" /></center>
 
 ## Giới hạn:

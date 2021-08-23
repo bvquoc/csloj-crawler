@@ -10,7 +10,7 @@ Có $N$ điểm nằm trên trục $Ox$, điểm thứ $i$ có tọa độ $X_i$
 - In ra độ dài ngắn nhất của hình trình mà người đó thực hiện.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 -3 4 1
@@ -21,7 +21,7 @@ Có $N$ điểm nằm trên trục $Ox$, điểm thứ $i$ có tọa độ $X_i$
 14
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 -3 -3 0 0
@@ -32,6 +32,6 @@ Có $N$ điểm nằm trên trục $Ox$, điểm thứ $i$ có tọa độ $X_i$
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, một trong các hình trình ngắn nhất có thể là: $0 → −3 → 1 → 4 → 0$.
 - Trong ví dụ thứ hai, một trong các hình trình ngắn nhất có thể là: $0 → −3 → 0$.

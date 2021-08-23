@@ -17,7 +17,7 @@ Input gồm nhiều test, kết thúc bằng một dòng chứa một số $0$. 
 ## Ví dụ:
 <center><img src="/images/problems/2048/babylontower.png" width=250px /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 31 41 59
@@ -30,7 +30,7 @@ Input gồm nhiều test, kết thúc bằng một dòng chứa một số $0$. 
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 342
 1

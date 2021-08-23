@@ -8,12 +8,12 @@ Bạn hãy giúp HT giải quyết câu hỏi trên! HT là người không thí
 - Ghi ra một số duy nhất là chữ số cuối cùng của đáp án.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

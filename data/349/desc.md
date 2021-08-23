@@ -10,24 +10,24 @@ Cho một dãy gồm $n$ số nguyên, tìm phần tử bé nhất và lớn nh�
 **Chú ý:** Nếu có nhiều số bằng nhau và cùng bé nhất thì chọn số xuất hiện đầu tiên (tương tự đối với số lớn nhất)
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 1 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 3 1 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 1
 ```

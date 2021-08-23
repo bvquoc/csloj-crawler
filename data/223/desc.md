@@ -8,16 +8,16 @@ Bé Hải Dương có $n$ chiếc tất, chiếc tất thứ $i$ có màu là $c
 - Một dòng duy nhất chứa số lượng bạn có thể nhận được đôi tất của bé Hải Dương.
 
 ## Ví dụ: 
-#### Dữ liệu vào:	
+### Dữ liệu vào:	
 ```
 9
 10 20 20 10 10 30 50 10 20
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3	 
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/223/SOCK.png" width="350px" /></center>

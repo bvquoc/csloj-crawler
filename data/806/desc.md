@@ -18,7 +18,7 @@ Hiện tại, chính phủ đang đánh giá $m$ đề xuất xây dựng trung 
 - Ghi ra $m$ dòng (mỗi dòng tương ứng với một đề xuất), dòng thứ $k$ là giá trị phù hợp cho đề xuất thứ $k$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2 4
@@ -27,13 +27,13 @@ Hiện tại, chính phủ đang đánh giá $m$ đề xuất xây dựng trung 
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2 3 2
@@ -42,7 +42,7 @@ Hiện tại, chính phủ đang đánh giá $m$ đề xuất xây dựng trung 
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13
 5

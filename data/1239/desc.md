@@ -18,7 +18,7 @@ Giả thiết là: Mỗi mã nhân viên là dãy gồm $4$ ký hiệu, mỗi k�
 - Ghi ra một số nguyên là số lượng cặp mã nhân viên khác nhau đúng $D$ vị trí.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1
 0000
@@ -27,12 +27,12 @@ a010
 a0e2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 0000
@@ -41,11 +41,11 @@ a010
 a0e2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất không có hai mã nào khác nhau đúng $1$ vị trí.
 - Trong ví dụ thứ hai có $3$ cặp mã khác nhau đúng $2$ vị trí, đó là các cặp: $(0000, a010), (0000, 0202)$, và $(a010, a0e2)$.

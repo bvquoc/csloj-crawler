@@ -17,7 +17,7 @@ theo cách thức như sau:
 - Gồm hai số $P$ và $K$, trong đó $P$ là số $1$ (nếu bắn theo dòng từ trái qua phải) hoặc $2$ (nếu bắn theo dòng từ phải qua trái) hoặc $3$ (nếu bắn theo cột từ trên xuống) hoặc $4$ (nếu bắn theo cột từ dưới lên trên), còn $K$ là chỉ số dòng hoặc chỉ số cột. Nếu có nhiều phương án đưa ra phương án có giá trị $P×1001+K$ nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 0000
@@ -25,7 +25,7 @@ theo cách thức như sau:
 0000
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 ```

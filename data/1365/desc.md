@@ -17,7 +17,7 @@ Bạn hãy viết chương trình xác định số đường truyền quan tr�
 - Một số nguyên thể hiện số lượng đường truyền quan trọng trong mạng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 9 10 3 4
 2 4 5
@@ -34,10 +34,10 @@ Bạn hãy viết chương trình xác định số đường truyền quan tr�
 8 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các đường truyền quan trọng là: $(3, 2), (5, 6), (7, 9)$.

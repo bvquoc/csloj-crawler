@@ -9,17 +9,17 @@ Cho một thanh sắt có chiều dài là một số nguyên dương $L$ ($L$ l
 - Ghi ra một số nguyên duy nhất là diện tích lớn nhất của hình chữ nhật uốn được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 18
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta uốn thanh sắt độ dài $18$ thành hình chữ nhật có chiều rộng bằng $4$, chiều dài bằng $5$.
 
 ## Giới hạn:

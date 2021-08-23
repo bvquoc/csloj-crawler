@@ -12,19 +12,19 @@ Trên chiều dương của trục tọa độ Ox, có hai chú Kangaroo $A$ và
 - Ghi ra trên $t$ dòng, dòng thứ $i$ là đáp án câu hỏi $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 0 3 4 2
 0 2 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1$: $A:0→3→6→9→12$; $B:4→6→8→10→12$; Hai chú Kangaroo gặp nhau ở vị trí $12$ sau $4$ lần nhảy.
 - Câu hỏi $2$: $A:0→2→4→6→8→10…$; $B:5→8→11→14$ Hai chú Kangaroo không thể gặp nhau ở một vị trí tại cùng một thời điểm.

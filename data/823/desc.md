@@ -14,19 +14,19 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra một số nguyên duy nhất là độ vất vả nhỏ nhất của đất nước Văn Lang.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2 3 5
 1 2 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hai điểm cấp gạo được đặt ở ngôi làng số $2$ và số $4$. Người dân ở các ngôi làng số $1, 2, 3$ sẽ đến điểm cấp gạo số $1$ nhận gạo (độ vất vả là $1 + 2 = 3$), người dân ở ngôi làng số $4$ sẽ nhận gạo ở điểm cấp gạo số $2$. Tổng độ vất vả là $3$.
 
 ## Ràng buộc:

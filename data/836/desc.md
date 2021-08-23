@@ -10,13 +10,13 @@ Siêu thị Vincom Sơn La đang có đợt giảm giá. Siêu thị có $n$ m�
 - Một số nguyên duy nhất là số tiền tối thiểu cần bỏ ra để mua hết $n$ mặt hàng của siêu thị.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 10 3 7 5 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 23
 ```

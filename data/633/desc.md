@@ -13,7 +13,7 @@ $$\sum_{k=1}^{i-1}a_k=\sum_{k=i}^{j}a_k=\sum_{k=j+1}^{N}a_k$$
 - Gồm một dòng duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 3 0 3
@@ -24,7 +24,7 @@ $$\sum_{k=1}^{i-1}a_k=\sum_{k=i}^{j}a_k=\sum_{k=j+1}^{N}a_k$$
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 1 -1 0

@@ -15,7 +15,7 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Một số nguyên dương duy nhất là diện tích lớn nhất của sân golf xây được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 9 2 4 8
@@ -23,12 +23,12 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 6 8 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Khu đất chọn để xây sân golf có tọa độ trái trên là $(1, 2)$, phải dưới là $(2, 4)$ tổng diện tích là $6$ ô đơn vị.
 
 ## Giới hạn:

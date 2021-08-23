@@ -12,18 +12,18 @@ Biết rằng, nếu một màu đã được dùng thì các lượt tiếp the
 - Gồm một dòng duy nhất là kết quả bài toán. Nếu không tô được thì ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 0 1 4 5 1 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ trên, lượt $1$, người chơi tô màu $1$ trên đoạn $[2;5]$, màu $3$ trên đoạn $[6;7]$. Lượt $2$, người chơi tô màu $4$ trên đoạn $[3; 3]$, màu $5$ trên đoạn $[4; 4]$.
 
 ## Giới hạn:

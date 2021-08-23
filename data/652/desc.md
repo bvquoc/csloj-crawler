@@ -14,7 +14,7 @@ thứ $i$;
 - In ra giá trị số nhỏ thứ $K$ sau khi thực hiện $Q$ thao tác.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 2
@@ -23,12 +23,12 @@ thứ $i$;
 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 7 1
@@ -38,24 +38,24 @@ thứ $i$;
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 100 1
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 100
 ```
 
-#### Giải thích
+### Giải thích
 - Ở ví dụ thứ nhất, dãy số thu được là $[5, 5, 2, 2, 2, 3]$. Giá trị nhỏ thứ 4 trong dãy này là $3$;
 - Ở ví dụ thứ hai, dãy số thu được là $[7, 1, 4, 4]$. Giá trị nhỏ thứ $3$ trong dãy này là $4$;
 - Ở ví dụ thứ ba, dãy số thu được là $[100]$. Giá trị nhỏ nhất trong dãy này cũng là $100$.

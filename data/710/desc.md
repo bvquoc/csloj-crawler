@@ -9,12 +9,12 @@ Cho xâu $s$ chỉ gồm kí tự từ `a` đến `z` (độ dài xâu $s$ khôn
 - Một dòng duy nhất chứa số nguyên là đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 aba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```

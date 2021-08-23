@@ -14,7 +14,7 @@ Cho biết $N$ là số thành phố (đánh số từ $1$ đến $N$) và mản
 - Dòng thứ hai liệt kê theo thứ tự các thành phố đi qua ($N + 1$ số dương, mỗi số cách nhau bởi một dấu cách).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0 20 35 42
@@ -23,13 +23,13 @@ Cho biết $N$ là số thành phố (đánh số từ $1$ đến $N$) và mản
 42 30 12 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 97
 1 2 4 3 1
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hành trình $1 \rightarrow 2 \rightarrow 4 \rightarrow 3 \rightarrow 1$ có tổng chi phí là $20 + 30 + 12 + 35 = 97$ là chi phí thấp nhất. 
 
 ## Giới hạn:

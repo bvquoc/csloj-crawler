@@ -22,19 +22,19 @@ Bờm đã đưa cho Cuội một danh sách các cặp số được phép đ�
 - Ghi ra trên một dòng gồm $𝑁$ số nguyên, số thứ $𝑖$ là kết quả số dãy may mắn có độ dài $𝑖$ lấy phần dư cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 4 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 3
@@ -42,7 +42,7 @@ Bờm đã đưa cho Cuội một danh sách các cặp số được phép đ�
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3 6 6
 ```

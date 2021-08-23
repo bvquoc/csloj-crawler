@@ -17,13 +17,13 @@ Số tiền lớn nhất có thể thu được sau khi chặt cây là bao nhi�
 - In ra số tiền lớn nhất có thể thu được sau việc chặt cây.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 10 10 20 20 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 40
 ```

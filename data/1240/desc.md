@@ -16,7 +16,7 @@ Dân chúng sẽ hài lòng nếu Hải luôn có thể tính toán và cung c�
 - In ra $Q$ dòng: dòng thứ $i\ (1 ≤ i ≤ Q)$ phải chứa đúng một số nguyên duy nhất là giá trị độ gập ghềnh của đường sau $i$ thông báo sửa đường đầu tiên.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 2 2 2 2 2
@@ -28,7 +28,7 @@ Dân chúng sẽ hài lòng nếu Hải luôn có thể tính toán và cung c�
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 3
@@ -37,7 +37,7 @@ Dân chúng sẽ hài lòng nếu Hải luôn có thể tính toán và cung c�
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 1 2 3 2 2 1
@@ -47,7 +47,7 @@ Dân chúng sẽ hài lòng nếu Hải luôn có thể tính toán và cung c�
 6 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 3

@@ -7,12 +7,12 @@ Cho xâu ký tự $s$ chỉ gồm các chữ cái la-tinh thường (‘a’ đ�
 - Một dòng duy nhất chứa xâu $s$ đảo ngược.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abc
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 cba
 ```

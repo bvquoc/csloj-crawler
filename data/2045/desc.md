@@ -10,7 +10,7 @@ Có $n$ người được mời tham gia giải quyết một vấn đề mang t
 - Với mỗi test ghi ra một dòng chứa hai số nguyên là số lượng người tối thiểu và tối đa tham gia giải quyết vấn đề.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3 2 1
@@ -18,7 +18,7 @@ Có $n$ người được mời tham gia giải quyết một vấn đề mang t
 4 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 5 5

@@ -10,19 +10,19 @@ Ma trận của Mirko có kích thước $M × N$, mỗi ô chứa một kí t�
 - In ra số dòng tối đa có thể xóa được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 6
 dobarz
 adatak
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 alfa
@@ -30,12 +30,12 @@ beta
 zeta
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 6
 mrvica
@@ -44,7 +44,7 @@ marica
 mateja
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

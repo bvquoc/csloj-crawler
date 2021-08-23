@@ -15,7 +15,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 - Ghi ra một số duy nhất là thời gian ít nhất tìm được.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 5
 1 1
@@ -30,7 +30,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 4 5 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 30
 ```

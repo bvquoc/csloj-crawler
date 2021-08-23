@@ -17,7 +17,7 @@ Vào một ngày đẹp trời, chủ nhà muốn bạn đưa ra một danh sác
 - Mỗi dòng trong $K$ dòng tiếp theo ghi hai số thể hiện một hành lang cần xây dựng thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5
 1 2
@@ -27,7 +27,7 @@ Vào một ngày đẹp trời, chủ nhà muốn bạn đưa ra một danh sác
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 4 5

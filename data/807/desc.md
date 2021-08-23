@@ -11,30 +11,30 @@ Sau một đêm cày game, Thắng vô cùng mệt mỏi và không thể tập 
 - Ghi ra một số nguyên là số lượng cách thêm dấu `","` vào giữa các chữ số để có được một dãy tăng theo yêu cầu của thầy. Do số lượng cách có thể rất lớn, thầy chỉ yêu cầu Thắng đưa ra kết quả lấy số dư trong phép chia cho $2017$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 111
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích
+### Giải thích
 - Có $2$ cách là: $\{1, 11\}; \{111\}$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 21023
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $3$ cách là: $\{2, 10, 23\}; \{2, 1023\}; \{21023\}$
 
 ## Ràng buộc:

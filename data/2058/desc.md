@@ -16,7 +16,7 @@ Do kết quả có thể rất lớn nên bạn chỉ cần tìm số dư khi ch
 - $10\%$ số test có $N ≤ 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2
@@ -25,11 +25,11 @@ Do kết quả có thể rất lớn nên bạn chỉ cần tìm số dư khi ch
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```
 
-#### Giải thích:
+### Giải thích:
 - Với ví dụ trên, các cách để đánh số là:
 <center><img src="/images/problems/2058/arbore.svg" width=800px /></center>

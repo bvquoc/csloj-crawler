@@ -11,19 +11,19 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 - Một số nguyên duy nhất là tổng chi phí vận chuyển mồi nhỏ nhất.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2
 1 2 3 5
 1 2 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Hai điểm tập kết mồi có tọa độ là $2$ và $5$, mồi ở các điểm có tọa độ $1$ và $3$ được vận chuyển về điểm tập kết mồi tại tọa độ $2$, chi phí vận chuyển là $1 + 2 = 3$.
 
 ## Giới hạn:

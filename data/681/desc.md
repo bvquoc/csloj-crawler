@@ -10,13 +10,13 @@ Bạn được cho xâu ký tự $s$ chỉ gồm các chữ cái Latinh thườn
 - Ghi trên một dòng các giá trị $f(i_k)$, hai số liên tiếp được ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 zaaxbaacbaa
 11 1 2 3 4 5 6 7 8 9 10 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0 1 2 0 0 1 3 0 0 1 11
 ```

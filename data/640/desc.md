@@ -9,12 +9,12 @@ Có $N$ bạn đứng thành vòng tròn trên sân, mỗi bạn cầm một b�
 - In ra một dòng duy nhất là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 ```

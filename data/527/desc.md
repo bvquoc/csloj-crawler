@@ -14,18 +14,18 @@ Honest tuyên bố rằng ông ta có thể thực hiện thao tác vừa rồi 
 - Một số nguyên duy nhất là tổng ước chung lớn nhất của $\frac{n(n+1)}{2}$ dãy con liên tiếp của dãy đã cho (kết quả được chia cho $10^9 + 7$ lấy phần dư).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 6 4 8
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 34
 ```
 
-#### Giải thích:
+### Giải thích:
 Ta có $10$ dãy con:
 - Dãy con $1$ phần tử: $(3); (6); (4); (8)$. UCLN lần lượt là $3, 6, 4, 8$;
 - Dãy con $2$ phần tử: $(3, 6); (6, 4); (4, 8)$. UCLN lần lượt là $3, 2, 4$;

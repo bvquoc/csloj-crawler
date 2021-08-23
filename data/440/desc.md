@@ -8,18 +8,18 @@ Hiện đang vào mùa thu hoạch ngô, nhà Tí có một chiếc công nông 
 - Một số nguyên duy nhất là khối lượng ngô tối đa xe nhà tí chở được trong một chuyến.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 259
 81 58 42 33 61
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 242
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chở các bao ngô số $1, 2, 3, 5$ ta có tổng khối lượng là: $81+58+42+61 = 242$, đây là tổng khối lượng ngô lớn nhất có thể chở được.
 
 ## Giới hạn:

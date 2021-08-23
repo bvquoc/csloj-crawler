@@ -6,7 +6,7 @@
 **<center>Chú ý: Điểm sẽ được quy đổi sang thang điểm 100 theo đúng tỉ lệ</center>**
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6 7
@@ -14,7 +14,7 @@
 7 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 42 D
@@ -24,7 +24,7 @@
 3 L
 ```
 
-#### Giải thích:
+### Giải thích:
 Ban đầu số cốc bia hai người cần uống là $(𝐴, 𝐵) = (42,42)$. GSPVH cho chơi $5$ ván: 
 - Ván $1$: $𝑃 = 42$, hai người hoà nhau. Số cốc bia là $(𝐴, 𝐵) = (42,42 × 42) = (42,1764)$. 
 - Ván $2$: $𝑃 = 6$, Đức gáy to thắng. Số cốc bia là $(𝐴, 𝐵) = (42 × 6, \frac{1764}{6^2}) = (252,49)$. 

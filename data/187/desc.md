@@ -27,12 +27,12 @@ Như vậy, ô $(2,3)$ (giao giữa hàng $2$ và cột $3$) có giá trị bằ
 - Giá trị ô $(r,c)$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 25
 ```

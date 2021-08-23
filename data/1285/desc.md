@@ -19,7 +19,7 @@ Dữ liệu đảm bảo không có trường hợp xóa thông tin trong CSDL r
 - Các câu trả lời ứng với các dòng thông tin dạng $?$, mỗi câu trả lời đưa ra trên một dòng dưới dạng số nguyên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10
 + 1
@@ -34,7 +34,7 @@ Dữ liệu đảm bảo không có trường hợp xóa thông tin trong CSDL r
 ?
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 0

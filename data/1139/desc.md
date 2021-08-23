@@ -18,7 +18,7 @@ Cùng với sự phát triển kinh tế, nhà nước muốn xây dựng một 
 <center><img src="/images/problems/1139/expressway.png", width=250px></center>
 <center>Hình minh họa</center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 0.0 0
@@ -30,7 +30,7 @@ Cùng với sự phát triển kinh tế, nhà nước muốn xây dựng một 
 4 47 4 94
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 GOOD
 BAD

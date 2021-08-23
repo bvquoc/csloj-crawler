@@ -18,7 +18,7 @@ Nhiệm vụ của bạn là tìm bảng vuông con đẹp có kích thước l�
 - In ra kích thước của bảng vuông con lớn nhất tìm được. Nếu không tồn tại bảng vuông con đẹp, in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 6
 101010
@@ -26,12 +26,12 @@ Nhiệm vụ của bạn là tìm bảng vuông con đẹp có kích thước l�
 101001
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 10010
@@ -40,12 +40,12 @@ Nhiệm vụ của bạn là tìm bảng vuông con đẹp có kích thước l�
 01001
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 101
@@ -53,7 +53,7 @@ Nhiệm vụ của bạn là tìm bảng vuông con đẹp có kích thước l�
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

@@ -19,7 +19,7 @@
 - Gồm một số duy nhất là thời gian ngắn nhất để đoàn du khách qua cầu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 6
@@ -28,7 +28,7 @@
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 42
 ```

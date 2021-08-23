@@ -11,13 +11,13 @@ Bài toán Tháp Hà Nội trở thành nổi tiếng vào năm $1883$, sau bài
 - Với mỗi cặp số nguyên $N, M$ ở đầu vào, ghi ra trên một dòng đáp số tương ứng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 31
 ```

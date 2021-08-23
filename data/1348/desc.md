@@ -17,7 +17,7 @@ Hai số liên tiếp trên cùng một dòng cách nhau bằng khoảng trống
 - Ghi ra một số nguyên duy nhất là số lượng trạm bơm xăng không hiệu quả.
 
 ### Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 10 3
@@ -28,12 +28,12 @@ Hai số liên tiếp trên cùng một dòng cách nhau bằng khoảng trống
 11 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ trên các trạm đặt ở vị trí $𝑥 = 5$ và $𝑥 = 6$ là các trạm không hiệu quả.
 
 ## Giới hạn:

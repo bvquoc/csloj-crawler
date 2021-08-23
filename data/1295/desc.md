@@ -10,7 +10,7 @@
 - Ghi ra một số nguyên duy nhất là độ dài lớn nhất của đoạn liên tiếp mà FatEqual có thể phòng thủ.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 10
 11 2
@@ -26,12 +26,12 @@
 7 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Chọn tập đỉnh $1, 2, 3, 4, 5, 6, 7, 8 , 9,11$. Khi đó đoạn liên tiếp lớn nhất ta có thể tìm là $[1, 9]$.
 
 ## Giới hạn:

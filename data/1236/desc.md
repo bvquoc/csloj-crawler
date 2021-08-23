@@ -16,7 +16,7 @@ Hai số liên tiếp trên cùng một dòng được ghi cách nhau một dấ
 Ghi ra số thực $S$ với $3$ chữ số sau dấu phẩy là tổng diện tích lớn nhất của các thửa ruộng mà Bờm chọn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 5 11
@@ -30,7 +30,7 @@ Ghi ra số thực $S$ với $3$ chữ số sau dấu phẩy là tổng diện t
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28.000
 ```

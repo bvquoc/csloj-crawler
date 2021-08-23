@@ -22,19 +22,19 @@ Khi bắt đầu trò chơi, tất cả các ô mà khối hộp đè lên đư�
 - Ghi ra một số nguyên duy nhất là số lượng nhiều nhất các ô được bật sáng màu xanh mà người chơi có thể đạt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 1 3 3 2
 2 2
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1508/blgame2.PNG" width=200px></center>
 
 Hình vẽ trên mô tả trạng thái bắt đầu trò chơi, trong đó hai ô tô đen là các ô sáng màu đỏ. Người chơi có thể thực hiện thao tác: Lật sang phải, đẩy xuống dưới, đẩy lên trên, đẩy sang trái, đẩy sang trái, đẩy xuống dưới, đẩy xuống dưới, cuối cùng đẩy sang phải để bật được $7$ ô của lưới sáng màu xanh.

@@ -16,20 +16,20 @@ Tuy nhiên, để tránh sự than vãn của người dân, Quốc Vương yêu
 - Nếu dòng đầu ghi `YES` thì dòng sau ghi ra $m$ số nguyên dương, số thứ $i$ là mức phí trên con đường thứ $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2
 1 2
 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 1 1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3 
 1 2 
@@ -37,7 +37,7 @@ YES
 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

@@ -3,13 +3,13 @@
 
 <img src="/images/problems/1022/part.svg" width=1080px>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 5 
 16 12 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

@@ -14,7 +14,7 @@ Hãy cho biết số phép biến đổi ít nhất cần thực hiện, để d
 - In ra một số nguyên duy nhất là số phép biến đổi ít nhất cần thực hiện. Trong trường hợp không có cách biến đổi, hãy in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 10 -20 -30 40 50
@@ -25,7 +25,7 @@ Hãy cho biết số phép biến đổi ít nhất cần thực hiện, để d
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 9 7 2 3
@@ -36,7 +36,7 @@ Hãy cho biết số phép biến đổi ít nhất cần thực hiện, để d
 0
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 0 0 0

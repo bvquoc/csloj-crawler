@@ -13,14 +13,14 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi ra một xâu nhị phân có độ dài $n$. Ký tự thứ $i$ (tính từ trái sang, ký tự đầu tiên là ký tự thứ $1$) là `1` nếu nhu cầu gạo thứ $i$ là cân được và là `0` nếu nhu cầu gạo thứ $i$ là không cân được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 1 2 5
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1110
 ```

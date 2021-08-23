@@ -18,33 +18,33 @@ Mỗi xâu đều khác rỗng và có độ dài không quá $2.10^5$.
 - Dòng thứ hai chứa $p$ số nguyên theo thứ tự tăng dần, mỗi số nguyên là điểm đầu trong $S$ xuất hiện một biến dạng của $T$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcaaaa
 baab
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abcaaabcd
 aecb
 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - Test $\#1$: Có hai biến dạng của xâu $T$=**"baab"** trong xâu $S$ là **"caaa"** và **"aaaa"**.
 
 ## Giới hạn:

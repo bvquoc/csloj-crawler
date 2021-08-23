@@ -13,7 +13,7 @@ Sau $N$ thao tác, hãy liệt kê các phần tử còn lại trong danh sách 
 - Dòng hai liệt kê các phần tử còn lại **theo thứ tự giảm dần**, hai số liên tiếp ghi cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 13
 +1
@@ -31,7 +31,7 @@ Sau $N$ thao tác, hãy liệt kê các phần tử còn lại trong danh sách 
 -
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 8 7 2 1

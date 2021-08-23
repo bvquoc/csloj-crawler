@@ -4,7 +4,7 @@
 <img src="/images/problems/1046/sperfect.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6 3
@@ -16,7 +16,7 @@
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 NO

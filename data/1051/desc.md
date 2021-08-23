@@ -4,7 +4,7 @@
 <img src="/images/problems/1051/network.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 1 2 1
@@ -17,7 +17,7 @@ T 1 4
 T 5 1 
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 3

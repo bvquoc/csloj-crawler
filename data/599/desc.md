@@ -19,7 +19,7 @@ Các số trên một dòng được ghi cách nhau ít nhất một dấu cách
 
 Với mạng lưới đường không như hình trên: cần đi từ thành phố $1$ đến thành phố $5$. Chi phí đường bay trực tiếp giữa hai thành phố bất kỳ $C = 3$, phụ phí chuyển tuyến $A = 2$. Các số ghi bên cạnh các đường bay trực tiếp là tên các hãng sở hữu đường bay đó.
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15 20 3 2 1 5
 1 2 1
@@ -44,7 +44,7 @@ Với mạng lưới đường không như hình trên: cần đi từ thành ph
 14 15 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 37
 1 2 1

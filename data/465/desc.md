@@ -7,16 +7,16 @@ Alice có ba thanh nhựa có độ dài là các số nguyên dương $a,b,c$ v
 - Một số nguyên dương duy nhất là thời gian tối thiểu (tính theo số phút) cần thiết cho việc kéo giãn các thanh để ghép được hàng rào tam giác.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 100 10 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 81
 ```
-#### Giải thích:
+### Giải thích:
 - Kéo hai thanh độ dài $10$ để có tổng độ dài bằng $101$. Thời gian cần thiết là $101 – (10 + 10) = 81$ giây.
 
 ## Giới hạn:

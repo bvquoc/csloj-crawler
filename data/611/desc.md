@@ -11,7 +11,7 @@ Trong lúc buồn chán, Dũng đã tìm một xâu $s$ gồm $|s|$ kí tự là
 - Gồm một dòng duy nhất chứa một xâu là xâu $s$ sau khi Dũng thực hiện lần lượt $m$ lần đảo.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 kcchinbayble
 4
@@ -23,7 +23,7 @@ kcchinbayble
 kcchinbayble
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 haideu
 1
@@ -35,6 +35,6 @@ haideu
 uediah
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ở ví dụ đầu tiên, Dũng đảo xâu con từ kí tự thứ $2$ đến kí tự thứ $11$ một số chẵn lần nên xâu không thay đổi.
 - Ở ví dụ thứ hai, Dũng đảo cả xâu $s$ một lần.

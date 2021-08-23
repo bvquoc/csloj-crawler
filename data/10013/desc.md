@@ -9,21 +9,21 @@ Cho $n=10^5$ số nguyên dương $a_1, a_2, \dots, a_n\ (1\le a_i\le 2^{53})$. 
 - Gồm $n$ dòng, dòng thứ $i$ ghi ra $1$ nếu số $a_i$ là số nguyên tố, ngược lại ghi ra $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1
 0
 ```
  
-#### Giải thích:
+### Giải thích:
 - Số 3 là số nguyên tố nên ghi ra $1$;
 - Số 5 là số nguyên tố nên ghi ra $1$;
 - Số 6 không là số nguyên tố nên ghi ra $0$.

@@ -4,7 +4,7 @@
 <img src="/images/problems/1048/product.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 5 3
@@ -15,7 +15,7 @@
 -1 -1 -1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 60
 1

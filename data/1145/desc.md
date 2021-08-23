@@ -24,7 +24,7 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách.
 Với câu hỏi $b$, dữ liệu đảm bảo có thể bay từ $1$ đến $N$ và độ dài đường đi ngắn nhất là số nguyên không quá $10^9$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 5 6
@@ -36,15 +36,15 @@ Với câu hỏi $b$, dữ liệu đảm bảo có thể bay từ $1$ đến $N$
 3 4 5
 3 5 14
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 20
 ```
 
-#### Giải thích:
+### Giải thích:
 - $p=1$: từ đảo $1$ thực hiện chuyến bay mà không đổi rồng ở các đảo thì ta có thể đi: $1→2, 2→3, 3→4$. Vậy Dương Phong có thể gặp con rồng ở đảo $4$ có sức bay lớn nhất là $20$
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 6
@@ -56,12 +56,12 @@ Với câu hỏi $b$, dữ liệu đảm bảo có thể bay từ $1$ đến $N$
 3 4 5
 3 5 14
 ```
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 ```
 
-#### Giải thích:
+### Giải thích:
 - $p=2$: từ đảo $1$ thực hiện chuyến bay đến đảo $N$. 
     - $1→2$: sử dụng rồng $1$, quãng đường $5$;
     - $2→3$: sử dụng rồng $1$, quãng đường $6$, đổi rồng;

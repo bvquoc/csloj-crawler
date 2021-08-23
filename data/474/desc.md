@@ -17,19 +17,19 @@ Hai số liên tiếp được ghi cách nhau một dấu cách.
 - Một số nguyên duy nhất là tổng chi phí nhỏ nhất mua bạt phủ các gian hàng được thuê.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 12
 1 2 11 8 4 12 
 2 3 4 4 8 9 15 16 17 18 19 19
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 Hình minh họa cho test đề bài:
 <center><img src="/images/problems/474/DPMARKET.svg" width=600px></center>
 

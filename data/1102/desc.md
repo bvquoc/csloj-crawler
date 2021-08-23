@@ -13,15 +13,15 @@ Cho $4$ số nguyên dương $A, B, C, D$. Hãy xác định số lượng cặp
 - Ghi ra một số nguyên duy nhất là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 10 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Giải thích:
+### Giải thích:
 - $6$ cặp số thỏa mãn là $(0.25,0.375),(0.5,0.25),(0.75,0.125), (0.25,0.875), (0.5,0.75), (0.75,0.625)$

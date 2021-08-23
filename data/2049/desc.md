@@ -14,7 +14,7 @@ Kết thúc đường chạy, Bessie cần đảm bảo thể lực của cô v�
 - Một dòng duy nhất là độ dài quãng đường lớn nhất có thể chạy được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 2
 5
@@ -24,10 +24,10 @@ Kết thúc đường chạy, Bessie cần đảm bảo thể lực của cô v�
 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Bessie sẽ chạy ở phút $1$, nghỉ ở phút $2$, chạy tiếp ở phút $3$, nghỉ ở phút $4$ và $5$ và độ dài chạy được là $5 + 4 = 9$.

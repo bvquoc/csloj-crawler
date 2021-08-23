@@ -21,7 +21,7 @@ Cho một cây gồm $N$ đỉnh, mỗi đỉnh có một màu khác nhau. Gọi
 
 ## Ví dụ:
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 1 2 3 2 3
@@ -31,7 +31,7 @@ Cho một cây gồm $N$ đỉnh, mỗi đỉnh có một màu khác nhau. Gọi
 1 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 9
@@ -40,7 +40,7 @@ Cho một cây gồm $N$ đỉnh, mỗi đỉnh có một màu khác nhau. Gọi
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1074/colorgraph.svg" width=1080></center>
 
 ## Giới hạn:

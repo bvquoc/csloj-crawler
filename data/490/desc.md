@@ -12,7 +12,7 @@ Bạn được cho một ngăn xếp rỗng và một số truy vấn với ngă
 - Ứng với mỗi truy vấn loại $3$, in ra kết quả tương ứng trên một dòng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 15
@@ -23,7 +23,7 @@ Bạn được cho một ngăn xếp rỗng và một số truy vấn với ngă
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15
 Empty!

@@ -16,7 +16,7 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 - In ra một số nguyên không âm duy nhất là chi phí tối thiểu để đón được ít nhất $K$ thành viên từ các thành phố khác nhau. Nếu không có cách di chuyển thỏa mãn, in ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 3
 1 3 3
@@ -26,12 +26,12 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 3 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 103
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 4
 1 3 3
@@ -41,12 +41,12 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 3 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 105
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 5
 1 3 3
@@ -56,12 +56,12 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 3 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 110
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 6
 1 3 3
@@ -71,12 +71,12 @@ Nhằm tiết kiệm thời gian, quốc vương quyết định di chuyển nh�
 3 5 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/2350/KMEMBER.png" width="350px" /></center>
 
 - Trong ví dụ thứ nhất, chuyến đi tối ưu bắt đầu từ thành phố thứ $1$, di chuyển theo thứ tự $1-3-5$, chi phí thuê xe là $100$, chi phí thuê bình chứa xăng là $3$ (do tuyến đường dài nhất là $1-3$ có độ dài là $3$). Vì vậy, tổng chi phí là $100+3=103$;

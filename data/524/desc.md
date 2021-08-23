@@ -12,14 +12,14 @@ Cho $m$ truy vấn dạng $x, y$. Hãy đưa ra giá trị $q(x, y)$ cho mỗi t
 - Gồm $m$ dòng, dòng thứ $i$ là kết quả của truy vấn $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1
 -1 2 3
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

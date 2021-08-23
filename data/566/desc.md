@@ -17,7 +17,7 @@ Diễn viên phải xuất phát từ ô ban đầu $S$ tiến tới ô đích $
 - Thời gian nhanh nhất hoặc $-1$, nếu không thể đi được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 10 1 1
 #S.......#
@@ -32,7 +32,7 @@ Diễn viên phải xuất phát từ ô ban đầu $S$ tiến tới ô đích $
 #.....###T
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 49
 ```

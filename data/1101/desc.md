@@ -28,18 +28,18 @@ Các số trên một dòng được ghi cách nhau bởi dấu cách
 - $50\%$ số điểm ứng với các test khác không có ràng buộc bổ sung
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 3
 2 1 2 3 9 4 5 7
 2 3 2 1 7 4 5 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 2 3 4 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trên mỗi dãy có thể giữ lại $4$ cột. Có nhiều phương án giữ lại số cột nhiều nhất với chiều cao của các cột là: $(2,1,4,5);(2,2,4,5);(2,3,4,5)$ trong đó phương án $(2,3,4,5)$ có thứ tự từ điển lớn nhất.

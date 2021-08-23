@@ -18,7 +18,7 @@ Việc mở đường tắt theo phương án a), độ dài đường tuần tr
 - Đưa ra một số nguyên $d$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 8 1
 1 2
@@ -30,7 +30,7 @@ Việc mở đường tắt theo phương án a), độ dài đường tuần tr
 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```

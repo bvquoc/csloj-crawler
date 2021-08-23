@@ -12,7 +12,7 @@ Người ta cần chuyển một bức thông điệp từ máy $S$ đến máy 
 - Ghi chi phí truyền thông điệp theo cách tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào;
+### Dữ liệu vào;
 ```
 5 7 1 5
 1 2 3

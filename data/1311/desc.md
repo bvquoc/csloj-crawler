@@ -14,7 +14,7 @@ Hãy đưa ra một phương án giữ lại các con đường phù hợp.
 - Ghi ra trên một dòng $𝑛 − 1$ số nguyên dương là chỉ số các con đường cần giữ lại hoặc số nguyên $−1$ nếu không có phương án. Nếu có nhiều phương án thỏa mãn thì chỉ cần đưa ra một phương án bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3 1
 1 2 0
@@ -22,7 +22,7 @@ Hãy đưa ra một phương án giữ lại các con đường phù hợp.
 2 3 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 ```

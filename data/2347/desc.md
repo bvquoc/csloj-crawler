@@ -14,40 +14,40 @@ Không những thế, Tâm còn hỏi có bao nhiêu cách để tạo ra đư�
 - Một số nguyên không âm duy nhất tương ứng với số cách xóa đi hai chữ số để số mới tạo thành chia hết cho $11$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 12121
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1111
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 111
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, có $4$ cách xóa thỏa mãn yêu cầu đề bài là $(1, 2), (2, 3), (3, 4), (4, 5)$. Cả $4$ cách sau khi xóa đều tạo thành số $121$ chia hết cho $11$.
 - Trong ví dụ thứ hai, có $6$ cách xóa thỏa mãn yêu cầu đề bài là $(1, 2), (1, 3), (1, 4), (2, 3),(2, 4), (3, 4)$. Cả $6$ cách sau khi xóa đều tạo thành số $11$ chia hết cho $11$.
 - Trong ví dụ thứ ba, không tồn tại cách xóa thỏa mãn yêu cầu đề bài.

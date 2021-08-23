@@ -11,17 +11,17 @@ Tí và Tèo được giao mỗi bạn một quả đồi để trồng cây. Ph
 - Ghi ra một số nguyên duy nhất là số cách chia có thể thực hiện Vì kết quả có thể quá lớn, bạn cần đưa ra theo số cách theo module cho $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```
 
-#### Giải thích:
+### Giải thích:
 Có $10$ cách chia: $\{(1),(2,3,4)\};\text{  } \{(2),(1,3,4)\};\text{ }\{(3),(1,2,4)\};\text{    }\{(4),(1,2,3)\};\text{ }\{(1,2),(3,4)\};$
 $\{(1,3),(2,4)\};\text{ }\{(1,4),(2,3)\};\text{ }\{(2,3),(1,4)\};\text{ }\{(2,4),(1,3)\};\text{ }\{(3,4),(1,2)\}$
 

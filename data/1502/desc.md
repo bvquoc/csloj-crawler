@@ -24,7 +24,7 @@ $m = n − 1$ và mỗi người có quan hệ bạn bè với không quá hai n
 - **Subtask** $\#4$: $25\%$ số test còn lại tương ứng với $25\%$ số điểm không có ràng buộc gì thêm.
 
 ## Ví dụ (Tải test đề bài và 2 test mẫu khác ở "Tệp đính kèm" phía trên đề bài):
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 14 13
 2 3 4 19 20 21 5 22 6 7 23 8 10 14
@@ -47,14 +47,14 @@ $m = n − 1$ và mỗi người có quan hệ bạn bè với không quá hai n
 23
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 7
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1502/PARTY.svg" width=500></center>
 <center>Hình minh họa cho bữa tiệc 1 trong test đề bài</center>
 

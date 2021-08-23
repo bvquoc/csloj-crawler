@@ -13,7 +13,7 @@ Hãy xác định số lượng đoạn thẳng chứa mỗi điểm.
 - Một dòng duy nhất chứa $𝑛$ số nguyên lần lượt là số lượng đoạn thẳng chứa điểm $1,2, … , 𝑛$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 0 5
@@ -22,7 +22,7 @@ Hãy xác định số lượng đoạn thẳng chứa mỗi điểm.
 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 0
 ```

@@ -15,16 +15,16 @@ Một lượt chơi của chú cá vạch ra một quãng đường hợp lệ n
 - Ghi ra một số nguyên duy nhất là diện tích tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Cách chơi của chú cá là chọn hoán vị $(4,1,3,2)$ như hình vẽ:
 <center><img src="TURTLE.svg" width="300px" /></center>

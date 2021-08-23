@@ -13,14 +13,14 @@ Trong một buổi khiêu vũ, người ta muốn chọn ra một số cặp nh�
 - Ghi ra một số nguyên duy nhất là số cặp nhảy theo phương án tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 1 2 3
 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 ```

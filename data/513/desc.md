@@ -12,18 +12,18 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Một số nguyên duy nhất là số nghịch thế trong dãy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 5 4 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các nghịch thế là $(5, 4), (5, 3), (5, 1), (5, 2), (4, 3), (4, 1), (4, 2), (3, 1), (3, 2)$.
 
 ## Giới hạn:

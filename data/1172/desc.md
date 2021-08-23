@@ -28,7 +28,7 @@ Nếu có nhiều phương án di chuyển tối ưu, bạn được phép 
 - **Subtask** $\#4\ (50\% \text{ số điểm}):$ Không có ràng buộc gì thêm 
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 1 4
@@ -37,7 +37,7 @@ Nếu có nhiều phương án di chuyển tối ưu, bạn được phép 
 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 2 3
@@ -46,7 +46,7 @@ Nếu có nhiều phương án di chuyển tối ưu, bạn được phép 
 3 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 100
 0 7
@@ -54,7 +54,7 @@ Nếu có nhiều phương án di chuyển tối ưu, bạn được phép 
 -9 20
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 0
 15 21

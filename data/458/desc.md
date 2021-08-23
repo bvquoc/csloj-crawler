@@ -8,18 +8,18 @@ Cho số nguyên dương $n$ và dãy $n$ số nguyên dương $a_1, a_2, …, a
 - Một dòng duy nhất ghi số nguyên là số lượng số có bạn tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 1 2 2 3 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $5$ số có bạn bao gồm hai số $1$ và ba số $2$.
 
 ## Giới hạn:

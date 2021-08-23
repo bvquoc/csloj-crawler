@@ -13,7 +13,7 @@ Bạn hãy tính xem, ít nhất bao nhiêu bông hoa bị phá nát?
 - Một số duy nhất là số bông hoa ít nhất bị phá hủy.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 3 1
@@ -24,7 +24,7 @@ Bạn hãy tính xem, ít nhất bao nhiêu bông hoa bị phá nát?
 1 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 86
 ```

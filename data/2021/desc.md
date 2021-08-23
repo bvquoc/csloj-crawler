@@ -14,7 +14,7 @@ Hãy giúp nông dân John sửa ít tấm thẻ nhất mà vẫn đảm bảo �
 - Một số nguyên duy nhất là số lần sửa tối thiểu.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 2
@@ -26,10 +26,10 @@ Hãy giúp nông dân John sửa ít tấm thẻ nhất mà vẫn đảm bảo �
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Sửa tấm thẻ đầu tiên và cuối cùng.

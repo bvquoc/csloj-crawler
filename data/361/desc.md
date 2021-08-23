@@ -8,19 +8,19 @@ Kỳ thi chọn học sinh giỏi Tin học trường THPT Chuyên Sơn La có $
 - Số thứ tự của thí sinh có tổng điểm cao nhất, nếu có nhiều thí sinh bằng điểm nhau thì liệt kê theo thứ tự tăng dần của số thứ tự (mỗi số cách nhau bởi một dấu cách)
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 8.00 7.50 9.00
 8.00 8.00 9.00
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 8.50 9.00 9.00
@@ -28,12 +28,12 @@ Kỳ thi chọn học sinh giỏi Tin học trường THPT Chuyên Sơn La có $
 9.50 9.00 8.00
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ $2$, thí sinh thứ nhất và thí sinh thứ $3$ cùng có tổng điểm cao nhất là $26.50$
 
 ## Giới hạn:

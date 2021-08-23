@@ -15,19 +15,19 @@ Hai hình sau minh họa cho $2$ ví dụ ở dưới. Hình bên trái minh h�
 - Ghi ra một dòng chứa giá trị $r_1^2 + r_2^2$ nhỏ nhất. Chú ý rằng trong bài toán này câu trả lời luôn là một số nguyên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 -1 0 5 3
 0 2
 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 0 0 5 0
 9 4
@@ -36,7 +36,7 @@ Hai hình sau minh họa cho $2$ ví dụ ở dưới. Hình bên trái minh h�
 1 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 33
 ```

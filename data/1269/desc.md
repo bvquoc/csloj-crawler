@@ -12,7 +12,7 @@ Bạn không biết ai là kẻ cắp hay dân thường, nhiệm vụ của b�
 - Số nguyên duy nhất là số lượng kẻ cắp lớn nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2
@@ -20,7 +20,7 @@ Bạn không biết ai là kẻ cắp hay dân thường, nhiệm vụ của b�
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

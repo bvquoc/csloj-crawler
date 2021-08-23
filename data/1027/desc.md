@@ -19,7 +19,7 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách.
 - Nếu dòng đầu tiên là `YES` thì dòng thứ hai chứa số nguyên là tổng trọng số của các cạnh được bổ sung.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1
@@ -28,13 +28,13 @@ Các số trên cùng dòng được ghi cách nhau bởi dấu cách.
 2 1 40
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 YES
 40
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1
@@ -42,7 +42,7 @@ YES
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 ```

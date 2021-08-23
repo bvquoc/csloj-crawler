@@ -18,7 +18,7 @@ Do không biết trước lần này cần phải cử bao nhiêu người đi n
 - Ghi ra  $n$ số nguyên – các tiềm năng thấp nhất tính được, mỗi số trên một dòng, số thứ $i\ (1≤i≤n)$ ứng với trường hợp $k=i$.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 3 6
@@ -27,7 +27,7 @@ Do không biết trước lần này cần phải cử bao nhiêu người đi n
 6 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 4

@@ -16,24 +16,24 @@ Bạn được cho biết số $N$ là số chướng ngại vật, $H$ là chi�
 - Ghi trên một dòng số nguyên là số chướng ngại vật tối thiểu cần xuyên phá.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 7
 1 3 -5 -3 5 -1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 14 5
 1 -3 4 -2 2 -4 3 -4 3 -3 3 -2 3 -3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```

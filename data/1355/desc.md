@@ -15,7 +15,7 @@ Hãy đếm số tam giác có các cạnh nằm trên các đường thẳng đ
 - Một dòng duy nhất ghi kết quả tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6
 0 1 0
@@ -26,7 +26,7 @@ Hãy đếm số tam giác có các cạnh nằm trên các đường thẳng đ
 -4 -5 29
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

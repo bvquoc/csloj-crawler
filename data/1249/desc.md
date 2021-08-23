@@ -16,14 +16,14 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Dòng thứ $r$ trong $k$ dòng tiếp theo mô tả cặp biểu diễn thứ $r$, dòng chứa hai số nguyên dương $i_r$ và $j_r$ có nghĩa là chàng trai $i_r$ ghép cặp với cô gái $j_r$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 3
 1 1 2
 2 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 1 1

@@ -1,7 +1,7 @@
 <center><img src="/images/problems/1550/COOLMAC.svg" width="100%" /></center>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 250 100000
@@ -11,12 +11,12 @@
 1000 200
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 250 100000
@@ -25,7 +25,7 @@
 100
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```

@@ -12,13 +12,13 @@ Cho trước các số $N, K, L$. Hãy xác định Alice hay Bob sẽ thắng n
 - Một xâu có độ dài $T$, trong đó ký tự thứ $i$ là `A` nếu với test $i$, Alice thắng, ngược lại, là `B` nếu Bob thắng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 3
 3 4 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 ABA
 ```

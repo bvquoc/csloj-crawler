@@ -21,7 +21,7 @@ Hỏi rằng với các thông tin trên có xác định được số hiệu n
 <center><img src="/images/problems/1040/exit.png", width=400px></center>
 <center><b>Hình minh họa</b></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 4 10 14 1
@@ -29,7 +29,7 @@ Hỏi rằng với các thông tin trên có xác định được số hiệu n
 2 3 3 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14
 ```

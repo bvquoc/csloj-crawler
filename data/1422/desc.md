@@ -14,7 +14,7 @@ việc $𝑗\ (1 ≤ 𝑖 ≤ 𝑚; 1 ≤ 𝑗 ≤ 𝑛)$.
 - Dòng thứ hai ghi $𝑛$ số nguyên, số thứ $𝑗$ là số hiệu người thợ được giao thực hiện việc $𝑗$, trong trường hợp việc $𝑗$ không được làm, ghi ra số thứ $𝑗$ là số $0$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 1 1
@@ -25,7 +25,7 @@ việc $𝑗\ (1 ≤ 𝑖 ≤ 𝑚; 1 ≤ 𝑗 ≤ 𝑛)$.
 4 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 4 2 1

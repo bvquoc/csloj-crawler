@@ -17,7 +17,7 @@ Trang web của Sáng có số hiệu là $s$. Dựa vào cơ sở dữ liệu, 
 - Một số nguyên là số trang web ổn định đối với $s$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 11 1
 1 5
@@ -33,7 +33,7 @@ Trang web của Sáng có số hiệu là $s$. Dựa vào cơ sở dữ liệu, 
 6 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

@@ -14,7 +14,7 @@ Cho dãy số nguyên dương $a_1,a_2,…,a_n$. Một dãy con gồm các phầ
 - In ra $T$ dòng là kết quả của mỗi bộ dữ liệu - độ dài lớn nhất của dãy con tốt. Nếu như không có dãy con tốt thì in ra $-1$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 2
@@ -25,7 +25,7 @@ Cho dãy số nguyên dương $a_1,a_2,…,a_n$. Một dãy con gồm các phầ
 2 2 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 2

@@ -15,14 +15,14 @@ Hai số liên tiếp trên cùng dòng được ghi cách nhau bởi dấu các
 - Với mỗi bộ số đã cho, đưa ra trên một dòng các số $a,b,c$ và $d$ được chọn, các số đưa ra cách nhau một dấu cách.
 
 ## Ví dụ: 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 6
 9 2 7 6 8 3
 6 6 6 6 6 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 8 3 9
 6 6 6 6

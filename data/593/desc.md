@@ -12,7 +12,7 @@ Hãy giúp Bờm đặt các thiết bị tăng tốc sao cho tốc độ kết 
 - In ra một số duy nhất là tốc độ kết nối nhanh nhất có thể sau khi đã lắp đặt các thiết bị tăng tốc, làm tròn đến 2 chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 5 2
 1 2 1
@@ -22,12 +22,12 @@ Hãy giúp Bờm đặt các thiết bị tăng tốc sao cho tốc độ kết 
 4 5 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4.25
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/593/NETACCEL.png" width="400px" /></center>
 
 - Ta gắn hai thiết bị tăng tốc vào kênh truyền giữa máy $2$ và máy $3$, thời gian truyền trên kênh này giảm xuống còn $9/2/2 = 2.25$. Lúc này đường truyền $1→2→3→5$ là đường truyền nhanh nhất với thời gian là $4.25$.

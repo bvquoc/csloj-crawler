@@ -14,13 +14,13 @@ $$\left\{ \begin{array}{l}
 - Một dòng duy nhất chứa $m$ số nguyên là phần dư của các số $a_{n_1}, a_{n_2}, …, a_{n_m}$ khi chia cho $10^9 + 7$. Hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 5 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 14 65657
 ```

@@ -18,7 +18,7 @@ Cho đồ thị $G$ có $n$ đỉnh, các đỉnh được đánh số từ $1$ 
 - Ghi ra một số nguyên duy nhất là giá trị lớn nhất của đồ thị $G$
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 1 2
@@ -27,7 +27,7 @@ Cho đồ thị $G$ có $n$ đỉnh, các đỉnh được đánh số từ $1$ 
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 24
 ```

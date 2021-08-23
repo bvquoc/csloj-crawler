@@ -10,7 +10,7 @@ Cho biết hai xâu ký tự $A$ và $B$ chỉ gồm các chữ cái latin và c
 - Mộ dòng duy nhất ghi độ dài xâu $C$ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abc1def2ghi3
 abcdefghi123

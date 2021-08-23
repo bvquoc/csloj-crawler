@@ -20,7 +20,7 @@ Ví dụ, với $N=4$ và các con bò có mức độ ủng hộ lần lượt 
 - Ghi ra một số nguyên duy nhất là kết quả thu được là phần dư sau khi chia cho $10^9+9$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 2
@@ -29,7 +29,7 @@ Ví dụ, với $N=4$ và các con bò có mức độ ủng hộ lần lượt 
 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

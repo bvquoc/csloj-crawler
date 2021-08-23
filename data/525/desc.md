@@ -12,7 +12,7 @@ Cho $m$ truy vấn, mỗi truy vấn có một trong hai dạng:
 - Với mỗi truy vấn loại hai, ghi ra trên một dòng đáp án của truy vấn đó.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 5
 0 2 3 3
@@ -22,7 +22,7 @@ Cho $m$ truy vấn, mỗi truy vấn có một trong hai dạng:
 1 2 2 3 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 4

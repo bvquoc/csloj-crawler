@@ -13,13 +13,13 @@ Hai xâu $𝑆, 𝑇$ khác rỗng, chỉ gồm các chữ cái latin in thườ
 - Một dòng duy nhất chứa xâu $𝑊$ là tên được chọn, nếu không thể chọn tên thì dòng này để trống.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 superbom
 sieunhancuoi
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 uo
 ```

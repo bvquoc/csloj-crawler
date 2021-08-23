@@ -12,7 +12,7 @@
 - Ghi ra một dòng chứa một số nguyên là tổng năng lượng di chuyển của cả $𝑛$ vận động viên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 1
@@ -20,7 +20,7 @@
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

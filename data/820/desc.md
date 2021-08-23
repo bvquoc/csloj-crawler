@@ -19,14 +19,14 @@ Kích thước của bước nhảy từ ô $(i,j)$ tới ô $(u,v)$ được t�
 - Ghi ra một số nguyên duy nhất là số cách di chuyển tìm được lấy theo **module** $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 1
 3 4 11
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```

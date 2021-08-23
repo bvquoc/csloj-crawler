@@ -9,14 +9,14 @@ $${S_n} = \mathop {\sqrt {n + \sqrt {n - 1 + \sqrt {n - 2 + ... + \sqrt {2 + \sq
 - Với mỗi bộ test, ghi ra trên một dòng số $S_n$ làm tròn đến $5$ chữ số thập phân.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 1
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1.00000
 2.17533

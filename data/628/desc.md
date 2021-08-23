@@ -19,7 +19,7 @@ Hỏi rằng số lượng sản phẩm tối đa mà hai phân xưởng sản x
 - Một số nguyên duy nhất là số lượng sản phẩm tối đa có thể hoàn thành trong ngày của hai phân xưởng.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 20
 2

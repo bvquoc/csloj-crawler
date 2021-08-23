@@ -8,14 +8,14 @@ Cho hai số nguyên dương $a$ và $b$. Tìm số nguyên dương $d$ là BCNN
 - Với mỗi cặp số $a$ và $b$, ghi ra trên một dòng số nguyên dương là BCNN của $a$ và $b$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 3
 10 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 6
 30

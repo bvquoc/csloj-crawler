@@ -4,24 +4,24 @@
 <img src="/images/problems/1045/sxor.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2 4 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 14 8 13 6 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3 4 5
 ```

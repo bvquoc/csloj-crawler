@@ -8,7 +8,7 @@ Tính tổng của tất cả các ước nguyên dương của số nguyên dư
 - Với mỗi số nguyên dương $n$, ghi ra trên một dòng số nguyên dương là tổng của tất cả các ước của $n$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 3
@@ -16,7 +16,7 @@ Tính tổng của tất cả các ước nguyên dương của số nguyên dư
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 15

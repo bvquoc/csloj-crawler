@@ -16,15 +16,15 @@ Số nguyên $x$ được gọi là **beautiful number** nếu $|x-reversed(x)|$
 - Số lượng số nguyên $x\ (a≤x≤b)$ là **beautiful number**.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 20  23  6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
 
-#### Giải thích:
+### Giải thích:
 - Có $2$ số: $20$ và $22$ là số beautiful number.

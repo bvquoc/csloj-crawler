@@ -12,32 +12,32 @@ Hãy cho biết số lớn nhất tạo thành.
 - Ghi ra một số nguyên là đáp án bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 321
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 2 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 432
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 331
 ```

@@ -30,7 +30,7 @@ Nếu có nhiều đáp án tối ưu, bạn có thể in ra phương án
 - **Subtask** $\#3$ $(60\%\text{ số điểm}):$ ⁡Không có ràng buộc gì thêm
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4 1
 10 0 20 30
@@ -40,14 +40,14 @@ Nếu có nhiều đáp án tối ưu, bạn có thể in ra phương án
 3 4 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 15 4
 2
 1 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 7 3
 1 2 -4 -8 16
@@ -60,13 +60,13 @@ Nếu có nhiều đáp án tối ưu, bạn có thể in ra phương án
 5 4 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -4 3
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1170/railway.png" width=400px></center>
 
 - Trong ví dụ thứ nhất (hình minh hoạ):

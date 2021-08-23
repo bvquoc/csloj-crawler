@@ -11,17 +11,17 @@ Có $M$ viên gạch có kích thước $1 × 1 × 1$, cần xếp chúng thành
 - Một dòng duy nhất là số cách xếp lấy phần dư cho $10^9 + 7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 7
 ```
 
-#### Giải thích:
+### Giải thích:
 - Các cách xếp được như hình dưới đây:
 <center><img src="/images/problems/2344/TURTLEPOOL.png" width="500px" /></center>
 

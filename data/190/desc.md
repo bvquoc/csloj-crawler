@@ -11,12 +11,12 @@ Ví dụ có $𝑚 = 12$ ông táo và $𝑛 = 7$ bà táo, có $𝑘 = 5$ táo 
 - Ghi ra một số nguyên duy nhất là số nhóm nhiều nhất chọn được để phân xuống các gia đình dưới hạ giới.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12 7 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

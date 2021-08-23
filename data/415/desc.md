@@ -16,13 +16,13 @@ Hai số liên tiếp trên một dòng được ghi cách nhau ít nhất một
 - Một dòng duy nhất chứa m số cách bước lên các bậc $n_1, n_2, …, n_m$ (chia cho $10^9 + 7$ lấy phần dư). Hai số liên tiếp cách nhau một dấu cách.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 7
 1 3 4 5 6 7 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2 3 0 5 8 13
 ```

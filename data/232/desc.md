@@ -7,22 +7,22 @@ Cho hai số nguyên dương $n$ và $k$, bạn hãy đếm xem có bao nhiêu b
 - Ghi ra một số nguyên duy nhất là số bộ tìm được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 35897 932
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 114191
 ```

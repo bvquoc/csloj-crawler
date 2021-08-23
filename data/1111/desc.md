@@ -21,7 +21,7 @@ Hai số liên tiếp trên cùng một dòng trong file dữ liệu được gh
 - $50\%$ số test còn lại không có ràng buộc gì thêm.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 6
 1 2 3 4 5 6
@@ -29,7 +29,7 @@ Hai số liên tiếp trên cùng một dòng trong file dữ liệu được gh
 0 0 1 1 2 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

@@ -12,7 +12,7 @@ Hãy xác định cách chia quà sao cho tổng mức độ hạnh phúc của 
 - Tổng mức độ hạnh phúc cực đại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4
 1 2
@@ -21,7 +21,7 @@ Hãy xác định cách chia quà sao cho tổng mức độ hạnh phúc của 
 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 11
 ```

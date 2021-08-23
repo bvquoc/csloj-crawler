@@ -14,7 +14,7 @@ Hãy tìm giá trị lớn nhất này.
 - In ra giá trị lớn nhất của khoảng cách nhỏ nhất giữa hai con bò bất kì.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3
 1
@@ -24,10 +24,10 @@ Hãy tìm giá trị lớn nhất này.
 9
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - Nông dân John có thể đặt các con bò vào các vị trí $1, 4$ và $8$, khi đó, khoảng cách bé nhất giữa hai con bò bất kì là $3$.

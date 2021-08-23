@@ -24,7 +24,7 @@ May mắn thay, cậu vẫn nhớ được số điểm cuối cùng của các 
 - Với mỗi bộ test, kết quả sẽ được in ra trên từng dòng. Với bộ test thứ $i$, kết quả in ra sẽ có định dạng $Case \#i: X$, trong đó $X$ là số cách thỏa mãn yêu cầu đề bài.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 6 1 1
@@ -35,14 +35,14 @@ May mắn thay, cậu vẫn nhớ được số điểm cuối cùng của các 
 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 Case #1: 1
 Case #2: 2
 Case #3: 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trong ví dụ thứ nhất, cách duy nhất thỏa mãn yêu cầu đề bài là: đội $1$ thắng cả hai trận với đội $2$ và đội $3$, đội $2$ và $3$ hòa nhau;
 - Trong ví dụ thứ hai, $2$ cách thỏa mãn yêu cầu đề bài là:
     - Đội $1$ thắng đội $2$ và $4$, đội $2$ thắng đội $3$ và $4$, đội $3$ thắng đội $1$ và $4$;

@@ -4,7 +4,7 @@
 <img src="/images/problems/1049/acm.svg" width=1080px>
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 1
@@ -13,7 +13,7 @@
 1 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

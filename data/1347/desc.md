@@ -23,18 +23,18 @@ Trong các trường tiếp theo, các ô cấm lại được lặp lại, nói
 - Ghi ra số lượng đường tìm được theo modul $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 8 3
 7 1 2 7 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 12
 ```
 
-#### Giải thích:
+### Giải thích:
 <center><img src="/images/problems/1347/bmaze.svg" width="500px" /></center>
 
 Các đường đi:

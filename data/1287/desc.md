@@ -15,7 +15,7 @@ Hãy giúp Mai xác định ngày sớm nhất có thể của mỗi lần thi. 
 - In ra $𝑁$ dòng, dòng thứ $𝑖$ chứa một số nguyên là ngày sớm nhất có thể của lần thi $𝑖$;
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 10 3
 1 2 3 4
@@ -24,7 +24,7 @@ Hãy giúp Mai xác định ngày sớm nhất có thể của mỗi lần thi. 
 3 4 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 6

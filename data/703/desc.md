@@ -7,15 +7,15 @@ Cho $N$ là một số nguyên dương không vượt quá $10^9$. Hãy tìm s�
 - MỘt dòng duy nhất chứa đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 15
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Giải thích:
+### Giải thích:
 - $15! = 1307674368000$ (có $3$ số không tận cùng).

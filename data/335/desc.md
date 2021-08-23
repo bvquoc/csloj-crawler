@@ -7,13 +7,13 @@ Kiểm tra xem một số nguyên dương $n$ ghi trong hệ thập phân có ch
 - Ứng với mỗi số nguyên dương $n$, ghi ra trên một dòng là `YES` nếu số $n$ tương ứng có chữ số đầu và chữ số cuối giống nhau, `NO` nếu ngược lại.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12345
 123541
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 YES

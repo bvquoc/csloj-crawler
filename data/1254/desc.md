@@ -19,7 +19,7 @@ Bạn cần viết chương trình thực hiện các công việc sau:
 - $Q$ dòng tiếp theo, dòng thứ $i$ ghi số lượng hình chữ nhật thỏa mãn điều kiện đầu bài sau truy vấn $i$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 3
 0001
@@ -31,7 +31,7 @@ Bạn cần viết chương trình thực hiện các công việc sau:
 2 0
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 29
 23
@@ -39,7 +39,7 @@ Bạn cần viết chương trình thực hiện các công việc sau:
 45
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ban đầu có $12$ hình $1×1$, $6$ hình $1×2$, $2$ hình $1×3$, $6$ hình $2×1$, $1$ hình $2×2$, và $2$ hình $3×1$.  Tổng $12+6+2+6+1+2=29$ hình.
 - Truy vấn $1$:
 ```

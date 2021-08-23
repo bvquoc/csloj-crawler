@@ -12,17 +12,17 @@ Hai số liên tiếp trên một dòng được ghi cách nhau một dấu các
 - Ghi trên một dòng số nguyên là chênh lệch chiều cao nhỏ nhất của hai bạn học sinh được chọn.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 150 155 161 172 170
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2
 ```
-#### Giải thích:
+### Giải thích:
 - Chọn hai học sinh số $4$ và số $5$ đi thi sẽ có chênh lệch chiều cao nhỏ nhất bằng $2$.
 
 ## Giới hạn:

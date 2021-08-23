@@ -13,7 +13,7 @@ Biết rằng chi phí xây dựng thư viện ở thành phố $i$ là $a_i$. H
 - In ra tổng chi phí xây dựng thư viện nhỏ nhất có thể.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 4
 6 4 2 3 3
@@ -23,7 +23,7 @@ Biết rằng chi phí xây dựng thư viện ở thành phố $i$ là $a_i$. H
 3 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```

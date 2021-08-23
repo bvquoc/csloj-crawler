@@ -19,32 +19,32 @@ Một cách rõ ràng hơn, nếu ta sắp xếp các hoán vị thỏa mãn tă
 In ra một dòng duy nhất chứa hoán vị thứ $k$ theo thứ tự từ điển thỏa mãn điều kiện của Kiên. Nếu số lượng hoán vị thỏa mãn nhỏ hơn $k$, in ra $−1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 1 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3 2
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 2 1
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 -1
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 1 3 4 5
 ```

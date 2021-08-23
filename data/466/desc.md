@@ -7,17 +7,17 @@ Cho chuỗi ký tự $s$ gồm các ký tự latin in hoa (`A` đến `Z`). Ta g
 - Một số nguyên dương duy nhất là độ dài chuỗi con đầy đủ ngắn nhất. Nếu không có chuỗi con đầy đủ thì ghi ra $-1$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 ABCDEFHGJIKLMNOPQRUVXYZTSASCWO
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 28
 ```
 
-#### Giải thích:
+### Giải thích:
 - Đoạn tô đậm và gạch chân sau: A<b><u>BCDEFHGJIKLMNOPQRUVXYZTSASCW</u></b>O có độ dài $28$ ký tự và có mặt đủ $26$ ký tự latin in hoa.
 
 ## Giới hạn:

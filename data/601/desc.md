@@ -10,7 +10,7 @@ Cho mảng $A$ gồm $N$ phần tử. Tìm dãy con gồm các phần tử liên
 - Gồm một số nguyên duy nhất là kết quả bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 1 -3 3

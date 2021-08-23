@@ -20,13 +20,13 @@ Người ta muốn tính xem, sau $n$ bước biến đổi, sẽ thu được d
 - Với mỗi test, ghi ra số cặp $2$ số $0$ đứng liên tiếp.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 1

@@ -16,13 +16,13 @@ Cho biết các số được chọn ở bước thứ $4$, hãy giúp ban ra đ
 - In ra $m$ cạnh được chọn theo thứ tự chọn của thuật toán. Với mỗi cạnh, in ra hai đỉnh trên một dòng cách nhau bởi dấu cách, đỉnh bé hơn phải được in trước.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 4 4
 3 3 1 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 4
 2 3
@@ -30,7 +30,7 @@ Cho biết các số được chọn ở bước thứ $4$, hãy giúp ban ra đ
 3 4
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ban đầu $E = \{(1, 2), (1, 3), (1, 4), (2, 3), (2, 4), (3, 4)\}$ nên cạnh thứ $3$ là $(1, 4)$;
 - Tiếp theo $E = \{(1, 2), (1, 3), (2, 3), (2, 4), (3, 4)\}$ nên cạnh thứ 3 là $(2, 3)$;
 - Tiếp theo $E = \{(1, 2), (1, 3), (2, 4), (3, 4)\}$ nên cạnh thứ $1$ là $(1, 2)$;

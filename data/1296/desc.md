@@ -17,7 +17,7 @@ Hãy tìm giá trị nhỏ nhất của $f(u)$ và đếm số lượng đỉnh 
 - Gồm hai số nguyên viết trên cùng một dòng ngăn cách bởi một dấu cách, số thứ nhất là giá trị nhỏ nhất của $f(u)$ và số thứ hai là số lượng đỉnh $u$ mà $f(u)$ đạt giá trị nhỏ nhất.
 
 ## Ví dụ
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 6 8
 1 1 1 1 1 1
@@ -32,12 +32,12 @@ Hãy tìm giá trị nhỏ nhất của $f(u)$ và đếm số lượng đỉnh 
 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Trừ đỉnh $1$ có $f(1) = 6$ ra thì còn lại đều ra $5$
 
 ## Giới hạn:

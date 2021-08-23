@@ -10,13 +10,13 @@ Bạn được cho hai xâu ký tự $s$ và $t$ chỉ gồm các chữ cái Lat
 - Ghi trên một dòng các vị trí xuất hiện của xâu $t$ trong xâu $s$ (chỉ số của ký tự đầu tiên trong xâu là $1$, các vị trí được liệt kê theo thứ tự tăng dần, hai số liên tiếp được ghi cách nhau một dấu cách).
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 abababa
 ba
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 2 4 6
 ```

@@ -13,20 +13,20 @@ Khi mở trang sách từ cuối sách thì trang $n$ có thể ở bên phải 
 - Với mỗi câu hỏi, ghi ra trên một dòng số trang sách ít nhất phải lật của HD.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 6 2
 5 4
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1
 0
 ```
 
-#### Giải thích:
+### Giải thích:
 - Câu hỏi $1$:
 <center><img src="/images/problems/199/BOOK2.svg" width="350px" /></center>
 

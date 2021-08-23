@@ -16,7 +16,7 @@ FJ muốn chọn xem với mỗi con bò thì nên cho vắt sữa hay cho thuê
 - Ghi ra một số nguyên là số tiền lớn nhất mà FJ có thể nhận được. Chú ý rằng kết quả có thể vượt qua kiểu số nguyên 32 bits
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 3 4
 6
@@ -33,11 +33,11 @@ FJ muốn chọn xem với mỗi con bò thì nên cho vắt sữa hay cho thuê
 40
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 725
 ```
 
-#### Giải thích:
+### Giải thích:
 - FJ để con bò $\#1$ và $\#4$ vắt sữa được $13$ lít sữa mỗi ngày. Anh ta bán $10$ lít với giá $25$ và $3$ 
 lít còn lại với giá $15$ . Tổng cộng được $295$. Tiếp theo, anh ta cho thuê $3$ con bò với giá $250$, $80$ và $100$. Tổng cộng được $725$.

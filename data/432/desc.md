@@ -7,17 +7,17 @@ Người ta dùng máy cắt để cắt một hình chữ nhật có kích thư
 - Một số nguyên duy nhất là số hình vuông ít nhất cắt được.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Giải thích:
+### Giải thích:
 - Ta dùng $4$ lần cắt như hình dưới đây để được $5$ hình vuông.
  <center><img src="/images/problems/432/DPCUTREC.png" width=250px></center>
 

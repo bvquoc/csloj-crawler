@@ -17,7 +17,7 @@ Mỗi một nhân viên khi ký xác nhận đều đòi một khoản lệ phí
 - Ghi ra tổng chỉ phí cần trả nhỏ nhất tìm được.
 
 ## Vị dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3 4
 10 10 1 10
@@ -25,7 +25,7 @@ Mỗi một nhân viên khi ký xác nhận đều đòi một khoản lệ phí
 1 10 10 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 8
 ```

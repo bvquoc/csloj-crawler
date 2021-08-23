@@ -9,22 +9,22 @@ Cho một đoạn văn bản là một xâu ký tự chỉ gồm các chữ cái
 - Một số nguyên duy nhất là số từ trong xâu ký tự đã cho.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 Thank you very much for your letter which arrived a few days ago
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 13
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 Thank    you    very    much
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 4
 ```

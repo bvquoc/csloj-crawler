@@ -17,7 +17,7 @@ Các thí sinh Free Contest hãy viết chương trình tính số điểm tạo
 - Gồm một dòng duy nhất chứa một số nguyên là số điểm tạo bởi thuật toán trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 1
 ```
@@ -27,7 +27,7 @@ Các thí sinh Free Contest hãy viết chương trình tính số điểm tạo
 9
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 ```
@@ -37,6 +37,6 @@ Các thí sinh Free Contest hãy viết chương trình tính số điểm tạo
 25
 ```
 
-#### Giải thích
+### Giải thích
 - Hình dưới đây là kết quả của thuật toán trên sau vòng lặp thứ nhất và vòng lặp thứ hai. Các điểm được thêm vào ở mỗi vòng lặp được tô màu đen.
 <center><img src="/images/problems/631/SQUARE.png" width=520px></center>

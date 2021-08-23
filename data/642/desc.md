@@ -28,7 +28,7 @@ end for
 - Gồm một dòng duy nhất chứa một số nguyên là số chữ cái xuất hiện trong bài hát của Dũng. Lưu ý các dấu cách, dấu phẩy, dấu chấm và dấu xuống dòng không được tính vào kết quả.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5
 one fat cat
@@ -38,12 +38,12 @@ four long snakes
 five thin bears
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 498
 ```
 
-#### Giải thích:
+### Giải thích:
 - Lời bài hát đầy đủ như sau:
 ```
 Look at the animals, dancing, dancing,

@@ -17,7 +17,7 @@ Hỏi rằng có tồn tại một đường đi qua tất cả các đảo, m�
 <center><img src="/images/problems/1038/bridges.png" width=500px></center>
 <center><b>Hình minh họa</b></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 10 11
 3.0 3.0
@@ -43,7 +43,7 @@ Hỏi rằng có tồn tại một đường đi qua tất cả các đảo, m�
 9 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 NO
 1.000

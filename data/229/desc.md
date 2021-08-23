@@ -13,32 +13,32 @@ Một con robot xuất phát tai ô $(1;1)$, trong mỗi bước, con robot có 
 ## Ví dụ:
 <center><img src="/images/problems/229/ROBOT.png" width="350px" /></center>
 
-#### Dữ liệu vào:	 
+### Dữ liệu vào:	 
 ```
 6
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 3
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 12
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 5
 ```
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 11
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

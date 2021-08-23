@@ -7,12 +7,12 @@ Tính $C_n^k\ (0≤k≤n ≤ 2000)$.
 - Một dòng duy nhất chứa đáp số bài toán.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 5
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 ```

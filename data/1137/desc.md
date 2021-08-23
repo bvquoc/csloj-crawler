@@ -21,14 +21,14 @@ Tất nhiên là BT đã quyết định chọn một hàng rào trong số các
 - In ra $K$ dòng, mỗi dòng ghi kết quả của một test theo thứ tự trong dữ liệu vào
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2
 2 1
 3 3
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 2
 2 3 1

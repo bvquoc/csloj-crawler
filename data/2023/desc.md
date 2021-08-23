@@ -12,7 +12,7 @@ Nhiệm vụ của bạn là tính số lượng cánh đồng đẹp trong mô 
 - Với mỗi test, in ra số lượng cánh đồng đẹp trong mô đun $10^9+7$.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 2 2 2
 1 1 58
@@ -20,7 +20,7 @@ Nhiệm vụ của bạn là tính số lượng cánh đồng đẹp trong mô 
 3 5 7
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 10
 58

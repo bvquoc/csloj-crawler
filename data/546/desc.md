@@ -12,7 +12,7 @@ Một đường đi Hamilton là một đường đi trong đồ thị vô hư�
 ## Ví dụ:
 <center><img src="/images/problems/546/CIRHAMILT.jpg" width="300px" /></center>
 
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 5 6
 1 2
@@ -23,7 +23,7 @@ Một đường đi Hamilton là một đường đi trong đồ thị vô hư�
 5 2
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 1 3 5 2 4 1
 ```

@@ -8,7 +8,7 @@ Cho $N$ đoạn thẳng trên trục số với các điểm đầu $x_i$ và đ
 - Một số duy nhất là tổng độ dài phủ trên trục Ox bởi $N$ đoạn trên.
 
 ## Ví dụ:
-#### Dữ liệu vào:
+### Dữ liệu vào:
 ```
 3
 -5 10
@@ -16,7 +16,7 @@ Cho $N$ đoạn thẳng trên trục số với các điểm đầu $x_i$ và đ
 -100 10
 ```
 
-#### Dữ liệu ra:
+### Dữ liệu ra:
 ```
 21
 ```
